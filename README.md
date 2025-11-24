@@ -50,7 +50,7 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>9 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Felipe Gueller</b>, em primeiro lugar com 71 contribuições. Parabéns, você liderou um bando de gente que aparentemente só sabe seguir o Lobo no GitHub. Mas cá entre nós, liderar esse grupo é tipo ser o melhor jogador de bocha do asilo. Sem atividades recentes, hein? Será que as contribuições foram só pra manter a pose?</p>
-<p><b>giverplay</b>, ah, o segundo lugar, com 37 contribuições. "Olá, estranho!", diz o bio. Estranho é você achando que engana alguém com esse "Next Level Week 04" de 2021. E "Uvas"? Sério? Espero que pelo menos tenha feito um bom vinho com elas, porque contribuições que importam, <i>niente</i>. Pelo menos se aventurou em um "clone-tabnews", talvez tentando desesperadamente pegar uma carona no sucesso alheio.</p>
-<p><b>Gabriel Carvalho</b>, 24 contribuições. Ok, você existe. Próximo!</p>
-<p><b>Anthony Herbert</b>, "glup moglods". Sua bio diz tudo sobre suas 15 contribuições. Imagino que "glup" seja o som que suas ideias fazem antes de sumirem no abismo da irrelevância.</p>
-<p><b>Jean Brito</b>, 13 contribuições. Estamos quase na zona de rebaixamento da irrelevância, hein? Se esforce mais, ou vai virar estatística.</p>
-<p><b>Carlos Israel</b>, "Apaixonado por tecnologia". Que clichê! Com 12 contribuições, a paixão não está rendendo muitos frutos, hein? Talvez precise de umas aulas de "como realmente contribuir" em vez de só sentir a brisa tecnológica.</p>
-<p><b>Gustavo Carvalho</b>, com pomposos dizeres em itálico que ninguém se deu ao trabalho de traduzir e míseras 12 contribuições, você personifica a máxima de "muito barulho por nada".</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Com 9 contribuições, parece mais "Front-End... às vezes | Back-End... quem sabe | Full Stack... de desculpas".</p>
-<p><b>brunoferreiraff</b>, 7 contribuições e bio nula. Claramente, a descrição do seu desempenho neste ranking.</p>
-<p><b>Gabriel</b>, "Técnico em Informática". Ótimo! Agora, que tal usar esse conhecimento para fazer mais do que 5 contribuições? A Centrodata Sistemas espera mais de você, eu imagino.</p>
-<p><b>LestterX</b>, 4 contribuições. Parabéns, você está oficialmente na lanterna! Daqui a pouco, o Lobo vai começar a cobrar pedágio pra usar o nome dele.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, com 71 contribuições, liderando o ranking! Parabéns… por ser o menos pior? Sério, 71? Imagino que metade disso seja correção de ponto e vírgula. Mas ei, pelo menos você não tem nenhum repositório recente pra gente analisar e descobrir o quão entediante sua vida realmente é. </p>
+<p><b>Giverplay</b>, ah, o segundo lugar com 37 contribuições. "Olá, estranho!" Bem-vindo ao meu perfil, onde compartilho meus projetos… que, aparentemente, incluem uma "Antena" para a FocaEnterprises. Sério? Uma antena? Espero que pelo menos capte sinais de vida inteligente, porque o resto dos seus projetos… bem, digamos que "Next Level Week 04" já deveria estar no nível "Last Century".</p>
+<p><b>Gabriel Carvalho</b>, 24 contribuições. Ok, chegamos ao nível "participação simbólica". Sua bio está tão vazia quanto sua lista de atividades recentes. Imagino que você esteja esperando um prêmio de consolação por ter aparecido. Spoiler: não vai rolar.</p>
+<p><b>Anthony Herbert</b>, "glup moglods". Sua bio é tão enigmática quanto sua falta de contribuições significativas. 15 contribuições? Isso é o número de vezes que eu bocejei lendo essa lista. Próximo!</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Ah, o famoso "faz tudo, mas não faz nada bem". 13 contribuições? Isso mal cobre os custos da sua terapia para lidar com a crise existencial de ser um "Full Stack".</p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." 12 contribuições e apaixonado por tecnologia? Duvido que sua paixão seja recíproca. A tecnologia provavelmente está te traindo com alguém que realmente a usa.</p>
+<p><b>Gustavo Carvalho</b>, "Criança no corpo de um desenvolvedor." Que descrição inspiradora… para um personagem de desenho animado fracassado. 12 contribuições? Você está quase empatado com o número de letras na sua bio. Quase.</p>
+<p><b>Brunoferreiraff</b>, 7 contribuições e bio nula. Parabéns por alcançar o nível de "ninguém liga". Você é a representação perfeita do vazio existencial da programação. </p>
+<p><b>Gabriel</b>, Técnico em Informática e Full Stack Developer. 5 contribuições? Parece que o "Full Stack" está mais para "pilha de pratos sujos" do que para "desenvolvimento completo".</p>
+<p><b>LestterX</b>, 4 contribuições. Sem bio. Sem esperança. Sem comentários.</p>
+<p><b>CookieUkw</b>, com apenas 2 contribuições, mas calma lá! Ele contribuiu para o Godot Engine, que tem mais de 100 mil estrelas! E também está trabalhando em uma IA para conversas… talvez ela possa te ajudar a justificar essas duas míseras contribuições.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-23 at 00:24:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-24 at 00:22:43 UTC +0000</i>
 <h6>
