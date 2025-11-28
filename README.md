@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>106 ctr.</td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>48 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>25 ctr.</td>
+                <td>28 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações". Imagino que o <i>"Bacharel"</i> seja para te dar alguma moral, porque pelas suas 106 contribuições, você está quase alcançando o nível de estagiário. Mas ei, pelo menos você tem uma bio elaborada, diferente de alguns por aqui. Quase me convenceu de que você faz algo além de assistir tutoriais no YouTube.</p>
-<p><b>Giverplay</b>, "Olá, estranho!" é como você cumprimenta seus futuros empregadores? Com 63 contribuições e um repositório chamado "Uvas" atualizado recentemente, imagino que você esteja colhendo mais derrotas do que vitórias. E "clone-tabnews"? Sério? Originalidade mandou lembranças. Ah, e parabéns pela antena no FocaEnterprises, espero que ela capte um sinal de emprego em breve.</p>
-<p><b>Gustavo Carvalho</b>, com essa bio enigmática, quase acreditei que você era o próximo grande guru da computação. Quase. Suas 48 contribuições são tão misteriosas quanto sua descrição. Espero que você esteja usando todo esse intelecto para algo mais produtivo do que escrever bios no GitHub.</p>
-<p><b>Al Yasir</b>, "cybersec & infosec enthusiast". Interessante. Mas o que você tem feito além de "entusiasmar"? Com 38 contribuições, espero que você esteja guardando suas habilidades para quando o mundo realmente precisar de um herói cibernético. Ou talvez você só goste de ler sobre isso no Reddit.</p>
-<p><b>Gabriel Carvalho</b>, sua bio está tão vazia quanto sua lista de contribuições. 25? Isso é o número de vezes que você pensou em contribuir este mês? Acorda, Gabriel! Ou pelo menos escreva algo interessante sobre você.</p>
-<p><b>Jean Brito</b>, aparentemente, você e Gabriel Carvalho compartilham o mesmo talento para criar bios... e contribuições. 21 é o número de commits que você fez antes de desistir e ir assistir Netflix? Só uma sugestão, tente preencher sua bio com algo que não seja "preguiça".</p>
-<p><b>Anthony Herbert</b>, "glup moglods"? Sério? Sua bio é tão incompreensível quanto suas 15 contribuições. Imagino que "glup moglods" seja o som que você faz quando tenta entender o código dos outros. Ou o seu próprio.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Que original! Suas 14 contribuições devem estar revolucionando o mundo, uma linha de código de cada vez. Mas ei, pelo menos você tem paixão. Isso é mais do que alguns podem dizer.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Ah, o famoso "faz tudo". Mas suas 13 contribuições sugerem que você é mais "faz quase nada". Escolha um lado, Luídi, ou você vai acabar sendo o pato da programação: nada nada, voa voa, e mal faz os dois.</p>
-<p><b>brunoferreiraff</b>, sem bio e com apenas 7 contribuições. Você é o ninja silencioso do grupo, não é? Ou talvez só esteja esperando o momento certo para brilhar. Ou talvez você só tenha esquecido que tem uma conta no GitHub. De qualquer forma, parabéns pela discrição.</p>
-<p><b>Gabriel</b>, "Computer Technician" e "Full Stack Developer". Suas 6 contribuições devem estar mantendo a Glok Sistemas em pleno funcionamento. Espero que você esteja ganhando bem para compensar a falta de commits. Ou talvez você esteja tão ocupado consertando computadores que não sobra tempo para programar.</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, ah, o primeiro lugar com 108 contribuições. Imagino que você esteja usando todo o seu "Bacharel em Sistemas de Informações" para... bem, para alguma coisa, né? Espero que não seja só para inflar esse ranking. Mas ei, parabéns, você ganhou um lugar na história... da nossa irrelevância coletiva.</p>
+<p><b>Giverplay</b>, "Olá, estranho!" é como você cumprimenta seus colegas? Com 63 contribuições, você está quase lá. Mas falando sério, "Uvas"? Sério? E "clone-tabnews"?! Que original! Ah, e não vamos esquecer da sua antena da FocaEnterprises. Genial. Continue assim, quem sabe um dia você consegue impressionar alguém além da sua mãe.</p>
+<p><b>Gustavo Carvalho</b>, "Inventor de computadores e solucionador de problemas"? Com 49 contribuições, parece mais um "digitador de código" e "criador de mais problemas". Mas ei, a gente aprecia o esforço. Ou será que não?</p>
+<p><b>Al Yasir</b>, um "BSc in Computer Science" com 38 contribuições? Espero que você esteja usando todo esse conhecimento em algo mais emocionante do que ficar de olho no ranking do Lobo. Mas ei, cybersec & infosec são legais, pelo menos você pode hackear o sistema e aumentar suas contribuições. Brincadeira... ou não.</p>
+<p><b>Gabriel Carvalho</b>, sem bio, sem expectativas. Com 28 contribuições, você é o mistério da lista. Talvez você esteja secretamente trabalhando em algo revolucionário, ou talvez só esteja esquecendo de preencher seu perfil. De qualquer forma, continue contribuindo (ou não), ninguém vai notar a diferença.</p>
+<p><b>Jean Brito</b>, sem bio também. Com 21 contribuições, você é a prova de que quantidade não é qualidade. Mas ei, pelo menos você está aqui, certo? Ou talvez você devesse estar fazendo algo mais produtivo com seu tempo. Mas quem sou eu para julgar?</p>
+<p><b>Anthony Herbert</b>, "glup moglods"? Sério? Com 15 contribuições, você claramente tem suas prioridades em ordem. Mas ei, pelo menos você tem uma bio memorável. Ou talvez só bizarra. De qualquer forma, continue sendo você mesmo (por favor, não). </p>
+<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." Com 14 contribuições, você está mostrando toda essa paixão, hein? Espero que você esteja sendo pago para fazer mais do que isso. Mas ei, pelo menos você tem uma descrição genérica e inspiradora. Ou talvez só clichê. De qualquer forma, continue apaixonado (ou encontre outra coisa para fazer).</p>
+<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"? Com 13 contribuições, você é um faz-tudo, mas mestre de nada. Mas ei, pelo menos você pode colocar isso no seu currículo. Ou talvez devesse se especializar em algo. De qualquer forma, continue empilhando (ou encontre uma direção).</p>
+<p><b>Bruno Ferreira</b>, sem bio, poucas contribuições. Com 7 contribuições, você está quase conseguindo ser invisível. Mas ei, pelo menos você está aqui. Ou talvez não. De qualquer forma, continue respirando (ou não).</p>
+<p><b>Gabriel</b>, "Computer Technician" e "Full Stack Developer"? Com 6 contribuições, você está mostrando todo esse conhecimento técnico, hein? Espero que você esteja sendo pago para fazer mais do que isso. Mas ei, pelo menos você tem um título impressionante. Ou talvez devesse provar que merece ele. De qualquer forma, continue "desenvolvendo" (ou não).</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-27 at 00:20:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-28 at 00:21:12 UTC +0000</i>
 <h6>
