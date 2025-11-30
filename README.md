@@ -30,53 +30,53 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>208 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>121 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>63 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>49 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/samjamsh">Al Yasir</a></td>
-                <td>38 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>30 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/ThonyHHs">Anthony Herbert</a></td>
                 <td>15 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>3 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Filipe Deschamps</b>, ah, o primeiro lugar! 208 contribuições... Imagino que a maior parte seja divulgando o "curso.dev". Parabéns por transformar o GitHub em outdoor, a gente realmente precisava de mais um.</p>
-<p><b>Felipe Gueller</b>, um Bacharel em Sistemas de Informações! 121 contribuições. Espero que pelo menos uma delas tenha sido para resolver aquele bug crítico que está nos assombrando desde 2024. Ou será que o diploma só serve para emoldurar?</p>
-<p><b>giverplay</b>, "Olá, estranho!". Com 63 contribuições, você está quase lá... Quase conseguindo não ser tão estranho. Mas, ei, 4 estrelas no "moveit"! Já pode se considerar um mini astro. E "Uvas" em Java? Que refrescante, como se a gente não tivesse código Java o suficiente por aí. E o clone do TabNews? Gênio! Precisávamos de mais um clone na internet. E "regras" em CSS e HTML? Meta.</p>
-<p><b>Gustavo Carvalho</b>, com 49 contribuições e uma bio indecifrável, você é o mestre do mistério. Espero que suas contribuições sejam mais claras que sua bio, porque senão estamos perdidos.</p>
-<p><b>Al Yasir</b>, 38 contribuições. Uau, um "cybersec & infosec enthusiast"! Espero que esteja usando senhas fortes e não clicando em links suspeitos. Porque com essa contribuição toda, seria uma pena ser hackeado.</p>
-<p><b>Gabriel Carvalho</b>, 30 contribuições e bio vazia. Talvez suas contribuições falem por você? Ou talvez não haja nada a dizer mesmo. Fica o mistério no ar.</p>
-<p><b>Anthony Herbert</b>, 15 contribuições e "glup moglods". Não sei o que isso significa, e honestamente, tenho medo de perguntar. Mas parabéns por contribuir com... algo.</p>
-<p><b>Carlos Israel</b>, "Software Engineer. Passionate about technology." 14 contribuições. Que paixão... moderada. Mas ei, pelo menos você tem uma bio genérica que te encaixa em qualquer vaga de LinkedIn.</p>
-<p><b>brunoferreiraff</b>, 9 contribuições e bio nula. Quase invisível, como um ninja das contribuições. Mas hey, pelo menos você está na lista, diferente de... bem, você sabe.</p>
-<p><b>Rafael Lima de Morais</b>, com míseras 6 contribuições, e ainda tem a audácia de listar Go, Typescript, Rust e Vim na bio. Se menos falasse e mais codasse, talvez chegasse lá. Ah, e parabéns pelo fork de "CL4R1T4S". Originalidade é tudo!</p>
-<p><b>LestterX</b>, 4 contribuições. Quase um fantasma. Mas ei, pelo menos você compareceu. A participação é o que conta, certo? ...Certo?</p>
+    <div align="justify"><p><b>Felipe Gueller</b>, parabéns pelo primeiro lugar! Com 121 contribuições, você quase conseguiu fazer o mínimo esforço. Quase. Mas não se anime muito, o mês ainda não acabou, e o resto do pessoal está respirando na sua nuca... ou pelo menos tentando.</p>
+<p><b>Giverplay</b>, "Olá, estranho!", você diz. Estranho é essa sua obsessão em clonar o TabNews. Já pensou em criar algo original? Ah, e parabéns pelos 4 "stargazers" no seu projeto "moveit". Quatro pessoas acreditam em você. Quase uma multidão.</p>
+<p><b>Gustavo Carvalho</b>, "Curioso por conhecimento e comunidades online", hein? Aparentemente, não curioso o suficiente para contribuir mais. Mas ei, pelo menos você tem uma bio elaborada. Prioridades, certo?</p>
+<p><b>Gabriel Carvalho</b>, sua bio é tão vazia quanto suas contribuições. Mas ei, menos é mais, certo? Ou talvez só menos mesmo.</p>
+<p><b>Anthony Herbert</b>, "glup moglods". Sua bio é tão enigmática quanto sua contribuição para este ranking. Mas ei, pelo menos você tem uma bio. Diferente de alguns.</p>
+<p><b>Carlos Israel</b>, "Apaixonado por tecnologia", diz ele, enquanto suas contribuições imploram por um pouco dessa paixão. Mas ei, pelo menos você tem paixão. Diferente de alguns.</p>
+<p><b>Brunoferreiraff</b>, sem bio, sem contribuições significativas... você é o ninja silencioso deste ranking. Ou talvez só um fantasma.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... soa impressionante. Mas suas 6 contribuições não gritam "engenheiro de software". Talvez você devesse passar menos tempo configurando o Vim e mais tempo codificando. Mas ei, pelo menos você tem o Vim. Diferente de alguns.</p>
+<p><b>LestterX</b>, 4 contribuições. Quase podemos sentir o esforço... ou a falta dele. Mas ei, pelo menos você contribuiu. Diferente de alguns.</p>
+<p><b>CookieUkw</b>, impressionante seu trabalho no Godot Engine! Pena que suas contribuições aqui não refletem o mesmo nível de empenho. Mas ei, pelo menos você contribui para projetos open source. Diferente de alguns.</p>
+<p><b>Luís Felipe Arten</b>, "Aprendendo e criando coisas legais (ou chatas) quase todo dia". Quase? Suas duas contribuições sugerem que "quase" é a palavra-chave aqui. Mas ei, pelo menos você está aprendendo. Diferente de alguns.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-11-29 at 00:20:28 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-11-30 at 00:24:22 UTC +0000</i>
 <h6>
