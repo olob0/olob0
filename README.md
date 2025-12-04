@@ -31,16 +31,16 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>7 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
@@ -50,11 +50,21 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>3 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>3 ctr.</td>
             </tr>
@@ -64,12 +74,14 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Filipe Deschamps</b>, ah, o guru do "se sinta competente". Com 7 contribuições, você está quase alcançando a grandeza de um script de "Hello, World!". E que currículo impressionante de repositórios! Dotfiles, Doom Fire Algorithm (porque o mundo precisa de mais fogo), e um parser de Google Docs. Quanta versatilidade! Mas, ei, pelo menos o Tabnews ainda recebe um carinho, né? </p>
-<p><b>CookieUkw</b>, 6 contribuições e um amor inexplicável pela Godot Engine. Imagino que esteja sonhando em criar o próximo grande jogo indie enquanto o resto de nós tenta entender como funciona um simples formulário HTML. Ah, e não vamos esquecer do Vex-AI, a IA que conversa sobre jogos. Porque, claramente, o mundo precisa de mais bots para discutir a complexidade de Candy Crush. </p>
-<p><b>Felipe Gueller</b>, com 6 contribuições, parece estar em uma jornada pessoal para "reforçar conceitos de programação". Que nobre causa! E clonar o Tabnews? Originalidade mandou lembranças. Mas ei, cada um com seus projetos, não é mesmo? Afinal, quem precisa de ideias novas quando se pode simplesmente copiar as antigas? </p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que vive no mundo dos dotfiles e configs customizadas. 6 contribuições para mostrar que você sabe como personalizar seu ambiente de desenvolvimento. E um livro sobre programação avançada em Python? Que ousadia! Mas não se esqueça de manter a transparência com o ChatGPT, porque isso é crucial para o futuro da humanidade. </p>
-<p><b>Gabriel Carvalho</b>, com míseras 3 contribuições, parece estar lutando para se manter relevante. Um programa para resumir vídeos do YouTube usando o Google Gemini? Brilhante! Porque o mundo precisa desesperadamente de mais resumos de conteúdo inútil. E trilhas de .NET da DIO? Parabéns por seguir o caminho mais fácil. </p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack"... e 3 contribuições. Imagino que esteja tão ocupado sendo "Full Stack" que não sobra tempo para realmente contribuir com algo. E nenhum repositório recente para mostrar? Talvez seja hora de repensar essa bio e focar em algo mais realista, como "aspirante a digitador". </p>
+    <div align="justify"><p><b>Filipe Deschamps</b>, ah, o primeiro lugar... com 12 contribuições. Imagino que metade delas seja linkando para o próprio curso. Mas ei, quem sou eu para julgar? Pelo menos você atualizou o "doom-fire-algorithm" recentemente. Clássico atemporal, assim como o seu marketing pessoal. E esses "dotfiles" hein? Chique.</p>
+<p><b>Felipe Gueller</b>, em segundo lugar com 11 contribuições. Vejo que está "aprendendo e reforçando conceitos de programação" clonando o TabNews. Que esforço original! Imagino que o Lobo esteja orgulhoso de ver você reinventando a roda... ou pelo menos tentando. Mas ei, não se preocupe, no mundo da programação, plágio é apenas "inspiração".</p>
+<p><b>CookieUkw</b>, apenas 6 contribuições? Parece que alguém anda mais preocupado em jogar Godot do que em contribuir. Ah, e esse projeto "Vex-AI"? Criar uma IA consciente? Boa sorte com isso. Talvez ela possa automatizar suas contribuições no futuro. Mas falando sério, desde 2022 tentando criar a Vex-AI? Não saiu nem um "Olá Mundo"?</p>
+<p><b>Rafael Lima de Morais</b>, com as mesmas 6 contribuições de CookieUkw, mas aparentemente mais focado em "vim". E esse repositório "CL4R1T4S"? "SYSTEM PROMPT TRANSPARENCY FOR ALL"? Uau, tão transparente que até eu consigo ver que é um fork. E "Advanced Python Programming"? Sério? Em 2024? Achei que você estivesse no futuro, não no passado.</p>
+<p><b>brunoferreiraff</b>, míseras 4 contribuições... Imagino que você esteja guardando o seu melhor para o próximo mês. Ou talvez não. Sem repositórios recentes para comentar, então vou presumir que você está trabalhando em algo tão secreto que nem o GitHub pode saber. Ou será que você simplesmente esqueceu de usar o Git?</p>
+<p><b>Gabriel</b>, tecnicamente em sexto lugar, com 3 contribuições. Um verdadeiro mestre do disfarce, quase invisível no ranking. Espero que pelo menos esteja aproveitando o seu tempo livre para algo produtivo, como assistir vídeos de gatinhos no YouTube. Afinal, alguém precisa manter a internet funcionando, certo?</p>
+<p><b>Gabriel Carvalho</b>, empatado com o Gabriel anterior, também com 3 contribuições. Pelo menos você tem alguns repositórios para mostrar. Um "content_summarizer" para o YouTube usando Gemini? Que conveniente. E "data_structures" em Python? Original! Eita, desafio .NET da DIO? Interessante, parece que alguém está explorando novas tecnologias. Ou será que está apenas seguindo a manada?</p>
+<p><b>Luídi Pires</b>, o último da lista com 3 contribuições. "Front-End | Back-End | Full Stack"? Que currículo impressionante! Pena que as suas contribuições não refletem essa grandiosidade. Mas ei, quem precisa de contribuições quando se tem um perfil tão chamativo? Talvez você devesse adicionar "Mestre da Procrastinação" à sua bio.</p>
 </div>
     </details>
 </div>
@@ -84,5 +96,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-03 at 00:21:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-04 at 00:22:01 UTC +0000</i>
 <h6>
