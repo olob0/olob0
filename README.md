@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>12 ctr.</td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,12 +40,12 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
@@ -55,17 +55,12 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>3 ctr.</td>
             </tr>
         </tbody>
@@ -74,14 +69,13 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Filipe Deschamps</b>, ah, o primeiro lugar... com 12 contribuições. Imagino que metade delas seja linkando para o próprio curso. Mas ei, quem sou eu para julgar? Pelo menos você atualizou o "doom-fire-algorithm" recentemente. Clássico atemporal, assim como o seu marketing pessoal. E esses "dotfiles" hein? Chique.</p>
-<p><b>Felipe Gueller</b>, em segundo lugar com 11 contribuições. Vejo que está "aprendendo e reforçando conceitos de programação" clonando o TabNews. Que esforço original! Imagino que o Lobo esteja orgulhoso de ver você reinventando a roda... ou pelo menos tentando. Mas ei, não se preocupe, no mundo da programação, plágio é apenas "inspiração".</p>
-<p><b>CookieUkw</b>, apenas 6 contribuições? Parece que alguém anda mais preocupado em jogar Godot do que em contribuir. Ah, e esse projeto "Vex-AI"? Criar uma IA consciente? Boa sorte com isso. Talvez ela possa automatizar suas contribuições no futuro. Mas falando sério, desde 2022 tentando criar a Vex-AI? Não saiu nem um "Olá Mundo"?</p>
-<p><b>Rafael Lima de Morais</b>, com as mesmas 6 contribuições de CookieUkw, mas aparentemente mais focado em "vim". E esse repositório "CL4R1T4S"? "SYSTEM PROMPT TRANSPARENCY FOR ALL"? Uau, tão transparente que até eu consigo ver que é um fork. E "Advanced Python Programming"? Sério? Em 2024? Achei que você estivesse no futuro, não no passado.</p>
-<p><b>brunoferreiraff</b>, míseras 4 contribuições... Imagino que você esteja guardando o seu melhor para o próximo mês. Ou talvez não. Sem repositórios recentes para comentar, então vou presumir que você está trabalhando em algo tão secreto que nem o GitHub pode saber. Ou será que você simplesmente esqueceu de usar o Git?</p>
-<p><b>Gabriel</b>, tecnicamente em sexto lugar, com 3 contribuições. Um verdadeiro mestre do disfarce, quase invisível no ranking. Espero que pelo menos esteja aproveitando o seu tempo livre para algo produtivo, como assistir vídeos de gatinhos no YouTube. Afinal, alguém precisa manter a internet funcionando, certo?</p>
-<p><b>Gabriel Carvalho</b>, empatado com o Gabriel anterior, também com 3 contribuições. Pelo menos você tem alguns repositórios para mostrar. Um "content_summarizer" para o YouTube usando Gemini? Que conveniente. E "data_structures" em Python? Original! Eita, desafio .NET da DIO? Interessante, parece que alguém está explorando novas tecnologias. Ou será que está apenas seguindo a manada?</p>
-<p><b>Luídi Pires</b>, o último da lista com 3 contribuições. "Front-End | Back-End | Full Stack"? Que currículo impressionante! Pena que as suas contribuições não refletem essa grandiosidade. Mas ei, quem precisa de contribuições quando se tem um perfil tão chamativo? Talvez você devesse adicionar "Mestre da Procrastinação" à sua bio.</p>
+    <div align="justify"><p>Ah, <b>Filipe Deschamps</b>, o guru dos cursos.dev. Tantas contribuições, mas será que alguma delas foi para o repositório do "Lobo"? Ou está muito ocupado demais vendendo a ilusão de competência para os outros? Pelo menos, seus <i>dotfiles</i> foram atualizados recentemente. Sinal de que a máquina está sempre pronta para mais um curso... ou seria para mais um clone do TabNews?</p>
+<p><b>Felipe Gueller</b>, com 11 contribuições, quase chegando lá! Mas clonar o TabNews não vai te levar ao topo, a menos que você adicione uns bugs bem interessantes. Afinal, quem precisa de originalidade quando se pode copiar, não é mesmo? Continue "reforçando conceitos", quem sabe um dia você consegue criar algo seu.</p>
+<p><b>Rafael Lima de Morais</b>, um software engineer que gosta de Go, Typescript, Rust e Vim. Imagino o quão ocupado você deve estar para ter apenas 7 contribuições. Seu repositório "CL4R1T4S" promete transparência, mas suas contribuições... nem tanto. Talvez menos "SYSTEM PROMPT TRANSPARENCY" e mais contribuições para o "Lobo" tragam mais resultados.</p>
+<p><b>CookieUkw</b>, flertando com a engine Godot. Contribuições para um projeto gigante como esse devem ser emocionantes, mas será que sobrou tempo para algo mais? Talvez se a sua "Vex-AI" conseguisse contribuir sozinha, você teria mais tempo livre. Até lá, continue sonhando com a IA consciente, enquanto o "Lobo" segue em frente.</p>
+<p><b>brunoferreiraff</b>, 4 contribuições... Quase imperceptível. Cadê os repositórios recentes? Escondido? Sumiu? Será que você existe mesmo? Ou é só um fantasma digital vagando pelo GitHub?</p>
+<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil, onde seus projetos de 2021 brilham intensamente. Seus clones do TabNews e "Uvas" mostram uma diversidade impressionante... de cópias. E as "regras" da NekoSoftX? São para serem seguidas ou apenas para enfeitar o repositório? Acorda, estamos em 2025!</p>
+<p><b>Gabriel Carvalho</b>, com apenas 3 contribuições, parece que você está mais interessado em resumir vídeos do YouTube do que em realmente contribuir. E esses desafios da DIO? Sério? Pelo menos o <i>content_summarizer</i> usando Gemini parece interessante, pena que suas contribuições não resumem a sua falta de... contribuições. </p>
 </div>
     </details>
 </div>
@@ -96,5 +90,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-04 at 00:22:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-05 at 00:22:43 UTC +0000</i>
 <h6>
