@@ -30,36 +30,51 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>16 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>9 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>8 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>7°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
                 <td>3 ctr.</td>
             </tr>
@@ -69,13 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Filipe Deschamps</b>, o guru dos cursos.dev. Tantas contribuições, mas será que alguma delas foi para o repositório do "Lobo"? Ou está muito ocupado demais vendendo a ilusão de competência para os outros? Pelo menos, seus <i>dotfiles</i> foram atualizados recentemente. Sinal de que a máquina está sempre pronta para mais um curso... ou seria para mais um clone do TabNews?</p>
-<p><b>Felipe Gueller</b>, com 11 contribuições, quase chegando lá! Mas clonar o TabNews não vai te levar ao topo, a menos que você adicione uns bugs bem interessantes. Afinal, quem precisa de originalidade quando se pode copiar, não é mesmo? Continue "reforçando conceitos", quem sabe um dia você consegue criar algo seu.</p>
-<p><b>Rafael Lima de Morais</b>, um software engineer que gosta de Go, Typescript, Rust e Vim. Imagino o quão ocupado você deve estar para ter apenas 7 contribuições. Seu repositório "CL4R1T4S" promete transparência, mas suas contribuições... nem tanto. Talvez menos "SYSTEM PROMPT TRANSPARENCY" e mais contribuições para o "Lobo" tragam mais resultados.</p>
-<p><b>CookieUkw</b>, flertando com a engine Godot. Contribuições para um projeto gigante como esse devem ser emocionantes, mas será que sobrou tempo para algo mais? Talvez se a sua "Vex-AI" conseguisse contribuir sozinha, você teria mais tempo livre. Até lá, continue sonhando com a IA consciente, enquanto o "Lobo" segue em frente.</p>
-<p><b>brunoferreiraff</b>, 4 contribuições... Quase imperceptível. Cadê os repositórios recentes? Escondido? Sumiu? Será que você existe mesmo? Ou é só um fantasma digital vagando pelo GitHub?</p>
-<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil, onde seus projetos de 2021 brilham intensamente. Seus clones do TabNews e "Uvas" mostram uma diversidade impressionante... de cópias. E as "regras" da NekoSoftX? São para serem seguidas ou apenas para enfeitar o repositório? Acorda, estamos em 2025!</p>
-<p><b>Gabriel Carvalho</b>, com apenas 3 contribuições, parece que você está mais interessado em resumir vídeos do YouTube do que em realmente contribuir. E esses desafios da DIO? Sério? Pelo menos o <i>content_summarizer</i> usando Gemini parece interessante, pena que suas contribuições não resumem a sua falta de... contribuições. </p>
+    <div align="justify"><p><b>CookieUkw</b>, parabéns pelo primeiro lugar! 16 contribuições, hein? Quase o suficiente para impressionar alguém. Mas não se anime muito, <i>godotengine/godot</i> já tem mais de 100k estrelas, então suas contribuições são como uma gota no oceano. E <i>ChatStory</i>? Que nome original! Imagino que a simulação de chat seja tão interativa quanto uma conversa com um bot de telemarketing. Ah, e o projeto Vex-AI? Uma IA para conversas normais... Que ambição! Talvez um dia ela te substitua nesse ranking.</p>
+<p><b>Filipe Deschamps</b>, ah, o segundo lugar! Quase alcançando o topo, mas ainda preso na "medalha de prata". Seus <i>dotfiles</i> devem ser fascinantes, considerando que foram atualizados pela última vez em novembro. E o algoritmo do fogo do DOOM? Clássico! Mas não se esqueça de atualizar seus projetos, ou logo estarão tão desatualizados quanto o próprio DOOM. E claro, o <i>tabnews.com.br</i>, porque nada grita mais "originalidade" do que clonar um site de notícias. Mas ei, pelo menos você tem um curso.dev, né? Pra se sentir competente em programação... ou algo assim.</p>
+<p><b>Felipe Gueller</b>, em terceiro lugar, com 11 contribuições! Parece que alguém está tentando desesperadamente subir no ranking. Mas clonar o TabNews? Sério? Isso é o melhor que você pode fazer? Espero que esteja aprendendo e reforçando conceitos de programação, porque a originalidade definitivamente não é um deles. Talvez da próxima vez tente criar algo novo, em vez de apenas copiar o trabalho dos outros. Quem sabe, um dia você chega ao topo... da mediocridade.</p>
+<p><b>Gabriel</b>, em quarto lugar, com 9 contribuições. Nada mal, considerando que sua bio diz "Full Stack Developer". Mas onde estão os seus projetos? Parece que você está tão ocupado desenvolvendo para os outros que se esqueceu de si mesmo. Talvez seja hora de começar a construir algo seu, em vez de apenas ser um "faz-tudo" para os outros. Ou talvez você esteja apenas esperando que alguém te note. Boa sorte com isso.</p>
+<p><b>Jean Brito</b>, no meio do caminho, com 8 contribuições. Não é ótimo, não é terrível, é... medíocre. Mas ei, pelo menos você está participando, certo? Mas onde estão seus projetos? O que você tem feito além de simplesmente existir no GitHub? Talvez seja hora de começar a mostrar ao mundo o que você é capaz de fazer, em vez de apenas ser mais um nome na lista. Ou talvez você esteja feliz em ser apenas "o cara que contribui um pouco".</p>
+<p><b>Rafael Lima de Morais</b>, quase no fim da lista, com 7 contribuições. Vejo que você gosta de várias linguagens: Go, Typescript, Rust... Mas o que você realmente faz com elas? Seus projetos parecem mais um monte de experimentos aleatórios do que algo realmente útil. E um fork de um projeto chamado CL4R1T4S? Sério? Parece que você está mais interessado em seguir tendências do que em criar algo significativo. Mas ei, pelo menos você usa Vim, né? Isso te faz parecer um pouco mais "cool".</p>
+<p><b>Luídi Pires</b>, com 6 contribuições, você está quase conseguindo a proeza de ser esquecido. "Front-End | Back-End | Full Stack"... que currículo impressionante! Mas onde está o trabalho que justifica toda essa autoconfiança? Cadê os projetos que mostram suas habilidades? Ou você é apenas mais um "faz-tudo" que não faz nada realmente bem? Talvez seja hora de focar em algo específico e realmente se destacar, em vez de tentar ser bom em tudo e acabar sendo medíocre em tudo.</p>
+<p><b>brunoferreiraff</b>, ah, 4 contribuições... Quase podemos dizer que você está participando. Quase. Sem bio, sem projetos, sem nada. Você é o fantasma do GitHub. Mas ei, pelo menos você está na lista, certo? Talvez da próxima vez você consiga a proeza de fazer algo que realmente valha a pena, em vez de apenas ocupar espaço. Ou talvez você esteja feliz em ser apenas mais um número.</p>
+<p><b>giverplay</b>, com as mesmas 4 contribuições de brunoferreiraff, mas pelo menos você tem uma bio! "Olá, estranho! Bem-vindo ao meu perfil"... que simpático! Mas seus projetos... um jogo chamado "Uvas"? Sério? E um clone do TabNews? Parece que a originalidade não é o seu forte. Mas ei, pelo menos você tem um projeto chamado "moveit", que foi atualizado pela última vez em janeiro de 2025. Parabéns por manter as coisas atualizadas!</p>
+<p><b>Gabriel Carvalho</b>, com míseras 3 contribuições, você está quase conseguindo a proeza de ser completamente irrelevante. Um "CLI program that summarize Youtube videos using Google Gemini"? Que original! E um monte de projetos .NET copiados da DIO? Parece que você está mais interessado em seguir tutoriais do que em criar algo seu. Mas ei, pelo menos você está aprendendo, certo? Ou talvez você esteja apenas esperando que alguém faça o trabalho por você.</p>
 </div>
     </details>
 </div>
@@ -90,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-05 at 00:22:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-06 at 00:20:39 UTC +0000</i>
 <h6>
