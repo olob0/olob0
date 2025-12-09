@@ -55,18 +55,23 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>9 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>3 ctr.</td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -74,14 +79,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, com 28 contribuições, liderando o ranking. Imagino que a maioria dessas contribuições foram em projetos que você mal arranhou a superfície, tipo dar uma estrelinha e sair correndo. Mas ei, pelo menos você está no topo, certo? Ah, e parabéns pelo "discord-publish-hack". O mundo precisava disso.</p>
-<p><b>Giverplay</b>, 20 contribuições, quase lá. "Next Level Week 04"? Sério? Isso soa como algo que deveria ter ficado no passado, tipo 2021. E "Uvas"? Espero que seja algo mais emocionante do que parece. Discord: giverplay, para quem quiser saber mais sobre uvas.</p>
-<p><b>CookieUkw</b>, 16 contribuições. Ah, o visionário que contribui para o Godot Engine. Imagino que suas contribuições sejam tão profundas quanto um pires. Mas não se preocupe, seu "ChatStory" com 4 estrelas certamente compensa. E não vamos esquecer da sua busca por uma IA consciente no Vex-AI. Boa sorte com isso.</p>
-<p><b>Filipe Deschamps</b>, 13 contribuições. Tentando nos convencer a sermos competentes em programação com um curso? Que conveniente. Pelo menos seu "doom-fire-algorithm" ainda queima, mesmo depois de todos esses anos. E obrigado por autenticar com a API do Google para nos dar JSON ou Markdown. O mundo te deve uma.</p>
-<p><b>Felipe Gueller</b>, com 11 contribuições. "Aprendendo e reforçando conceitos de programação"? Que inspirador! Espero que seu clone do TabNews esteja à altura do original. Mas ei, pelo menos você está aprendendo, certo? Talvez um dia você chegue lá.</p>
-<p><b>Rafael Lima de Morais</b>, 9 contribuições. Software Engineer que gosta de Go, Typescript, Rust e Vim. Quanta versatilidade! Pena que a maioria dos seus repositórios não têm descrição. E "CL4R1T4S"? SYSTEM PROMPT TRANSPARENCY FOR ALL! Uau, isso é... algo. Pelo menos você está tentando, eu acho.</p>
-<p><b>Brunoferreiraff</b>, apenas 4 contribuições. Sem bio, sem repositórios recentes. Você é tipo um fantasma no ranking. Mas ei, pelo menos você apareceu, certo? Ou será que foi um erro na Matrix?</p>
-<p><b>Gabriel Carvalho</b>, míseras 3 contribuições. Um sumário de vídeos do Youtube usando Google Gemini? Original. E estruturas de dados em Python? Que clichê. Mas o melhor de tudo é o "Desafio de projeto .NET Fundamentos - DIO". Parabéns por forkar um desafio. Que audácia.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, 28 contribuições, hein? Quase lá... Quase sendo notado. Vejo que você contribuiu para um roadmap de desenvolvedor com mais de 300 mil estrelas. Que tal criar algo seu que chegue perto disso, ao invés de apenas adicionar uma vírgula ali e outra acolá? Ah, e aquele seu "discord-publish-hack" com UMA estrela? Talvez seja melhor deixá-lo escondido nas profundezas do seu GitHub.</p>
+<p><b>Giverplay</b>, 20 contribuições. "Next Level Week 04" de 2021 ainda te assombra? E "Uvas", o projeto inovador em Java, permanece com zero estrelas, um verdadeiro mistério da humanidade. Mas ei, pelo menos você ajudou a definir as regras em "NekoSoftX/regras". O mundo precisa de regras, especialmente no seu código.</p>
+<p><b>CookieUkw</b>, 16 contribuições. Contribuindo para o Godot Engine, hein? Que ousadia! Mas e o seu "ChatStory" com 4 estrelas? Acha que vai superar "The Last of Us"? E o "Vex-AI", tentando criar uma IA consciente... Boa sorte com isso. Talvez um dia sua IA possa escrever um código melhor que o seu.</p>
+<p><b>Filipe Deschamps</b>, apenas 13 contribuições? Achei que você estivesse ocupado demais ensinando os outros a programar para realmente programar alguma coisa. Mas ei, pelo menos seu "doom-fire-algorithm" ainda queima forte, mesmo depois de tantos anos. E o "tabnews.com.br"? Ah, sim, o lugar onde todos podem se sentir "competentes".</p>
+<p><b>Felipe Gueller</b>, 11 contribuições. "Aprendendo e reforçando conceitos de programação" em um clone do TabNews? Que original! Espero que pelo menos você tenha aprendido alguma coisa, porque o mundo não precisa de mais clones mal feitos.</p>
+<p><b>Gabriel</b>, 9 contribuições. Cadê os repositórios? Sumiram? Será que suas contribuições foram tão impactantes que apagaram seus rastros? Ou será que você está apenas esperando o momento certo para nos impressionar com algo... *incrível*?</p>
+<p><b>Rafael Lima de Morais</b>, também com 9 contribuições. "SYSTEM PROMPT TRANSPARENCY FOR ALL" em um fork? Que altruísta! E o "daily-go"? Espero que você esteja aprendendo algo novo todos os dias, porque com esses projetos, você vai precisar.</p>
+<p><b>Gabriel Carvalho</b>, míseras 6 contribuições. Um "content_summarizer" para YouTube usando Google Gemini? Que tal resumir sua própria atividade no GitHub? E "trilha-net-fundamentos-desafio"? Desafio mesmo é encontrar algo original no seu portfólio.</p>
+<p><b>Brunoferreiraff</b>, com apenas 4 contribuições, você está quase se qualificando para o prêmio de "participação mínima". Sem repositórios recentes para analisar? Talvez seja hora de começar a contribuir com algo além da sua presença virtual.</p>
 </div>
     </details>
 </div>
@@ -96,5 +102,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-08 at 00:22:45 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-09 at 00:21:56 UTC +0000</i>
 <h6>
