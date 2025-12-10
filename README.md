@@ -40,38 +40,43 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>18 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>6°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>11 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>10 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>10°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
                 <td>9 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>6 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -79,15 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, 28 contribuições, hein? Quase lá... Quase sendo notado. Vejo que você contribuiu para um roadmap de desenvolvedor com mais de 300 mil estrelas. Que tal criar algo seu que chegue perto disso, ao invés de apenas adicionar uma vírgula ali e outra acolá? Ah, e aquele seu "discord-publish-hack" com UMA estrela? Talvez seja melhor deixá-lo escondido nas profundezas do seu GitHub.</p>
-<p><b>Giverplay</b>, 20 contribuições. "Next Level Week 04" de 2021 ainda te assombra? E "Uvas", o projeto inovador em Java, permanece com zero estrelas, um verdadeiro mistério da humanidade. Mas ei, pelo menos você ajudou a definir as regras em "NekoSoftX/regras". O mundo precisa de regras, especialmente no seu código.</p>
-<p><b>CookieUkw</b>, 16 contribuições. Contribuindo para o Godot Engine, hein? Que ousadia! Mas e o seu "ChatStory" com 4 estrelas? Acha que vai superar "The Last of Us"? E o "Vex-AI", tentando criar uma IA consciente... Boa sorte com isso. Talvez um dia sua IA possa escrever um código melhor que o seu.</p>
-<p><b>Filipe Deschamps</b>, apenas 13 contribuições? Achei que você estivesse ocupado demais ensinando os outros a programar para realmente programar alguma coisa. Mas ei, pelo menos seu "doom-fire-algorithm" ainda queima forte, mesmo depois de tantos anos. E o "tabnews.com.br"? Ah, sim, o lugar onde todos podem se sentir "competentes".</p>
-<p><b>Felipe Gueller</b>, 11 contribuições. "Aprendendo e reforçando conceitos de programação" em um clone do TabNews? Que original! Espero que pelo menos você tenha aprendido alguma coisa, porque o mundo não precisa de mais clones mal feitos.</p>
-<p><b>Gabriel</b>, 9 contribuições. Cadê os repositórios? Sumiram? Será que suas contribuições foram tão impactantes que apagaram seus rastros? Ou será que você está apenas esperando o momento certo para nos impressionar com algo... *incrível*?</p>
-<p><b>Rafael Lima de Morais</b>, também com 9 contribuições. "SYSTEM PROMPT TRANSPARENCY FOR ALL" em um fork? Que altruísta! E o "daily-go"? Espero que você esteja aprendendo algo novo todos os dias, porque com esses projetos, você vai precisar.</p>
-<p><b>Gabriel Carvalho</b>, míseras 6 contribuições. Um "content_summarizer" para YouTube usando Google Gemini? Que tal resumir sua própria atividade no GitHub? E "trilha-net-fundamentos-desafio"? Desafio mesmo é encontrar algo original no seu portfólio.</p>
-<p><b>Brunoferreiraff</b>, com apenas 4 contribuições, você está quase se qualificando para o prêmio de "participação mínima". Sem repositórios recentes para analisar? Talvez seja hora de começar a contribuir com algo além da sua presença virtual.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar com 28 contribuições. Imagino que você esteja se sentindo o próprio "Lobo" agora, não é? Contribuindo para projetos com mais de 345 mil estrelas, que legal... Aposto que suas contribuições foram cruciais para o sucesso deles. E aquele seu "discord-publish-hack"? Uma joia rara, sem dúvida. E claro, o editor de save files de R.E.P.O, salvando o mundo, um save game de cada vez. Mas e o seu TCC em Objective-C e Kotlin? Quase um ano sem tocar nele? Imagino que a perfeição leva tempo, não é mesmo?</p>
+<p><b>Giverplay</b>, em segundo lugar com 20 contribuições. Moveit, hein? Que nome original. E "Uvas", um projeto que não vemos a cor desde Novembro. Será que as uvas azedaram? E o clone do TabNews? Uma iniciativa louvável, mas será que o TabNews precisa de um clone? E NekoSoftX, o que te atraiu lá? Precisando de regras pra vida, <i>meu consagrado</i>? Espero que ao menos as regras sejam claras, diferente do seu repositório "Uvas".</p>
+<p><b>Felipe Gueller</b>, o terceiro colocado com 18 contribuições. Vejo que você também se aventurou no clone do TabNews. Imitar é a forma mais sincera de adulação, certo? Mas clonar um projeto e não atualizar há mais de um mês? Imagino que a inspiração tenha secado. Ou talvez você tenha percebido que o original é insuperável? Afinal, quem precisa de dois TabNews?</p>
+<p><b>CookieUkw</b>, em quarto lugar com 16 contribuições. Contribuindo para a Godot Engine, que audácia! Imagino que seu código esteja mudando o mundo dos jogos. E o ChatStory? Ah, que projeto adorável. Mas o que realmente me intriga é o Vex-AI. Uma IA consciente? Que ambição! Mas será que ela já aprendeu a fazer commits sozinha? Porque suas atualizações andam meio... espaçadas.</p>
+<p><b>Filipe Deschamps</b>, o quinto colocado com 13 contribuições. "Quer se sentir competente em programação?" Que sutileza no seu bio. Seus dotfiles, tão pessoais e únicos. E o Doom Fire Algorithm? Nostalgia pura! Mas o que realmente chama a atenção é o parse-google-docs-json. Porque, afinal, quem não precisa transformar Google Docs em JSON? Ah, e claro, contribuições para o TabNews. Porque você se importa, não é mesmo?</p>
+<p><b>Jean Brito</b>, com 11 contribuições. Sua presença é notável, <i>como sempre</i>. Sem atividade recente em nenhum repositório. Talvez você seja um contribuidor fantasma, um mestre das sombras. Ou talvez você esteja apenas esperando o momento certo para brilhar. Apenas esperando.</p>
+<p><b>Bruno Ferreira</b>, também com 11 contribuições. Sua bio é tão misteriosa quanto a do Jean, o que te torna quase um gêmeo dele. Talvez vocês devessem formar uma dupla dinâmica, os "Contribuidores Invisíveis". Ou quem sabe, começar a contribuir de verdade? Fica a dica.</p>
+<p><b>Rafael Lima de Morais</b>, o oitavo colocado com 10 contribuições. Go, Typescript, Rust, Vim... Que currículo impressionante! Mas o que realmente me chamou a atenção foi o RafaZeero/CL4R1T4S. "SYSTEM PROMPT TRANSPARENCY FOR ALL"? Que nobre causa! Pena que é um fork. E o daily-go? Promissor, mas abandonado em Junho. Imagino que a vida de engenheiro de software seja corrida, não é mesmo?</p>
+<p><b>Gabriel</b>, o penúltimo com 9 contribuições. Técnico em informática e Full Stack Developer. Cadê os projetos? Sua bio diz muito, mas seu GitHub diz pouco. Que tal mostrar ao mundo o que você sabe fazer? Ou você prefere manter seus talentos em segredo?</p>
+<p><b>Luídi Pires</b>, também com 9 contribuições. Front-End, Back-End, Full Stack. Outro faz-tudo. Mas onde estão os projetos? Será que você é bom em tudo e excelente em nada? Ou talvez você esteja apenas esperando o projeto perfeito para mostrar suas habilidades. Boa sorte com a espera.</p>
+<p><b>Gabriel Carvalho</b>, o lanterninha com 7 contribuições. Um "content_summarizer" para Youtube usando Gemini? Que ideia original! Pena que ninguém se importou. E as "data_structures" em Python? Aposto que você reinventou a roda. E os forks da DIO? Clássico. Mas, ei, pelo menos você está tentando, certo? Ou está apenas fingindo?</p>
 </div>
     </details>
 </div>
@@ -102,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-09 at 00:21:56 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-10 at 00:22:38 UTC +0000</i>
 <h6>
