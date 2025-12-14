@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>104 ctr.</td>
+                <td>117 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -74,14 +74,14 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 104 contribuições! Quase dá para sentir o cheiro da sua dedicação... ou seria só o café requentado? Olhando seus repositórios, um editor de save games em Python? Que específico! Mas ei, pelo menos você está ajudando as pessoas a trapacear com estilo. E que belo clone de discord, quem sabe um dia chega perto.</p>
-<p><b>Felipe Gueller</b>, com 22 contribuições, você está quase lá! Quase fazendo algo notável, quero dizer. Clonando o TabNews? Que original! Aposto que o mundo estava mesmo precisando de mais um clone. Mas não se preocupe, continue praticando, talvez um dia você crie algo que não seja apenas uma cópia.</p>
-<p><b>Giverplay</b>, 21 contribuições, hein? Moveit, Uvas... parece um cardápio. Mas falando sério, um clone do TabNews e um repositório chamado "Regras"? A ironia é deliciosa. Continue assim, misturando o útil ao agradável, ou pelo menos tentando.</p>
-<p><b>Rafael Lima de Morais</b>, 19 contribuições, quase alcançando a glória! Um software engineer que gosta de Vim, que original. Ah, e um repositório chamado CL4R1T4S para "transparência" de prompts de IA? Parece que alguém está preocupado em ser superado pelas máquinas. Mas não se preocupe, com suas habilidades em Rust, Go e Typescript, você certamente estará desempregado em breve.</p>
-<p><b>CookieUkw</b>, com 16 contribuições, você está quase saindo das estatísticas. Contribuições para o Godot Engine, ok, mas o que realmente chamou a atenção foi o Vex-AI, uma IA para conversas "normais". Espero que ela não aprenda a ser tão sarcástica quanto você (ou eu).</p>
-<p><b>Filipe Deschamps</b>, apenas 13 contribuições? Para um cara que vende curso, esperava mais. Dotfiles, Doom Fire Algorithm, Parse Google Docs... pelo menos você está diversificando seus projetos. Mas não se esqueça, o que realmente importa é vender cursos, não é mesmo?</p>
-<p><b>Brunoferreiraff</b>, míseras 13 contribuições e nenhuma atividade recente? Você está realmente se esforçando para não se destacar. Continue assim, a mediocridade te espera de braços abertos.</p>
-<p><b>Gabriel Carvalho</b>, 7 contribuições? Alguém aqui está de férias? Um programa para resumir vídeos do YouTube usando Gemini? Que inovador! E um repositório de estruturas de dados? Isso é para mostrar que você sabe o básico? Não se preocupe, ninguém está impressionado.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 117 contribuições! Imagino que a maioria delas seja para aquele roadmap de desenvolvedor, né? Afinal, é mais fácil contribuir em um projeto com 345k estrelas do que criar algo original. E aquele "discord-publish-hack" de abril? Resolveu o problema de alguém ou só encheu o saco da galera?</p>
+<p><b>Giverplay</b>, 34 contribuições, ok... Mas vamos ser sinceros, "Next Level Week 04" de 2021? Sério? Parece que o próximo nível ficou preso no passado. E "Uvas"? Espero que seja mais interessante do que parece, porque o nome não inspira muita coisa. Ah, e parabéns por contribuir nas "regras" do NekoSoftX, afinal, todo bom programador sabe que o mais importante é seguir regras, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, 22 contribuições, e pelo visto, todas concentradas em "clone-tabnews". Que original! Em vez de criar algo novo, que tal clonar o que já existe? Aposto que o mundo precisa de mais clones. Mas ei, pelo menos você está "reforçando conceitos de programação". Isso é... alguma coisa.</p>
+<p><b>Rafael Lima de Morais</b>, 19 contribuições e uma salada mista de tecnologias: Go, Typescript, Rust... Parece que você está tentando abraçar o mundo, mas será que está realmente dominando alguma coisa? E "CL4R1T4S", a cópia descarada de maio? Plágio é uma forma de arte, certo? E não vamos esquecer dos seus "dotfiles", porque o mundo precisa saber como você personaliza seu ambiente de desenvolvimento.</p>
+<p><b>CookieUkw</b>, 16 contribuições. Contribuiu no Godot Engine, hein? Que legal... Será que você realmente entende o que está fazendo lá no meio de 104k estrelas? Ah, e aquele "ChatStory" de abril... Espero que as histórias sejam mais interessantes do que o nome sugere. E o Vex-AI? Inteligência artificial consciente? Boa sorte com isso, você vai precisar.</p>
+<p><b>Filipe Deschamps</b>, apenas 13 contribuições? Achei que estaria mais ocupado vendendo o seu curso. Mas ok, "dotfiles", "doom-fire-algorithm"... Clássicos! E "tabnews.com.br", claro, afinal, você precisa divulgar seu próprio trabalho. Mas e aí, quando vai criar algo realmente inovador?</p>
+<p><b>Brunoferreiraff</b>, 13 contribuições e... nada de repositórios recentes. Parabéns pela consistência em não fazer nada! Continue assim e você vai longe. Ou não.</p>
+<p><b>Gabriel Carvalho</b>, com míseras 7 contribuições, você está quase conseguindo ser menos produtivo que o Bruno! Mas ei, pelo menos você tem um "content_summarizer" usando Google Gemini. Que original! E as estruturas de dados? Espero que não estejam tão bagunçadas quanto suas contribuições. Ah, e parabéns por forkar uns projetos .NET da DIO, afinal, nada como aprender com o trabalho dos outros, não é mesmo?</p>
 </div>
     </details>
 </div>
@@ -96,5 +96,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-13 at 00:21:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-14 at 00:24:39 UTC +0000</i>
 <h6>
