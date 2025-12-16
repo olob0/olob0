@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>130 ctr.</td>
+                <td>133 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>12 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>8 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>7 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, hein? "Criador de soluções complexas e desenvolvedor de coisas fascinantes". Fascinante é usar um repo com quase 350k estrelas como atividade recente. Aposto que a solução mais complexa que você criou hoje foi decidir qual filtro usar naquela selfie.</p>
-<p><b>Giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Estranho é você achar que "Next Level Week 04" de 2021 ainda impressiona alguém. Seus projetos são como uvas: precisam de tempo para virar vinho, mas parecem ter ficado passas.</p>
-<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação". Que bom que está aprendendo, porque pelo visto ainda precisa. Clonar o Tabnews é um começo, mas e se tentasse criar algo original? Só uma sugestão, claro.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas linguagens e nenhum projeto realmente interessante. Seu repo "dotfiles" é a prova de que você gasta mais tempo personalizando o ambiente do que programando de verdade. Mas ei, pelo menos seu Vim está estiloso.</p>
-<p><b>CookieUkw</b>, sem bio, sem problemas. Mas contribuir no Godot Engine não te faz um gênio. Seu "ChatStory" é a prova de que nem toda história interativa merece ser contada. Quem sabe um dia a Vex-AI não te substitui, não é mesmo?</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Seus "dotfiles" de 2016 são a prova de que nem tudo que é velho é ouro. E o "doom-fire-algorithm"? Nostalgia não paga as contas, Filipe.</p>
-<p><b>Brunoferreiraff</b>, sem bio e sem repositórios recentes. Sua contribuição é tão invisível quanto um ninja em uma sala escura. Mas ei, pelo menos você está na lista, certo?</p>
-<p><b>Gabriel</b>, "Computer Technician... Full Stack Developer". Técnico em informática e Full Stack? Parece que alguém está tentando abraçar o mundo com as pernas. Mas onde estão os projetos? Ah, é, esqueci que você está ocupado demais sendo "Full Stack".</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico...". Curioso para saber por que seu "clone-tabnews-aluno" está parado desde fevereiro. Analítico o suficiente para perceber que seu projeto de "Turnover de colaboradores" precisa de uma repaginada. Mas ei, pelo menos você é pai e marido, né?</p>
-<p><b>Gabriel Carvalho</b>, nenhum projeto que se destaque muito. Mas ei, pelo menos você está tentando. Continue assim, quem sabe um dia você não sai do zero a zero. </p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, com 133 contribuições, parece que você está ocupado demais aprendendo sobre "roadmaps" para realmente construir alguma coisa. Ah, e aquele seu "discord-publish-hack"? Brilhante! Publicar no Discord é o futuro. E o TCC em Objective-C e Kotlin? Nostálgico, quase como se estivesse preso em 2010. Mas ei, pelo menos você tem um editor de save files para R.E.P.O. Isso sim é impactante.</p>
+<p><b>giverplay</b>, 34 contribuições, hein? "Next Level Week 04"... espero que você tenha chegado ao "next level" em alguma coisa desde janeiro. "Uvas" em Java? Que metáfora profunda! E "regras" em CSS e HTML? A rebeldia em forma de código. Mas não se preocupe, ninguém está realmente prestando atenção.</p>
+<p><b>Felipe Gueller</b>, 22 contribuições. "Aprendendo e reforçando conceitos de programação"... Em novembro ainda? Em 2025? Talvez seja hora de começar a aplicar esses conceitos em vez de só reforçá-los. Mas ei, pelo menos você está clonando o TabNews. Originalidade é superestimada, de qualquer forma.</p>
+<p><b>Rafael Lima de Morais</b>, com 20 contribuições, você parece estar indeciso entre Go, Typescript e Rust. Tantas opções, tão pouco tempo para realmente dominar alguma delas. E esses "dotfiles"... Aposto que são tão únicos quanto todos os outros. Mas parabéns pelo seu clone do CL4R1T4S, porque originalidade é para os fracos.</p>
+<p><b>CookieUkw</b>, 16 contribuições. Contribuindo para o Godot Engine? Que generosidade! Mas não vamos esquecer do seu "ChatStory". Porque o mundo realmente precisa de mais simulações de bate-papo. E o Vex-AI? A busca pela IA consciente... Boa sorte com isso. Você vai precisar.</p>
+<p><b>Filipe Deschamps</b>, apenas 13 contribuições? Achei que estaria mais ocupado vendendo cursos. Mas ok, "dotfiles" são importantes, afinal, precisamos personalizar nossos ambientes para procrastinar com estilo. E o algoritmo do fogo do DOOM? Clássico! Mas não se esqueça do "tabnews.com.br", afinal, conteúdo é rei. Ou seria isca?</p>
+<p><b>brunoferreiraff</b>, 13 contribuições e sem repositórios recentes? Espero que esteja contribuindo em segredo para algum projeto revolucionário. Ou talvez só esteja assistindo vídeos de gatinhos no YouTube. As duas opções são igualmente válidas.</p>
+<p><b>Luídi Pires</b>, com 12 contribuições e nenhum repositório recente, você está em modo stealth? Ou apenas esperando a poeira baixar para voltar a brilhar? De qualquer forma, mal posso esperar para ver o que você está aprontando (ou não).</p>
+<p><b>Gabriel</b>, 9 contribuições. Técnico em informática e Full Stack Developer? Impressionante! Pena que não há nada para vermos além disso. Mas não se preocupe, o mistério é sempre mais interessante.</p>
+<p><b>Deyved Antonio</b>, 8 contribuições. Analista de Dados, hein? Espero que suas análises sejam mais emocionantes do que seus repositórios. Um projeto de turnover de colaboradores? Que original! E um sistema de estoque em Python? Inovador! Mas ei, pelo menos você é pai e marido. Prioridades, certo?</p>
+<p><b>Gabriel Carvalho</b>, 7 contribuições. Um "content_summarizer" usando Google Gemini? Que ideia inovadora! Resumir conteúdo para que ninguém precise ler nada? Genial! E um desafio de projeto .NET? Que emocionante! Mas não se preocupe, ninguém está realmente prestando atenção.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-15 at 00:24:04 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-16 at 00:22:43 UTC +0000</i>
 <h6>
