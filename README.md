@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>143 ctr.</td>
+                <td>149 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,28 +40,28 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>15 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,8 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>7 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>12 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
+                <td>9 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -79,15 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, 143 contribuições? Parabéns, você é oficialmente o menos pior. Mas não se anime muito, porque a barra estava bem baixa. Contribuindo para o "developer-roadmap"? Que irônico, talvez você devesse seguir um antes de se perder no seu próprio código. E esse "discord-publish-hack"? Espero que não seja para espalhar notícias falsas, já temos problemas demais com isso. E para finalizar, um editor de save para R.E.P.O? Sério? É nisso que você gasta seu tempo? Mas continue assim, quem sabe um dia você chega lá.</p>
-<p><b>Giverplay</b>, com 35 contribuições, você está quase lá... quase alcançando a mediocridade. "Next Level Week 04"? Espero que sua próxima semana seja em um nível diferente, porque essa já passou. E "Uvas"? É um projeto sobre plantação de uvas ou você simplesmente gosta de comer uvas? E regras em CSS e HTML? Que tipo de regras são essas? Mas não desista, talvez um dia você consiga fazer algo realmente útil.</p>
-<p><b>Felipe Gueller</b>, 22 contribuições... Imagino que você esteja aprendendo e reforçando conceitos de programação desde que começou a programar, certo? Clonando o TabNews? Que original! Mas ei, pelo menos você está tentando, mesmo que seja para copiar o trabalho dos outros. Continue assim, quem sabe um dia você cria algo que não seja um clone.</p>
-<p><b>Rafael Lima de Morais</b>, 21 contribuições. Software Engineer? Sério? Seu repositório "rafazeero" tem 1 stargazer, imagino que seja sua mãe. "dotfiles"? Aposto que seus arquivos de configuração são tão confusos quanto sua escolha de linguagens: Go, Typescript, Rust... precisa decidir qual você quer aprender. E "CL4R1T4S"? Transparência para todos? Que nobre, pena que ninguém se importa. Mas não se preocupe, continue tentando impressionar as pessoas com suas habilidades "diversificadas".</p>
-<p><b>CookieUkw</b>, 17 contribuições. Contribuindo para a Godot Engine? Que legal, pena que ninguém nunca ouviu falar de você lá. "ChatStory"? Um simulador de bate-papo? Que ideia inovadora! E "Vex-AI"? Uma IA consciente? Boa sorte com isso, você vai precisar. Mas ei, pelo menos você está tentando criar algo, mesmo que seja uma IA que provavelmente vai dominar o mundo. Mas continue assim, quem sabe um dia você consegue criar algo que realmente preste.</p>
-<p><b>Brunoferreiraff</b>, 15 contribuições e nenhum repositório recente? Hmm, parece que alguém está apenas marcando presença. Você é tipo aquele figurante em um filme que ninguém lembra o nome. Mas não se preocupe, pelo menos você está na lista, mesmo que seja no final dela. Mas continue assim, quem sabe um dia você decide fazer algo além de existir.</p>
-<p><b>Deyved Antonio</b>, com 13 contribuições, você está quase alcançando o nível de "tanto faz". Analista de Dados? Que emocionante! Clonando o TabNews de novo? Sério? Parece que a originalidade não é o seu forte. E um projeto de análise de turnover? Espero que você não seja o próximo a sair da empresa. Mas não desista, talvez um dia você consiga analisar algo que realmente importe.</p>
-<p><b>Filipe Deschamps</b>, 13 contribuições... Surpreendentemente decepcionante, considerando que você quer que as pessoas se sintam competentes em programação. Seus "dotfiles" com 66 estrelas? Imagino que a maioria seja sua. "doom-fire-algorithm"? Sério? Isso é relevante em 2025? E "tabnews.com.br"? Ah, sim, o clone do clone. Mas ei, pelo menos você está ganhando dinheiro com isso, certo? Continue assim, quem sabe um dia você cria algo original o suficiente para não precisar de um curso.</p>
-<p><b>Gabriel Carvalho</b>, míseras 7 contribuições. "content_summarizer"? Que conveniente, já que você aparentemente não tem conteúdo próprio para contribuir. "data_structures"? Espero que você realmente entenda como elas funcionam, porque suas contribuições não mostram isso. E "trilha-net-fundamentos-desafio"? Parece que alguém está precisando de fundamentos. Mas não se preocupe, continue tentando, talvez um dia você consiga fazer algo que não seja um desafio para você mesmo.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, 149 contribuições? Uau, impressionante. Quase tão impressionante quanto o número de estrelas no <i>developer-roadmap</i>. Mas cá entre nós, quando foi a última vez que você realmente implementou algo em vez de só planejar?</p>
+<p><b>Giverplay</b>, 35 contribuições, ok. Mas vamos ser sinceros, o repositório "Uvas" não parece muito apetitoso. Talvez mais "Vinhos" e menos Java? Só uma sugestão, sabe, para dar um <i>up</i> no portfólio.</p>
+<p><b>Deyved Antonio</b>, 23 contribuições e um analista de dados. Espero que sua análise de dados sobre turnover não revele um padrão de baixa contribuição no GitHub. Afinal, o que os números realmente dizem sobre você?</p>
+<p><b>Felipe Gueller</b>, 22 contribuições, "reforçando conceitos de programação". Entendi, tipo um <i>Ctrl+C Ctrl+V</i> turbinado? Seus esforços são notáveis, quase tão notáveis quanto a falta de estrelas no seu <i>clone-tabnews</i>.</p>
+<p><b>Rafael Lima de Morais</b>, 21 contribuições. Vim, Go, Typescript, Rust... Quanta linguagem! Mas será que você realmente domina alguma ou só está colecionando? E <i>dotfiles</i>? Sério? Isso ainda existe?</p>
+<p><b>CookieUkw</b>, 17 contribuições. Contribuindo para o Godot Engine, hein? Aposto que seu código é tão divertido quanto parece. Só não se esqueça de equilibrar a diversão com resultados, a menos que seu objetivo seja apenas criar jogos que ninguém jogue.</p>
+<p><b>Brunoferreiraff</b>, 17 contribuições. Sua bio está em branco, assim como seus repositórios recentes. Uma tela em branco, esperando para ser preenchida com... algo? A escolha é sua, mas o tempo está passando.</p>
+<p><b>Filipe Deschamps</b>, 13 contribuições. Ah, o mestre do <i>curso.dev</i>. Esperava mais, sinceramente. Seus <i>dotfiles</i> devem estar bem organizados, mas e o resto? Está tudo tão perfeito que chega a ser suspeito.</p>
+<p><b>Luídi Pires</b>, 12 contribuições. Full Stack, hein? Mas cadê o código? Escondido em algum servidor secreto? Ou será que o "Full Stack" é só um título para impressionar no LinkedIn?</p>
+<p><b>Gabriel</b>, 9 contribuições. Técnico em informática e Full Stack. Deveria estar liderando essa lista, não? Menos conversa e mais código, talvez?</p>
+<p><b>Gabriel Carvalho</b>, 7 contribuições. Um <i>summarizer</i> de vídeos do YouTube com Google Gemini. Original... Quase tão original quanto usar um template de projeto da DIO. Quem sabe no próximo mês você sai do zero a zero?</p>
 </div>
     </details>
 </div>
@@ -102,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-17 at 00:21:44 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-18 at 00:19:19 UTC +0000</i>
 <h6>
