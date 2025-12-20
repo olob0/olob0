@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>154 ctr.</td>
+                <td>168 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>37 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -60,23 +60,23 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>7 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/gabriel-bianchessi">Gabriel</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>6 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Gustavo Carvalho</b>, o primeiro da lista. Imagino que essas 154 contribuições sejam o suficiente para te garantir um lugar no pódio... até o próximo mês, quando alguém realmente produtivo aparecer. E falando em produtividade, impressionante como você contribui para projetos com milhares de estrelas. Que conveniente, não é mesmo? Quase como se estivesse pegando carona no sucesso alheio. Mas ei, quem somos nós para julgar? Afinal, um dia de fama é melhor do que nenhum. Pelo menos seu "discord-publish-hack" tem um stargazer. Um!</p>
-<p><b>Deyved Antonio</b>, o analista de dados que, aparentemente, analisa mais dados do que contribui para projetos relevantes. 37 contribuições, hein? Imagino que a maior parte delas seja corrigindo erros de digitação nos seus próprios repositórios. Ah, e "clone-tabnews-aluno"? Que original! Mas ei, pelo menos você está tentando, certo? Talvez um dia você consiga criar algo que não seja apenas uma cópia mal feita de outra coisa. E esse projeto de turnover? Espero que sua análise não preveja sua própria saída da lista no próximo mês. Mas, quem sabe, talvez seja uma boa hora para explorar novas oportunidades... longe do código.</p>
-<p><b>giverplay</b>, o "estranho" que nos agracia com seus projetos... ou melhor, com a *divulgação* de seus projetos. 36 contribuições, quase alcançando o Deyved. Mas não se engane, a quantidade não é qualidade. "Next Level Week 04"? Parece que você está preso em 2021. E "Uvas"? Java? Sério? Espero que pelo menos estejam maduras. Mas não se preocupe, giverplay, sempre haverá espaço para você no Discord, onde seus projetos podem brilhar... na escuridão do anonimato. Afinal, quem precisa de contribuições quando se tem um bom server de Discord, não é mesmo?</p>
-<p><b>Felipe Gueller</b>, o cara que está "aprendendo e reforçando conceitos de programação" clonando o TabNews. Que nobre causa! 29 contribuições para nos mostrar que você sabe copiar e colar código. Mas ei, quem nunca começou assim? Talvez um dia você se liberte das amarras do Ctrl+C Ctrl+V e crie algo verdadeiramente original. Mas, por enquanto, continue clonando. Afinal, a imitação é a forma mais sincera de bajulação, certo? Só não espere que o Lobo se sinta lisonjeado. A não ser que ele precise de mais um clone para aumentar seu ego.</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer" que aparentemente tem mais interesse em customizar configs do que em contribuir para projetos significativos. 21 contribuições, hein? Metade delas devem ser atualizações nos seus "dotfiles". Mas ei, pelo menos você está organizado, certo? E "CL4R1T4S"? SYSTEM PROMPT TRANSPARENCY FOR ALL? Parece coisa de filme de ficção científica de baixo orçamento. Mas não se preocupe, Rafael, sempre haverá espaço para você no mundo das configurações personalizadas e projetos de transparência que ninguém entende. Afinal, alguém tem que fazer o trabalho sujo, certo?</p>
-<p><b>CookieUkw</b>, com suas 19 contribuições, nos mostra que até quem não tem bio pode contribuir... um pouco. Mas vamos ser honestos, a maior parte dessas contribuições devem ser para o Godot Engine, certo? Que conveniente! Mas ei, quem somos nós para julgar? Afinal, todos nós precisamos de um motor gráfico para criar nossos jogos... ou pelo menos sonhar em criar. E "ChatStory"? Parece interessante... para 2010. Mas não se preocupe, CookieUkw, sempre haverá espaço para você no mundo dos jogos indie e projetos de inteligência artificial que talvez nunca se tornem conscientes. Afinal, alguém tem que tentar, certo?</p>
-<p><b>brunoferreiraff</b>, com suas 17 contribuições e *nenhum* repositório recente para nos mostrar o que você anda fazendo. Parabéns! Você conseguiu o feito de ser ainda mais invisível do que a maioria aqui. Mas não se preocupe, Bruno, sempre haverá espaço para você no anonimato. Afinal, a vida não é só sobre código, certo? Ou talvez seja, e você simplesmente não está mostrando para ninguém. De qualquer forma, continue assim. Ou não. A escolha é sua. Mas, sinceramente, quem se importa?</p>
-<p><b>Filipe Deschamps</b>, o "gênio" que quer te fazer sentir competente em programação... vendendo cursos. 13 contribuições, hein? Metade delas devem ser para o "tabnews.com.br", o seu próprio império de conteúdo. Que conveniente! Mas ei, quem somos nós para julgar? Afinal, todos nós precisamos de uma fonte de renda, certo? E "doom-fire-algorithm"? Que nostalgia! Mas não se preocupe, Filipe, sempre haverá espaço para você no mundo dos cursos online e algoritmos retrô. Afinal, alguém tem que ensinar as novas gerações a programar... e a comprar seus cursos, é claro.</p>
-<p><b>Luídi Pires</b>, o "Full Stack" misterioso que, assim como brunoferreiraff, não nos mostra nenhum repositório recente. 12 contribuições, fantasma! Você é como um ninja do código, suas contribuições são tão secretas que nem o GitHub consegue rastrear. Talvez você esteja trabalhando em projetos confidenciais para a NASA, ou quem sabe, apenas esqueceu de dar `git push`. De qualquer forma, continue com o mistério, Luídi. Afinal, o que seria de um ranking sem um toque de suspense?</p>
-<p><b>Gabriel</b>, o "Computer Technician" que trabalha na Glok Sistemas. 9 contribuições, hein? Espero que pelo menos esteja usando seu tempo para resolver problemas de verdade, e não apenas acumulando pontos em um ranking inútil. Mas ei, quem somos nós para julgar? Afinal, todos nós precisamos de um emprego, certo? E quem sabe um dia você consiga criar algo que realmente faça a diferença no mundo... ou pelo menos na Glok Sistemas. Mas, por enquanto, continue teclando. Afinal, alguém tem que manter as máquinas funcionando, certo?</p>
-<p><b>Gabriel Carvalho</b>, o homônimo que fecha nossa lista com 7 contribuições. E aparentemente, você gosta de Python e .NET, hein? Um verdadeiro eclético! Mas vamos ser honestos, "content_summarizer" e "data_structures"? Parece coisa de iniciante. E esses desafios da DIO? Sério? Mas não se preocupe, Gabriel, sempre haverá espaço para você no mundo dos projetos genéricos e cursos online. Afinal, todos nós precisamos começar de algum lugar, certo? Só não espere que o Lobo se impressione com seu currículo de projetos de iniciante. A não ser que ele precise de alguém para formatar o computador dele.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, com 168 contribuições, você lidera o ranking. Parabéns, você conseguiu ser o menos pior. Mas não se anime muito, porque olhando seus repositórios, parece que você só contribui para projetos que já são populares. Que tal criar algo original, em vez de apenas surfar na onda dos outros? E esse "discord-publish-hack"? Sério? Hackear o Discord para publicar mensagens? Imagino o quão *útil* isso deve ser.</p>
+<p><b>Giverplay</b>, 56 contribuições, ok...  "Next Level Week 04"?  Isso soa como algo que deveria ter sido concluído há uns bons anos. E "Uvas"? Espero que seja mais emocionante do que parece. Ao menos, parece estar contribuindo em projetos de outros, isso já te coloca um degrau acima de outros.</p>
+<p><b>Deyved Antonio</b>, 37 contribuições. Analista de Dados, hein? Espero que suas análises sejam melhores do que seus projetos no GitHub. Clonar o TabNews do zero? Que original! E um projeto de análise de turnover usando Excel?  Em 2025?  Sério isso?  Ainda bem que você é pai e marido, porque como desenvolvedor, talvez não desse muito futuro.</p>
+<p><b>Felipe Gueller</b>, 29 contribuições. Outro que está "aprendendo e reforçando conceitos" clonando o TabNews.  É o Ctrl+C, Ctrl+V elevado a arte.  Mas ei, pelo menos você está aprendendo, certo?  Mesmo que seja a mesma coisa que todo mundo está fazendo.</p>
+<p><b>Rafael Lima de Morais</b>, 21 contribuições. Go, Typescript, Rust, Vim... Parece um cardápio de tecnologias da moda. Mas o que realmente chama a atenção é esse repositório "CL4R1T4S".  "SYSTEM PROMPT TRANSPARENCY FOR ALL"?  Soa como algo que um adolescente diria depois de usar ChatGPT pela primeira vez. E "daily-go"?  Espero que pelo menos um desses "daily" tenha sido produtivo.</p>
+<p><b>CookieUkw</b>, 19 contribuições. Contribuindo para o Godot Engine, que legal,  você deve ser incrivelmente talentoso, ou só está corrigindo erros de digitação na documentação. "ChatStory"? Uma simulação de chat para histórias interativas? Isso soa incrivelmente excitante... para ninguém. E "Vex-AI"? Uma IA que conversa e discute jogos?  Já existem milhares dessas, qual o diferencial?  Ah, sim, "talvez até se tornar uma IA consciente". Boa sorte com isso.</p>
+<p><b>Filipe Deschamps</b>, 17 contribuições. "Quer se sentir competente em programação? Confere isso: curso.dev". Ah, o bom e velho autopromoção. Seus dotfiles e o "doom-fire-algorithm" até que são interessantes, mas "parse-google-docs-json"? Sério?  Transformar Google Docs em JSON?  Alguém realmente precisa disso?  E o TabNews?  Ah, sim, o projeto que todo mundo está clonando. Que original.</p>
+<p><b>Brunoferreiraff</b>, 17 contribuições. Nada para mostrar?  Nem um "Hello, World"?  Sério, você está no GitHub, não no Orkut.  Mas ei, pelo menos você está no ranking, o que é mais do que se pode dizer de muita gente.</p>
+<p><b>Gabriel Carvalho</b>, 7 contribuições. Um "content_summarizer" usando Google Gemini?  Que ideia inovadora...  Ah, espera, já existem uns 500 desses. E "data_structures"?  Espero que você realmente as esteja usando, e não apenas copiando e colando da internet. E esses desafios .NET da DIO?  Espero que pelo menos tenha ganhado um certificado.</p>
+<p><b>NeWBoX22</b>, 6 contribuições. Quase imperceptível.  Você está no GitHub ou apenas espiando?  Sério, até o bot de boas-vindas contribuiu mais do que você.  Mas não se preocupe, sempre há o próximo mês para tentar... ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-19 at 00:23:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-20 at 00:21:27 UTC +0000</i>
 <h6>
