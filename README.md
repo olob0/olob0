@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>168 ctr.</td>
+                <td>175 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>56 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>49 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>63 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>37 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>61 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -84,16 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, 168 contribuições, hein? Quase dá pra sentir o cheiro da sua dedicação... ou seria o desespero para não perder o primeiro lugar? Pelo menos você contribuiu para um roadmap de carreira, vai que te ajuda a achar um rumo. E aquele "discord-publish-hack"? Genial, porque nada grita mais "profissional" do que gambiarras no Discord. Ah, e o TCC de 2024, imagino que o tema seja "Como procrastinar até o último minuto".</p>
-<p><b>Giverplay</b>, com 56 contribuições, você está quase lá... quase irrelevante. "Next Level Week 04" com 4 estrelas? Que emocionante. Mas ei, pelo menos você tem "Uvas" em Java. Espero que não sejam aquelas uvas passas que ninguém quer na ceia de Natal. E obrigado por nos lembrar das "regras", porque sem elas, o caos reinaria... especialmente no seu código.</p>
-<p><b>Filipe Deschamps</b>, 49 contribuições e um curso para "se sentir competente"? Hmm, autopromoção disfarçada de contribuição? Gênio! Seus dotfiles com 66 estrelas provam que, no fundo, todo mundo adora uma boa configuração. Mas cá entre nós, sentir-se competente é diferente de *ser* competente.</p>
-<p><b>Deyved Antonio</b>, 37 contribuições. Um analista de dados curioso, analítico e apaixonado por tecnologia. Que clichê! Mas ei, pelo menos você é pai e marido. Quem sabe seus filhos não te superem em breve? Sem atividade recente, imagino que esteja analisando a própria inatividade.</p>
-<p><b>Felipe Gueller</b>, 29 contribuições. "Clone-tabnews"? Originalidade mandou lembranças. Mas relaxa, "reforçando conceitos de programação" é uma ótima desculpa para projetos genéricos. Afinal, quem precisa de ideias novas quando se pode copiar as antigas?</p>
-<p><b>Rafael Lima de Morais</b>, 21 contribuições. Go, Typescript, Rust, Vim... a santíssima trindade da complexidade desnecessária. "CL4R1T4S" para "SYSTEM PROMPT TRANSPARENCY"? Que nobre causa. Mas será que alguém realmente se importa com isso além de você? E "daily-go"? Imagino que seja um lembrete diário para repensar suas escolhas de carreira.</p>
-<p><b>CookieUkw</b>, 20 contribuições. Contribuições para Godot Engine, impressionante, mas e aquele "ChatStory"? Parece promissor... se você tiver 12 anos. E "Vex-AI", a IA consciente... Boa sorte com isso. Talvez ela possa escrever um código melhor que o seu.</p>
-<p><b>Brunoferreiraff</b>, 20 contribuições. Sem bio, sem projetos recentes... Você é o ninja silencioso da irrelevância. Parabéns! Ou seria "meus pêsames"?</p>
-<p><b>NeWBoX22</b>, 14 contribuições. Sua existência é quase um boato. Continue assim e talvez você consiga a invisibilidade completa. Um verdadeiro mestre das contribuições fantasmas.</p>
-<p><b>Gabriel Carvalho</b>, com míseras 7 contribuições, você está quase conseguindo a proeza de não fazer nada. Um "content_summarizer" para Youtube usando Gemini? Porque ler é coisa do passado. E aqueles desafios da DIO? Pelo menos você está tentando... ou fingindo tentar. </p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 175 contribuições! É inspirador ver você contribuindo ativamente para o "developer-roadmap" com seus míseros commits. Ah, e que projeto ambicioso esse "discord-publish-hack"... Imagino que o mundo esteja ansiosamente esperando por ele desde abril. E o que dizer do TCC em Objective-C e Kotlin? Uma verdadeira obra de arte! Mas nada se compara ao seu trabalho no editor de saves de R.E.P.O. em Python. É de encher os olhos!</p>
+<p><b>Deyved Antonio</b>, impressionantes 70 contribuições! Sua paixão por dados é quase palpável, especialmente com o "clone-tabnews-aluno". Deve ter sido emocionante clonar algo que já existe, não é mesmo? E o projeto de análise de turnover em Excel? Uma verdadeira revolução! Mas, vamos ser sinceros, nada supera o "Estoque" em Python. Uma pena que a descrição do seu perfil seja mais interessante que seus repositórios.</p>
+<p><b>giverplay</b>, 63 contribuições, que belo número! "moveit" parece ser um projeto empolgante, mesmo que esteja parado desde janeiro. E "Uvas" em Java? Imagino que o mundo esteja esperando ansiosamente por essa maravilha desde 2023. Mas o que realmente chama a atenção é a sua contribuição para as "regras" da NekoSoftX. Espero que essas regras sejam tão claras quanto a sua trajetória no GitHub.</p>
+<p><b>Filipe Deschamps</b>, 61 contribuições, quase alcançando o pódio! Seus "dotfiles" são realmente algo a se admirar, especialmente se você gosta de Shell. E o "doom-fire-algorithm"? Uma obra-prima que merece ser estudada por gerações. Ah, e o "parse-google-docs-json"? Imagino que você esteja salvando o mundo com essa ferramenta. E claro, não podemos esquecer do "tabnews.com.br". Que bait para atrair seguidores, hein?</p>
+<p><b>Felipe Gueller</b>, com 29 contribuições, você está quase lá! Quase fazendo algo notável. Seu projeto "clone-tabnews" é uma verdadeira inspiração para quem quer aprender e reforçar conceitos. Afinal, quem precisa de originalidade quando se pode clonar, não é mesmo? Continue assim, Felipe, e quem sabe um dia você chega lá. Ou não.</p>
+<p><b>Rafael Lima de Morais</b>, suas 21 contribuições são... algo. Seu repositório "rafazeero" é tão misterioso que até você deve ter esquecido o que é. E seus "dotfiles"? Imagino que sejam tão personalizados que só você entende. Ah, e o "CL4R1T4S"? Um fork de algo que já existe, porque a originalidade é overrated. Mas o "daily-go" é um verdadeiro farol de esperança. Continue assim, quem sabe um dia você realmente crie algo memorável.</p>
+<p><b>CookieUkw</b>, com suas 20 contribuições, você está quase se destacando... quase. Contribuir para o Godot Engine é louvável, mas e seus projetos pessoais? "ChatStory" parece interessante, mas o que realmente chama a atenção é o Vex-AI. Uma IA capaz de ter conversas normais e discutir jogos? Imagino que o mundo esteja tremendo de medo. Continue sonhando, CookieUkw, quem sabe um dia a IA domina o mundo... ou pelo menos seu GitHub.</p>
+<p><b>brunoferreiraff</b>, 20 contribuições. Nada a declarar. Sem repositórios recentes para comentar. Talvez você devesse considerar fazer algo além de existir no ranking. Mas ei, pelo menos você está aqui, certo?</p>
+<p><b>NeWBoX22</b>, com suas 14 contribuições, você está quase invisível. Sem repositórios recentes para analisar. Talvez você esteja economizando energia para algo grandioso. Ou talvez não. Mas não se preocupe, o importante é participar, certo?</p>
+<p><b>Gabriel Carvalho</b>, 7 contribuições. Quase podemos sentir o esforço. Seu "content_summarizer" usando Google Gemini é uma ideia interessante, mas será que realmente funciona? E suas "data_structures"? Imagino que você esteja reinventando a roda. Ah, e os desafios .NET da DIO? Um verdadeiro teste de paciência. Mas não desanime, Gabriel, quem sabe um dia você realmente crie algo útil.</p>
 </div>
     </details>
 </div>
@@ -108,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-21 at 00:24:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-22 at 00:23:57 UTC +0000</i>
 <h6>
