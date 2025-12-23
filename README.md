@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>175 ctr.</td>
+                <td>176 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>70 ctr.</td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>63 ctr.</td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,17 +51,17 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>29 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>20 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -71,12 +71,12 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>14 ctr.</td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>7 ctr.</td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 175 contribuições! É inspirador ver você contribuindo ativamente para o "developer-roadmap" com seus míseros commits. Ah, e que projeto ambicioso esse "discord-publish-hack"... Imagino que o mundo esteja ansiosamente esperando por ele desde abril. E o que dizer do TCC em Objective-C e Kotlin? Uma verdadeira obra de arte! Mas nada se compara ao seu trabalho no editor de saves de R.E.P.O. em Python. É de encher os olhos!</p>
-<p><b>Deyved Antonio</b>, impressionantes 70 contribuições! Sua paixão por dados é quase palpável, especialmente com o "clone-tabnews-aluno". Deve ter sido emocionante clonar algo que já existe, não é mesmo? E o projeto de análise de turnover em Excel? Uma verdadeira revolução! Mas, vamos ser sinceros, nada supera o "Estoque" em Python. Uma pena que a descrição do seu perfil seja mais interessante que seus repositórios.</p>
-<p><b>giverplay</b>, 63 contribuições, que belo número! "moveit" parece ser um projeto empolgante, mesmo que esteja parado desde janeiro. E "Uvas" em Java? Imagino que o mundo esteja esperando ansiosamente por essa maravilha desde 2023. Mas o que realmente chama a atenção é a sua contribuição para as "regras" da NekoSoftX. Espero que essas regras sejam tão claras quanto a sua trajetória no GitHub.</p>
-<p><b>Filipe Deschamps</b>, 61 contribuições, quase alcançando o pódio! Seus "dotfiles" são realmente algo a se admirar, especialmente se você gosta de Shell. E o "doom-fire-algorithm"? Uma obra-prima que merece ser estudada por gerações. Ah, e o "parse-google-docs-json"? Imagino que você esteja salvando o mundo com essa ferramenta. E claro, não podemos esquecer do "tabnews.com.br". Que bait para atrair seguidores, hein?</p>
-<p><b>Felipe Gueller</b>, com 29 contribuições, você está quase lá! Quase fazendo algo notável. Seu projeto "clone-tabnews" é uma verdadeira inspiração para quem quer aprender e reforçar conceitos. Afinal, quem precisa de originalidade quando se pode clonar, não é mesmo? Continue assim, Felipe, e quem sabe um dia você chega lá. Ou não.</p>
-<p><b>Rafael Lima de Morais</b>, suas 21 contribuições são... algo. Seu repositório "rafazeero" é tão misterioso que até você deve ter esquecido o que é. E seus "dotfiles"? Imagino que sejam tão personalizados que só você entende. Ah, e o "CL4R1T4S"? Um fork de algo que já existe, porque a originalidade é overrated. Mas o "daily-go" é um verdadeiro farol de esperança. Continue assim, quem sabe um dia você realmente crie algo memorável.</p>
-<p><b>CookieUkw</b>, com suas 20 contribuições, você está quase se destacando... quase. Contribuir para o Godot Engine é louvável, mas e seus projetos pessoais? "ChatStory" parece interessante, mas o que realmente chama a atenção é o Vex-AI. Uma IA capaz de ter conversas normais e discutir jogos? Imagino que o mundo esteja tremendo de medo. Continue sonhando, CookieUkw, quem sabe um dia a IA domina o mundo... ou pelo menos seu GitHub.</p>
-<p><b>brunoferreiraff</b>, 20 contribuições. Nada a declarar. Sem repositórios recentes para comentar. Talvez você devesse considerar fazer algo além de existir no ranking. Mas ei, pelo menos você está aqui, certo?</p>
-<p><b>NeWBoX22</b>, com suas 14 contribuições, você está quase invisível. Sem repositórios recentes para analisar. Talvez você esteja economizando energia para algo grandioso. Ou talvez não. Mas não se preocupe, o importante é participar, certo?</p>
-<p><b>Gabriel Carvalho</b>, 7 contribuições. Quase podemos sentir o esforço. Seu "content_summarizer" usando Google Gemini é uma ideia interessante, mas será que realmente funciona? E suas "data_structures"? Imagino que você esteja reinventando a roda. Ah, e os desafios .NET da DIO? Um verdadeiro teste de paciência. Mas não desanime, Gabriel, quem sabe um dia você realmente crie algo útil.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar! Com 176 contribuições, você quase consegue disfarçar o fato de que metade delas foram em um roadmap de 2017. Sério, ainda está aprendendo Shell e CSS em 2025? E o "discord-publish-hack" de 2022 com 1 stargazer? Genial. Ah, e claro, não vamos esquecer do TCC em Objective-C e Kotlin, porque nada grita "relevância" como tecnologias que ninguém usa mais. Mas ei, pelo menos você editou um save de R.E.P.O em setembro. Isso sim é impacto.</p>
+<p><b>Deyved Antonio</b>, com suas 74 contribuições, você divide o segundo lugar! Que belo clone do Tabnews, hein? Atualizado pela última vez em fevereiro, imagino que já esteja pronto para revolucionar a internet. E o projeto de análise de turnover em Excel? Absolutamente inovador. Mas não se preocupe, o importante é se sentir um "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido.". Ah, e o repositório "Estoque" em Python, com atualização em 2024, mostra que você está super atualizado com as tecnologias de ponta. Continue assim!</p>
+<p><b>Giverplay</b>, também com 74 contribuições, mas será que essas contribuições são tão "impactantes" quanto o seu perfil sugere? "Next Level Week 04" de 2021? Isso soa como algo que você deveria ter superado há muito tempo. E "Uvas" em Java? Criativo, mas espero que não seja para fazer suco. Ah, e não vamos esquecer das "regras" em CSS e HTML. Porque, sabe, o mundo precisa de mais regras formatadas com estilo. Pelo menos seu Discord está ali, esperando por estranhos.</p>
+<p><b>Filipe Deschamps</b>, olha só, o guru da programação! Apenas 61 contribuições? Estaria você muito ocupado demais vendendo cursos para realmente programar? Dotfiles de 2016? Sério? E o "doom-fire-algorithm"? Nostálgico, mas um tanto... datado. Pelo menos o "parse-google-docs-json" ainda é relevante, mesmo que só um pouquinho. E claro, o Tabnews, que você atualiza constantemente para garantir que todos saibam o quão ocupado você está. Mas ei, pelo menos você tem mais stargazers do que todos os outros juntos. Isso deve significar alguma coisa.</p>
+<p><b>Felipe Gueller</b>, com suas modestas 40 contribuições, você está claramente focado em "aprender e reforçar conceitos de programação". E qual a melhor maneira de fazer isso? Clonando o Tabnews, é claro! Atualizado pela última vez em novembro, imagino que esteja quase pronto para lançar sua própria versão. Mas ei, pelo menos você está aprendendo. Isso é... alguma coisa.</p>
+<p><b>CookieUkw</b>, 22 contribuições? Pelo menos você contribuiu para o Godot Engine, o que é mais do que a maioria pode dizer. Mas o "ChatStory" com 4 stargazers? Parece que sua simulação de bate-papo interativo não está exatamente bombando. E o "Vex-AI"? Uma IA que discute jogos e "assuntos interessantes"? Ambicioso, mas talvez um pouco demais. Mas ei, pelo menos você está tentando criar uma IA consciente. Isso é... admirável?</p>
+<p><b>Rafael Lima de Morais</b>, com suas 21 contribuições, você parece estar mais interessado em "Software Engineer | Go | Typescript | Rust | Vim". Mas o que você realmente fez? Um repositório pessoal chamado "rafazeero"? Original. E "dotfiles" atualizados em outubro? Que emoção. Ah, e não vamos esquecer do "CL4R1T4S", um fork para "TRANSPARÊNCIA DO PROMPT DO SISTEMA PARA TODOS!" Porque, sabe, o mundo precisa disso. Mas ei, pelo menos você está usando Go. Isso é... moderno?</p>
+<p><b>brunoferreiraff</b>, 20 contribuições e nenhum repositório recente? Estaria você no modo stealth, planejando sua dominação mundial em segredo? Ou talvez apenas esquecendo de commitar? De qualquer forma, continue contribuindo. Ou não. Tanto faz.</p>
+<p><b>NeWBoX22</b>, 16 contribuições e nada para mostrar? Talvez você seja o gênio silencioso, trabalhando em algo tão revolucionário que ainda não pode ser revelado ao mundo. Ou talvez você esteja apenas procrastinando. De qualquer forma, o mistério é intrigante. Continue mantendo o suspense.</p>
+<p><b>Gabriel Carvalho</b>, com apenas 8 contribuições, você está quase no fim da lista. Mas ei, pelo menos você tem um "content_summarizer" que usa o Google Gemini. Porque, sabe, quem precisa ler artigos longos quando você pode ter um resumo feito por IA? E as "data_structures" em Python? Essencial. Ah, e não vamos esquecer dos forks de desafios .NET. Porque nada diz "originalidade" como copiar o trabalho dos outros. Mas ei, pelo menos você está tentando. Isso é... algo.</p>
 </div>
     </details>
 </div>
@@ -108,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-22 at 00:23:57 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-23 at 00:22:40 UTC +0000</i>
 <h6>
