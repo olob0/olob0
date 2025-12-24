@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>176 ctr.</td>
+                <td>185 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -46,37 +46,37 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>61 ctr.</td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>40 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>20 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
-                <td>16 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>16 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar! Com 176 contribuições, você quase consegue disfarçar o fato de que metade delas foram em um roadmap de 2017. Sério, ainda está aprendendo Shell e CSS em 2025? E o "discord-publish-hack" de 2022 com 1 stargazer? Genial. Ah, e claro, não vamos esquecer do TCC em Objective-C e Kotlin, porque nada grita "relevância" como tecnologias que ninguém usa mais. Mas ei, pelo menos você editou um save de R.E.P.O em setembro. Isso sim é impacto.</p>
-<p><b>Deyved Antonio</b>, com suas 74 contribuições, você divide o segundo lugar! Que belo clone do Tabnews, hein? Atualizado pela última vez em fevereiro, imagino que já esteja pronto para revolucionar a internet. E o projeto de análise de turnover em Excel? Absolutamente inovador. Mas não se preocupe, o importante é se sentir um "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido.". Ah, e o repositório "Estoque" em Python, com atualização em 2024, mostra que você está super atualizado com as tecnologias de ponta. Continue assim!</p>
-<p><b>Giverplay</b>, também com 74 contribuições, mas será que essas contribuições são tão "impactantes" quanto o seu perfil sugere? "Next Level Week 04" de 2021? Isso soa como algo que você deveria ter superado há muito tempo. E "Uvas" em Java? Criativo, mas espero que não seja para fazer suco. Ah, e não vamos esquecer das "regras" em CSS e HTML. Porque, sabe, o mundo precisa de mais regras formatadas com estilo. Pelo menos seu Discord está ali, esperando por estranhos.</p>
-<p><b>Filipe Deschamps</b>, olha só, o guru da programação! Apenas 61 contribuições? Estaria você muito ocupado demais vendendo cursos para realmente programar? Dotfiles de 2016? Sério? E o "doom-fire-algorithm"? Nostálgico, mas um tanto... datado. Pelo menos o "parse-google-docs-json" ainda é relevante, mesmo que só um pouquinho. E claro, o Tabnews, que você atualiza constantemente para garantir que todos saibam o quão ocupado você está. Mas ei, pelo menos você tem mais stargazers do que todos os outros juntos. Isso deve significar alguma coisa.</p>
-<p><b>Felipe Gueller</b>, com suas modestas 40 contribuições, você está claramente focado em "aprender e reforçar conceitos de programação". E qual a melhor maneira de fazer isso? Clonando o Tabnews, é claro! Atualizado pela última vez em novembro, imagino que esteja quase pronto para lançar sua própria versão. Mas ei, pelo menos você está aprendendo. Isso é... alguma coisa.</p>
-<p><b>CookieUkw</b>, 22 contribuições? Pelo menos você contribuiu para o Godot Engine, o que é mais do que a maioria pode dizer. Mas o "ChatStory" com 4 stargazers? Parece que sua simulação de bate-papo interativo não está exatamente bombando. E o "Vex-AI"? Uma IA que discute jogos e "assuntos interessantes"? Ambicioso, mas talvez um pouco demais. Mas ei, pelo menos você está tentando criar uma IA consciente. Isso é... admirável?</p>
-<p><b>Rafael Lima de Morais</b>, com suas 21 contribuições, você parece estar mais interessado em "Software Engineer | Go | Typescript | Rust | Vim". Mas o que você realmente fez? Um repositório pessoal chamado "rafazeero"? Original. E "dotfiles" atualizados em outubro? Que emoção. Ah, e não vamos esquecer do "CL4R1T4S", um fork para "TRANSPARÊNCIA DO PROMPT DO SISTEMA PARA TODOS!" Porque, sabe, o mundo precisa disso. Mas ei, pelo menos você está usando Go. Isso é... moderno?</p>
-<p><b>brunoferreiraff</b>, 20 contribuições e nenhum repositório recente? Estaria você no modo stealth, planejando sua dominação mundial em segredo? Ou talvez apenas esquecendo de commitar? De qualquer forma, continue contribuindo. Ou não. Tanto faz.</p>
-<p><b>NeWBoX22</b>, 16 contribuições e nada para mostrar? Talvez você seja o gênio silencioso, trabalhando em algo tão revolucionário que ainda não pode ser revelado ao mundo. Ou talvez você esteja apenas procrastinando. De qualquer forma, o mistério é intrigante. Continue mantendo o suspense.</p>
-<p><b>Gabriel Carvalho</b>, com apenas 8 contribuições, você está quase no fim da lista. Mas ei, pelo menos você tem um "content_summarizer" que usa o Google Gemini. Porque, sabe, quem precisa ler artigos longos quando você pode ter um resumo feito por IA? E as "data_structures" em Python? Essencial. Ah, e não vamos esquecer dos forks de desafios .NET. Porque nada diz "originalidade" como copiar o trabalho dos outros. Mas ei, pelo menos você está tentando. Isso é... algo.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, impressionantes 185 contribuições! Quase dá para notar sua presença. Ah, e parabéns por contribuir em um roadmap de desenvolvedor. Espero que você esteja usando ele para te guiar, porque pelo visto, o "discord-publish-hack" e o "tcc-final" não estão te levando muito longe, não é mesmo?</p>
+<p><b>Deyved Antonio</b>, 74 contribuições, que beleza! Vejo que você é analista de dados, mas será que consegue analisar seus próprios projetos? Um clone do Tabnews e um projeto de turnover em Excel? Brilhante! Continue assim, Deyved, quem sabe um dia você descobre como usar um banco de dados.</p>
+<p><b>giverplay</b>, 74 contribuições também? Que coincidência... ou será que você está tentando acompanhar o Deyved? "Next Level Week 04" de 2021? Sério? E "Uvas" em Java? Espero que pelo menos as uvas estejam maduras, porque seu código parece que está passando da validade. Ah, e obrigado por compartilhar as regras da NekoSoftX, precisávamos de mais regras no mundo.</p>
+<p><b>Filipe Deschamps</b>, 69 contribuições, quase lá! Vejo que você tem um "doom-fire-algorithm". Interessante... Talvez você devesse usar esse fogo para queimar alguns dos seus projetos antigos, como o "dotfiles" de 2016. E "tabnews.com.br" com PLpgSQL e HCL? Que combinação exótica! Mas ei, pelo menos você tem um curso.dev para se sentir competente, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, com 44 contribuições, você está quase na metade do caminho! "Aprendendo e reforçando conceitos de programação" com um clone do Tabnews? Que original! Continue clonando, Felipe, quem sabe um dia você cria algo seu.</p>
+<p><b>Luídi Pires</b>, 23 contribuições, um verdadeiro mestre Full Stack! Pena que não há nenhum repositório recente para admirar suas habilidades. Mas não se preocupe, Luídi, o importante é a intenção. Continue acumulando poeira digital!</p>
+<p><b>CookieUkw</b>, 22 contribuições! Impressionante como você consegue contribuir para o Godot Engine e ainda ter tempo para criar um "ChatStory" e uma "Vex-AI". Mas sério, Cookie, talvez seja hora de focar em um projeto de cada vez, ou sua IA vai acabar discutindo jogos para sempre.</p>
+<p><b>Rafael Lima de Morais</b>, 21 contribuições! Go, Typescript, Rust, Vim... Uau, que currículo! Pena que seus repositórios não mostram muito disso. "CL4R1T4S"? Sério? E "daily-go" com commits espaçados? Parece que alguém está mais interessado em colecionar tecnologias do que em usá-las.</p>
+<p><b>brunoferreiraff</b>, 21 contribuições também? Que inveja! Pena que seu perfil é tão vazio quanto um servidor sem deploy. Mas ei, o importante é participar, certo?</p>
+<p><b>NeWBoX22</b>, com míseras 16 contribuições, você está quase conseguindo a proeza de não fazer nada! Sem bio, sem repositórios recentes... Parabéns por alcançar o nirvana da inatividade!</p>
+<p><b>Gabriel</b>, 9 contribuições? É isso mesmo? Você é técnico em informática e desenvolvedor Full Stack? Que tal começar a usar suas habilidades para contribuir com algo, em vez de apenas existir no ranking? Mas não se preocupe, Gabriel, sempre há espaço para melhoras. Ou não.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-23 at 00:22:40 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-24 at 00:22:14 UTC +0000</i>
 <h6>
