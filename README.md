@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>200 ctr.</td>
+                <td>222 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>24 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>22 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
                 <td>16 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, "Íris roxas transcendem computadores e domínios". Que inspirador... Imagino que a sua contribuição de 200 seja puramente por contemplar a beleza das íris, já que não vimos nenhum código seu por aqui. Continue assim, poeta!</p>
-<p><b>giverplay</b>, parabéns pelo seu "moveit" com 4 estrelas! Quase um fenômeno. E "Uvas" em Java, hein? Que tal transformar essas uvas em vinho e celebrar o 75º lugar? Ah, e obrigado por contribuir com as regras da NekoSoftX. O mundo precisa de mais regras, especialmente em CSS e HTML.</p>
-<p><b>Deyved Antonio</b>, um analista de dados curioso, analítico e apaixonado por tecnologia. Que combo! Pena que essa paixão não se traduziu em commits visíveis. Mas ei, pelo menos você é pai e marido. Talvez seus filhos um dia herdem sua curiosidade... ou não.</p>
-<p><b>Filipe Deschamps</b>, tentando nos vender um curso, hein? Com 69 contribuições, talvez você devesse se concentrar em programar em vez de vender promessas. Mas quem sabe, né? Talvez alguém caia nessa e você consiga mais uns trocados.</p>
-<p><b>Felipe Gueller</b>, um bacharel em Sistemas de Informações. Que título pomposo! Mas e o código? Ah, é verdade, você está apenas colecionando poeira digital. Mas não se preocupe, o diploma está aí para te lembrar do que você *poderia* estar fazendo.</p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... E apenas 24 contribuições? Parece que alguém está vendendo mais do que pode entregar. Mas ei, pelo menos você tem um currículo impressionante. Pena que ele não se traduz em commits.</p>
-<p><b>CookieUkw</b>, contribuiu para o Godot Engine! Uau, 104368 estrelas! Pena que ninguém se lembra de você lá. Ah, e o Vex-AI, o projeto de IA consciente... que está parado desde outubro. Mas ei, pelo menos você tentou. Ou não.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Que inveja! Mas o que você realmente fez? Ah, um "SYSTEM PROMPT TRANSPARENCY FOR ALL" forkado. Tão original. E o "daily-go"? Pelo menos você está tentando aprender algo novo... todos os dias, aparentemente.</p>
-<p><b>brunoferreiraff</b>, sem bio, sem código, sem nada. Apenas um fantasma no ranking. Mas ei, pelo menos você está aqui. Ou não. Será que você realmente existe?</p>
-<p><b>NeWBoX22</b>, com 16 contribuições, você está quase lá! Quase fazendo algo relevante. Mas não se preocupe, o importante é participar. Ou não.</p>
-<p><b>Gabriel</b>, um técnico em informática que virou Full Stack Developer. Parabéns! Mas e as contribuições? Ah, é verdade, apenas 9. Mas ei, pelo menos você tem um emprego. Ou não.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, com 222 contribuições, você lidera o ranking. Parabéns por contribuir em um projeto com mais de 346 mil estrelas! Mas, ei, não se esqueça dos seus próprios repositórios, tipo aquele "discord-publish-hack" com... uma estrela? Imagino que a concorrência seja acirrada. E o TCC em Objective-C e Kotlin? Espero que não tenha sido para um aplicativo de discagem. Ah, e Python para editar saves de jogos, que criativo, hein?</p>
+<p><b>Giverplay</b>, 75 contribuições. "Olá, estranho!" é a saudação no seu perfil. Parece que seus projetos são tão acolhedores quanto sua bio. "Moveit" com 4 estrelas, impressionante! E "Uvas" em Java, espero que não seja só para contar quantas uvas você come por dia. Ah, e "regras" em CSS e HTML, que original! Imagino que sejam as regras para não usar Comic Sans.</p>
+<p><b>Deyved Antonio</b>, quase lá com 74 contribuições. Analista de Dados, curioso e apaixonado por Tecnologia... mas e as contribuições? Clonando o Tabnews do zero, hein? Será que consegue chegar aos pés do original? E o projeto de análise de turnover em Excel? Espero que a conclusão seja que você precisa contribuir mais aqui. E o estoque em Python? Espero que não seja só de desculpas para a falta de commits.</p>
+<p><b>Filipe Deschamps</b>, o mestre dos cursos, com 69 contribuições. Quer se sentir competente em programação? Mas e você? Dotfiles com 66 estrelas, ok. Doom-fire-algorithm com mais de 1400 estrelas, aí sim! Parse-google-docs-json e Tabnews também mandam bem, mas será que você está usando todo esse conhecimento para dominar o mundo... ou só para vender cursos?</p>
+<p><b>Felipe Gueller</b>, 51 contribuições. Aprendendo e reforçando conceitos de programação... clonando o Tabnews? Sério? E o ticket-manager-api em C#? Espero que não seja para gerenciar os ingressos para a sua própria apresentação. Mas, ei, pelo menos você está tentando, certo?</p>
+<p><b>CookieUkw</b>, com modestas 23 contribuições. Contribuiu para o Godot Engine, com mais de 100 mil estrelas! Imagino que seu ego esteja inflado agora. ChatStory com 4 estrelas, um sucesso estrondoso! E Vex-AI, a IA que discute jogos, espero que ela não reclame da sua falta de commits. Mas ei, pelo menos você tentou criar uma IA consciente, né?</p>
+<p><b>Rafael Lima de Morais</b>, com 21 contribuições. Software Engineer, Go, Typescript, Rust, Vim... uau, que currículo! Mas e as contribuições? Um fork do CL4R1T4S? Sério? E o daily-go? Espero que não seja só para justificar o café diário. Ah, e dotfiles em Shell e Lua, que original! Imagino que você gaste mais tempo configurando o Vim do que programando.</p>
+<p><b>brunoferreiraff</b>, 21 contribuições e uma bio... inexistente. Sem atividade recente. É o famoso "ninja" que ninguém vê, mas que está sempre ali, observando. Ou será que está só esquecido na lista?</p>
+<p><b>NeWBoX22</b>, 16 contribuições. Sem bio, sem atividade recente... você é o mistério da lista. Será que está tramando algo grandioso ou só esperando o momento certo para atacar com commits épicos? Ou talvez só esteja de férias, quem sabe?</p>
+<p><b>Gabriel Carvalho</b>, 8 contribuições. Um sumário de vídeos do Youtube com Gemini, hein? Que inovador! E estruturas de dados em Python, espero que não sejam só para impressionar o crush. Ah, e desafios da DIO em C#, que esforço! Mas, ei, pelo menos você está tentando aprender, certo?</p>
+<p><b>CUBE</b>, com mísera 1 contribuição. "Tentando ser desenvolvedor de jogos e programador"... a tentativa é válida, mas talvez seja hora de transformar a tentativa em ação. Que tal começar com mais um commit? Ou dois? Quem sabe um dia você não sai do zero a esquerda. Mas, ei, não desista! (Por favor, contribua mais.)</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-25 at 00:22:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-26 at 00:22:36 UTC +0000</i>
 <h6>
