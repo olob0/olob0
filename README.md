@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>237 ctr.</td>
+                <td>262 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>81 ctr.</td>
+                <td>83 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>74 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>79 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>69 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>30 ctr.</td>
+                <td>32 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>25 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>17 ctr.</td>
+            </tr>
+            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>16 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, ah, o primeiro lugar com 237 contribuições. Impressionante... se estivéssemos em 2020. Contribuiu para um roadmap de desenvolvedor, será que finalmente vai sair do tutorial hell? E aquele "discord-publish-hack" de abril? Espero que não seja nada que vá te banir de algum servidor. Seu TCC em Objective-C e Kotlin de novembro de 2024 já foi defendido ou ainda está juntando poeira digital? Ah, e o editor de save do R.E.P.O, pelo menos isso parece promissor, se você curte trapacear em jogos, claro.</p>
-<p><b>Giverplay</b>, "Olá, estranho!" Imagino que seus projetos sejam tão acolhedores quanto essa saudação. "Moveit" de janeiro? Espero que você tenha se movido para fora desse projeto desde então. "Uvas" em Java, hmm, a última atualização foi em novembro, espero que não estejam passadas. E "regras" com 4 estrelas? Parece que alguém precisa urgentemente organizar a própria vida antes de tentar ditar as regras para os outros. </p>
-<p><b>Deyved Antonio</b>, o analista de dados que clona o Tabnews do zero. Que original! Mas e aquele projeto de turnover de colaboradores? Já descobriu por que as pessoas estão fugindo da empresa? E o "Estoque" em Python de dezembro de 2024? Espero que você não esteja usando isso para controlar o estoque de cerveja, porque para dados mais sérios, duvido que sirva. </p>
-<p><b>Filipe Deschamps</b>, ah, o guru da programação. Dotfiles atualizados em novembro? Que emocionante! O algoritmo do fogo de DOOM ainda está queimando? Pelo menos isso é mais interessante que "parse-google-docs-json". E o Tabnews? Bom, pelo menos alguém está tentando manter a chama acesa. </p>
-<p><b>Felipe Gueller</b>, "aprendendo e reforçando conceitos de programação" clonando o Tabnews. Que maneira emocionante de passar o tempo! Mas e a "ticket-manager-api" em C# de 24 de dezembro? Espero que você não esteja gerenciando ingressos para o show da sua banda de garagem com isso, porque parece ser o único uso possível. </p>
-<p><b>Deivid Souza Santana</b>, um desenvolvedor back-end focado em Python e JavaScript que busca construir coisas fáceis de manter. Será que ele consegue manter a própria sanidade mental? Taskmaster parece interessante, mas e o "clone-tabnews"? Sério, mais um? E o "vault" para editar markdown? Espero que você esteja guardando segredos mais interessantes do que a receita do miojo. </p>
-<p><b>CookieUkw</b>, sem bio, sem problemas. Mas contribuiu para a Godot Engine, hein? Talvez esteja criando o próximo grande jogo... ou apenas passando tempo. ChatStory parece promissor, mas e o Vex-AI? Criar uma IA consciente? Boa sorte com isso, você vai precisar. </p>
-<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e zero contribuições recentes. Parece que alguém está com a agenda cheia demais para realmente programar. Talvez esteja ocupado demais atualizando o LinkedIn. </p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Parece que alguém gosta de colecionar tecnologias da moda. Dotfiles e CL4R1T4S? Espero que você esteja usando isso para algo mais útil do que apenas impressionar recrutadores. E o "daily-go"? Espero que você não esteja exagerando na dose. </p>
-<p><b>brunoferreiraff</b>, sem bio, sem contribuições, sem nada. Praticamente um fantasma digital. Espero que você pelo menos esteja usando a internet para algo divertido. </p>
-<p><b>Douglas Florindo</b>, 20 anos. Contribuições? 17. Bom, pelo menos você tem idade para beber enquanto pensa no que vai fazer da vida. </p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 262 contribuições! É inspirador ver você contribuindo para projetos tão relevantes como o "developer-roadmap". Mas, cá entre nós, quando você vai dar uma atençãozinha para aquele seu "discord-publish-hack" que só tem 1 estrela? Não deixe seus projetos pessoais mofarem!</p>
+<p><b>giverplay</b>, com 83 contribuições, você está quase lá! Vejo que você está construindo um império com o "moveit", mas e o "Uvas"? Já pensou em transformar essas uvas em vinho e atrair mais colaboradores? Só uma dica para subir no ranking!</p>
+<p><b>Filipe Deschamps</b>, impressionantes 79 contribuições! "doom-fire-algorithm" e "tabnews.com.br" são projetos incríveis. Mas, por favor, me diga, como alguém tão ocupado ainda encontra tempo para organizar seus "dotfiles"? Prioridades, Filipe, prioridades!</p>
+<p><b>Deyved Antonio</b>, 74 contribuições, nada mal! Vejo que você está clonando o "tabnews" do zero. Que tal clonar também um pouco de originalidade? Brincadeira! Mas falando sério, dê uma turbinada naquele projeto de turnover, o mundo precisa de mais análises de dados!</p>
+<p><b>Felipe Gueller</b>, 55 contribuições, um esforço notável. Vejo que você está aprendendo e reforçando conceitos com o clone do "tabnews". Mas quando vai começar a criar seus próprios conceitos? E que tal dar um gás no "ticket-manager-api"? O mundo precisa de mais gerenciadores de tickets!</p>
+<p><b>Deivid Souza Santana</b>, com 32 contribuições, você está na área! "Taskmaster" parece interessante, mas cuidado para não se tornar escravo das suas próprias tarefas. E sobre o "vault", que tal transformá-lo em algo que as pessoas realmente queiram usar? Só uma sugestão amigável.</p>
+<p><b>CookieUkw</b>, 26 contribuições, está quase lá! Contribuindo para o "godotengine", hein? Que tal criar um jogo e nos mostrar do que você é capaz? E sobre o "Vex-AI", será que um dia essa IA vai dominar o mundo? Aguardamos ansiosamente!</p>
+<p><b>Rafael Lima de Morais</b>, 21 contribuições, um começo promissor! Vejo que você está brincando com "Go", "Typescript" e "Rust". Que tal escolher uma e se aprofundar? E sobre o "CL4R1T4S", será que a transparência é mesmo possível no mundo da IA? Fica a reflexão.</p>
+<p><b>Douglas Florindo</b>, 17 contribuições, ainda dá tempo de virar o jogo! Cadê os seus repositórios? Mostre ao mundo o que você pode fazer! Estamos esperando ansiosamente para ver suas contribuições bombarem!</p>
+<p><b>NeWBoX22</b>, 16 contribuições, quase alcançando a glória! Mas, assim como Douglas, cadê os seus projetos? Não deixe suas ideias mofarem na gaveta, o mundo precisa da sua criatividade!</p>
+<p><b>Gabriel Carvalho</b>, com apenas 8 contribuições, você está quase lá... quase no fim da lista! Mas não desanime! "content_summarizer" parece interessante, mas que tal adicionar um pouco de originalidade? E sobre os desafios da DIO, já pensou em criar seus próprios desafios? Acredite, você pode mais!</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-27 at 00:22:12 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-28 at 00:25:27 UTC +0000</i>
 <h6>
