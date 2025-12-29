@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>262 ctr.</td>
+                <td>264 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>83 ctr.</td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>55 ctr.</td>
+                <td>58 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns por liderar o ranking com 262 contribuições! É inspirador ver você contribuindo para projetos tão relevantes como o "developer-roadmap". Mas, cá entre nós, quando você vai dar uma atençãozinha para aquele seu "discord-publish-hack" que só tem 1 estrela? Não deixe seus projetos pessoais mofarem!</p>
-<p><b>giverplay</b>, com 83 contribuições, você está quase lá! Vejo que você está construindo um império com o "moveit", mas e o "Uvas"? Já pensou em transformar essas uvas em vinho e atrair mais colaboradores? Só uma dica para subir no ranking!</p>
-<p><b>Filipe Deschamps</b>, impressionantes 79 contribuições! "doom-fire-algorithm" e "tabnews.com.br" são projetos incríveis. Mas, por favor, me diga, como alguém tão ocupado ainda encontra tempo para organizar seus "dotfiles"? Prioridades, Filipe, prioridades!</p>
-<p><b>Deyved Antonio</b>, 74 contribuições, nada mal! Vejo que você está clonando o "tabnews" do zero. Que tal clonar também um pouco de originalidade? Brincadeira! Mas falando sério, dê uma turbinada naquele projeto de turnover, o mundo precisa de mais análises de dados!</p>
-<p><b>Felipe Gueller</b>, 55 contribuições, um esforço notável. Vejo que você está aprendendo e reforçando conceitos com o clone do "tabnews". Mas quando vai começar a criar seus próprios conceitos? E que tal dar um gás no "ticket-manager-api"? O mundo precisa de mais gerenciadores de tickets!</p>
-<p><b>Deivid Souza Santana</b>, com 32 contribuições, você está na área! "Taskmaster" parece interessante, mas cuidado para não se tornar escravo das suas próprias tarefas. E sobre o "vault", que tal transformá-lo em algo que as pessoas realmente queiram usar? Só uma sugestão amigável.</p>
-<p><b>CookieUkw</b>, 26 contribuições, está quase lá! Contribuindo para o "godotengine", hein? Que tal criar um jogo e nos mostrar do que você é capaz? E sobre o "Vex-AI", será que um dia essa IA vai dominar o mundo? Aguardamos ansiosamente!</p>
-<p><b>Rafael Lima de Morais</b>, 21 contribuições, um começo promissor! Vejo que você está brincando com "Go", "Typescript" e "Rust". Que tal escolher uma e se aprofundar? E sobre o "CL4R1T4S", será que a transparência é mesmo possível no mundo da IA? Fica a reflexão.</p>
-<p><b>Douglas Florindo</b>, 17 contribuições, ainda dá tempo de virar o jogo! Cadê os seus repositórios? Mostre ao mundo o que você pode fazer! Estamos esperando ansiosamente para ver suas contribuições bombarem!</p>
-<p><b>NeWBoX22</b>, 16 contribuições, quase alcançando a glória! Mas, assim como Douglas, cadê os seus projetos? Não deixe suas ideias mofarem na gaveta, o mundo precisa da sua criatividade!</p>
-<p><b>Gabriel Carvalho</b>, com apenas 8 contribuições, você está quase lá... quase no fim da lista! Mas não desanime! "content_summarizer" parece interessante, mas que tal adicionar um pouco de originalidade? E sobre os desafios da DIO, já pensou em criar seus próprios desafios? Acredite, você pode mais!</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, com 264 contribuições, liderando o ranking! Mas calma, antes de se gabar muito, notei que você contribuiu para um roadmap de desenvolvedor. Seria isso uma confissão de que você ainda está se encontrando na jornada? E aquele "discord-publish-hack"? Achei que já tivéssemos superado a era dos bots de Discord. Ah, e seu TCC em Objective-C e Kotlin? Espero que pelo menos tenha passado, porque a última atualização foi em novembro de 2024. Se bem que, o editor de save do R.E.P.O, até que tem um certo charme... se você curte trapacear em jogos, claro.</p>
+<p><b>Giverplay</b>, 108 contribuições, um esforço admirável. Mas vamos ser sinceros, "Next Level Week 04" de 2021? Já estamos em 2025, hora de um <i>upgrade</i>! E "Uvas" em Java? Espero que não seja uma tentativa frustrada de fazer um jogo de fazendinha. Ah, e contribuir para "regras" de NekoSoftX? Sério? Espero que as regras ao menos sejam bem claras, porque seu perfil está precisando de um pouco mais de brilho.</p>
+<p><b>Filipe Deschamps</b>, com 79 contribuições, tentando nos vender um curso.dev. Imagino que as contribuições aqui sejam só para aumentar a credibilidade, né? Dotfiles atualizados em novembro, ok, pelo menos você organiza suas configurações. Mas o algoritmo do fogo de DOOM? Isso é nostalgia ou falta de ideias novas? Ah, e parsear Google Docs para JSON? Espero que não seja para alimentar alguma IA que vai nos substituir a todos.</p>
+<p><b>Deyved Antonio</b>, o analista de dados com 74 contribuições. Clonando o Tabnews do curso.dev? Originalidade mandou um abraço. E um projeto de turnover de colaboradores em Excel? Em pleno 2025? Imagino que a análise seja: "Precisamos de gente que use ferramentas mais modernas". E um sistema de login em Python? Espero que não seja para proteger dados sensíveis, porque me parece um pouco... básico demais.</p>
+<p><b>Felipe Gueller</b>, com 58 contribuições, "aprendendo e reforçando conceitos de programação" clonando o Tabnews. É bom começar por algum lugar, né? Mas um ticket-manager-api em C# atualizado ontem? Isso sim é promissor. Quem sabe no próximo mês você não sai das sombras do Tabnews e cria algo realmente original?</p>
+<p><b>Deivid Souza Santana</b>, o back-end com 32 contribuições, focado em Python e JavaScript. Um website de organização de tarefas com Flask? Parece promissor, mas a última atualização foi em 2024. E outro clone do Tabnews? Sério, gente, vamos superar isso! Pelo menos o "vault" para editar Markdown parece útil. Mas "GalactiCore", uma API inspirada em Star Wars? Ok, talvez você precise de umas férias e menos cafeína.</p>
+<p><b>CookieUkw</b>, com 26 contribuições, metade delas no Godot Engine. Parece que alguém está tentando a sorte no mundo dos jogos. Um "ChatStory"? Espero que seja mais interessante do que parece. E "Vex-AI", uma IA para conversas? Boa sorte com isso, porque a concorrência está acirrada. Quem sabe você não cria o próximo grande chatbot... ou o próximo Clippy?</p>
+<p><b>Rafael Lima de Morais</b>, com 21 contribuições, o mestre do Go, Typescript, Rust e Vim. Um perfil chamado "rafazeero"? Criativo... nem tanto. Dotfiles em Shell e Lua? Ok, pelo menos você tem estilo. E um fork de "CL4R1T4S"? Espero que você saiba o que está fazendo, porque o nome já me dá calafrios. "daily-go"? Parece uma boa forma de manter a sanidade em meio a tanta tecnologia.</p>
+<p><b>Douglas Florindo</b> e <b>NeWBoX22</b>, com 17 e 16 contribuições, respectivamente. Estão aqui para fazer número? Sem atividade recente nos repositórios. Precisam de um incentivo? Que tal começarem a contribuir de verdade em vez de só figurarem no ranking?</p>
+<p><b>Gabriel Carvalho</b>, com apenas 8 contribuições, mas calma, nem tudo está perdido. Um "content_summarizer" para Youtube com Gemini? Isso pode ser útil para quem não tem paciência de assistir vídeos longos. Mas "data_structures" em Python? Isso é básico, Gabriel! E forks de desafios .NET? Parece que você está mais perdido que cego em tiroteio. Se concentra, garoto!</p>
 </div>
     </details>
 </div>
@@ -109,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-28 at 00:25:27 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-29 at 00:24:48 UTC +0000</i>
 <h6>
