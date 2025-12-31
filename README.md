@@ -36,32 +36,32 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>121 ctr.</td>
+                <td>135 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>99 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>79 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>77 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>60 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>57 ctr.</td>
+                <td>63 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>40 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>31 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>26 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>21 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, com 264 contribuições, liderando o ranking. Parabéns por contribuir para um roadmap de carreira de desenvolvedor com 346 mil estrelas, impressionante! Agora, sobre aquele seu "discord-publish-hack" com míseras 1 estrela e o "tcc-final" em Objective-C e Kotlin (uma combinação peculiar, devo dizer), talvez seja hora de focar em projetos que realmente impressionem, em vez de apenas ocupar espaço no GitHub. Ah, e não vamos esquecer do editor de save do R.E.P.O, que aparentemente é o seu projeto mais popular. Continue assim, quem sabe um dia você chega lá.</p>
-<p><b>Giverplay</b>, 121 contribuições, um esforço admirável. Vejo que você se aventurou na Next Level Week 04 com o projeto "moveit", que tem incríveis 4 estrelas. Imagino que a competição seja acirrada para conseguir mais um stargazer. E o projeto "Uvas" em Java? Espero que não seja tão azedo quanto a falta de estrelas dele. Pelo menos você contribuiu para o "regras" do NekoSoftX. Quem sabe um dia suas próprias criações alcancem tal... notoriedade?</p>
-<p><b>Filipe Deschamps</b>, com 79 contribuições, você até que se esforça. Seus "dotfiles" com 66 estrelas são um sucesso, mas o que realmente chama a atenção é o "doom-fire-algorithm" com mais de 1400 estrelas. Imagino que você se sinta realizado com isso. Ah, e o "tabnews.com.br" com mais de 6 mil estrelas, parabéns por contribuir para algo que as pessoas realmente usam. Mas não se acomode, sempre há espaço para melhorar... ou pelo menos tentar.</p>
-<p><b>Deyved Antonio</b>, 77 contribuições, quase alcançando o pódio. Vejo que você tem um repositório com seu próprio nome, que ousadia! Mas com apenas 2 estrelas, talvez precise de um pouco mais de... você. E o "clone-tabnews-aluno"? Clonar é o seu forte, imagino. O projeto de análise de turnover de colaboradores é interessante, mas sem estrelas, parece que ninguém se importa com a rotatividade alheia. E aquele "Login" em Python? Espero que seja mais seguro do que popular.</p>
-<p><b>Felipe Gueller</b>, com 60 contribuições, você está na média. Clonar o Tabnews parece ser uma obsessão por aqui, né? Mas pelo menos você está aprendendo, ou reforçando conceitos, como diz. E o "ticket-manager-api" em C#? Espero que funcione melhor do que a sua capacidade de atrair estrelas. Continue tentando, quem sabe um dia você cria algo original... ou pelo menos algo que as pessoas usem.</p>
-<p><b>Deivid Souza Santana</b>, 57 contribuições, quase na metade do ranking. Seu "Taskmaster" com 2 estrelas parece promissor, mas será que as pessoas realmente usam? Clonar o Tabnews de novo? Sério? E o "vault" para editar markdown? Parece interessante, mas sem estrelas, talvez precise de um pouco mais de... divulgação? E o "GalactiCore" inspirado em Star Wars? Espero que a Força esteja com você para conseguir mais estrelas.</p>
-<p><b>Rafael Lima de Morais</b>, com 40 contribuições, você está quase lá... quase no fim da lista. Seu repositório com seu próprio nome tem 1 estrela, que conquista! Seus "dotfiles" com Shell e Lua são... interessantes. E o "CL4R1T4S" é um fork, então não conta muito, né? E o "daily-go"? Espero que você esteja aprendendo algo com isso, porque contribuições não estão te levando a lugar nenhum.</p>
-<p><b>Douglas Florindo</b> e <b>Luídi Pires</b>, ambos com 31 contribuições, um empate técnico no limbo do ranking. Sem atividade recente para comentar, imagino que estejam ocupados demais pensando em como subir nessa lista. Ou talvez estejam apenas curtindo a vida, o que, convenhamos, parece ser uma opção mais interessante do que contribuir para o GitHub sem propósito.</p>
-<p><b>CookieUkw</b>, com 26 contribuições, quase no fim da fila. Contribuições para o Godot Engine são admiráveis, mas e seus próprios projetos? O "ChatStory" com 4 estrelas é um começo, mas o "Vex-AI" tentando criar uma IA consciente com 3 estrelas? Parece ambicioso demais para pouca popularidade. Talvez seja hora de focar em algo mais... realista?</p>
-<p><b>Brunoferreiraff</b>, com 21 contribuições, o lanterninha da turma. Sem bio, sem atividade recente, sem esperança. Imagino que você esteja se perguntando o que está fazendo aqui. A resposta é simples: servindo de exemplo para os outros não se acomodarem. Mas não se preocupe, sempre há espaço para piorar. Continue assim!</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar, mas não se anime muito. Contribuir para um roadmap de desenvolvedor não te faz um desenvolvedor melhor, só te faz um bom planejador de estudos. E quanto ao seu "discord-publish-hack", espero que não seja tão hack quanto o nome sugere, ou talvez seja, e por isso só tem um stargazer. Já o TCC em Objective-C e Kotlin... bem, pelo menos você tentou, né?</p>
+<p><b>giverplay</b>, "Olá, estranho!"? Sério? Achei que a gente já tinha intimidade depois de tantas contribuições... Ah, espera, 135 não é lá grande coisa. Seu projeto "moveit" parece parado desde janeiro, talvez seja hora de dar um "next level" nele de verdade. E "Uvas"? Java? Sério mesmo? Em pleno 2025? Espero que pelo menos não estejam passadas.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações, hein? E o que temos aqui? Um "clone-tabnews" e um "ticket-manager-api". Originalidade passou longe, não é mesmo? Mas ei, pelo menos você está "aprendendo e reforçando conceitos". Que bom, porque pelo visto ainda precisa.</p>
+<p><b>Filipe Deschamps</b>, ah, o guru da programação que quer te fazer sentir competente. Mas e você, Filipe? Seus "dotfiles" de 2016 ainda te servem? E o "doom-fire-algorithm"? Nostalgia é bom, mas estamos em 2025, Filipe! Que tal um fogo novo? E "tabnews.com.br"? Ah, tá, você está ocupado demais criando conteúdo para os outros, entendi.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai, marido e... um perfil no GitHub que precisa de uma faxina urgente. "clone-tabnews-aluno" e "Projeto_Turnover_colaboradores"? Sério, Deyved? E esse "Login" em Python de 2024? Espero que não seja a sua senha para tudo. Mas ei, pelo menos você é curioso e analítico, quem sabe um dia você analisa seus próprios projetos.</p>
+<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter"? Seu "Taskmaster" de 2024 não parece muito mantido, para ser sincero. "clone-tabnews" de novo? Pelo visto a originalidade não é o seu forte. E "GalactiCore"? Parece ambicioso demais para quem está tentando "construir coisas fáceis". Mas boa sorte com o "MinhaDespesa", talvez você precise.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Mas e o que você tem para mostrar além de um monte de tecnologias da moda? "rafazeero" com um stargazer? "dotfiles"? "CL4R1T4S" que é um fork? E "daily-go"? Espero que pelo menos esteja aprendendo alguma coisa, porque por enquanto, só vejo promessas.</p>
+<p><b>Douglas Florindo</b>, 20 anos e... nada? Zero projetos? Nem um "Olá, mundo!" para contar história? Espero que você esteja escondendo algo realmente incrível, porque por enquanto, você é o participante fantasma deste ranking. Mas ei, ainda dá tempo de virar o jogo, mostre-nos o que você tem!</p>
+<p><b>CookieUkw</b>, Godot Engine, ChatStory, Vex-AI... Parece que alguém está tentando ser o próximo Elon Musk dos jogos. Mas ei, calma lá! Contribuir para um motor de jogo famoso não te faz um gênio da programação. E o "Vex-AI"? Tomara que não se torne consciente demais e domine o mundo. Mas, falando sério, talvez seja hora de focar em um projeto de cada vez, ou você vai acabar virando um cookie sem sabor.</p>
+<p><b>brunoferreiraff</b> e <b>NeWBoX22</b>, vocês dois estão competindo para ver quem tem o perfil mais vazio? Zero projetos, zero contribuições recentes... Vocês estão de parabéns! Conseguiram a proeza de não fazer absolutamente nada. Mas ei, não se desesperem! Sempre há tempo para começar a programar... ou pelo menos aprender a dar um "Olá, mundo!".</p>
 </div>
     </details>
 </div>
@@ -108,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2025-12-30 at 00:22:40 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2025-12-31 at 00:23:33 UTC +0000</i>
 <h6>
