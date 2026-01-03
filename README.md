@@ -30,28 +30,33 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>13 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>7 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>2 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/kromodoro">kromodoro</a></td>
-                <td>1 ctr.</td>
+                <td>6°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -59,11 +64,12 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar! Doze contribuições, hein? Impressionante... se estivéssemos falando de outra coisa.  Vejo que você anda contribuindo naquele roadmap de carreira. Que bonitinho, preocupado com o futuro dos outros. E o seu, como vai? Ah, e aquele seu "discord-publish-hack" de 2022, continua sendo um mistério para a humanidade. Mas ei, pelo menos tem 1 estrela, a sua provavelmente.</p>
-<p><b>Douglas Florindo</b>, nove contribuições... quase lá. Quase fazendo algo notável.  Sinto que você está quase... quase desistindo. Mas não se preocupe, a mediocridade é um lugar confortável. Sem repositórios recentes, imagino que esteja muito ocupado assistindo vídeos de gatinhos no YouTube. Continue assim!</p>
-<p><b>Deivid Souza Santana</b>, quatro contribuições, que esforço! Clonando o Tabnews para o curso.dev? Que original! E esse "GalactiCore" para os entusiastas de Star Wars... uau, que nicho!  E o "MinhaDespesa"? Espero que você esteja usando para gerenciar melhor seu tempo, porque, pelo visto, dinheiro não é o problema.  Não se esqueça de continuar diversificando as linguagens, porque misturar Objective-C com Kotlin em um app de cotação é simplesmente genial.</p>
-<p><b>Gabriel Carvalho</b>, duas contribuições, quase imperceptível.  Um "content_summarizer" para o YouTube usando Gemini?  Que maravilha, assim você não precisa assistir aos vídeos completos para descobrir que perdeu tempo. E esses desafios .NET da DIO?  Ainda bem que você fez um fork, porque criar algo do zero dá muito trabalho, né? Não se preocupe, com esse ritmo, logo, logo você chega lá... em algum lugar.</p>
-<p><b>kromodoro</b>, uma contribuição. Uau, você realmente se superou! Com essa dedicação, em breve estará... no mesmo lugar. Sem atividades recentes, imagino que esteja economizando energia para o ano que vem. Afinal, uma contribuição por ano é uma meta ambiciosa. Continue assim, você está quase... quase parando.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, parabéns pelo primeiro lugar! Com 13 contribuições, você quase conseguiu sair da inércia. Mas não se anime muito, seus projetos parecem mais exercícios de curso do que qualquer outra coisa. Quem sabe em 2027 você não consegue criar algo que vá além de clonar o Tabnews.</p>
+<p><b>Gustavo Carvalho</b>, segundo lugar com 12 contribuições. Impressionante como você consegue contribuir em projetos com mais de 300 mil estrelas. Aposto que seu código é a alma do negócio... ou talvez você só tenha dado um "like" no README. Não se preocupe, ninguém vai notar a diferença.</p>
+<p><b>Douglas Florindo</b>, ah, Douglas. Em terceiro lugar com 9 contribuições. Quase lá, quase relevante. Mas ei, pelo menos você tem uma bio no GitHub. Já é mais do que alguns podem dizer. Talvez em breve você consiga preencher alguns repositórios também.</p>
+<p><b>Gabriel Carvalho</b>, em quarto lugar com 7 contribuições. Um resumo de vídeos do YouTube com Gemini? Que original! E estruturas de dados em Python? Uau, que inovador! Sério, com essa criatividade toda, você vai dominar o mundo... dos tutoriais online. </p>
+<p><b>Deivid Souza Santana</b>, quase fechando o top 5 com 4 contribuições. GalactiCore, um backend para entusiastas de Star Wars? MinhaDespesa, um sistema minimalista de gestão financeira? Parece que você está tentando abraçar o universo todo com projetos que mal saem do papel. Mas ei, pelo menos você tem um Dockerfile. Isso conta, certo?</p>
+<p><b>Rafael Lima de Morais</b>, também com 4 contribuições, mas não menos... esquecível. Vim, Go, Typescript, Rust... a lista de tecnologias é impressionante, pena que os projetos não são. Um "SYSTEM PROMPT TRANSPARENCY FOR ALL" forkado? Sério? Talvez seja hora de criar algo original, em vez de apenas copiar e colar.</p>
 </div>
     </details>
 </div>
@@ -78,5 +84,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-02 at 00:23:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-03 at 00:21:37 UTC +0000</i>
 <h6>
