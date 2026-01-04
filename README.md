@@ -30,32 +30,37 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>12 ctr.</td>
+                <td>3°</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>11 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
-                <td>7 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>4 ctr.</td>
             </tr>
         </tbody>
@@ -64,12 +69,13 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, parabéns pelo primeiro lugar! Com 13 contribuições, você quase conseguiu sair da inércia. Mas não se anime muito, seus projetos parecem mais exercícios de curso do que qualquer outra coisa. Quem sabe em 2027 você não consegue criar algo que vá além de clonar o Tabnews.</p>
-<p><b>Gustavo Carvalho</b>, segundo lugar com 12 contribuições. Impressionante como você consegue contribuir em projetos com mais de 300 mil estrelas. Aposto que seu código é a alma do negócio... ou talvez você só tenha dado um "like" no README. Não se preocupe, ninguém vai notar a diferença.</p>
-<p><b>Douglas Florindo</b>, ah, Douglas. Em terceiro lugar com 9 contribuições. Quase lá, quase relevante. Mas ei, pelo menos você tem uma bio no GitHub. Já é mais do que alguns podem dizer. Talvez em breve você consiga preencher alguns repositórios também.</p>
-<p><b>Gabriel Carvalho</b>, em quarto lugar com 7 contribuições. Um resumo de vídeos do YouTube com Gemini? Que original! E estruturas de dados em Python? Uau, que inovador! Sério, com essa criatividade toda, você vai dominar o mundo... dos tutoriais online. </p>
-<p><b>Deivid Souza Santana</b>, quase fechando o top 5 com 4 contribuições. GalactiCore, um backend para entusiastas de Star Wars? MinhaDespesa, um sistema minimalista de gestão financeira? Parece que você está tentando abraçar o universo todo com projetos que mal saem do papel. Mas ei, pelo menos você tem um Dockerfile. Isso conta, certo?</p>
-<p><b>Rafael Lima de Morais</b>, também com 4 contribuições, mas não menos... esquecível. Vim, Go, Typescript, Rust... a lista de tecnologias é impressionante, pena que os projetos não são. Um "SYSTEM PROMPT TRANSPARENCY FOR ALL" forkado? Sério? Talvez seja hora de criar algo original, em vez de apenas copiar e colar.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar... em seguir o Lobo. 23 contribuições, impressionante. Mas sério, você está ajudando a construir um roadmap interativo para desenvolvedores? Que altruísta. E aquele seu "discord-publish-hack"? Ah, é. Aquele com 1 estrela. Pelo menos você tentou, certo? E o TCC em Objective-C e Kotlin de novembro de 2024? Nostalgia pura. E o editor de save de R.E.P.O com 27 estrelas? Quase famoso, hein?</p>
+<p><b>Deyved Antonio</b>, com 13 contribuições, você está quase lá. Mas vamos ser sinceros, seu repositório "DeyvedAntonio/DeyvedAntonio" com 2 estrelas é o auge da sua carreira no GitHub? O clone do Tabnews em JavaScript de fevereiro de 2025? Originalidade mandou lembranças. E o projeto de análise de turnover em Excel? Nossa, que moderno! E o catálogo de filmes em Django Master de março de 2025? Um verdadeiro blockbuster.</p>
+<p><b>Gabriel Carvalho</b>, 11 contribuições, ok. Mas me diz, esse "content_summarizer" que usa Google Gemini realmente resume algo útil? As 0 estrelas dizem tudo. E as suas "data_structures" em Python? Super genérico, hein? Ah, e não vamos esquecer dos seus desafios .NET da DIO. Forkar desafios é o seu talento secreto? Continue assim, você vai longe... talvez.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Mas com apenas 11 contribuições? Hmm... E o repositório "rafazeero/rafazeero" com 1 estrela? A descrição é tão... inexistente. E os "dotfiles" em Shell e Lua? Tão personalizados que ninguém mais consegue usar. Ah, e o "CL4R1T4S"? Forkado. Genial. E o "daily-go" de junho de 2025? Consistência é tudo!</p>
+<p><b>Douglas Florindo</b>, 9 contribuições. Pelo menos você apareceu. Mas sem repositórios recentes para comentar? Que pena, não tenho nada para te humilhar hoje. Mas não se preocupe, sempre há amanhã. Tente contribuir com algo que não seja apenas o seu perfil no LinkedIn.</p>
+<p><b>Danilo Nobre</b>, 5 contribuições. Quase desistindo, hein? "Full-stack, Game dev and 3D Enthusiast". Parece impressionante, até vermos que você não fez nada recentemente. Talvez você esteja muito ocupado criando experiências web e jogos em 3D... ou talvez não. Quem sabe um dia você nos mostre algo além da sua bio.</p>
+<p><b>Deivid Souza Santana</b>, 4 contribuições. Quase podemos te ignorar completamente. Clonou o Tabnews? Que ideia original. E o "GalactiCore"? Parece interessante... se ao menos tivesse mais de 0 estrelas. O "MinhaDespesa" em Hack? Sério? E o app de cotação em Objective-C e Kotlin? Que mistura exótica! Parabéns por ser tão... diversificado. Mas tente contribuir mais, ou você vai sumir no ranking.</p>
 </div>
     </details>
 </div>
@@ -84,5 +90,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-03 at 00:21:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-04 at 00:25:46 UTC +0000</i>
 <h6>
