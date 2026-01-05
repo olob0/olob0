@@ -31,37 +31,27 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>23 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/GabrielCarvalhoSouza">Gabriel Carvalho</a></td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>11 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>9 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/danko-nobre">Danilo Nobre</a></td>
-                <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -69,13 +59,11 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar... em seguir o Lobo. 23 contribuições, impressionante. Mas sério, você está ajudando a construir um roadmap interativo para desenvolvedores? Que altruísta. E aquele seu "discord-publish-hack"? Ah, é. Aquele com 1 estrela. Pelo menos você tentou, certo? E o TCC em Objective-C e Kotlin de novembro de 2024? Nostalgia pura. E o editor de save de R.E.P.O com 27 estrelas? Quase famoso, hein?</p>
-<p><b>Deyved Antonio</b>, com 13 contribuições, você está quase lá. Mas vamos ser sinceros, seu repositório "DeyvedAntonio/DeyvedAntonio" com 2 estrelas é o auge da sua carreira no GitHub? O clone do Tabnews em JavaScript de fevereiro de 2025? Originalidade mandou lembranças. E o projeto de análise de turnover em Excel? Nossa, que moderno! E o catálogo de filmes em Django Master de março de 2025? Um verdadeiro blockbuster.</p>
-<p><b>Gabriel Carvalho</b>, 11 contribuições, ok. Mas me diz, esse "content_summarizer" que usa Google Gemini realmente resume algo útil? As 0 estrelas dizem tudo. E as suas "data_structures" em Python? Super genérico, hein? Ah, e não vamos esquecer dos seus desafios .NET da DIO. Forkar desafios é o seu talento secreto? Continue assim, você vai longe... talvez.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Mas com apenas 11 contribuições? Hmm... E o repositório "rafazeero/rafazeero" com 1 estrela? A descrição é tão... inexistente. E os "dotfiles" em Shell e Lua? Tão personalizados que ninguém mais consegue usar. Ah, e o "CL4R1T4S"? Forkado. Genial. E o "daily-go" de junho de 2025? Consistência é tudo!</p>
-<p><b>Douglas Florindo</b>, 9 contribuições. Pelo menos você apareceu. Mas sem repositórios recentes para comentar? Que pena, não tenho nada para te humilhar hoje. Mas não se preocupe, sempre há amanhã. Tente contribuir com algo que não seja apenas o seu perfil no LinkedIn.</p>
-<p><b>Danilo Nobre</b>, 5 contribuições. Quase desistindo, hein? "Full-stack, Game dev and 3D Enthusiast". Parece impressionante, até vermos que você não fez nada recentemente. Talvez você esteja muito ocupado criando experiências web e jogos em 3D... ou talvez não. Quem sabe um dia você nos mostre algo além da sua bio.</p>
-<p><b>Deivid Souza Santana</b>, 4 contribuições. Quase podemos te ignorar completamente. Clonou o Tabnews? Que ideia original. E o "GalactiCore"? Parece interessante... se ao menos tivesse mais de 0 estrelas. O "MinhaDespesa" em Hack? Sério? E o app de cotação em Objective-C e Kotlin? Que mistura exótica! Parabéns por ser tão... diversificado. Mas tente contribuir mais, ou você vai sumir no ranking.</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, 30 contribuições? Imaginei que estivesse ocupado demais minerando Bitcoins com aquele roadmap de 346k estrelas. Ah, e parabéns pelo seu "discord-publish-hack". O mundo precisava disso.</p>
+<p><b>Gabriel Carvalho</b>, 17 contribuições, hein? Quase alcançando a glória. Vejo que você está resumindo vídeos do YouTube com Gemini. Que tal resumir sua vida e ver se encontra algo emocionante? Ah, e não se esqueça dos desafios .NET da DIO, porque nada grita "originalidade" como um fork.</p>
+<p><b>Rafael Lima de Morais</b>, apenas 11 contribuições? Sério? Com essa bio toda de "Go | Typescript | Rust | Vim", esperava que você estivesse construindo o próximo sistema operacional. Mas, ei, pelo menos você tem seus <i>dotfiles</i>... e um projeto chamado "CL4R1T4S" que grita por atenção. E claro, um "daily-go" para provar que você realmente usa Go, mesmo que ninguém veja.</p>
+<p><b>Deivid Souza Santana</b>, com suas 10 contribuições, você está quase lá! Clonando o TabNews para o curso.dev? Que ideia original! E o "GalactiCore"? Uma API para entusiastas de Star Wars? Por favor, me diga que você não está gastando seu tempo livre com isso. Mas não podemos esquecer do "MinhaDespesa", porque o mundo precisa de mais um sistema de gestão financeira pessoal.</p>
+<p><b>Douglas Florindo</b>, com míseras 9 contribuições, você está quase se qualificando para o prêmio de "participação". E aparentemente, nenhuma atividade recente para nos entreter. Talvez seja hora de adicionar "dormir" à sua bio, já que parece ser sua atividade principal no GitHub.</p>
 </div>
     </details>
 </div>
@@ -90,5 +78,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-04 at 00:25:46 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-05 at 00:25:06 UTC +0000</i>
 <h6>
