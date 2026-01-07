@@ -31,42 +31,47 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>30 ctr.</td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>20 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>19 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>15 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>15 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>3 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -74,14 +79,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, 30 contribuições? Uau, quase dá para notar sua presença. Ah, e parabéns por contribuir para o "developer-roadmap". Aposto que os 346729 <i>stargazers</i> estão super agradecidos pela sua contribuição... que deve ter sido crucial, claro. E aquele "discord-publish-hack"? Genial! Certeza que vai revolucionar o mundo, um <i>hack</i> de cada vez.</p>
-<p><b>Rafael Lima de Morais</b>, 20 contribuições. Que inveja! Go, Typescript, Rust e Vim? Nossa, o combo completo do hype. E o repo "rafazeero" com 1 <i>star</i>? Imagino que seja sua maior conquista, afinal, quem precisa de mais reconhecimento? E o "CL4R1T4S", garanto que o mundo da IA está tremendo com sua transparência forçada. Mas e as contribuições?</p>
-<p><b>Gabriel Carvalho</b>, 17 contribuições, quase chegando lá! Um <i>summarizer</i> de vídeos do YouTube com Gemini? Original... como todos os outros 5000 iguais. E as estruturas de dados em Python? Ah, a base de tudo. Mas não se esqueça dos desafios .NET da DIO, porque nada diz "apaixonado por resolver problemas" como seguir um tutorial passo a passo. Parabéns pelas contribuições.</p>
-<p><b>Douglas Florindo</b>, 15 contribuições. Quase lá, continue assim! Espera... não tem nenhum <i>repo</i> recente? Ah, entendi, você é o tipo de pessoa que prefere observar os outros programarem, certo? Afinal, "quem sabe faz, quem não sabe... comenta o código alheio".</p>
-<p><b>Deivid Souza Santana</b>, 10 contribuições. Python e JavaScript, que combinação ousada! Clonar o Tabnews para o Curso.dev? Que ideia inovadora! E o GalactiCore, uma API inspirada em Star Wars? George Lucas deve estar orgulhoso. E "MinhaDespesa"? Um sistema minimalista de gestão financeira com 1 <i>star</i>? Sucesso absoluto. E as contribuições?</p>
-<p><b>Felipe Gueller</b>, 8 contribuições. "Aprendendo e reforçando conceitos de programação" com um clone do Tabnews? Que maneira eficiente de usar seu tempo. E a <i>ticket-manager-api</i>? Aposto que vai resolver todos os problemas do mundo, um <i>ticket</i> de cada vez. Mas e as contribuições?</p>
-<p><b>Everton Marcelino Jr.</b>, 3 contribuições. "Passionate about technology"? Imagino que sim, já que você está aqui. Mas e as contribuições? Ah, você deve ser do tipo que admira de longe. Afinal, "a paixão pela tecnologia é mais importante que a tecnologia em si".</p>
-<p><b>giverplay</b>, 1 contribuição. Uau, que esforço! "Olá, estranho!" Bem-vindo ao meu perfil, onde compartilho meus projetos... e aparentemente, só isso. "Moveit" com 4 <i>stars</i>? Quase uma celebridade. E "Uvas" e "regras"? Imagino que sejam projetos de grande importância para a humanidade. Mas e as contribuições?</p>
+    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar! Mas vamos ser sinceros, 35 contribuições? Achei que estivesse ocupado demais editando save games de R.E.P.O. para virar o mestre do universo. E esse "discord-publish-hack" com 1 stargazer? Gênio incompreendido, claramente.</p>
+<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter".  Seus repositórios gritam "fácil de manter" tanto quanto um servidor de produção rodando em sua máquina local.  GalactiCore?  Sério?  Espero que a Força esteja com você, porque vai precisar.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  Ah, o combo completo do hipster da programação.  Seus dotfiles estão atualizados, então você está no caminho certo para a iluminação. Mas e o código produtivo, sai quando?</p>
+<p><b>Douglas Florindo</b>, 19 contribuições, quase lá! Quase alcançando a glória... ou a mediocridade, dependendo do ponto de vista.  O que importa é participar, certo?  Certo?</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas". Que bom que você é apaixonado, porque com esses seus projetos .NET da DIO, vai precisar de muita paixão para resolver os problemas que eles vão te dar.  E um Content Summarizer para Youtube?  É pra isso que estamos usando IA agora?</p>
+<p><b>giverplay</b>, "Olá, estranho!".  Aparentemente, o Next Level Week 04 ainda te assombra desde 2021. E "Uvas"?  Sério?  Java para processar uvas?  Aguardando ansiosamente a versão em Assembly.</p>
+<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação".  Com clone-tabnews?  Originalidade mandou um abraço.  Pelo menos o ticket-manager-api está aí para provar que você sabe fazer mais do que copiar e colar.</p>
+<p><b>Everton Marcelino Jr.</b>, "passionate about technology".  6 contribuições?  Sua paixão está de férias?  Ou será que a tecnologia não te ama de volta?</p>
+<p><b>Jean Brito</b>, 3 contribuições.  Você está competindo em outra categoria, tipo "menor número de contribuições"?  Continue assim e logo estará liderando... o ranking de inativos.</p>
 </div>
     </details>
 </div>
@@ -96,5 +102,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-06 at 00:23:02 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-07 at 00:21:50 UTC +0000</i>
 <h6>
