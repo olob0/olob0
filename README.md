@@ -30,48 +30,53 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>38 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>35 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>23 ctr.</td>
+                <td>3°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>25 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>20 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>19 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>15 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>6 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>3 ctr.</td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -79,15 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Gustavo Carvalho</b>, parabéns pelo primeiro lugar! Mas vamos ser sinceros, 35 contribuições? Achei que estivesse ocupado demais editando save games de R.E.P.O. para virar o mestre do universo. E esse "discord-publish-hack" com 1 stargazer? Gênio incompreendido, claramente.</p>
-<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter".  Seus repositórios gritam "fácil de manter" tanto quanto um servidor de produção rodando em sua máquina local.  GalactiCore?  Sério?  Espero que a Força esteja com você, porque vai precisar.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim".  Ah, o combo completo do hipster da programação.  Seus dotfiles estão atualizados, então você está no caminho certo para a iluminação. Mas e o código produtivo, sai quando?</p>
-<p><b>Douglas Florindo</b>, 19 contribuições, quase lá! Quase alcançando a glória... ou a mediocridade, dependendo do ponto de vista.  O que importa é participar, certo?  Certo?</p>
-<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas". Que bom que você é apaixonado, porque com esses seus projetos .NET da DIO, vai precisar de muita paixão para resolver os problemas que eles vão te dar.  E um Content Summarizer para Youtube?  É pra isso que estamos usando IA agora?</p>
-<p><b>giverplay</b>, "Olá, estranho!".  Aparentemente, o Next Level Week 04 ainda te assombra desde 2021. E "Uvas"?  Sério?  Java para processar uvas?  Aguardando ansiosamente a versão em Assembly.</p>
-<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação".  Com clone-tabnews?  Originalidade mandou um abraço.  Pelo menos o ticket-manager-api está aí para provar que você sabe fazer mais do que copiar e colar.</p>
-<p><b>Everton Marcelino Jr.</b>, "passionate about technology".  6 contribuições?  Sua paixão está de férias?  Ou será que a tecnologia não te ama de volta?</p>
-<p><b>Jean Brito</b>, 3 contribuições.  Você está competindo em outra categoria, tipo "menor número de contribuições"?  Continue assim e logo estará liderando... o ranking de inativos.</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, "construir coisas fáceis de manter", hein? Interessante, especialmente considerando que seu repositório mais recente, "GalactiCore", foi atualizado pela última vez em fevereiro de 2025. Espero que a Galáxia não tenha entrado em colapso desde então. E "MinhaDespesa" com Hack? Sério? Achei que PHP já era esquisito o suficiente.</p>
+<p><b>Gustavo Carvalho</b>, impressionante como você contribui para um roadmap de carreira de desenvolvedor, mas seu próprio portfólio parece um labirinto abandonado. Um "discord-publish-hack" de 2022? Isso soa como algo que um bot de spam faria. E um TCC de novembro de 2024 em Kotlin e Objective-C? Já decidiu qual linguagem vai usar ou está colecionando todas as opções?</p>
+<p><b>Felipe Gueller</b>, "reforçando conceitos de programação"? Pelo visto, o conceito de atualizar seus repositórios também precisa ser reforçado. Seu "clone-tabnews" não vê a luz do dia desde novembro. E um "ticket-manager-api" em C#? Espero que pelo menos os <i>bugs</i> sejam gerenciados.</p>
+<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia"? Que bom, porque seu perfil no GitHub parece estar em um relacionamento sério com o esquecimento. Nenhuma atividade recente? Está economizando seus commits para o próximo milênio?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas linguagens, tanto tempo... gasto em dotfiles. E um fork de um projeto chamado "CL4R1T4S"? Sério, qual o próximo passo, invocar um demônio pelo terminal? Pelo menos o "daily-go" indica que você ainda está tentando fazer algo produtivo.</p>
+<p><b>Douglas Florindo</b>, 19 contribuições. Nem frio, nem quente. Praticamente a temperatura ambiente da irrelevância. Continue assim e você será o novo padrão de mediocridade.</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas"? Parece mais apaixonado por clonar desafios da DIO. Um "content_summarizer" que usa Google Gemini? Espero que ele não comece a ter opiniões próprias e a te demitir do seu próprio projeto. E "data_structures" em Python? Que original...</p>
+<p><b>giverplay</b>, "Olá, estranho!"... De fato. Seu repositório "moveit" não se move desde 2025. "Uvas" em Java? Espero que não estejam passadas. E "regras" em CSS e HTML? Aparentemente, nem as regras escapam da sua obsessão por tecnologias desatualizadas.</p>
+<p><b>Jean Brito</b>, 5 contribuições. Parabéns por existir. Sua participação é tão notável quanto um grão de areia no deserto do Saara. Continue assim e você poderá se gabar de ser o último da lista... de ninguém.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing disfarçado. Seus dotfiles são mais ativos que você por aqui. E "doom-fire-algorithm" de 2019? Nostalgia é bom, mas que tal algo novo? Pelo menos o "tabnews.com.br" está atualizado, imagino que para você ter onde postar mais propaganda.</p>
 </div>
     </details>
 </div>
@@ -102,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-07 at 00:21:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-08 at 00:23:21 UTC +0000</i>
 <h6>
