@@ -30,48 +30,48 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>38 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>46 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>35 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>29 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>25 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>26 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>20 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>19 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>17 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,16 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, "construir coisas fáceis de manter", hein? Interessante, especialmente considerando que seu repositório mais recente, "GalactiCore", foi atualizado pela última vez em fevereiro de 2025. Espero que a Galáxia não tenha entrado em colapso desde então. E "MinhaDespesa" com Hack? Sério? Achei que PHP já era esquisito o suficiente.</p>
-<p><b>Gustavo Carvalho</b>, impressionante como você contribui para um roadmap de carreira de desenvolvedor, mas seu próprio portfólio parece um labirinto abandonado. Um "discord-publish-hack" de 2022? Isso soa como algo que um bot de spam faria. E um TCC de novembro de 2024 em Kotlin e Objective-C? Já decidiu qual linguagem vai usar ou está colecionando todas as opções?</p>
-<p><b>Felipe Gueller</b>, "reforçando conceitos de programação"? Pelo visto, o conceito de atualizar seus repositórios também precisa ser reforçado. Seu "clone-tabnews" não vê a luz do dia desde novembro. E um "ticket-manager-api" em C#? Espero que pelo menos os <i>bugs</i> sejam gerenciados.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia"? Que bom, porque seu perfil no GitHub parece estar em um relacionamento sério com o esquecimento. Nenhuma atividade recente? Está economizando seus commits para o próximo milênio?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas linguagens, tanto tempo... gasto em dotfiles. E um fork de um projeto chamado "CL4R1T4S"? Sério, qual o próximo passo, invocar um demônio pelo terminal? Pelo menos o "daily-go" indica que você ainda está tentando fazer algo produtivo.</p>
-<p><b>Douglas Florindo</b>, 19 contribuições. Nem frio, nem quente. Praticamente a temperatura ambiente da irrelevância. Continue assim e você será o novo padrão de mediocridade.</p>
-<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas"? Parece mais apaixonado por clonar desafios da DIO. Um "content_summarizer" que usa Google Gemini? Espero que ele não comece a ter opiniões próprias e a te demitir do seu próprio projeto. E "data_structures" em Python? Que original...</p>
-<p><b>giverplay</b>, "Olá, estranho!"... De fato. Seu repositório "moveit" não se move desde 2025. "Uvas" em Java? Espero que não estejam passadas. E "regras" em CSS e HTML? Aparentemente, nem as regras escapam da sua obsessão por tecnologias desatualizadas.</p>
-<p><b>Jean Brito</b>, 5 contribuições. Parabéns por existir. Sua participação é tão notável quanto um grão de areia no deserto do Saara. Continue assim e você poderá se gabar de ser o último da lista... de ninguém.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing disfarçado. Seus dotfiles são mais ativos que você por aqui. E "doom-fire-algorithm" de 2019? Nostalgia é bom, mas que tal algo novo? Pelo menos o "tabnews.com.br" está atualizado, imagino que para você ter onde postar mais propaganda.</p>
+    <div align="justify"><p><b>Jean Brito</b>, parabéns pela liderança... em não fazer quase nada. 47 contribuições? Isso é o que eu chamo de "participação especial". Espero que seu próximo grande feito seja alcançar a casa dos 50.</p>
+<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter". Que tal focar em construir *mais* coisas? GalactiCore? MinhaDespesa? Parece que você está mais focado em criar nomes chamativos do que em contribuir de verdade. Mas ei, pelo menos você tem uma bio.</p>
+<p><b>Gustavo Carvalho</b>, impressionante como você consegue se perder em meio a tantos roadmaps de carreira e ainda assim não encontrar o caminho para o topo do ranking. Pelo menos você contribuiu no developer-roadmap, quem sabe um dia você consiga entender um deles.</p>
+<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação". Que bom que você está aprendendo, porque pelo visto, contribuir que é bom, nada. E Ticket Manager API em C#? Originalidade mandou lembranças. Mas não se preocupe, uma hora você chega lá... talvez.</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Estranho é você achar que 26 contribuições é algo digno de nota. Moveit? Uvas? Parece nome de projeto de escola. Ah, e obrigado por compartilhar seu Discord, caso alguém queira te dar uns conselhos.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... e nenhuma contribuição que realmente impressione. Dotfiles e um fork de um projeto sobre transparência de IA? Parece que você está mais preocupado em parecer moderno do que em realmente fazer algo útil. Mas continue tentando, quem sabe um dia você ache um projeto que te faça sair do zero.</p>
+<p><b>Douglas Florindo</b>, 19 contribuições. Quase lá! Quase chegando na casa dos 20. Mas ei, quem precisa de contribuições quando se tem 20 anos e uma bio com pronomes? Mas falando sério, vamos ver se no próximo mês você sai da adolescência das contribuições.</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas". Mas pelo visto, não tão apaixonado assim, já que suas contribuições mal chegam perto do top 5. Content Summarizer? Data Structures? Parece que você está mais perdido em desafios de projeto do que em resolver problemas de verdade. Mas não desanime, um dia você chega lá... ou não.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai, marido e... um contribuinte modesto. Projetos de análise em Excel e um clone de Tabnews? Parece que você está mais ocupado sendo multifacetado do que em realmente se destacar em algo. Mas ei, pelo menos você tem um perfil completo.</p>
+<p><b>Filipe Deschamps</b>, ah, o mestre do "Quer se sentir competente em programação? Confere isso: curso.dev". 2 contribuições? Sério? Parece que você está mais focado em vender cursos do que em realmente contribuir. Mas não se preocupe, pelo menos você tem um monte de projetos com milhares de estrelas... que você não contribui.</p>
 </div>
     </details>
 </div>
@@ -108,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-08 at 00:23:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-09 at 00:22:58 UTC +0000</i>
 <h6>
