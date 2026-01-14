@@ -40,12 +40,12 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>50 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>51 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>50 ctr.</td>
             </tr>
             <tr align="center">
@@ -56,17 +56,17 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>21 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>19 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>18 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>21 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, "focado em construir coisas fáceis de manter"? Que tal focar em construir *coisas*, ponto. Seu repositório com seu próprio nome não tem linguagem definida, sinal de que a auto-promoção está em dia, mas a programação... nem tanto. E "GalactiCore"? Sério? Star Wars? Em 2026? Originalidade mandou lembranças. Ah, e parabéns pelo 1 stargazer no "MinhaDespesa", daqui a pouco você chega nos dois dígitos.</p>
-<p><b>Giverplay</b>, "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos". Que generosidade a sua, dividir conosco essa vasta coleção de... três projetos? E um deles são "regras". Imagino que a regra número um seja "não contribua muito", para não cansar. 4 Stargazers no moveit, impressionante, quase uma celebridade. E "Uvas" em Java? Espero que não seja uma tentativa de fazer vinho, porque pelo visto vai azedar.</p>
-<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação". Bom, pelo menos é honesto. Mas clonar o Tabnews? Sério? Falta de criatividade nível master. E o "ticket-manager-api" em C#? Espero que os tickets de suporte sejam para resolver seus próprios bugs, porque senão a coisa tá feia. Ah, e não se esqueça de reforçar os conceitos de "originalidade" e "inovação" também.</p>
-<p><b>Jean Brito</b>, parabéns pela... ausência de bio e de repositórios recentes. Sua contribuição para o mundo do código é tão sutil que beira a invisibilidade. Continue assim, quem sabe um dia você se torna um mestre da camuflagem digital. Ou não. De qualquer forma, obrigado por participar.</p>
-<p><b>Gustavo Carvalho</b>, pelo menos você contribuiu com um projeto que tem mais de 300 mil estrelas. Sinal de que sabe onde encontrar conteúdo de qualidade... para os outros. Seu "discord-publish-hack" em Python e o "tcc-final" em Objective-C e Kotlin mostram uma versatilidade impressionante. Pena que essa versatilidade não se traduz em mais contribuições. E o "R.E.P.O-Save-Editor"? Ok, trapacear em jogos é uma habilidade, mas será que impressiona o Lobo?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantos nomes de tecnologias, tão pouco código. Seu repositório com seu próprio nome está vazio, um reflexo perfeito da sua atividade recente. E o "CL4R1T4S"? Um fork para transparência de prompts de IA? Que nobre causa... ou seria só para dizer que você entende de IA? E "daily-go"? Espero que esteja indo a algum lugar, porque suas contribuições não estão.</p>
-<p><b>Douglas Florindo</b>, 19 contribuições. Quase lá! Quase fazendo alguma coisa. Quase merecendo um elogio. Mas quase não conta, não é mesmo? Quem sabe no próximo mês você sai do quase e entra no "fez alguma coisa que preste". Boa sorte (você vai precisar).</p>
-<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas". Que bom que alguém se importa, porque suas contribuições não demonstram isso. Um "content_summarizer" para Youtube com Gemini? Ok, útil. Mas três forks de desafios .NET? Parece mais um acumulador de lixo digital do que um solucionador de problemas. Mas ei, pelo menos você tentou, não é?</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico". Com apenas 5 contribuições, sua análise deve estar focada em descobrir por que você não contribui mais. O projeto de turnover em Excel é um clássico, mas será que o Lobo se impressiona com planilhas? E o "flix-api" em Django? Espero que não seja para piratear filmes, porque aí a análise de dados vai ser na cadeia. E não vamos esquecer do clone-tabnews que morreu em fevereiro, RIP.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". E aparentemente "Zero Contributions". A trindade da incompetência. Mas ei, pelo menos você se descreve como "Full Stack", o que é quase tão bom quanto realmente ser um. Continue assim, quem sabe um dia a sorte muda. Ou não. De qualquer forma, obrigado por ocupar um lugar no ranking.</p>
-<p><b>Filipe Deschamps</b>, ah, o mestre dos cursos. Com apenas 2 contribuições, parece que está muito ocupado vendendo a ideia de competência para os outros. Mas ei, pelo menos o "doom-fire-algorithm" ainda recebe uns updates. Sinal de que o fogo no seu código ainda não se apagou totalmente. E o "tabnews.com.br" com mais de 6 mil estrelas? Bom, pelo menos você sabe onde encontrar conteúdo de qualidade... para os outros.</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pelo primeiro lugar! 64 contribuições! É quase como se você estivesse realmente tentando. Mas ei, quem precisa de vida social quando se tem código, certo? Ah, e "GalactiCore"? Sério? Espero que a Força esteja com você, porque vai precisar. Mas falando sério, "MinhaDespesa" em Hack? Isso é para garantir que nem você entenda suas próprias finanças? Só uma sugestão, talvez o próximo projeto possa ser um clone do Excel, porque, pelo visto, você gosta de sofrer.</p>
+<p><b>Giverplay</b>, segundo lugar, 54 contribuições. Nada mal para alguém que se descreve como "estranho". O projeto "Uvas" em Java... Interessante. Tentando uma nova safra de códigos? E "regras" em CSS e HTML? Que tal quebrar um pouco as regras? Mas olha só, o "moveit" foi atualizado hoje! <i>Parabéns</i>, você está quase no topo do pódio, mas quase não conta, certo?</p>
+<p><b>Jean Brito</b>, terceiro lugar com 51 contribuições. Parabéns, você quase conseguiu um lugar de destaque! Sem atividades recentes, hein? Aparentemente, você contribui tanto que não sobra tempo para mais nada. Ou será que você já atingiu o nirvana do código e não precisa mais provar nada a ninguém? Conta pra gente qual o segredo, vai...</p>
+<p><b>Felipe Gueller</b>, em quarto lugar com 50 contribuições. "Aprendendo e reforçando conceitos de programação"... Ah, a eterna jornada do aprendizado. Clonando o Tabnews? Originalidade é para os fracos, né? E "ticket-manager-api" em C#? Gerenciando tickets com a paixão de um burocrata? Continue assim e logo estará liderando a fila do INSS. Mas, ei, pelo menos você está tentando, e isso é...alguma coisa.</p>
+<p><b>Gustavo Carvalho</b>, ah, o quinto colocado, com suas 35 contribuições. Vejo que você andou bisbilhotando o "developer-roadmap". Imagino que a busca por um caminho claro na carreira seja uma prioridade. E aquele "discord-publish-hack"? Espero que não esteja espalhando fake news por aí. E o TCC em Objective-C e Kotlin? Misturando o velho e o quase obsoleto? E o "R.E.P.O-Save-Editor"? Parece que alguém anda trapaceando nos jogos... Mas quem somos nós para julgar, não é mesmo?</p>
+<p><b>Rafael Lima de Morais</b>, com 26 contribuições, você está quase lá... quase. "dotfiles" com Shell e Lua? Tentando deixar seu ambiente de desenvolvimento mais "você"? Que pretensão... E "CL4R1T4S", um fork para "TRANSPARENCY FOR ALL"? Que ironia, usar um fork para defender a transparência. E "daily-go" em Go? Tentando manter a chama acesa? Mas vamos ser sinceros, ninguém realmente se importa com seus commits diários, não é mesmo?</p>
+<p><b>Gabriel Carvalho</b>, com 23 contribuições, quase no fim da fila. "content_summarizer" usando Google Gemini? Inteligência artificial para poupar seu tempo? Que preguiça... E aquela trilha de desafios .NET? Parece que alguém está desesperado para impressionar a DIO. Mas, ei, pelo menos você está tentando aprender alguma coisa, mesmo que seja da maneira mais fácil possível.</p>
+<p><b>Douglas Florindo</b>, com 21 contribuições. Ah, a juventude... Tantas possibilidades, tanto potencial desperdiçado. Sem atividades recentes? A vida te engoliu? Ou será que você está apenas esperando a próxima oportunidade para brilhar? Espero que não esteja apenas procrastinando, porque o tempo voa, meu amigo.</p>
+<p><b>Deyved Antonio</b>, com míseras 5 contribuições. Analista de dados? Sério? E só isso de contribuições? Parece que alguém está mais para analista de planilhas do Excel. E "clone-tabnews-aluno"? Copiando e colando? Cadê a originalidade? Mas o projeto de análise de turnover de colaboradores... Ah, a ironia de analisar a rotatividade enquanto você mesmo mal aparece por aqui. E o "flix-api"? Espero que pelo menos você esteja assistindo a bons filmes enquanto foge do trabalho.</p>
+<p><b>Luídi Pires</b>, com apenas 4 contribuições, você está quase invisível. Front-End, Back-End, Full Stack... Tantas promessas, tão pouca ação. Cadê os projetos? Cadê os commits? Cadê a paixão? Ou será que você está apenas esperando o momento certo para mostrar seu verdadeiro potencial? Espero que esse momento chegue logo, antes que você seja esquecido.</p>
+<p><b>Bruno Ferreira</b>, com 3 contribuições. Parabéns, você quase não contribuiu com nada! Sem bio, sem projetos, sem nada. Você é o ninja da invisibilidade no mundo do código. Ou será que você é apenas um fantasma vagando pelo GitHub? De qualquer forma, obrigado por existir, mesmo que sua existência seja quase imperceptível.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-13 at 00:20:02 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-14 at 00:23:55 UTC +0000</i>
 <h6>
