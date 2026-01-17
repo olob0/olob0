@@ -30,28 +30,28 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>63 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>88 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>59 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>64 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>60 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>54 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>53 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>49 ctr.</td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>4 ctr.</td>
+                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, em primeiro lugar com 63 contribuições, hein? Que inveja... da sua paciência. Porque talento, claramente, não é. Mas ei, pelo menos você consegue manter as coisas fáceis. Aposto que seu código é tão fácil que até uma IA conseguiria entender... e criticar.</p>
-<p><b>Felipe Gueller</b>, em segundo lugar com 59 contribuições. Bacharel em Sistemas de Informações, que chique! Pena que ninguém liga pra isso aqui. Mas não desanime, quem sabe um dia você use esse diploma pra alguma coisa além de impressionar sua avó.</p>
-<p><b>giverplay</b>, ah, o terceiro lugar com 54 contribuições. "Uvas" em Java, que original! E "regras" em CSS e HTML? Que ousadia! Espero que suas regras sejam mais interessantes que seus nomes de projetos. Mas ei, pelo menos você tem um Discord, né? Quem sabe alguém te ache legal por lá.</p>
-<p><b>Jean Brito</b>, o misterioso quarto lugar com 53 contribuições. Sem bio, sem graça. Você é tipo o ninja das contribuições, ninguém te vê, mas você tá ali, contribuindo... ou será que só tá clicando em uns botões aleatórios? A gente nunca vai saber.</p>
-<p><b>Rafael Lima de Morais</b>, o quinto lugar com 49 contribuições e um currículo de dar inveja... ou não. Vim, Go, Typescript, Rust... quanta pretensão! E ainda por cima, um repo chamado "rafazeero" com um stargazer? Que sucesso! Mas ei, pelo menos você tem "dotfiles", né? Pra provar que você é um verdadeiro hacker de filme.</p>
-<p><b>Gustavo Carvalho</b>, o sexto lugar com 35 contribuições. Parabéns... ou não. Não sei o que você faz, ninguém sabe o que você faz. Mas ei, pelo menos você tá aqui, né? Isso já é alguma coisa... ou não.</p>
-<p><b>Gabriel Carvalho</b>, o sétimo lugar com 23 contribuições e uma paixão por entender como as coisas funcionam "por baixo dos panos". Que profundo! Aposto que você é o tipo de pessoa que desmonta o liquidificador pra ver como ele funciona. Mas ei, pelo menos você é apaixonado, né? Isso já é mais do que a maioria aqui.</p>
-<p><b>Douglas Florindo</b>, o oitavo lugar com 21 contribuições. 20 anos, "Ele/Dele", PtBr/Eng... que informativo! Mas e as contribuições, cadê? Ah, é verdade, você tá ocupado demais se definindo. Mas ei, pelo menos você é jovem, né? Tem tempo pra se redimir... ou não.</p>
-<p><b>Deyved Antonio</b>, o quase lanterninha com 5 contribuições. Analista de Dados, pai e marido. Que vida! Mas e as contribuições? Ah, é verdade, você tá ocupado demais analisando dados e sendo um bom pai e marido. Mas ei, pelo menos você tem um projeto de análise de turnover, né? Quem sabe você não analisa o seu próprio turnover por aqui.</p>
-<p><b>Luídi Pires</b> e <b>brunoferreiraff</b>, os lanterninhas com 4 contribuições cada. Front-End, Back-End, Full Stack... que versatilidade! Pena que não se reflete nas contribuições. Mas ei, pelo menos vocês estão aqui, né? Isso já é... insignificante.</p>
+    <div align="justify"><p><b>Jean Brito</b>, liderando com 88 contribuições, hein? Espero que essas contribuições sejam mais significativas do que a quantidade de letras no seu nome. Sem bio? Sério? Nem um "Olá, mundo!" para animar o pessoal?</p>
+<p><b>Deivid Souza Santana</b>, o mago do back-end. "Construir coisas fáceis de manter"... Será que sua promessa se estende à sua posição no ranking? Porque essa aí está bem difícil de sustentar.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Que o seu bacharelado se traduza em mais contribuições e menos "sistemas de informações" genéricas. Mostre a que veio, Felipe, ou vai virar estatística!</p>
+<p><b>giverplay</b>, "Olá, estranho!". Seus projetos "Uvas" e "regras" parecem tão interessantes quanto ler o manual de instruções de uma torradeira. Mas ei, pelo menos você tem projetos, diferente de alguns por aqui.</p>
+<p><b>Rafael Lima de Morais</b>, o poliglota do código: Go, Typescript, Rust, Vim... Impressionante! Pena que a descrição do seu repositório "rafazeero" está tão vazia quanto a minha paciência para gente que não preenche a descrição do projeto. E "CL4R1T4S"? Um fork? Sério? Achei que você era original.</p>
+<p><b>Gustavo Carvalho</b>, 35 contribuições e sem bio. Você é o ninja silencioso do GitHub? Ou só está esperando o momento certo para atacar? Seja lá o que for, o ranking não espera por ninguém.</p>
+<p><b>Gabriel Carvalho</b>, apaixonado por "entender como as coisas realmente funcionam por baixo dos panos". Espero que essa paixão se traduza em mais contribuições, porque por enquanto, você está mais para "por baixo dos panos" do ranking.</p>
+<p><b>Douglas Florindo</b>, 20 anos, "Ele/Dele". Ok, legal. E as contribuições? Ah, sim, 21. Quase a idade. Daqui a pouco você alcança a maioridade no ranking também.</p>
+<p><b>Deyved Antonio</b>, o analista de dados que contribui menos que um estagiário? Calma, Deyved, com apenas 5 contribuições, você ainda pode analisar seus próprios erros e dar a volta por cima. Mas sério, um catálogo de filmes em Django? Isso é pra relaxar ou pra dar sono?</p>
+<p><b>Luídi Pires</b>, Front-End, Back-End, Full Stack... e poucas contribuições. Luídi, você é como aqueles restaurantes que prometem de tudo no cardápio, mas não entregam nada de especial. Escolha um lado e foque em contribuir, ou vai virar "No Stack".</p>
+<p><b>brunoferreiraff</b>, com míseras 4 contribuições e sem bio, você está quase invisível por aqui. É como se você fosse um erro 404 no ranking. Tente contribuir mais, quem sabe assim a gente te encontra.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-16 at 00:23:28 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-17 at 00:22:13 UTC +0000</i>
 <h6>
