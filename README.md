@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>64 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>57 ctr.</td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,32 +50,32 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>37 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>35 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>23 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
                 <td>3 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, ah, o primeiro lugar... em número de contribuições *medíocres*. 64 "contribuições"? Espero que pelo menos metade disso seja corrigindo seus próprios erros de digitação. E "GalactiCore"? Sério? Mais clichê que filme da Marvel. Mas, ei, pelo menos você tem um sistema de gestão financeira "minimalista". Tão minimalista que quase desapareceu, notei que a última atualização foi em julho de 2025. </p>
-<p><b>Felipe Gueller</b>, quase lá, hein? 60 contribuições, mas quem se importa? Ninguém vai lembrar do segundo lugar. E "Aprendendo e reforçando conceitos de programação"? Isso é código para "estou tentando desesperadamente parecer produtivo". Pelo menos você está usando C#, quem sabe um dia você crie algo que não precise de 3GB de RAM pra rodar um "Hello, World!".</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim"... Ah, a santíssima trindade da complexidade desnecessária. 57 contribuições, e aposto que metade delas são só pra atualizar seus *dotfiles*. E "CL4R1T4S"? Sério que você bifurcou um projeto pra isso? É o auge da originalidade, parabéns!.</p>
-<p><b>Giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil"... Mais estranho ainda é seu número de contribuições: 54. E "Uvas"? Sério que você não conseguiu pensar em um nome melhor? Ah, espera, é Java, faz sentido. E o repositório de "regras" em CSS e HTML? Espero que pelo menos as regras de CSS estejam bem definidas, porque a vida já é caótica o suficiente.</p>
-<p><b>Gustavo Carvalho</b>, 35 contribuições? Estava ocupado demais lendo o "developer-roadmap"? Ah, e o "discord-publish-hack"? Imagino que seja para automatizar seus posts sobre como você está aprendendo a programar. E parabéns pelo TCC, pena que foi em Objective-C e Kotlin, duas linguagens que ninguém lembra que existem. Mas ei, pelo menos você editou saves de um jogo obscuro em Python. Prioridades, né?</p>
-<p><b>Gabriel Carvalho</b>, 23 contribuições. Quase desistindo, hein? Um "content_summarizer" que usa Google Gemini? Que original! E a trilha .NET da DIO? Aposto que você se sentiu o próprio Bill Gates fazendo isso. Mas ei, pelo menos você está explorando o mundo do C#. Quem sabe um dia você descubra que existe vida fora da Microsoft.</p>
-<p><b>Douglas Florindo</b>, com míseras 21 contribuições. 20 anos e nada pra mostrar? Sem repositórios recentes? Sério que você não conseguiu nem criar um "Hello, World!" em 2025? Imagino que esteja ocupado demais jogando videogame e postando no TikTok. Mas ei, pelo menos você tem uma bio com pronomes e tudo. Que inclusivo!</p>
-<p><b>Deyved Antonio</b>, 5 contribuições. Parabéns, você quase conseguiu não fazer nada o mês inteiro! Analista de Dados, curioso e analítico, mas com apenas 5 contribuições? A análise deve estar dizendo para você procurar outro hobby. E o projeto de turnover de colaboradores em Excel? Espero que pelo menos as planilhas estejam formatadas corretamente. Ah, e "flix-api" em Django? Sério que você não conseguiu nem criar um CRUD decente em 2025?</p>
-<p><b>Carlos Israel</b>, 3 contribuições. Três! Você está competindo para ver quem contribui menos? "Software Engineer. Passionate about technology." Mas a paixão não se traduz em código, aparentemente. E "CleanTalks"? Aposto que as conversas são mais limpas que seu histórico de contribuições. E "VUTTR"? Imagino que seja uma ferramenta para gerenciar suas ferramentas de desenvolvimento... que você não usa. </p>
-<p><b>João Nery</b>, também com 3 contribuições. Empate técnico com o Carlos Israel! Uma calculadora em JS? Que inovador! E um Jogo da Velha? Espero que pelo menos você tenha conseguido ganhar de você mesmo. E o site da AT Softwares? Aposto que é mais lento que discagem de modem. Mas ei, pelo menos você tem um perfil no GitHub. Que orgulho!</p>
-<p><b>João Tadiello - Muamba</b>, ah, o último da lista... Também com 3 contribuições, mas pelo menos você não tem a audácia de se chamar "Full-stack Developer". Sem repositórios recentes? Imagino que esteja ocupado demais vendendo "muambas" por aí. Mas ei, pelo menos você apareceu na lista. Que vitória!</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, 77 contribuições? Que inveja! Quase dá pra sentir o cheiro do seu "backend focado em Python e JavaScript". Imagino que "fácil de manter" signifique que só você consegue entender. E o clone do Tabnews? Tão original... Espero que o pessoal do curso.dev esteja orgulhoso. E GalactiCore? Uma API para entusiastas de Star Wars?  <i>Que a força esteja com você... precisará.</i></p>
+<p><b>Felipe Gueller</b>, 60 contribuições, parabéns! Vejo que está "reforçando conceitos de programação" com o clone do Tabnews. Uma pena que sua implementação não tenha o mesmo brilho que o original. E o "ticket-manager-api" em C#? Imagino que os clientes estejam pulando de alegria com a sua eficiência. <i>Continue assim, quem sabe um dia você chega lá!</i></p>
+<p><b>Rafael Lima de Morais</b>, 59 contribuições. Go, Typescript, Rust e Vim? Uau, um verdadeiro poliglota da programação.  Dotfiles customizados, porque o padrão é para os fracos. E CL4R1T4S?  <i>A transparência é tudo, especialmente quando ninguém entende o que você está fazendo.</i></p>
+<p><b>Giverplay</b>, 54 contribuições. "Olá, estranho!" Imagino que você diga isso para todos que visitam seu perfil.  Uvas em Java? Que refrescante! E "regras" em CSS e HTML?  <i>Espero que sejam regras de etiqueta, porque as de programação parecem um pouco confusas.</i></p>
+<p><b>Deyved Antonio</b>, 37 contribuições. Analista de Dados, pai e marido. Nessa ordem de prioridade? Seus "estudos_Analista" parecem bem intensos, ainda bem que o turnover de colaboradores te mantém ocupado.  <i>Ainda bem que o clone do Tabnews ficou no passado, pelo bem de todos.</i></p>
+<p><b>Gustavo Carvalho</b>, 35 contribuições.  Impressionante como você consegue contribuir em projetos com 347456 stargazers. Aposto que eles notaram sua contribuição.  E o "discord-publish-hack"?  <i>Espero que não esteja usando para spam, hein?</i></p>
+<p><b>Gabriel Carvalho</b>, 23 contribuições.  Um "content_summarizer" para Youtube usando Google Gemini?  Original... Pelo menos os desafios .NET da DIO te mantiveram ocupado.  <i>Só espero que você realmente entenda como as coisas funcionam "por baixo dos panos", porque por cima...</i></p>
+<p><b>Douglas Florindo</b>, 21 contribuições. 20 anos e... nada? Sem repositórios recentes?  <i>Ainda dá tempo de fazer algo da vida, viu?</i></p>
+<p><b>Bruno Ferreira</b>, míseras 4 contribuições. Sem bio, sem repositórios...  <i>Você existe mesmo?</i></p>
+<p><b>Carlos Israel</b>, apenas 3 contribuições.  Engenheiro de Software, apaixonado por tecnologia... e procrastinação?  CleanTalks parece interessante, mas VUTTR?  <i>Sério que você precisa de uma API para gerenciar suas ferramentas de desenvolvimento?</i></p>
+<p><b>Filipe Deschamps</b>, inacreditáveis 3 contribuições.  "Quer se sentir competente em programação?"  Sério, com essa quantidade de contribuições?  Ainda bem que o pessoal do Tabnews te mantém relevante.  <i>Mas e você, o que tem feito além de vender curso?</i></p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-18 at 00:25:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-19 at 00:24:24 UTC +0000</i>
 <h6>
