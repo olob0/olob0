@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>77 ctr.</td>
+                <td>88 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>59 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>37 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
-                <td>4 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Cr-Israel">Carlos Israel</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>7 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, 77 contribuições? Que inveja! Quase dá pra sentir o cheiro do seu "backend focado em Python e JavaScript". Imagino que "fácil de manter" signifique que só você consegue entender. E o clone do Tabnews? Tão original... Espero que o pessoal do curso.dev esteja orgulhoso. E GalactiCore? Uma API para entusiastas de Star Wars?  <i>Que a força esteja com você... precisará.</i></p>
-<p><b>Felipe Gueller</b>, 60 contribuições, parabéns! Vejo que está "reforçando conceitos de programação" com o clone do Tabnews. Uma pena que sua implementação não tenha o mesmo brilho que o original. E o "ticket-manager-api" em C#? Imagino que os clientes estejam pulando de alegria com a sua eficiência. <i>Continue assim, quem sabe um dia você chega lá!</i></p>
-<p><b>Rafael Lima de Morais</b>, 59 contribuições. Go, Typescript, Rust e Vim? Uau, um verdadeiro poliglota da programação.  Dotfiles customizados, porque o padrão é para os fracos. E CL4R1T4S?  <i>A transparência é tudo, especialmente quando ninguém entende o que você está fazendo.</i></p>
-<p><b>Giverplay</b>, 54 contribuições. "Olá, estranho!" Imagino que você diga isso para todos que visitam seu perfil.  Uvas em Java? Que refrescante! E "regras" em CSS e HTML?  <i>Espero que sejam regras de etiqueta, porque as de programação parecem um pouco confusas.</i></p>
-<p><b>Deyved Antonio</b>, 37 contribuições. Analista de Dados, pai e marido. Nessa ordem de prioridade? Seus "estudos_Analista" parecem bem intensos, ainda bem que o turnover de colaboradores te mantém ocupado.  <i>Ainda bem que o clone do Tabnews ficou no passado, pelo bem de todos.</i></p>
-<p><b>Gustavo Carvalho</b>, 35 contribuições.  Impressionante como você consegue contribuir em projetos com 347456 stargazers. Aposto que eles notaram sua contribuição.  E o "discord-publish-hack"?  <i>Espero que não esteja usando para spam, hein?</i></p>
-<p><b>Gabriel Carvalho</b>, 23 contribuições.  Um "content_summarizer" para Youtube usando Google Gemini?  Original... Pelo menos os desafios .NET da DIO te mantiveram ocupado.  <i>Só espero que você realmente entenda como as coisas funcionam "por baixo dos panos", porque por cima...</i></p>
-<p><b>Douglas Florindo</b>, 21 contribuições. 20 anos e... nada? Sem repositórios recentes?  <i>Ainda dá tempo de fazer algo da vida, viu?</i></p>
-<p><b>Bruno Ferreira</b>, míseras 4 contribuições. Sem bio, sem repositórios...  <i>Você existe mesmo?</i></p>
-<p><b>Carlos Israel</b>, apenas 3 contribuições.  Engenheiro de Software, apaixonado por tecnologia... e procrastinação?  CleanTalks parece interessante, mas VUTTR?  <i>Sério que você precisa de uma API para gerenciar suas ferramentas de desenvolvimento?</i></p>
-<p><b>Filipe Deschamps</b>, inacreditáveis 3 contribuições.  "Quer se sentir competente em programação?"  Sério, com essa quantidade de contribuições?  Ainda bem que o pessoal do Tabnews te mantém relevante.  <i>Mas e você, o que tem feito além de vender curso?</i></p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pelo primeiro lugar! 88 contribuições... Imagino que a maioria seja correção de ponto e vírgula, porque construir coisas "fáceis de manter" geralmente significa evitar coisas difíceis de construir, não é mesmo? Mas ei, pelo menos você está construindo *alguma* coisa.</p>
+<p><b>Felipe Gueller</b> e <b>Rafael Lima de Morais</b>, empatados em segundo lugar com 60 contribuições. Que coincidência adorável! Felipe, espero que seu bacharelado em Sistemas de Informações esteja te servindo bem, porque pelo visto, contribuir que é bom... Rafael, notei que seu repositório "dotfiles" foi atualizado em Outubro de 2025. Aposto que essas configurações personalizadas são a espinha dorsal da sua produtividade, ou talvez só uma desculpa para procrastinar.</p>
+<p><b>Giverplay</b>, com 54 contribuições. Seu repositório "Uvas" não tem descrição. É sobre a fruta? Vinho? Ou é só uma metáfora para a azia que dá depois de tentar entender o código alheio? Ah, e parabéns por contribuir para "regras" da NekoSoftX. O mundo precisa de mais regras, especialmente aquelas escritas em CSS e HTML.</p>
+<p><b>Deyved Antonio</b>, 38 contribuições. "Apaixonado por Tecnologia". Que clichê adorável! Mas ei, pelo menos você tem um repositório de estudos para analista de dados. Quem sabe um dia você realmente analise alguns dados, em vez de só guardar materiais de curso? E esse projeto de turnover? Espero que a análise não revele que *você* é o próximo na lista.</p>
+<p><b>Gustavo Carvalho</b>, 35 contribuições. Sua bio está em branco. Isso é uma declaração artística sobre o vazio da existência ou só preguiça de preencher? De qualquer forma, suas contribuições falam por você... ou não.</p>
+<p><b>Gabriel Carvalho</b>, 23 contribuições. "Apaixonado por entender como as coisas realmente funcionam por baixo dos panos!". Então me diga, Gabriel, qual a taxa de depreciação do seu teclado? Se você realmente entendesse, estaria contribuindo mais, não acha?</p>
+<p><b>Douglas Florindo</b>, 21 contribuições. Ah, a juventude... 21 anos e já contribuindo. Ou tentando, pelo menos. Continue assim, Douglas, e quem sabe um dia você chegue lá. Ou não.</p>
+<p><b>Ageu Silva</b>, 11 contribuições. 127.0.0.1. Imagino que suas contribuições sejam tão locais quanto seu endereço IP. Talvez seja hora de sair do localhost e explorar o mundo real, Ageu.</p>
+<p><b>Ezequias Silva</b>, 7 contribuições. Sete contribuições... Quase um número primo! Continue assim e você poderá contribuir com o equivalente a um dígito binário por dia. Que emocionante!</p>
+<p><b>Carlos Israel</b>, míseras 3 contribuições. "Apaixonado por tecnologia". Sério? Porque não parece. Da próxima vez, que tal canalizar essa paixão em, sei lá, *quatro* contribuições? Ouse sonhar, Carlos.</p>
 </div>
     </details>
 </div>
@@ -109,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-19 at 00:24:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-20 at 00:22:35 UTC +0000</i>
 <h6>
