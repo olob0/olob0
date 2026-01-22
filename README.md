@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>88 ctr.</td>
+                <td>94 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>61 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>60 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>64 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>55 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>7 ctr.</td>
+                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Deivid Souza Santana</b>, o "focado". 88 contribuições, hein? Imagino que "focado" signifique que você está focado em não contribuir muito em repositórios que realmente importam. Mas ei, pelo menos você está construindo coisas "fáceis de manter". Que tal tentar construir algo difícil de ignorar?</p>
-<p><b>Rafael Lima de Morais</b>, um engenheiro de software que gosta de exibir suas escolhas de linguagem de programação. Go, TypeScript, Rust, Vim... uau, que impressionante. Ah, e seus repositórios? Um com um stargazer, outro com "custom cfgs" (tão únicos!), e um fork de algo que você mal tocou. Continue assim, Rafael, e talvez um dia alguém note que você existe.</p>
-<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações. 60 contribuições. Imagino que a maioria delas seja para trabalhos da faculdade. Que tal aplicar esse conhecimento em algo útil, em vez de apenas acumular títulos?</p>
-<p><b>giverplay</b>, com seus "projetos". Uvas em Java, que original! E regras em CSS e HTML, a base de todo projeto inovador. 55 contribuições, mas quantas delas realmente importam? Talvez seja hora de dar um tempo no Discord e começar a codificar algo que valha a pena.</p>
-<p><b>Deyved Antonio</b>, o "Analista de Dados". Vejo que você está "apaixonado por Tecnologia", mas seus repositórios contam outra história. Um clone do Tabnews e um projeto de análise de turnover... parece que alguém está tentando desesperadamente parecer produtivo. Mas ei, pelo menos você tem 2 stargazers no seu repositório pessoal. Parabéns!</p>
-<p><b>Gustavo Carvalho</b>, sem bio, sem comentários. 36 contribuições. Você é o ninja silencioso da contribuição? Ou apenas alguém que clica em botões aleatórios? O mistério permanece.</p>
-<p><b>Gabriel Carvalho</b>, o "apaixonado por criar soluções". 23 contribuições. Imagino que essas soluções sejam tão genéricas quanto sua bio. Que tal criar algo que realmente resolva um problema, em vez de apenas "entender como as coisas funcionam por baixo dos panos"?</p>
-<p><b>Douglas Florindo</b>, 21 anos. 21 contribuições. Aparentemente, sua idade corresponde ao seu número de contribuições. Que tal dobrar esse número no próximo mês? Ou você está muito ocupado sendo "Ele/Dele"?</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". 12 contribuições. Você é o desenvolvedor local que nunca sai do localhost? Ou apenas alguém que esqueceu de preencher a bio? De qualquer forma, suas contribuições são tão invisíveis quanto seu endereço IP.</p>
-<p><b>Ezequias Silva</b>, sem bio, sem comentários, apenas 7 contribuições. Talvez você devesse considerar mudar de carreira. Ou pelo menos começar a contribuir com algo que não seja um erro de digitação.</p>
-<p><b>João Nery</b>, o "Full-Stack Developer". 5 contribuições. Full-Stack, mas com contribuições de estagiário. Que tal mostrar suas habilidades em vez de apenas se intitular?</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, ah, o primeiro da lista. 94 contribuições? Quase lá. Mas construir coisas fáceis de manter? Isso é o que todo mundo diz, até a primeira refatoração. E "GalactiCore"? Sério? Star Wars? Que original. Ao menos o "MinhaDespesa" tem 1 stargazer, um feito e tanto.</p>
+<p><b>giverplay</b>, "Olá, estranho!" Que simpático. 71 contribuições e um repositório chamado "Uvas" em Java. Espero que pelo menos rendam um bom vinho, porque contribuições não parecem ser o forte. E "regras"? Espero que pelo menos siga as próprias.</p>
+<p><b>Rafael Lima de Morais</b>, engenheiro de software que usa Vim. Que novidade. 64 contribuições, ok. Mas "CL4R1T4S"? Transparência para IA? Isso soa como dor de cabeça. E "daily-go"? Espero que não seja só para aprender a pedir demissão.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. 60 contribuições, tá quase. Clonando o Tabnews? Que ideia inovadora. E "ticket-manager-api"? Que tal um gerenciador de criatividade? Talvez ajude.</p>
+<p><b>Deyved Antonio</b>, analista de dados. 45 contribuições, estamos quase lá... na metade. Apaixonado por tecnologia, pai e marido. Imagino o quão empolgante deve ser analisar dados de turnover de colaboradores. Que tal analisar seus próprios commits?</p>
+<p><b>Gustavo Carvalho</b>, sem bio. 36 contribuições. Contribuiu para o "developer-roadmap"? Legal, agora contribua para algo seu. Ou vai continuar seguindo o mapa dos outros? Cadê a originalidade?</p>
+<p><b>Gabriel Carvalho</b>, desenvolvedor de software apaixonado por entender como as coisas funcionam "por baixo dos panos". 23 contribuições e nenhum repositório recente? Parece que os panos estão bem empoeirados. Que tal começar a desempoeirar?</p>
+<p><b>Douglas Florindo</b>, 21 anos. 21 contribuições. Coincidência? Acho que não. Mas nenhum repositório recente. Que tal fazer algo além de existir?</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Que original. 12 contribuições. "Gole a Gole"? Uma extensão para lembrar de beber água? Sério? Talvez você precise de uma extensão para lembrar de contribuir.</p>
+<p><b>Ezequias Silva</b>, sem bio. 8 contribuições. Praticamente um fantasma digital. Que tal aparecer um pouco mais?</p>
+<p><b>João Nery</b>, Full-Stack Developer. 5 contribuições. Full-Stack de preguiça, talvez? Que tal mostrar que você realmente faz alguma coisa além de se auto-intitular?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-21 at 00:24:06 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-22 at 00:24:47 UTC +0000</i>
 <h6>
