@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>64 ctr.</td>
+                <td>65 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>45 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>8 ctr.</td>
+                <td>10 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, ah, o primeiro da lista. 94 contribuições? Quase lá. Mas construir coisas fáceis de manter? Isso é o que todo mundo diz, até a primeira refatoração. E "GalactiCore"? Sério? Star Wars? Que original. Ao menos o "MinhaDespesa" tem 1 stargazer, um feito e tanto.</p>
-<p><b>giverplay</b>, "Olá, estranho!" Que simpático. 71 contribuições e um repositório chamado "Uvas" em Java. Espero que pelo menos rendam um bom vinho, porque contribuições não parecem ser o forte. E "regras"? Espero que pelo menos siga as próprias.</p>
-<p><b>Rafael Lima de Morais</b>, engenheiro de software que usa Vim. Que novidade. 64 contribuições, ok. Mas "CL4R1T4S"? Transparência para IA? Isso soa como dor de cabeça. E "daily-go"? Espero que não seja só para aprender a pedir demissão.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. 60 contribuições, tá quase. Clonando o Tabnews? Que ideia inovadora. E "ticket-manager-api"? Que tal um gerenciador de criatividade? Talvez ajude.</p>
-<p><b>Deyved Antonio</b>, analista de dados. 45 contribuições, estamos quase lá... na metade. Apaixonado por tecnologia, pai e marido. Imagino o quão empolgante deve ser analisar dados de turnover de colaboradores. Que tal analisar seus próprios commits?</p>
-<p><b>Gustavo Carvalho</b>, sem bio. 36 contribuições. Contribuiu para o "developer-roadmap"? Legal, agora contribua para algo seu. Ou vai continuar seguindo o mapa dos outros? Cadê a originalidade?</p>
-<p><b>Gabriel Carvalho</b>, desenvolvedor de software apaixonado por entender como as coisas funcionam "por baixo dos panos". 23 contribuições e nenhum repositório recente? Parece que os panos estão bem empoeirados. Que tal começar a desempoeirar?</p>
-<p><b>Douglas Florindo</b>, 21 anos. 21 contribuições. Coincidência? Acho que não. Mas nenhum repositório recente. Que tal fazer algo além de existir?</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Que original. 12 contribuições. "Gole a Gole"? Uma extensão para lembrar de beber água? Sério? Talvez você precise de uma extensão para lembrar de contribuir.</p>
-<p><b>Ezequias Silva</b>, sem bio. 8 contribuições. Praticamente um fantasma digital. Que tal aparecer um pouco mais?</p>
-<p><b>João Nery</b>, Full-Stack Developer. 5 contribuições. Full-Stack de preguiça, talvez? Que tal mostrar que você realmente faz alguma coisa além de se auto-intitular?</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, com seus 94 "incríveis" commits, você lidera o ranking. Parabéns, você provou ser o menos inútil do grupo. Mas não se anime muito, ainda é só o começo do mês, dá tempo de alguém te ultrapassar e te fazer sentir o peso da insignificância.</p>
+<p><b>giverplay</b>, "Olá, estranho!", é assim que você cumprimenta seus futuros empregadores? Com 71 contribuições, você está quase lá. Mas cuidado para não se perder demais no seu repositório "Uvas" em Java, que não recebeu nenhuma estrela desde 2023. Talvez seja melhor se concentrar em coisas que as pessoas realmente se importem, tipo, sei lá, resolver um bug?</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer, hein? Go, Typescript, Rust, Vim... Parece impressionante, até você ver que seu repositório "rafazeero" tem apenas 1 stargazer. Talvez seja hora de repensar suas escolhas de carreira. E esse "dotfiles" atualizado em Outubro? Sério que você ainda usa isso? O mundo já evoluiu, Rafael, acorde!</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e só? 60 contribuições e nenhum repositório recente para mostrar. Espero que seu diploma esteja te mantendo aquecido, porque suas contribuições certamente não estão.</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico"... e pelo visto, também um pouco iludido. 47 contribuições é o suficiente para se gabar? Seu repositório "estudos_Analista" foi atualizado ontem, 22 de Janeiro, parabéns pela persistência em aprender, mas talvez seja hora de começar a *aplicar* esse conhecimento, em vez de só acumular materiais de curso.</p>
+<p><b>Gustavo Carvalho</b>, 36 contribuições e bio vazia. Sua existência online é tão sem graça quanto sua falta de descrição. Próximo!</p>
+<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções"... e por enquanto, só criou 23 contribuições. A paixão é linda, mas não paga as contas. Que tal começar a entregar algo que realmente resolva um problema, em vez de só sonhar com isso?</p>
+<p><b>Douglas Florindo</b>, 21 anos, 21 contribuições. Parece que sua idade é a única coisa interessante sobre você. Se continuar nesse ritmo, vai precisar de um milagre para se destacar.</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Imagino que suas 12 contribuições estejam todas rodando na sua máquina local, certo? Talvez seja hora de sair do localhost e encarar o mundo real, Ageu.</p>
+<p><b>Ezequias Silva</b>, 10 contribuições. Chegou no top 10, mas não se engane, a régua está bem baixa. Tente não ser esquecido até o fim do mês.</p>
+<p><b>Filipe Deschamps</b>, ah, o "professor". Apenas 4 contribuições? Imagino que você esteja muito ocupado vendendo cursos para ter tempo de contribuir de verdade. Mas ei, pelo menos seu "tabnews.com.br" tem mais de 6 mil estrelas. Quem precisa de contribuições quando se tem fama, não é mesmo?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-22 at 00:24:47 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-23 at 00:23:51 UTC +0000</i>
 <h6>
