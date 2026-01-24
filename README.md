@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>12 ctr.</td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, com seus 94 "incríveis" commits, você lidera o ranking. Parabéns, você provou ser o menos inútil do grupo. Mas não se anime muito, ainda é só o começo do mês, dá tempo de alguém te ultrapassar e te fazer sentir o peso da insignificância.</p>
-<p><b>giverplay</b>, "Olá, estranho!", é assim que você cumprimenta seus futuros empregadores? Com 71 contribuições, você está quase lá. Mas cuidado para não se perder demais no seu repositório "Uvas" em Java, que não recebeu nenhuma estrela desde 2023. Talvez seja melhor se concentrar em coisas que as pessoas realmente se importem, tipo, sei lá, resolver um bug?</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer, hein? Go, Typescript, Rust, Vim... Parece impressionante, até você ver que seu repositório "rafazeero" tem apenas 1 stargazer. Talvez seja hora de repensar suas escolhas de carreira. E esse "dotfiles" atualizado em Outubro? Sério que você ainda usa isso? O mundo já evoluiu, Rafael, acorde!</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e só? 60 contribuições e nenhum repositório recente para mostrar. Espero que seu diploma esteja te mantendo aquecido, porque suas contribuições certamente não estão.</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico"... e pelo visto, também um pouco iludido. 47 contribuições é o suficiente para se gabar? Seu repositório "estudos_Analista" foi atualizado ontem, 22 de Janeiro, parabéns pela persistência em aprender, mas talvez seja hora de começar a *aplicar* esse conhecimento, em vez de só acumular materiais de curso.</p>
-<p><b>Gustavo Carvalho</b>, 36 contribuições e bio vazia. Sua existência online é tão sem graça quanto sua falta de descrição. Próximo!</p>
-<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções"... e por enquanto, só criou 23 contribuições. A paixão é linda, mas não paga as contas. Que tal começar a entregar algo que realmente resolva um problema, em vez de só sonhar com isso?</p>
-<p><b>Douglas Florindo</b>, 21 anos, 21 contribuições. Parece que sua idade é a única coisa interessante sobre você. Se continuar nesse ritmo, vai precisar de um milagre para se destacar.</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Imagino que suas 12 contribuições estejam todas rodando na sua máquina local, certo? Talvez seja hora de sair do localhost e encarar o mundo real, Ageu.</p>
-<p><b>Ezequias Silva</b>, 10 contribuições. Chegou no top 10, mas não se engane, a régua está bem baixa. Tente não ser esquecido até o fim do mês.</p>
-<p><b>Filipe Deschamps</b>, ah, o "professor". Apenas 4 contribuições? Imagino que você esteja muito ocupado vendendo cursos para ter tempo de contribuir de verdade. Mas ei, pelo menos seu "tabnews.com.br" tem mais de 6 mil estrelas. Quem precisa de contribuições quando se tem fama, não é mesmo?</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pelo primeiro lugar! 94 contribuições... Uau. Aposto que sua mãe está muito orgulhosa. Só espero que você também lave a louça de vez em quando.</p>
+<p><b>Giverplay</b>, "Olá, estranho!" Que simpático... Imagino que seus projetos sejam tão acolhedores quanto sua saudação. "Uvas" em Java? Que refrescante... Mas será que dá pra fazer um suco com 71 contribuições?</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer | Go | Typescript | Rust | Vim... Nossa, quanta coisa! Mas e aí, já dominou o mundo? Ah, espera, você só tem 1 stargazer no seu repo "rafazeero". Quase lá!</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Que bom que você tem um diploma. Agora, que tal usá-lo para algo útil, tipo, sei lá, contribuir mais?</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai e marido... Que vida! Mas me diz, você analisa os dados do seu casamento também? E esses projetos? "Clone-tabnews-aluno" em JavaScript? Sério? O mundo precisava disso?</p>
+<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto sua lista de contribuições recentes. Mas ei, pelo menos você está no ranking, certo? Isso é... alguma coisa.</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas"... Que clichê! Mas e aí, já resolveu algum problema de verdade? Ou só está apaixonado pela ideia de resolver?</p>
+<p><b>Douglas Florindo</b>, 21 anos. Ah, a juventude... Tantas possibilidades, tanto potencial... E apenas 21 contribuições. Mas relaxa, ainda dá tempo de se arrepender.</p>
+<p><b>Ageu Silva</b>, 127.0.0.1... Que profundo! Seu blog modular em Flask parece interessante, mas "Gole a Gole"? Sério, uma extensão para lembrar de beber água? O mundo está mesmo precisando de heróis.</p>
+<p><b>Ezequias Silva</b>, 10 contribuições. Quase lá! Continue assim e talvez, quem sabe, um dia você consiga chegar ao top 9.</p>
+<p><b>Filipe Deschamps</b>, Ah olha só, o guru dos cursos online apareceu! Mas e as suas contribuições aqui, estão no mesmo nível dos seus 6000+ alunos no "tabnews.com.br"? Hummm... Duvido.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-23 at 00:23:51 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-24 at 00:22:43 UTC +0000</i>
 <h6>
