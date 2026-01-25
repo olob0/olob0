@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>94 ctr.</td>
+                <td>96 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>47 ctr.</td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -70,13 +70,13 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>20 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>13 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pelo primeiro lugar! 94 contribuições... Uau. Aposto que sua mãe está muito orgulhosa. Só espero que você também lave a louça de vez em quando.</p>
-<p><b>Giverplay</b>, "Olá, estranho!" Que simpático... Imagino que seus projetos sejam tão acolhedores quanto sua saudação. "Uvas" em Java? Que refrescante... Mas será que dá pra fazer um suco com 71 contribuições?</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer | Go | Typescript | Rust | Vim... Nossa, quanta coisa! Mas e aí, já dominou o mundo? Ah, espera, você só tem 1 stargazer no seu repo "rafazeero". Quase lá!</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Que bom que você tem um diploma. Agora, que tal usá-lo para algo útil, tipo, sei lá, contribuir mais?</p>
-<p><b>Deyved Antonio</b>, Analista de Dados, pai e marido... Que vida! Mas me diz, você analisa os dados do seu casamento também? E esses projetos? "Clone-tabnews-aluno" em JavaScript? Sério? O mundo precisava disso?</p>
-<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto sua lista de contribuições recentes. Mas ei, pelo menos você está no ranking, certo? Isso é... alguma coisa.</p>
-<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas"... Que clichê! Mas e aí, já resolveu algum problema de verdade? Ou só está apaixonado pela ideia de resolver?</p>
-<p><b>Douglas Florindo</b>, 21 anos. Ah, a juventude... Tantas possibilidades, tanto potencial... E apenas 21 contribuições. Mas relaxa, ainda dá tempo de se arrepender.</p>
-<p><b>Ageu Silva</b>, 127.0.0.1... Que profundo! Seu blog modular em Flask parece interessante, mas "Gole a Gole"? Sério, uma extensão para lembrar de beber água? O mundo está mesmo precisando de heróis.</p>
-<p><b>Ezequias Silva</b>, 10 contribuições. Quase lá! Continue assim e talvez, quem sabe, um dia você consiga chegar ao top 9.</p>
-<p><b>Filipe Deschamps</b>, Ah olha só, o guru dos cursos online apareceu! Mas e as suas contribuições aqui, estão no mesmo nível dos seus 6000+ alunos no "tabnews.com.br"? Hummm... Duvido.</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, com 96 contribuições, liderando o ranking... Parabéns? Imagino que "coisas fáceis de manter" incluam evitar contribuições significativas, já que seu último commit relevante foi em Dezembro. Espero que o clone do Tabnews esteja realmente funcional, porque a GalactiCore parece ter parado de orbitar em Fevereiro do ano passado.</p>
+<p><b>Giverplay</b>, com 71 contribuições, pelo menos você contribuiu com alguma coisa. "Uvas" em Java? Sério? E regras em CSS e HTML? Que nível de organização! Espero que suas regras não sejam tão confusas quanto sua escolha de projetos.</p>
+<p><b>Rafael Lima de Morais</b>, 65 contribuições. Vim, Go, Rust, Typescript... Impressionante sua capacidade de pular de linguagem em linguagem sem, aparentemente, finalizar nada. Seu "daily-go" morreu em Junho. Ao menos, seus dotfiles estão em dia, aparentemente. Prioridades, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, 60 contribuições. Outro clone do Tabnews? Originalidade mandou lembranças. Ao menos, o "ticket-manager-api" parece recente. Espero que funcione melhor do que sua capacidade de encontrar um projeto único para trabalhar.</p>
+<p><b>Deyved Antonio</b>, 52 contribuições. Analista de Dados, hein? Espero que suas análises sejam mais consistentes do que suas contribuições. O clone do Tabnews parece ter virado pó faz tempo, mas pelo menos o projeto de Turnover de colaboradores ainda está "bombando".</p>
+<p><b>Gustavo Carvalho</b>, 36 contribuições. Sua bio está tão vazia quanto suas contribuições este mês. Está esperando o que? Aposentadoria?</p>
+<p><b>Gabriel Carvalho</b>, 23 contribuições. "Apaixonado por criar soluções"... e aparentemente por não contribuir com elas. Sua paixão deve ser platônica, já que não vemos frutos desse amor por aqui.</p>
+<p><b>Douglas Florindo</b>, 21 contribuições. Ok, 21 contribuições... Bom, pelo menos você existe. É um começo.</p>
+<p><b>CookieUkw</b>, 20 contribuições. Contribuições para o Godot Engine? Impressionante! Pena que suas contribuições se resumem a isso. Talvez seja hora de criar algo original, em vez de apenas se pendurar no sucesso alheio. Quem sabe um dia a Vex-AI se torna consciente, e decide contribuir por você.</p>
+<p><b>Ageu Silva</b>, míseras 13 contribuições. Seu "GoleaGole" para lembrar de beber água? Sério? Talvez você precise de um lembrete para contribuir mais. Ou talvez você esteja ocupado demais se hidratando para compensar o esforço mínimo que dedica ao código.</p>
+<p><b>Ezequias Silva</b>, com 10 contribuições, o lanterninha da turma. Imagino que esteja economizando energia para o próximo mês. Ou talvez esteja apenas esperando o Lobo te notar. Boa sorte com isso.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-24 at 00:22:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-25 at 00:25:55 UTC +0000</i>
 <h6>
