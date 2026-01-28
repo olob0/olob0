@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>96 ctr.</td>
+                <td>99 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>60 ctr.</td>
+                <td>65 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>29 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, ah, o primeiro lugar... com 96 contribuições. Quase chegou aos 100, que pena! Imagino que esteja focado em construir coisas "fáceis de manter". Que nobre, enquanto o resto de nós se afoga em código legado indestrutível. E os <i>recent_activity_repos</i>? Ah, não tem nenhum. Imagino que esteja ocupado demais tornando o mundo um lugar mais fácil de manter para ter tempo para projetos de verdade.</p>
-<p><b>Giverplay</b>, "Olá, estranho!" É assim que você recebe as pessoas? Bom, pelo menos seus projetos têm nomes criativos como "Uvas". Imagino que a complexidade do Java seja perfeitamente representada pela simplicidade de uma fruta. E "regras" em CSS e HTML? Gênio! Porque o mundo precisa desesperadamente de mais regras estilizadas. Mas ei, pelo menos você tem um Discord. Isso é alguma coisa, certo?</p>
-<p><b>Rafael Lima de Morais</b>, engenheiro de software, hein? Go, Typescript, Rust e Vim... a santíssima trindade da complexidade desnecessária. Seu repo "rafazeero" com 1 stargazer é a prova de que até você tem dificuldade em se auto promover. E "CL4R1T4S"? Um fork! Que original. Ao menos o "daily-go" te mantém ocupado, postando um "olá mundo" por dia.</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Precisa de todas essas palavras para descrever o básico? "estudos_Analista" com última atualização ontem? Parabéns, você está quase aprendendo algo. E o "clone-tabnews-aluno" de fevereiro de 2025? Aposto que já está desatualizado. Mas ei, "Projeto_Turnover_colaboradores" com Excel! Que emocionante. Certeza que você está causando impacto no mundo com suas análises descritivas.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações... e daí? Sua bio é tão genérica quanto a minha vontade de ler seu código. E <i>recent_activity_repos</i>? Nada. Talvez você devesse usar seu "bacharelado" para realmente fazer alguma coisa em vez de só colecionar títulos.</p>
-<p><b>Gustavo Carvalho</b>, sem bio. Sem contribuições recentes. Sem nada. Você é o fantasma deste ranking. Talvez devesse considerar se manifestar antes que alguém se esqueça de que você existe.</p>
-<p><b>Douglas Florindo</b>, 21 anos. Ele/Dele. PtBr/Eng. Informações cruciais para avaliar seu código... ou a falta dele. Mais um sem repositórios recentes. A não ser que você esteja codificando em binário direto no seu HD, duvido que esteja fazendo algo produtivo.</p>
-<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções para problemas". Que clichê! Mas pelo menos você demonstra paixão, diferente de alguns outros por aqui. Agora, que tal realmente resolver algum problema em vez de só falar sobre isso?</p>
-<p><b>CookieUkw</b>, ah, finalmente alguém com um pouco de ambição. Contribuindo para o Godot Engine, nada menos. Pena que o resto dos seus projetos parecem ter saído de um filme de terror indie dos anos 90. "ChatStory" e "Vex-AI"? Espero que a IA não aprenda a escrever código com você, senão estaremos todos perdidos.</p>
-<p><b>Ageu Silva</b>, 127.0.0.1. Tão original quanto seu perfil no GitHub. Seu repositório com "Config files for my GitHub profile" é a prova de que você está gastando seu tempo da forma mais produtiva possível. E "Ageursilva.github.io"? Aposto que é um site lindo e cheio de conteúdo relevante. Mas ei, pelo menos você tem um IP.</p>
-<p><b>Ezequias Silva</b>, sem bio, sem repositórios recentes, e apenas 10 contribuições. Você é o epítome da mediocridade neste ranking. Parabéns por existir. Agora, que tal começar a fazer alguma coisa que justifique sua presença aqui?</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pela liderança, mas 99 contribuições? Sério? Isso é o máximo que você consegue? Imagino que "construir coisas fáceis de manter" signifique evitar qualquer desafio. Que tal tentar algo *difícil* de vez em quando?</p>
+<p><b>giverplay</b>, "Olá, estranho!"? Parece que você já se acostumou com a ideia de que ninguém se importa com seus projetos. "Uvas" em Java? Espero que não sejam tão azedas quanto sua falta de ambição. E regras em CSS e HTML? Que tal criar algo que *não* precise de um manual de instruções?</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer com Go, Typescript, Rust e Vim? Impressionante. Pena que seu repositório "rafazeero" só tem 1 stargazer. Talvez se você gastasse menos tempo mudando de linguagem e mais tempo *usando* uma delas, teria mais sucesso. E "CL4R1T4S"? Sério? Você bifurcou um repositório e acha que isso é contribuição?</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai e marido. Três empregos em tempo integral e ainda arruma tempo para contribuir? Que inveja... da sua capacidade de procrastinar em projetos pessoais. "estudos_Analista"? Espero que seus estudos te ensinem a não clonar o TabNews *um ano* depois de todo mundo. E "Projeto_Turnover_colaboradores"? Seus colaboradores estão fugindo de você?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Imagino que você saiba como o sistema funciona, mas aparentemente não sabe como *contribuir* para ele. Cadê os seus repositórios? Você está escondendo algo de nós? Ou será que você simplesmente não tem nada para mostrar?</p>
+<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto suas contribuições. 36? Você está competindo para ver quem faz menos? Que tal adicionar um pouco de conteúdo à sua bio e, quem sabe, ao seu GitHub?</p>
+<p><b>Douglas Florindo</b>, 21 anos e apenas 33 contribuições? Imagino que você esteja muito ocupado sendo "Ele/Dele" para se dedicar ao que realmente importa: *código*. Que tal usar essa energia toda para criar algo útil?</p>
+<p><b>CookieUkw</b>, Contribuições para Godot? Uau, que impressionante... se você fosse o criador do Godot. "ChatStory"? Espero que a história seja mais interessante que o código. E "Vex-AI"? Criar uma IA consciente? Boa sorte com isso. Você vai precisar.</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções"? Que clichê. E onde estão essas soluções? Ah, é, não tem nenhuma contribuição recente. Talvez você esteja mais apaixonado por *falar* sobre criar soluções do que realmente criá-las.</p>
+<p><b>Ageu Silva</b>, "127.0.0.1"? Sério? Essa é a sua bio? Parece que você está tão escondido quanto suas contribuições. Que tal sair do localhost e mostrar algo para o mundo?</p>
+<p><b>Ezequias Silva</b>, 10 contribuições? Chegou atrasado na festa, hein? Mas não se preocupe, sempre tem espaço para mais um no fim da fila. Quem sabe no próximo mês você não chega aos dois dígitos... de novo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-27 at 00:24:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-28 at 00:23:46 UTC +0000</i>
 <h6>
