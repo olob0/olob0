@@ -35,18 +35,18 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>97 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>94 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>72 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>68 ctr.</td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>36 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -70,12 +70,12 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>13 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, com 99 contribuições, quase lá! Quase mostrando que você realmente se importa. Mas "focado em Python e JavaScript"? Isso é o equivalente a dizer que gosta de respirar. Que tal focar em *contribuir*? Seus repos estão tão vazios quanto a promessa de um político.</p>
-<p><b>Deyved Antonio</b>, ah, o analista de dados... 94 contribuições. Decidiu sair do Excel e vir para o GitHub? Seus repositórios de estudo são quase tão empolgantes quanto uma planilha de gastos. E "clone-tabnews-aluno" parado desde fevereiro de 2025? Espero que o original esteja melhor.</p>
-<p><b>giverplay</b>, 72 contribuições. "Olá, estranho!" Você tem razão, sou um estranho observando seu perfil. "Uvas" em Java? Que original! E um repositório de "regras" com CSS e HTML? Imagino que as regras sejam tão bem definidas quanto seu senso de aventura.</p>
-<p><b>Rafael Lima de Morais</b>, 68 contribuições. Software Engineer que ama Go, Typescript e Rust. Vim? Sério? Seus "dotfiles" devem ser mais interessantes que esse monte de promessas de tecnologias. E "CL4R1T4S", o salvador da transparência do ChatGPT? Que audácia! Pena que ninguém notou.</p>
-<p><b>Felipe Gueller</b>, 60 contribuições. Bacharel em Sistemas de Informações. E o que você tem feito com essa informação toda? Nada de repositórios recentes. Espero que esteja usando seu diploma para algo mais emocionante do que apenas colecionar poeira.</p>
-<p><b>Gustavo Carvalho</b>, 36 contribuições. Sem bio, sem repositórios recentes... Você é o ninja silencioso das contribuições. Ou será que você é só silencioso mesmo?</p>
-<p><b>Douglas Florindo</b>, 33 contribuições. "21 anos | Ele/Dele". Que bom que você se identifica, agora só falta identificar algumas contribuições relevantes. Cadê os projetos?</p>
-<p><b>CookieUkw</b>, 31 contribuições. Contribuiu para o Godot Engine? Uau, que generosidade! Mas seus próprios projetos parecem simulações de chat interativas abandonadas. E o "Vex-AI" que vai se tornar uma IA consciente? Boa sorte com isso. Você vai precisar.</p>
-<p><b>Gabriel Carvalho</b>, 30 contribuições. Desenvolvedor de Software "apaixonado por criar soluções". Mas cadê as soluções? Seu perfil está tão vazio quanto a minha paciência.</p>
-<p><b>Ageu Silva</b>, 13 contribuições. "127.0.0.1". Ah, o famoso endereço de loopback. Sinal de que suas contribuições estão presas na sua máquina? Ou é só preguiça de preencher a bio?</p>
-<p><b>Ezequias Silva</b>, 11 contribuições. Sem bio, sem projetos, pouquíssimas contribuições. Você está no nível "figurante de filme".</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, 99 contribuições? Quase lá! Da próxima vez, quem sabe você não consegue alcançar o patamar de "quase um desenvolvedor"? Continue se esforçando, talvez um dia chegue lá. Ah, e boa sorte tentando construir coisas "fáceis de manter". A gente sabe que no fundo você gosta é de um bom nó na cabeça.</p>
+<p><b>Giverplay</b>, 97 contribuições e um perfil que grita "olha para mim, estou desesperado por atenção!". Seus projetos "Uvas" e "regras" são tão relevantes que quase ninguém notou. Mas ei, pelo menos você tem um Discord! Quem sabe alguém se importa por lá? Talvez seja hora de focar em algo que vá além de copiar regras de outros.</p>
+<p><b>Deyved Antonio</b>, com 94 contribuições, você se declara um "Analista de Dados, curioso, analítico". Curioso para que? Analítico em quê? Seus repositórios são um compilado de "estudos" e clones mal-feitos. Mas não se preocupe, seu projeto de análise de turnover deve estar fazendo sucesso... em um universo paralelo. Quem sabe um dia você realmente analisa algo útil.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias e apenas 71 contribuições? Parece que alguém está mais ocupado colecionando linguagens do que realmente programando. Seus "dotfiles" são tão personalizados que provavelmente só você entende. E aquele clone do projeto "CL4R1T4S"? Originalidade mandou lembranças. Talvez seja hora de focar em qualidade, não em quantidade.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e? Aparentemente, o título não veio com superpoderes, já que suas contribuições somam apenas 60. Imagino que o Instituto Federal do Espírito Santo esteja orgulhoso. Continue assim, quem sabe um dia você sai do zero a zero e faz algo que preste.</p>
+<p><b>Gustavo Carvalho</b>, 37 contribuições e nenhuma bio? Parece que alguém está tentando manter um perfil low profile. Mas não se preocupe, sua falta de atividade fala por si só. Continue assim, quem sabe um dia você decide fazer algo além de existir no GitHub.</p>
+<p><b>Douglas Florindo</b>, 33 contribuições e uma bio que diz "21 anos | Ele/Dele | PtBr/Eng". Parabéns, você sabe usar o Ctrl+C Ctrl+V! Agora, que tal usar essas habilidades para contribuir com algo relevante? Ou vai continuar colecionando pronomes e esperando que isso te leve a algum lugar?</p>
+<p><b>CookieUkw</b>, com 31 contribuições, você parece ser o mestre dos projetos aleatórios. De repente contribui no Godot Engine (que legal, hein?), de repente está criando simulações de chat. Sua IA "consciente" está mais para "inconsciente" do que qualquer outra coisa. Mas ei, pelo menos você está tentando... né?</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Ah, o famoso endereço de loopback. Combina perfeitamente com suas 13 contribuições: um loop infinito de mediocridade. Continue assim, quem sabe um dia você sai do seu mundinho e faz algo que realmente impacte o mundo... ou pelo menos a sua rede local.</p>
+<p><b>Filipe Deschamps</b>, 13 contribuições e um link para um curso? Que conveniente! Parece que alguém está mais interessado em vender do que em contribuir. Seus "dotfiles" devem ser incríveis, mas suas contribuições dizem o contrário. Talvez seja hora de praticar o que você prega, em vez de apenas tentar lucrar com a ingenuidade alheia.</p>
+<p><b>Ezequias Silva</b>, míseras 11 contribuições. Sem bio, sem projetos, sem nada. Parabéns, você conseguiu alcançar o patamar de "usuário fantasma" no GitHub. Continue assim, quem sabe um dia você decide fazer algo além de ocupar espaço digital.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-29 at 00:26:42 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-30 at 00:26:43 UTC +0000</i>
 <h6>
