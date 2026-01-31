@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>97 ctr.</td>
+                <td>99 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>71 ctr.</td>
+                <td>75 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,7 +56,7 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>37 ctr.</td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deivid Souza Santana</b>, 99 contribuições? Quase lá! Da próxima vez, quem sabe você não consegue alcançar o patamar de "quase um desenvolvedor"? Continue se esforçando, talvez um dia chegue lá. Ah, e boa sorte tentando construir coisas "fáceis de manter". A gente sabe que no fundo você gosta é de um bom nó na cabeça.</p>
-<p><b>Giverplay</b>, 97 contribuições e um perfil que grita "olha para mim, estou desesperado por atenção!". Seus projetos "Uvas" e "regras" são tão relevantes que quase ninguém notou. Mas ei, pelo menos você tem um Discord! Quem sabe alguém se importa por lá? Talvez seja hora de focar em algo que vá além de copiar regras de outros.</p>
-<p><b>Deyved Antonio</b>, com 94 contribuições, você se declara um "Analista de Dados, curioso, analítico". Curioso para que? Analítico em quê? Seus repositórios são um compilado de "estudos" e clones mal-feitos. Mas não se preocupe, seu projeto de análise de turnover deve estar fazendo sucesso... em um universo paralelo. Quem sabe um dia você realmente analisa algo útil.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Tantas tecnologias e apenas 71 contribuições? Parece que alguém está mais ocupado colecionando linguagens do que realmente programando. Seus "dotfiles" são tão personalizados que provavelmente só você entende. E aquele clone do projeto "CL4R1T4S"? Originalidade mandou lembranças. Talvez seja hora de focar em qualidade, não em quantidade.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e? Aparentemente, o título não veio com superpoderes, já que suas contribuições somam apenas 60. Imagino que o Instituto Federal do Espírito Santo esteja orgulhoso. Continue assim, quem sabe um dia você sai do zero a zero e faz algo que preste.</p>
-<p><b>Gustavo Carvalho</b>, 37 contribuições e nenhuma bio? Parece que alguém está tentando manter um perfil low profile. Mas não se preocupe, sua falta de atividade fala por si só. Continue assim, quem sabe um dia você decide fazer algo além de existir no GitHub.</p>
-<p><b>Douglas Florindo</b>, 33 contribuições e uma bio que diz "21 anos | Ele/Dele | PtBr/Eng". Parabéns, você sabe usar o Ctrl+C Ctrl+V! Agora, que tal usar essas habilidades para contribuir com algo relevante? Ou vai continuar colecionando pronomes e esperando que isso te leve a algum lugar?</p>
-<p><b>CookieUkw</b>, com 31 contribuições, você parece ser o mestre dos projetos aleatórios. De repente contribui no Godot Engine (que legal, hein?), de repente está criando simulações de chat. Sua IA "consciente" está mais para "inconsciente" do que qualquer outra coisa. Mas ei, pelo menos você está tentando... né?</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Ah, o famoso endereço de loopback. Combina perfeitamente com suas 13 contribuições: um loop infinito de mediocridade. Continue assim, quem sabe um dia você sai do seu mundinho e faz algo que realmente impacte o mundo... ou pelo menos a sua rede local.</p>
-<p><b>Filipe Deschamps</b>, 13 contribuições e um link para um curso? Que conveniente! Parece que alguém está mais interessado em vender do que em contribuir. Seus "dotfiles" devem ser incríveis, mas suas contribuições dizem o contrário. Talvez seja hora de praticar o que você prega, em vez de apenas tentar lucrar com a ingenuidade alheia.</p>
-<p><b>Ezequias Silva</b>, míseras 11 contribuições. Sem bio, sem projetos, sem nada. Parabéns, você conseguiu alcançar o patamar de "usuário fantasma" no GitHub. Continue assim, quem sabe um dia você decide fazer algo além de ocupar espaço digital.</p>
+    <div align="justify"><p><b>Deivid Souza Santana</b>, parabéns pela sua consistência em ficar em primeiro lugar... em não fazer nada de interessante. 99 contribuições? Aposto que 90 delas são correções de ponto e vírgula. Mas ei, pelo menos você está "focado em construir coisas fáceis de manter". Tipo, tão fáceis que ninguém precisa mexer, né?</p>
+<p><b>Giverplay</b>, "Olá, estranho!" é a saudação perfeita para quem tem um repositório chamado "Uvas" com zero estrelas. Sério, Uvas? É o máximo que conseguiu pensar? E o outro repositório, "regras", com CSS e HTML. Que ousadia! Mas não se preocupe, seu Discord está aí para te dar algum senso de validação.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai, marido... e mestre em criar repositórios genéricos. "estudos_Analista"? Original. E "clone-tabnews-aluno"? Ah, sim, porque o mundo precisava de mais um clone mal feito do Tabnews. Mas ei, pelo menos o projeto de turnover de colaboradores está aí, firme e forte, com Excel e "técnicas de análise descritiva". Inovador!</p>
+<p><b>Rafael Lima de Morais</b>, um "Software Engineer" que programa em Go, Typescript e Rust, mas o repositório mais recente é um fork inútil sobre transparência de IA. E o "daily-go"? Imagino que sejam exercícios de "olá mundo" diários. Mas ei, pelo menos você usa Vim. Isso te faz parecer ocupado.</p>
+<p><b>Felipe Gueller</b>, parabéns pelo seu Bacharel em Sistemas de Informações. Que bom que você está usando ele para... nada. Sério, nenhuma contribuição recente? Espero que seu diploma esteja bem emoldurado, porque parece que é a única coisa que você está usando ele para.</p>
+<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto suas contribuições. Mas ei, pelo menos você existe. Certo?</p>
+<p><b>Douglas Florindo</b>, 21 anos e... 33 contribuições. Espero que pelo menos seus pronomes estejam corretos. Mas falando sério, com essa taxa de contribuição, você vai precisar de mais do que pronomes para impressionar alguém.</p>
+<p><b>CookieUkw</b>, contribuições no Godot Engine? Uau, que impressionante... se você realmente tivesse feito algo significativo. Mas pelo visto, você está mais preocupado em criar "simulações de chat para histórias interativas". E o projeto Vex-AI? Uma IA "capaz de manter conversas normais". Que original! Aposto que ela é tão interessante quanto sua taxa de contribuição.</p>
+<p><b>Ageu Silva</b>, 127.0.0.1. Claramente, a contribuição mais significativa que você fez foi configurar seu localhost. Mas ei, pelo menos você está conectado... a si mesmo.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, sim, porque a melhor forma de contribuir é promovendo seu próprio curso. Mas falando sério, pelo menos você tem alguns repositórios com algum número de estrelas. Mas não se anime muito, a maioria deles são só "dotfiles" e algoritmos de fogo de DOOM.</p>
+<p><b>Ezequias Silva</b>, suas 11 contribuições devem ter dado um trabalho enorme, não é mesmo? Sem bio, sem repositórios recentes... você é o ninja das contribuições invisíveis. Mas ei, pelo menos você está na lista. Isso já é alguma coisa.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-01-30 at 00:26:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-01-31 at 00:26:06 UTC +0000</i>
 <h6>
