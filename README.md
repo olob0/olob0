@@ -36,21 +36,21 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>22 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>9 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>9 ctr.</td>
             </tr>
             <tr align="center">
@@ -60,17 +60,22 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>1 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td>1 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/joao-nery">João Nery</a></td>
+                <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -79,15 +84,16 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>CookieUkw</b>, ah, o primeiro lugar. 40 contribuições, impressionante... se estivéssemos em 2015. Brincadeira! Quer dizer, mais ou menos. Contribuições em Godot Engine? Que ousadia! Mas não se esqueça do seu próprio ChatStory, aquele com 4 estrelas. Quase um sucesso estrondoso, hein? E o Vex-AI? A ambição de uma IA consciente... que ainda está aprendendo Java e JavaScript. Continue assim, quem sabe um dia você consegue criar algo que realmente domine o mundo (ou pelo menos, o ranking do próximo mês).</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Pena que a maior parte do seu tempo parece ser gasto em dotfiles e tentativas de entender o ChatGPT. E esse "daily-go"? Pelo menos está tentando, né? Mas sinceramente, um repositório com seu nome e sem descrição? Que falta de consideração com quem tentar stalkear você. Ah, e obrigado por forkar o CL4R1T4S, pelo menos alguém se importa com a transparência da IA.</p>
-<p><b>Everton Marcelino Jr.</b>, "apaixonado por tecnologia". Que lindo! Uma pena que essa paixão não se traduz em contribuições visíveis. 21 contribuições? Quase lá! Mas vamos combinar, "quase" não enche ranking. Sem atividade recente? Está esperando a tecnologia te beijar? Acorda pra vida, Everton, e mostre essa paixão com commits, pull requests, sei lá, qualquer coisa!</p>
-<p><b>Deyved Antonio</b>, um analista de dados que também é pai, marido e curioso. Que pacote completo! Mas e as contribuições? Ah, sim, 9. Quase deprimente. Pelo menos está estudando para se tornar um analista de dados "de verdade". O projeto de turnover de colaboradores em Excel é... pitoresco. Mas ei, quem sabe um dia você não abandona as planilhas e entra para o mundo da programação de verdade? Ah, e Django Master, hein? Tá quase criando a Netflix brasileira.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. Que chique! Pena que as suas contribuições mensais não fazem jus ao diploma. 9 contribuições é o que? Nota vermelha no ranking? Sem atividades recentes? Talvez seja hora de trocar o diploma por um teclado e começar a programar de verdade. Ou não, quem sabe a vida de bacharel é mais emocionante fora do GitHub. #Sqn</p>
-<p><b>Gabriel Carvalho</b>, desenvolvedor de software apaixonado por entender como as coisas funcionam por baixo dos panos. 6 contribuições? Talvez seja hora de sair de baixo dos panos e mostrar algo para o mundo. Entender é importante, mas contribuir é essencial. Ou você vai continuar só observando enquanto os outros fazem a mágica acontecer?</p>
-<p><b>Jean Brito</b>, sem bio, sem contribuições significativas, sem nada. 5 contribuições? Você está aí? Sinal de vida? É você mesmo, Jean? Se piscar duas vezes, significa que precisa urgentemente aumentar essa contagem de contribuições. Caso contrário, você vai virar lenda urbana nesse ranking.</p>
-<p><b>Luídi Pires</b>, "Front-End | Back-End | Full Stack". Que versatilidade! Pena que só temos 2 contribuições para admirar. Será que está tão ocupado sendo "Full Stack" que esqueceu de contribuir? Ou será que a verdade é que "Full Stack" é só um disfarce para "malemá mexe no código"? Melhore isso, Luídi, ou vai acabar virando piada.</p>
-<p><b>João Nery</b>, "Full-Stack Developer". Outro "Full Stack"? Que coincidência! Uma contribuição? Ser desenvolvedor "Full-Nada" seria mais adequado. Talvez seja hora de escolher um lado da pilha (front ou back) e se dedicar a ele. Ou então, continue sendo um "faz-tudo" que não faz nada direito. A escolha é sua, mas o ranking não mente.</p>
+    <div align="justify"><p><b>CookieUkw</b>, impressionantes 40 contribuições! Quase dá para sentir o cheiro do esforço... ou seria o aroma do café requentado das madrugadas? E que belo histórico de projetos! Desde contribuir no motor de jogo Godot, até se aventurar na criação de IAs que discutem jogos. Será que essa IA já te superou no xadrez?</p>
+<p><b>Rafael Lima de Morais</b>, com sua bio ostentando Go, Typescript, Rust e Vim, você parece o tipo de pessoa que monta um foguete espacial só para ir à padaria. Mas cá entre nós, entre tantas tecnologias, quando sobra tempo para <i>contribuir</i> de verdade? Pelo menos seus "dotfiles" estão atualizados, sinal de que o caos da sua mesa digital está sob controle.</p>
+<p><b>Ageu Silva</b>, o mestre do "127.0.0.1". Suas 17 contribuições são quase tão exclusivas quanto seu endereço. Criar um blog com Flask é bacana, mas será que ele está preparado para lidar com a avalanche de... você mesmo acessando? E um randomizador de álbuns do Spotify? Gênio! Porque escolher manualmente é tão 2024.</p>
+<p><b>Felipe Gueller</b>, 12 contribuições para mostrar que você está "reforçando conceitos de programação". É um começo. Clonar o Tabnews é um bom exercício, mas será que você consegue criar algo original, ou vai viver eternamente nas sombras da cópia? E um ticket manager em C#? Que ousadia! Que tal um sistema de gerenciamento de expectativas para seus futuros usuários?</p>
+<p><b>Deyved Antonio</b>, um "analista de dados curioso". As 9 contribuições refletem essa curiosidade, mas será que você já analisou a fundo o porquê de estar tão longe do topo do ranking? Um projeto de análise de turnover? Irônico, considerando que suas contribuições parecem estar em constante rotatividade. Mas ei, pelo menos o catálogo de filmes em Django está ali, firme e forte, desde 2025.</p>
+<p><b>Gabriel Carvalho</b>, com 6 contribuições, você está quase alcançando a marca de "participante". Um "Content Summarizer" para YouTube usando Gemini? Parece promissor, até você perceber que ele provavelmente resume seus próprios vídeos de 3 visualizações. E desafios da DIO? Que bom que você está explorando o .NET, mas será que o .NET está te explorando?</p>
+<p><b>Filipe Deschamps</b>, ah, Filipe... Com apenas 1 contribuição, você nos lembra que qualidade é melhor que quantidade. Mas, vamos ser sinceros, com um curso.dev para promover, quem precisa de mais contribuições? Seus projetos são incríveis, mas a pergunta que não quer calar é: quando você vai contribuir com algo que não seja autopromoção?</p>
+<p><b>João Nery</b>, com míseras 1 contribuição, você prova que até o GitHub tem espaço para quem está "quase lá". Uma calculadora em JS e um jogo da velha? Clássicos! Mas será que você consegue criar algo que vá além do básico? E o site da AT Softwares? Que tal investir em um design que não grite "feito em 2005"?</p>
+<p><b>NeWBoX22</b>, parabéns pela sua... única contribuição. Sua bio está vazia, assim como a lista de projetos recentes. Mas não se preocupe, o anonimato tem seu charme. Quem sabe no próximo mês você nos surpreende com algo além do nada?</p>
+<p><b>giverplay</b>, "Olá, estranho!". Com 1 contribuição, você honra o título. "Uvas" em Java? Que projeto frutífero! E regras em CSS e HTML? Essencial para manter a ordem no caos. Mas será que você consegue transformar essas uvas em vinho e essas regras em... algo útil?</p>
 </div>
     </details>
 </div>
@@ -102,5 +108,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-05 at 00:28:48 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-06 at 00:26:12 UTC +0000</i>
 <h6>
