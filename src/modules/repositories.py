@@ -12,7 +12,7 @@ class Languages:
 
     def __post_init__(self):
         if isinstance(self.nodes, list):
-            self.nodes = [Language(**x) for x in self.nodes if is not None]
+            self.nodes = [Language(**x) for x in self.nodes if x is not None]
 
 
 @dataclass
