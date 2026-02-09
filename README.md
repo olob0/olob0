@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>29 ctr.</td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -55,27 +55,27 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>7 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/NeWBoX22">NeWBoX22</a></td>
                 <td>5 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>3 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Ageu Silva</b>, com 43 contribuições, liderando o ranking. Imagino que 42 dessas contribuições foram tentativas frustradas de configurar o 127.0.0.1. Da próxima vez, tenta usar um IP válido, vai que funciona.</p>
-<p><b>CookieUkw</b>, parabéns pelo segundo lugar com 42 contribuições! Impressionante como você consegue contribuir para o Godot Engine e ainda ter tempo para criar um "ChatStory" que não vê a luz do dia desde abril de 2025. E o projeto Vex-AI? Prometia ser uma IA consciente, mas parece que a consciência fugiu antes de completar um ano. </p>
-<p><b>Rafael Lima de Morais</b>, o mestre do "Go", "Typescript" e "Rust". Com 29 contribuições, você quase alcança o pódio. Quase. Seus dotfiles foram atualizados recentemente, sinal de que está sempre aprimorando seu ambiente. Mas e o "CL4R1T4S"? Um fork criado e esquecido no mesmo dia? Gênio!</p>
-<p><b>Deyved Antonio</b>, o analista de dados que contribui com 20 commits. Seu repositório de estudos é louvável, mas seu "Projeto_Turnover_colaboradores" parece prever o próprio turnover do seu tempo livre. E o "flix-api" em Django? Abandonado em março de 2025. Parece que nem você quis maratonar esse projeto.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações, com apenas 12 contribuições. Espero que o Instituto Federal do Espírito Santo tenha te ensinado mais do que isso. Cadê os projetos? Cadê a ambição? Ah, é, você é só bacharel, não precisa de ambição.</p>
-<p><b>Gabriel Carvalho</b>, o desenvolvedor de software "apaixonado". Aparentemente, essa paixão não se traduz em contribuições, já que você só tem 6. Talvez você esteja tão apaixonado por entender como as coisas funcionam "por baixo dos panos" que esquece de contribuir com algo útil.</p>
-<p><b>NeWBoX22</b>, misterioso como sempre, com 5 contribuições e nenhuma bio. Imagino que suas contribuições sejam tão enigmáticas quanto você. Continue assim, mantendo o mistério... e a baixa quantidade de contribuições.</p>
-<p><b>Filipe Deschamps</b>, o guru dos cursos online, com apenas 3 contribuições. Parece que você está mais ocupado ensinando os outros a programar do que programando você mesmo. Mas ei, pelo menos seus dotfiles estão em dia, né? E o "doom-fire-algorithm"? Nostalgia pura, mas e a inovação?</p>
-<p><b>Gustavo Carvalho</b>, outro fantasma no ranking, com 3 contribuições e sem bio. Sua presença é tão notável quanto um pixel em uma tela 8K. Mas não se preocupe, ninguém vai notar sua ausência.</p>
-<p><b>Giverplay</b>, com 3 contribuições e um Discord para "estranhos". Seu repositório "Uvas" é tão misterioso quanto seu perfil. E o projeto "regras" para NekoSoftX? Espero que as regras sejam claras, porque suas contribuições não são.</p>
-<p><b>João Nery</b>, o desenvolvedor Full-Stack que só contribuiu uma vez. Parabéns pela participação! Espero que essa única contribuição tenha sido épica, porque, no ritmo atual, a próxima será em 2027.</p>
+    <div align="justify"><p><b>Ageu Silva</b>, liderando com 43 contribuições... Imagino que 40 delas foram commits para o seu perfil README. Parabéns por ter um blog com 5 estrelas, você deve estar nadando em oportunidades. Ah, e aquele randomizador de Spotify, tocando as mesmas músicas de sempre, hein?</p>
+<p><b>CookieUkw</b>, quase alcançando o primeiro lugar com 42 contribuições! Impressionante o seu trabalho no Godot Engine, pena que seu "ChatStory" de 2022 não vingou. E aquele projeto de IA, o Vex-AI, ainda está tentando aprender a dizer "Olá, mundo"?</p>
+<p><b>Rafael Lima de Morais</b>, com 31 contribuições, você até que tentou. Dotfiles atualizados, que beleza! Mas, sinceramente, usar o CL4R1T4S pra quê? Descobrir que a IA só repete o que já sabe? E o "daily-go", só pra não enferrujar o currículo?</p>
+<p><b>Deyved Antonio</b>, 20 contribuições... Quase lá. Seu repositório de estudos para analista de dados está quase completo, só falta a vaga de emprego. O projeto de turnover de colaboradores deve estar dando um nó na cabeça dos seus colegas. E o "flix-api"? Virou catálogo de filmes de terror de tão parado que está?</p>
+<p><b>Felipe Gueller</b>, 12 contribuições. "Aprendendo e reforçando conceitos de programação"... Imagino que o "clone-tabnews" esteja te ensinando bastante sobre como não ser notado. E o "ticket-manager-api"? Gerenciando os seus próprios tickets de "urgente: preciso de um emprego"?</p>
+<p><b>Jean Brito</b>, míseras 7 contribuições. Sem repositórios recentes para comentar... Aparentemente, você está contribuindo mais para o sofá do que para o GitHub. Mas ei, o importante é participar, certo?</p>
+<p><b>Gabriel Carvalho</b>, com 6 contribuições, você está quase alcançando a inatividade completa. Pelo menos o "content_summarizer" está te ajudando a resumir a sua própria falta de progresso. E esses desafios da DIO? Só pra encher o currículo de projetos "forkados"?</p>
+<p><b>NeWBoX22</b>, 5 contribuições... Sem repositórios recentes. Seu perfil está tão vazio quanto a minha paciência. Mas não se preocupe, sempre há espaço para melhorar... ou não.</p>
+<p><b>Filipe Deschamps</b>, apenas 4 contribuições, mas com um curso.dev para vender. Seus dotfiles de 2016 ainda impressionam, mas o "doom-fire-algorithm" já não queima mais como antes. E o "tabnews.com.br"? Pelo menos você está contribuindo para o seu próprio bolso.</p>
+<p><b>Gustavo Carvalho</b>, 3 contribuições. Olhando para o "developer-roadmap", hein? Talvez assim você descubra o que fazer da vida. Aquele "discord-publish-hack" deve estar bombando entre seus amigos. E o TCC? Já pode emoldurar e pendurar na parede.</p>
+<p><b>giverplay</b>, também com 3 contribuições, competindo com o Gustavo pelo último lugar. "Uvas"... Que nome criativo para um projeto Java. E o repositório de "regras" para o NekoSoftX? Imagino que a regra número um seja: "não contribuir".</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-08 at 00:35:33 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-09 at 13:19:54 UTC +0000</i>
 <h6>
