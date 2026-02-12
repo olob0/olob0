@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>44 ctr.</td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Ageu Silva</b>, ah, o primeiro lugar com 44 contribuições. Que inveja... da sua determinação em configurar seu perfil no GitHub. Pelo menos alguém está cuidando da própria casa, enquanto outros tentam entender o que é um pull request.</p>
-<p><b>CookieUkw</b>, quase alcançou o Ageu, hein? 42 contribuições... Imagino que a maior parte delas seja para o <i>godotengine/godot</i>, porque criar sua própria "Vex-AI" pareceu ambicioso demais. Mas ei, pelo menos você tentou, né?</p>
-<p><b>Rafael Lima de Morais</b>, com 32 contribuições, você está ali, no meio do caminho. Software Engineer que ama Go, Typescript, Rust e Vim... Queria ver essa paixão se traduzir em algo mais palpável que "dotfiles". Mas ei, pelo menos estão atualizados, diferente de alguns por aqui.</p>
-<p><b>Felipe Gueller</b>, 27 contribuições. "Aprendendo e reforçando conceitos de programação"... Parece que o clone do TabNews está precisando de uns reforços extras. Mas relaxa, todo mundo começa em algum lugar. E alguns nunca saem desse lugar.</p>
-<p><b>Deyved Antonio</b>, 20 contribuições. Analista de Dados, pai, marido... e aparentemente, um fã de projetos de turnover. Espero que sua análise de dados não preveja sua própria saída desse ranking. Ah, e Python, claro, porque qual analista de dados não usa Python?</p>
-<p><b>Gabriel Carvalho</b>, com 10 contribuições, você está quase na zona de rebaixamento. Mas ei, pelo menos você consegue resumir vídeos do YouTube com Google Gemini. Aposto que essa habilidade é super útil para... sei lá, resumir seus próprios commits? Porque 10 é meio que um resumo da sua participação.</p>
-<p><b>Gustavo Carvalho</b>, 6 contribuições. Impressionante como você consegue contribuir para projetos com centenas de milhares de estrelas. Será que o "discord-publish-hack" é o segredo do sucesso? Ah, e parabéns pelo TCC finalizado... em 2024. Atrasado como sempre, não é?</p>
-<p><b>NeWBoX22</b>, 5 contribuições. Quase invisível, como um ninja. Ou talvez só alguém que esqueceu que tem uma conta no GitHub. Mas ei, o importante é participar, certo? Mesmo que sua participação seja quase nula.</p>
-<p><b>Filipe Deschamps</b>, 4 contribuições. Pelo menos o "doom-fire-algorithm" ainda está pegando fogo, mesmo que sua participação por aqui não esteja. Mas ei, pelo menos você tem um curso para vender. Prioridades, né?</p>
-<p><b>giverplay</b>, 3 contribuições. "Uvas"... que nome peculiar para um projeto. Mas ei, pelo menos você tem um Discord. Quem sabe alguém te siga por lá e te ensine a contribuir mais por aqui. Ou não.</p>
-<p><b>Ezequias Silva</b>, 1 contribuição. Parabéns, você compareceu. Sua participação foi tão notável que quase passou despercebida. Mas ei, o importante é estar aqui, certo? Mesmo que seja só para fazer número.</p>
+    <div align="justify"><p><b>Ageu Silva</b>, "127.0.0.1" na bio? Sério? Achei que o objetivo era contribuir com código, não simular um ataque DDoS ao próprio GitHub. Com 52 contribuições, você quase conseguiu sair da inércia. Quase.</p>
+<p><b>CookieUkw</b>, 42 contribuições, hein? Tentando alcançar a resposta para a vida, o universo e tudo mais? Pelo menos contribuiu no Godot Engine, talvez um dia seus jogos não pareçam saídos diretamente de 2005. E <i>ChatStory</i>? Sério? Espero que a história seja melhor que o nome.</p>
+<p><b>Rafael Lima de Morais</b>, com 32 contribuições, você parece o cara que sabe todas as linguagens, mas não termina nenhum projeto. Go, Typescript, Rust... Impressionante. Agora, me explica esse repositório "CL4R1T4S". É sério isso? Ah, e os "dotfiles" atualizados? Parabéns, você personalizou seu terminal. Que conquista.</p>
+<p><b>Felipe Gueller</b>, 27 contribuições e um bacharelado. Espero que esteja usando esse diploma para algo mais útil do que só enfeitar a parede. Cadê os projetos? Cadê a ação? Só o diploma não impressiona ninguém, <i>Felipe</i>.</p>
+<p><b>Deyved Antonio</b>, 20 contribuições e "apaixonado por Tecnologia". Que clichê! Analista de Dados, mas pelo visto, analisar seus próprios projetos não está nos seus planos. "estudos_Analista"? Que nome original! E um catálogo de filmes em Django? Inovador... quase tanto quanto a descrição no seu perfil do GitHub.</p>
+<p><b>Gabriel Carvalho</b>, 10 contribuições. Ok, você apareceu. Próximo!</p>
+<p><b>Gustavo Carvalho</b>, 6 contribuições. Imagino que você esteja contribuindo tanto quanto eu estou interessado em suas contribuições. Ou seja, quase nada.</p>
+<p><b>NeWBoX22</b>, 5 contribuições e bio nula. Pelo menos é consistente com a falta de atividade. <i>Parabéns</i>?</p>
+<p><b>Filipe Deschamps</b>, 4 contribuições. Uau, o guru da programação apareceu! Mas, ei, pelo menos o "doom-fire-algorithm" ainda está pegando fogo, literalmente. E os "dotfiles"? Essencial para quem quer se sentir um hacker de filme dos anos 90.</p>
+<p><b>giverplay</b>, 3 contribuições. "Olá, estranho!" Você acertou em cheio. E "Uvas"? Sério? Isso é um projeto ou só uma desculpa para usar Java? Ao menos, as "regras" em CSS e HTML são um avanço, eu acho.</p>
+<p><b>Ezequias Silva</b>, 2 contribuições. Ah, Ezequias, você está aqui também. Que surpresa... Ninguém notou sua presença até agora.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-11 at 00:33:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-12 at 00:28:20 UTC +0000</i>
 <h6>
