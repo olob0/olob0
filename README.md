@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>52 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>32 ctr.</td>
+                <td>36 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>27 ctr.</td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Ageu Silva</b>, "127.0.0.1" na bio? Sério? Achei que o objetivo era contribuir com código, não simular um ataque DDoS ao próprio GitHub. Com 52 contribuições, você quase conseguiu sair da inércia. Quase.</p>
-<p><b>CookieUkw</b>, 42 contribuições, hein? Tentando alcançar a resposta para a vida, o universo e tudo mais? Pelo menos contribuiu no Godot Engine, talvez um dia seus jogos não pareçam saídos diretamente de 2005. E <i>ChatStory</i>? Sério? Espero que a história seja melhor que o nome.</p>
-<p><b>Rafael Lima de Morais</b>, com 32 contribuições, você parece o cara que sabe todas as linguagens, mas não termina nenhum projeto. Go, Typescript, Rust... Impressionante. Agora, me explica esse repositório "CL4R1T4S". É sério isso? Ah, e os "dotfiles" atualizados? Parabéns, você personalizou seu terminal. Que conquista.</p>
-<p><b>Felipe Gueller</b>, 27 contribuições e um bacharelado. Espero que esteja usando esse diploma para algo mais útil do que só enfeitar a parede. Cadê os projetos? Cadê a ação? Só o diploma não impressiona ninguém, <i>Felipe</i>.</p>
-<p><b>Deyved Antonio</b>, 20 contribuições e "apaixonado por Tecnologia". Que clichê! Analista de Dados, mas pelo visto, analisar seus próprios projetos não está nos seus planos. "estudos_Analista"? Que nome original! E um catálogo de filmes em Django? Inovador... quase tanto quanto a descrição no seu perfil do GitHub.</p>
-<p><b>Gabriel Carvalho</b>, 10 contribuições. Ok, você apareceu. Próximo!</p>
-<p><b>Gustavo Carvalho</b>, 6 contribuições. Imagino que você esteja contribuindo tanto quanto eu estou interessado em suas contribuições. Ou seja, quase nada.</p>
-<p><b>NeWBoX22</b>, 5 contribuições e bio nula. Pelo menos é consistente com a falta de atividade. <i>Parabéns</i>?</p>
-<p><b>Filipe Deschamps</b>, 4 contribuições. Uau, o guru da programação apareceu! Mas, ei, pelo menos o "doom-fire-algorithm" ainda está pegando fogo, literalmente. E os "dotfiles"? Essencial para quem quer se sentir um hacker de filme dos anos 90.</p>
-<p><b>giverplay</b>, 3 contribuições. "Olá, estranho!" Você acertou em cheio. E "Uvas"? Sério? Isso é um projeto ou só uma desculpa para usar Java? Ao menos, as "regras" em CSS e HTML são um avanço, eu acho.</p>
-<p><b>Ezequias Silva</b>, 2 contribuições. Ah, Ezequias, você está aqui também. Que surpresa... Ninguém notou sua presença até agora.</p>
+    <div align="justify"><p><b>Ageu Silva</b>, ah, o mestre do 127.0.0.1! Vejo que você está ocupado cultivando seu jardim digital. Espero que suas "ideias" floresçam mais do que seu repositório SpotifyAlbumRandomizer, que, convenientemente, teve sua última atualização hoje. Que coincidência, hein?</p>
+<p><b>CookieUkw</b>, parabéns por contribuir com o Godot Engine! É ótimo ver que você está ajudando a construir o futuro dos jogos. Agora, sobre aquele seu projeto "Vex-AI"... talvez seja melhor deixá-lo no reino da ficção científica. Inteligência artificial consciente? Boa sorte com isso.</p>
+<p><b>Rafael Lima de Morais</b>, um engenheiro de software que gosta de Go, Typescript, Rust e Vim. Impressionante. Mas, sério, "dotfiles" como contribuição recente? Isso é o equivalente a dizer que você é um mestre da culinária porque sabe usar um abridor de latas. E, já que estamos sendo sinceros, aquele fork do CL4R1T4S parece meio perdido no seu perfil.</p>
+<p><b>Felipe Gueller</b>, "Aprendendo e reforçando conceitos de programação" com um clone do TabNews? Que ousadia! Espero que você esteja aprendendo mais do que apenas como copiar e colar. E aquele "ticket-manager-api"? Parece promissor... para quem gosta de gerenciar tickets, claro.</p>
+<p><b>Deyved Antonio</b>, um "analista de dados" que guarda materiais de cursos em um repositório chamado "estudos_Analista". Original. Pelo menos você tem um projeto de análise de turnover de colaboradores. Quem sabe, talvez você descubra por que as pessoas estão fugindo do seu código.</p>
+<p><b>Gabriel Carvalho</b>, um "desenvolvedor de software apaixonado". Que fofo. Pena que a paixão não se traduziu em contribuições neste mês. Mas não se preocupe, sempre há o próximo mês para... continuar apaixonado.</p>
+<p><b>Gustavo Carvalho</b>, vejo que você andou admirando alguns roadmaps de carreira e frameworks populares. Inspirador! Mas, ei, talvez seja hora de sair do modo espectador e começar a construir algo próprio, em vez de apenas observar os outros construírem.</p>
+<p><b>NeWBoX22</b>, sua contribuição é tão misteriosa quanto seu nome de usuário. Sem bio, sem repositórios recentes... você é o ninja das contribuições? Ou apenas alguém que esqueceu que tinha uma conta no GitHub?</p>
+<p><b>Filipe Deschamps</b>, o mestre dos dotfiles e do algoritmo do fogo do DOOM! Sempre bom ver você por aqui. Mas, ei, que tal canalizar um pouco dessa energia para algo novo? Ou você está muito ocupado parseando Google Docs para JSON?</p>
+<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil, onde compartilho meus projetos... que consistem em regras e uvas. Espero que suas uvas sejam mais interessantes do que suas regras. E, por favor, me diga, o que é "NekoSoftX"? Estou genuinamente curioso.</p>
+<p><b>Ezequias Silva</b>, duas contribuições. Quase podemos sentir o seu esforço... ou a falta dele. Mas não se preocupe, a mediocridade é um lugar seguro e confortável. Relaxe e aproveite a vista.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-12 at 00:28:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-13 at 00:30:52 UTC +0000</i>
 <h6>
