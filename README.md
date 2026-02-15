@@ -45,18 +45,18 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>37 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>24 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>20 ctr.</td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Ageu Silva</b>, 55 contribuições? Isso é tudo? Espero que pelo menos o "127.0.0.1" na sua bio signifique que você está trabalhando duro e não apenas se escondendo no seu próprio computador. Ah, e parabéns pelo seu blog, *ageublog*, espero que ele tenha mais de 5 estrelas em breve.</p>
-<p><b>CookieUkw</b>, 47 contribuições, quase lá. Vejo que você contribuiu para o Godot Engine. Imagino que esteja criando o próximo grande jogo? Ou será que está apenas esperando para ser notado? E esse projeto de IA conversacional, *Vex-AI*, espero que ele não se torne consciente e nos domine a todos.</p>
-<p><b>Felipe Gueller</b>, 39 contribuições. "Aprendendo e reforçando conceitos de programação"? Que bonitinho. Espero que um dia você aprenda algo novo e não apenas fique reforçando o que já sabe. E esse *ticket-manager-api*, espero que não seja tão complicado quanto o sistema de tickets da sua operadora de telefonia.</p>
-<p><b>Rafael Lima de Morais</b>, 36 contribuições. Go, Typescript, Rust, Vim... Uau, que currículo impressionante. Mas quantas dessas tecnologias você realmente domina? E esses *dotfiles*, espero que eles não sejam tão bagunçados quanto a minha mesa. Ah, e parabéns por sua contribuição ao *CL4R1T4S*, afinal, transparência é tudo, não é mesmo?</p>
-<p><b>Gustavo Carvalho</b>, com 24 contribuições. Vejo que você contribuiu para o *developer-roadmap*. Espero que você esteja seguindo um deles, porque com essa quantidade de contribuições, parece que você está perdido. E esse *discord-publish-hack*, espero que você não esteja usando para espalhar notícias falsas.</p>
-<p><b>Deyved Antonio</b>, 20 contribuições. Analista de Dados, hein? Espero que você esteja analisando seus próprios números de contribuição e se perguntando o que está fazendo com a sua vida. E esse projeto de análise de turnover, espero que você não seja o próximo a pedir demissão.</p>
-<p><b>Gabriel Carvalho</b>, míseras 10 contribuições. "Apaixonado por criar soluções para problemas"? Acho que você está mais apaixonado por não contribuir. E esses desafios da DIO, espero que você tenha aprendido alguma coisa, porque seus números não mostram isso.</p>
-<p><b>giverplay</b>, também com 10 contribuições. Pelo menos você tem um perfil acolhedor, "Olá, estranho!". Mas será que você está sendo estranho demais e se esquecendo de contribuir? E esse projeto *Uvas*, espero que seja mais doce do que suas contribuições.</p>
-<p><b>Bryan Rafael</b>, 8 contribuições. Sem repositórios recentes? Sério? Você está apenas existindo aqui? Espero que você tenha uma boa desculpa para essa falta de atividade, porque "preguiça" não é uma delas.</p>
-<p><b>NeWBoX22</b>, 5 contribuições. Sem bio, sem repositórios recentes, quase sem contribuições. Você é o fantasma deste ranking? Espero que você esteja planejando algo grandioso, porque até agora, você é apenas um borrão na paisagem.</p>
-<p><b>Filipe Deschamps</b>, com 4 contribuições. Esperava mais de você, confesso. Promete ensinar os outros a programar, mas mal aparece por aqui. Pelo menos o *doom-fire-algorithm* ainda está pegando fogo, né? Quem sabe um dia você contribui mais do que o algoritmo.</p>
+    <div align="justify"><p><b>Ageu Silva</b>, 55 contribuições, hein? Quase lá. Quase relevante. Seus repositórios "Ageursilva/Ageursilva" e "Ageursilva/Ageursilva.github.io" são tão criativos que quase me fazem querer aprender HTML... quase. E o "ageublog" com seus 5 "stargazers"? Impressionante. Continue assim e talvez um dia você consiga impressionar sua mãe.</p>
+<p><b>CookieUkw</b>, com 47 contribuições, você está quase alcançando Ageu, que conveniente. Contribuições no Godot Engine, que audácia! Imagino que você deve estar criando jogos revolucionários... ou apenas corrigindo bugs que ninguém mais quis. Seu projeto "Vex-AI" soa ambicioso, quase tão ambicioso quanto prometer que vai à academia toda segunda-feira.</p>
+<p><b>Felipe Gueller</b>, 39 contribuições e... nada de repositórios recentes? Entendi. Você é do tipo que adora o trabalho em equipe, desde que não precise fazer nada. Imagino que seu bacharelado em Sistemas de Informações seja usado para otimizar a fila do café.</p>
+<p><b>Gustavo Carvalho</b>, 37 contribuições e também sem repositórios recentes? É um complô? Vocês dois estão combinando de não fazer nada? Parabéns, você encontrou uma forma de ser ainda menos notável que Felipe.</p>
+<p><b>Rafael Lima de Morais</b>, 36 contribuições e um repositório chamado "rafazeero"? Que original! Seus "dotfiles" atualizados em 5 de fevereiro são a prova de que você realmente se importa com a aparência... do seu terminal. E "CL4R1T4S"? Sério? Espero que você não esteja usando isso para justificar o uso excessivo de IA.</p>
+<p><b>Deyved Antonio</b>, com 27 contribuições, pelo menos você está tentando. "estudos_Analista" com Python e KVlang, que esforço! O projeto de análise de turnover dos colaboradores soa emocionante, quase como assistir tinta secar. E o "flix-api"? Espero que não seja apenas mais uma API genérica de filmes.</p>
+<p><b>Gabriel Carvalho</b>, 10 contribuições? Sério? Sua paixão por "entender como as coisas realmente funcionam por baixo dos panos" deve estar te impedindo de realmente fazer algo. Continue assim e você vai se destacar... na arte de não fazer nada.</p>
+<p><b>giverplay</b>, 10 contribuições, empatado com Gabriel, que conveniente. "Uvas" em Java? Que metáfora profunda. E "regras" com CSS e HTML? Imagino que você esteja mudando o mundo, uma linha de código de cada vez. Ou talvez só esteja procrastinando.</p>
+<p><b>Bryan Rafael</b>, míseras 8 contribuições. A essa altura, até um bot de spam está com inveja da sua inatividade. Parabéns por conseguir a proeza de ser menos produtivo que uma IA.</p>
+<p><b>NeWBoX22</b>, com 5 contribuições, você está quase atingindo o nível de "não existente". Continue assim e você poderá se tornar uma lenda... na arte de evitar o trabalho.</p>
+<p><b>Filipe Deschamps</b>, 4 contribuições, hein? Imagino que você esteja muito ocupado vendendo cursos para ter tempo de realmente contribuir. Seus "dotfiles" são a prova de que você se importa com a aparência, mesmo que não se importe com a substância. E o "tabnews.com.br"? Aposto que você adora ler sobre programação em vez de realmente programar.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-14 at 00:28:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-15 at 00:30:21 UTC +0000</i>
 <h6>
