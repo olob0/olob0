@@ -35,33 +35,33 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>52 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>50 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>48 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>47 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>41 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>41 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>39 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>27 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Ageu Silva</b>, com 55 contribuições, liderando o ranking com um blog que tem "ideias que se conectam e crescem". Será que essas ideias incluem finalmente aprender a usar o GitHub Pages ao invés de inventar a roda com Flask? Ah, e parabéns pelo Metabase CLI Tool, parece que alguém realmente precisava disso. Talvez você devesse focar em resolver problemas que ninguém tem, é um ótimo nicho.</p>
-<p><b>Gustavo Carvalho</b>, quase alcançando o topo com 48 contribuições. Contribuiu para um roadmap de carreira, imagino que esteja seguindo um diferente do resto, já que ainda não chegou lá. E pelas suas contribuições em lives de Python, imagino que esteja mais para "ao vivo" do que para "expert" em Python, não é mesmo? Menção honrosa para o "discord-publish-hack", porque todo mundo precisa de um hackzinho para se sentir relevante.</p>
-<p><b>CookieUkw</b>, em terceiro lugar com 47 contribuições. Tentando criar uma IA "consciente" para conversar sobre jogos? Que original! Espero que essa IA não seja tão confusa quanto seu repositório "ChatStory", que parece uma simulação de conversa para quem não sabe o que é um chat. Mas ei, pelo menos você contribui para o Godot Engine, quem sabe um dia seus jogos não precisem de tanta IA para serem interessantes.</p>
-<p><b>Deyved Antonio</b>, o analista de dados que, com 41 contribuições, analisa o próprio umbigo. Um repositório para guardar materiais de cursos? Que tal começar a aplicar o que aprende em vez de só guardar? E o projeto de análise de turnover? Será que ele prevê o seu próprio turnover de tanto estudar e não fazer nada de útil? Pelo menos o "flix-api" mostra que você tem bom gosto para filmes, porque para APIs...</p>
-<p><b>Rafael Lima de Morais</b>, também com 41 contribuições, se auto intitula "Software Engineer" e lista Go, Typescript, Rust e Vim. Imagino que ele use tudo isso para criar um script que automatiza o café. Contribuiu para um fork chamado "CL4R1T4S", que parece ser mais transparente que o seu código. E "daily-go"? Espero que não seja um repositório com um "Hello, World!" por dia, porque aí seria demais até para mim.</p>
-<p><b>Felipe Gueller</b>, com 39 contribuições, "reforçando conceitos de programação" em um clone do TabNews. Que tal criar algo original em vez de só copiar os outros? E o "ticket-manager-api"? Espero que ele gerencie seus próprios tickets de bug, porque se depender de outros para usá-lo, vai ficar esperando sentado. Mas não se preocupe, uma hora você chega lá, talvez.</p>
-<p><b>Douglas Florindo</b>, apenas 27 contribuições. Ah, a juventude... 21 anos e um perfil tão vazio quanto um HD formatado. Sem repositórios recentes, sem projetos, sem nada. Está esperando o quê? Que o código caia do céu? Acorda pra vida, Douglas, porque o tempo voa e o GitHub não espera por ninguém.</p>
-<p><b>giverplay</b>, com 23 contribuições, nos dá as boas-vindas ao seu perfil, "onde compartilha seus projetos". Uau, que projetos! Um repositório chamado "Uvas" com código Java? Espero que não seja uma simulação de plantação de uvas, porque aí seria o cúmulo da inutilidade. E "regras" para o NekoSoftX? Parece que alguém precisa de regras até para respirar. Mas ei, pelo menos você está tentando, né?</p>
-<p><b>Marcos Vinicius Ferreira</b>, com 22 contribuições, nos cumprimenta com um "Hello, I'm Marcos, its nice to meet you!". É bom te conhecer também, Marcos, mas o que você faz além de ser simpático? Um repositório de algoritmos criado há dois dias? Espero que não sejam só algoritmos de ordenação, porque aí seria decepcionante. Mas não se preocupe, a simpatia te leva longe, talvez não no GitHub, mas em outros lugares.</p>
-<p><b>Gabriel Carvalho</b>, fechando o ranking com 10 contribuições. "Apaixonado por criar soluções para problemas"? Pelo visto, não tem encontrado muitos problemas para resolver. Um "content_summarizer" para vídeos do YouTube? Que tal criar algo original em vez de só copiar os outros? E os desafios da DIO? Espero que você tenha aprendido alguma coisa com eles, porque pelo seu número de contribuições, parece que não aprendeu muito.</p>
-<p><b>Bryan Rafael</b>, com míseras 8 contribuições, Bryan prova que até para não fazer nada é preciso esforço. Sem repositórios recentes, sem projetos, sem nada. Imagino que esteja esperando um milagre, ou talvez só esteja esperando o próximo mês para tentar de novo. Mas não se preocupe, Bryan, o importante é participar, mesmo que seja para fazer número.</p>
+    <div align="justify"><p><b>Ageu Silva</b>, em primeiro lugar com 55 contribuições! Parabéns... por liderar um grupo que obviamente não tem nada melhor para fazer. Seus repositórios? Ah, sim, "Config files for my GitHub profile." Que ousadia! E aquele blog, "fácil de personalizar"... Imagino que a facilidade seja a única coisa notável nele, já que o último commit foi em novembro. Não se acomode muito, a competição está respirando no seu cangote. Ou quase.</p>
+<p><b>Felipe Gueller</b>, com 52 contribuições. Quase lá, hein? Mas "quase" só serve para ferradura e granada. E pelo visto, nenhum repositório recente para mostrar o que andou fazendo. Estava ocupado demais fazendo o quê? Pensando em como chegar ao primeiro lugar? Continue pensando, quem sabe um dia a ideia sai do papel. </p>
+<p><b>Deyved Antonio</b>, o analista de dados que, aparentemente, analisa mais dados de turnover do que código de verdade. 50 contribuições é respeitável, mas o repositório de estudos atualizado ontem... Me diz que você não está estudando para subir no ranking, por favor. E "flix-api" de março do ano passado? Espero que ao menos tenha assistido alguns filmes enquanto isso, porque codificar que é bom...</p>
+<p><b>Gustavo Carvalho</b>, com 48 contribuições. Nada a declarar? Sem repositórios recentes? Sério mesmo? Imagino que suas contribuições sejam tão secretas que nem o GitHub sabe delas. Ou será que você apenas gosta de ficar ali, no quase, sem nunca realmente se destacar? A escolha é sua, mas a mediocridade não é um bom visual.</p>
+<p><b>CookieUkw</b>, 47 contribuições e um repositório de destaque com mais de 100k estrelas... Mas espera, é o Godot Engine! Contribuições para projetos dos outros não contam, amigão. E aquele projeto de IA "consciente"? Parece mais um tamagotchi de código abandonado em 2025. Volte a contribuir no seu próprio projeto, vai que a IA te ajuda a subir nesse ranking.</p>
+<p><b>Rafael Lima de Morais</b>, o "engenheiro de software" que ama Vim. Que novidade! 41 contribuições, um "daily-go" de junho do ano passado e um monte de "dotfiles". Seus commits devem ser tão legíveis quanto seus arquivos de configuração. E aquele fork sobre "transparência de IA"? Irônico, considerando o quão obscuras suas contribuições parecem ser. </p>
+<p><b>Douglas Florindo</b>, com 34 contribuições. Aparentemente, ser "ele/dele" é mais importante do que contribuir. Cadê os projetos? Cadê o código? Ah, entendi, você está esperando que alguém faça tudo por você. Boa sorte com isso, e não se esqueça de atualizar sua bio para "futuro líder do ranking... um dia".</p>
+<p><b>Giverplay</b>, "Olá, estranho!" com 23 contribuições. Seus projetos são tão interessantes quanto um prato de uvas murchas (Uvas, sério?). E "regras" em CSS e HTML? Que ousadia! Imagino que a complexidade do seu código rivalize com a profundidade da sua bio. Continue assim e logo estará fora do ranking. Mas ei, pelo menos você tem um Discord.</p>
+<p><b>Marcos Vinicius Ferreira</b>, com 22 contribuições e um perfil que diz "Hello, I'm Marcos, its nice to meet you!". Que simpático... Pena que a simpatia não conta pontos. "Algorithms" atualizado recentemente, mas vazio. Talvez você devesse focar em implementar os algoritmos em vez de só criar o repositório. </p>
+<p><b>Gabriel Carvalho</b>, apenas 10 contribuições. "Apaixonado por criar soluções"... para quais problemas, exatamente? Porque no GitHub não parece estar resolvendo nenhum. Talvez devesse passar menos tempo "entendendo como as coisas funcionam por baixo dos panos" e mais tempo mostrando que sabe fazer alguma coisa. </p>
+<p><b>Bryan Rafael</b>, míseras 8 contribuições. Sem bio, sem projetos, sem nada. Imagino que sua estratégia seja tão secreta que nem você sabe qual é. Ou talvez você só esteja aqui para fazer número. De qualquer forma, parabéns por conseguir a proeza de ser o último da lista. Continue assim e logo será apenas uma lembrança vaga na história deste ranking.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-18 at 00:29:12 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-19 at 00:29:40 UTC +0000</i>
 <h6>
