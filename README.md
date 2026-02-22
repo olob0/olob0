@@ -40,28 +40,28 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>54 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>53 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>48 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>47 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>44 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Uau, que currículo! Quase me convenceu de que você não passa o dia inteiro no Excel. Mas ei, pelo menos você tem 3 estrelas em um projeto de turnover. Imagino que seus colegas estejam *tremendo* de medo.</p>
-<p><b>Ageu Silva</b>, com um bio "127.0.0.1", hein? Que original! Aposto que seus repositórios são tão acessíveis quanto sua descrição. Ah, e parabéns pelo blog, com 5 estrelas! Imagino que as outras 4 sejam da sua mãe e seus avós.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo, hein? Que chique! Mas onde estão os commits? Ah, certo, ocupado demais filosofando sobre sistemas.</p>
-<p><b>Gustavo Carvalho</b>, sem bio, sem repositórios recentes... Você é o ninja silencioso das contribuições, não é? Ou será que você só esqueceu de atualizar seu perfil?</p>
-<p><b>CookieUkw</b>, 106897 estrelas em Godot Engine! Uau, que contribuição *massiva*. Ah, espera, você só está pegando carona na fama alheia. Mas ei, pelo menos seu "ChatStory" tem 4 estrelas. Talvez você devesse focar em IA que realmente funciona, em vez de simulações de bate-papo.</p>
-<p><b>Douglas Florindo</b>, 21 anos, "Ele/Dele". Que bom que você sabe seus pronomes. Agora, que tal começar a usar seu código para algo além de se auto-afirmar no GitHub?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que combo! Só falta usar COBOL e Fortran para completar o bingo do hype. Ah, e "CL4R1T4S"? Sério? Você está tentando impressionar quem com esses nomes?</p>
-<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Estranho é você achando que alguém se importa com "Uvas" em Java. Mas ei, pelo menos você tem um repositório de "regras". Imagino que seus amigos do Discord agradeçam.</p>
-<p><b>Marcos Vinicius Ferreira</b>, "Hello, I'm Marcos, its nice to meet you!". Que simpático! Pena que seus algoritmos não parecem tão amigáveis. Mas ei, pelo menos seu perfil tem 4 estrelas. Imagino que as outras 3 sejam de contas fakes.</p>
-<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções para problemas e por entender como as coisas realmente funcionam por baixo dos panos!". Então, onde estão as soluções? Ah, certo, ocupado demais entendendo como as coisas funcionam. Que tal começar a *fazer* as coisas funcionarem?</p>
-<p><b>Bryan Rafael</b>, sem bio, sem repositórios recentes, 8 contribuições. Você é tipo o fantasma que assombra o ranking. Pelo menos você existe, né?</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Ah, a clássica tríade da bio do GitHub. 65 contribuições? Imagino que a maior parte seja comentando em planilhas do Excel. Vi que você anda estudando, espero que não seja só pra colocar no currículo e continuar usando VLOOKUP para tudo. E esse "Projeto_Turnover_colaboradores"... me diz que você pelo menos tentou um gráfico de pizza.</p>
+<p><b>Ageu Silva</b>, 127.0.0.1, hein? Tão local que nem saiu do lugar esse mês. 55 contribuições, imagino que a maioria seja para o seu próprio computador. Mas falando sério, tudo bem por aí? Precisamos chamar os bombeiros?</p>
+<p><b>Douglas Florindo</b>, "Ele/Dele", que bom que você sabe seus pronomes, agora só falta saber onde estão suas contribuições. 54 no ranking, mas zero atividade recente? Tá economizando código pra aposentadoria?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e aparentemente um mestre em não contribuir. 54 contribuições, mas o que você tem feito desde então? Se formando de novo?</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, o combo completo do hype. 53 contribuições, mas seu repositório "dotfiles" foi atualizado recentemente, imagino que esteja gastando mais tempo configurando o Vim do que programando de verdade. E "CL4R1T4S"? Sério? Precisamos conversar sobre nomes de projetos...</p>
+<p><b>Gustavo Carvalho</b>, Sem bio, sem contribuições recentes, sem nada. 48 contribuições no ranking, um verdadeiro ninja silencioso. Ou será que você só esqueceu a senha do GitHub?</p>
+<p><b>CookieUkw</b>, Ah, o gamer! Contribuindo para a Godot Engine, que bonito, mas será que você realmente entende o que está fazendo ou só está clicando em botões aleatórios? 47 contribuições, espero que nenhuma delas seja para adicionar mais brilho aos seus jogos. E "Vex-AI"? Boa sorte com a Skynet caseira.</p>
+<p><b>giverplay</b>, "Olá, estranho!". Estranho é você com 24 contribuições e um repositório chamado "Uvas". Me explica o que uvas tem a ver com programação, por favor. E "regras" em CSS e HTML? Sério? Isso é o mais emocionante que você consegue fazer?</p>
+<p><b>Marcos Vinicius Ferreira</b>, Sem bio, poucas contribuições. 22 no ranking, você está quase conseguindo ser invisível. Mas não se preocupe, eu te vejo. E te julgo.</p>
+<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções". 10 contribuições. Acho que a paixão esfriou, hein? Talvez você devesse tentar resolver o problema da sua falta de atividade no GitHub.</p>
+<p><b>Ezequias Silva</b>, 9 contribuições. Quase lá! Mais uma e você pode dizer que tem dois dígitos. Mas sério, o que você está esperando? Que o código se escreva sozinho?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-21 at 00:27:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-22 at 00:28:13 UTC +0000</i>
 <h6>
