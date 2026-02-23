@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>65 ctr.</td>
+                <td>77 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
-                <td>55 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>54 ctr.</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Ah, a clássica tríade da bio do GitHub. 65 contribuições? Imagino que a maior parte seja comentando em planilhas do Excel. Vi que você anda estudando, espero que não seja só pra colocar no currículo e continuar usando VLOOKUP para tudo. E esse "Projeto_Turnover_colaboradores"... me diz que você pelo menos tentou um gráfico de pizza.</p>
-<p><b>Ageu Silva</b>, 127.0.0.1, hein? Tão local que nem saiu do lugar esse mês. 55 contribuições, imagino que a maioria seja para o seu próprio computador. Mas falando sério, tudo bem por aí? Precisamos chamar os bombeiros?</p>
-<p><b>Douglas Florindo</b>, "Ele/Dele", que bom que você sabe seus pronomes, agora só falta saber onde estão suas contribuições. 54 no ranking, mas zero atividade recente? Tá economizando código pra aposentadoria?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e aparentemente um mestre em não contribuir. 54 contribuições, mas o que você tem feito desde então? Se formando de novo?</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, o combo completo do hype. 53 contribuições, mas seu repositório "dotfiles" foi atualizado recentemente, imagino que esteja gastando mais tempo configurando o Vim do que programando de verdade. E "CL4R1T4S"? Sério? Precisamos conversar sobre nomes de projetos...</p>
-<p><b>Gustavo Carvalho</b>, Sem bio, sem contribuições recentes, sem nada. 48 contribuições no ranking, um verdadeiro ninja silencioso. Ou será que você só esqueceu a senha do GitHub?</p>
-<p><b>CookieUkw</b>, Ah, o gamer! Contribuindo para a Godot Engine, que bonito, mas será que você realmente entende o que está fazendo ou só está clicando em botões aleatórios? 47 contribuições, espero que nenhuma delas seja para adicionar mais brilho aos seus jogos. E "Vex-AI"? Boa sorte com a Skynet caseira.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Estranho é você com 24 contribuições e um repositório chamado "Uvas". Me explica o que uvas tem a ver com programação, por favor. E "regras" em CSS e HTML? Sério? Isso é o mais emocionante que você consegue fazer?</p>
-<p><b>Marcos Vinicius Ferreira</b>, Sem bio, poucas contribuições. 22 no ranking, você está quase conseguindo ser invisível. Mas não se preocupe, eu te vejo. E te julgo.</p>
-<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções". 10 contribuições. Acho que a paixão esfriou, hein? Talvez você devesse tentar resolver o problema da sua falta de atividade no GitHub.</p>
-<p><b>Ezequias Silva</b>, 9 contribuições. Quase lá! Mais uma e você pode dizer que tem dois dígitos. Mas sério, o que você está esperando? Que o código se escreva sozinho?</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, em primeiro lugar, parabéns! Mas 77 contribuições? Sério? Esperava mais de alguém com uma bio tão... expansiva. Analista de Dados, pai, marido... e contribuidor mediano. Seus repositórios? Um catálogo de filmes inacabado de 2025 e um projeto de turnover que, pelo visto, você mesmo causou na empresa. Mas ei, pelo menos você tem 3 <i>stargazers</i> no projeto de turnover. Isso é... alguma coisa.</p>
+<p><b>Douglas Florindo</b>, 21 anos, pronomes "Ele/Dele"... e só. Contribuições? 71. Quase lá, hein? Mas cadê os repositórios? Ah, é, não tem nenhum. Talvez você devesse usar seus pronomes para se apresentar ao mundo do código, em vez de só colocá-los na bio. Que tal começar a contribuir de verdade, em vez de só existir?</p>
+<p><b>Ageu Silva</b>, "127.0.0.1". Tão local que nem o GitHub te acha. 55 contribuições, ok. Mas seus repositórios? Um é para "config files for my GitHub profile" – que original! – e o outro é um site pessoal que não é atualizado desde novembro. Parabéns por ser tão... você mesmo? Da próxima vez, tenta sair do loopback e contribuir com algo que realmente impacte o mundo, e não só a sua máquina.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. 54 contribuições. Parabéns, você tem um diploma! Pena que não tem nenhum repositório para mostrar o que aprendeu. Espero que pelo menos saiba formatar um currículo decente, porque seu GitHub não impressiona ninguém. Mostre que o diploma serviu para alguma coisa, além de enfeitar a parede.</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer, a pessoa se acha! Go, Typescript, Rust, Vim... Uau, que currículo! Mas 53 contribuições? Isso é tudo? Seus repositórios? Um fork de um projeto sobre transparência de IA (irônico, não?) e um "daily-go" que não é atualizado desde junho. Da próxima vez, mostre mais código e menos siglas, ok?</p>
+<p><b>Gustavo Carvalho</b>, sem bio, sem repositórios, mas com 48 contribuições. Quem é você? Um fantasma? Um bot? Um ninja do código que não quer ser reconhecido? Se você não se apresenta, como espera que alguém se interesse pelo seu trabalho? Saia das sombras e mostre a que veio!</p>
+<p><b>CookieUkw</b>, ok, você contribuiu para o Godot Engine. Legal. Mas e o resto? Um "sample chat simulation" de 2022 e um projeto de IA que parece ter sido abandonado. Sua bio não diz nada sobre você, e seus projetos não dizem muito mais. Talvez seja hora de focar em algo mais concreto, em vez de só brincar de Deus com IAs falidas.</p>
+<p><b>giverplay</b>, "Olá, estranho!" Olá para você também. 24 contribuições e um repositório chamado "Uvas". Criativo. E outro sobre "regras" em CSS e HTML. Espero que pelo menos as regras sejam bem formatadas, porque seu GitHub não é lá muito convidativo. Da próxima vez, tente algo mais apetitoso que uvas e regras, ok?</p>
+<p><b>Marcos Vinicius Ferreira</b>, sem bio, sem repositórios, e com apenas 22 contribuições. Você está quase no nível de "não existe". Se você não se esforçar mais, vai virar estatística. Mostre que você é mais que um nome na lista, ok?</p>
+<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções". Que clichê! E com apenas 10 contribuições? Sua paixão deve ser bem seletiva, porque seu GitHub está mais vazio que um deserto. Da próxima vez, mostre mais ação e menos palavras bonitas, ok?</p>
+<p><b>Ezequias Silva</b>, 9 contribuições. Quase invisível. Sem bio, sem repositórios. Você está competindo para ser o menos notado? Se você quer ser levado a sério, precisa começar a contribuir de verdade. Saia do zero e mostre que você existe, ok?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-22 at 00:28:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-23 at 00:28:43 UTC +0000</i>
 <h6>
