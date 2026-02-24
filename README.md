@@ -30,28 +30,28 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>77 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>71 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>80 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>58 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
                 <td>55 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>54 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>24 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, em primeiro lugar, parabéns! Mas 77 contribuições? Sério? Esperava mais de alguém com uma bio tão... expansiva. Analista de Dados, pai, marido... e contribuidor mediano. Seus repositórios? Um catálogo de filmes inacabado de 2025 e um projeto de turnover que, pelo visto, você mesmo causou na empresa. Mas ei, pelo menos você tem 3 <i>stargazers</i> no projeto de turnover. Isso é... alguma coisa.</p>
-<p><b>Douglas Florindo</b>, 21 anos, pronomes "Ele/Dele"... e só. Contribuições? 71. Quase lá, hein? Mas cadê os repositórios? Ah, é, não tem nenhum. Talvez você devesse usar seus pronomes para se apresentar ao mundo do código, em vez de só colocá-los na bio. Que tal começar a contribuir de verdade, em vez de só existir?</p>
-<p><b>Ageu Silva</b>, "127.0.0.1". Tão local que nem o GitHub te acha. 55 contribuições, ok. Mas seus repositórios? Um é para "config files for my GitHub profile" – que original! – e o outro é um site pessoal que não é atualizado desde novembro. Parabéns por ser tão... você mesmo? Da próxima vez, tenta sair do loopback e contribuir com algo que realmente impacte o mundo, e não só a sua máquina.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. 54 contribuições. Parabéns, você tem um diploma! Pena que não tem nenhum repositório para mostrar o que aprendeu. Espero que pelo menos saiba formatar um currículo decente, porque seu GitHub não impressiona ninguém. Mostre que o diploma serviu para alguma coisa, além de enfeitar a parede.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer, a pessoa se acha! Go, Typescript, Rust, Vim... Uau, que currículo! Mas 53 contribuições? Isso é tudo? Seus repositórios? Um fork de um projeto sobre transparência de IA (irônico, não?) e um "daily-go" que não é atualizado desde junho. Da próxima vez, mostre mais código e menos siglas, ok?</p>
-<p><b>Gustavo Carvalho</b>, sem bio, sem repositórios, mas com 48 contribuições. Quem é você? Um fantasma? Um bot? Um ninja do código que não quer ser reconhecido? Se você não se apresenta, como espera que alguém se interesse pelo seu trabalho? Saia das sombras e mostre a que veio!</p>
-<p><b>CookieUkw</b>, ok, você contribuiu para o Godot Engine. Legal. Mas e o resto? Um "sample chat simulation" de 2022 e um projeto de IA que parece ter sido abandonado. Sua bio não diz nada sobre você, e seus projetos não dizem muito mais. Talvez seja hora de focar em algo mais concreto, em vez de só brincar de Deus com IAs falidas.</p>
-<p><b>giverplay</b>, "Olá, estranho!" Olá para você também. 24 contribuições e um repositório chamado "Uvas". Criativo. E outro sobre "regras" em CSS e HTML. Espero que pelo menos as regras sejam bem formatadas, porque seu GitHub não é lá muito convidativo. Da próxima vez, tente algo mais apetitoso que uvas e regras, ok?</p>
-<p><b>Marcos Vinicius Ferreira</b>, sem bio, sem repositórios, e com apenas 22 contribuições. Você está quase no nível de "não existe". Se você não se esforçar mais, vai virar estatística. Mostre que você é mais que um nome na lista, ok?</p>
-<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções". Que clichê! E com apenas 10 contribuições? Sua paixão deve ser bem seletiva, porque seu GitHub está mais vazio que um deserto. Da próxima vez, mostre mais ação e menos palavras bonitas, ok?</p>
-<p><b>Ezequias Silva</b>, 9 contribuições. Quase invisível. Sem bio, sem repositórios. Você está competindo para ser o menos notado? Se você quer ser levado a sério, precisa começar a contribuir de verdade. Saia do zero e mostre que você existe, ok?</p>
+    <div align="justify"><p><b>Douglas Florindo</b>, ah, o primeiro lugar... com 85 contribuições. Imagino que a coroa de "mais dedicado" deve brilhar bastante, especialmente considerando que suas atividades recentes são um mistério completo. Continue assim, campeão, provando que quantidade é, definitivamente, melhor que qualidade. Ou será que não?</p>
+<p><b>Deyved Antonio</b>, o analista de dados que analisa... seus próprios repositórios. Com 80 contribuições, você está quase lá. Mas, ei, pelo menos alguém está dando <i>star</i> nos seus projetos. Quem sabe, um dia, seu "Projeto_Turnover_colaboradores" não vire um case de sucesso, mostrando como manter a equipe motivada... ou não.</p>
+<p><b>Rafael Lima de Morais</b>, o mestre do "tanto faz". Com 58 contribuições e um portfólio de projetos que vão de "dotfiles" a "CL4R1T4S", fica claro que você está experimentando... ou apenas tentando encontrar algo que realmente te motive. Quem sabe o próximo ano traga mais foco, ou mais projetos aleatórios, tanto faz.</p>
+<p><b>Ageu Silva</b>, o "127.0.0.1" que acredita em casa. 55 contribuições e um blog pessoal que, aparentemente, só você visita. Mas ei, pelo menos você tem um lugar para expressar suas ideias. Talvez, no futuro, você possa até compartilhar com o mundo... ou não.</p>
+<p><b>Felipe Gueller</b>, o bacharel misterioso. 54 contribuições, mas aparentemente sem um único repositório recente para mostrar. Seria você o mestre das contribuições fantasmas? O ninja do GitHub? Ou apenas alguém que precisa atualizar o portfólio?</p>
+<p><b>Gustavo Carvalho</b>, o enigma. 48 contribuições e uma bio vazia. Quem é você, Gustavo? O que você faz? O mundo nunca saberá. Mas continue contribuindo, talvez um dia sua identidade seja revelada junto com seus projetos.</p>
+<p><b>CookieUkw</b>, o aspirante a gênio da IA que contribui com o Godot Engine. 47 contribuições e um projeto chamado "Vex-AI" que promete uma IA consciente. Boa sorte com isso, você vai precisar. Mas ei, pelo menos você está tentando, o que já é mais do que muitos podem dizer.</p>
+<p><b>giverplay</b>, o "estranho" que compartilha projetos. 25 contribuições e um repositório chamado "Uvas". Espero que suas uvas sejam melhores do que suas contribuições, porque até agora, ninguém parece muito interessado. Mas não desanime, talvez um dia suas uvas façam sucesso.</p>
+<p><b>Marcos Vinicius Ferreira</b>, o simpático. 22 contribuições e um perfil que diz "Hello, I'm Marcos, its nice to meet you!". Que bom que você é simpático, porque suas contribuições não estão exatamente quebrando a internet. Mas continue tentando, quem sabe um dia você não se torna o próximo grande nome do GitHub.</p>
+<p><b>Gabriel Carvalho</b>, o apaixonado por "baixo dos panos". 10 contribuições e muita paixão. Que bom que você é apaixonado, porque com tão poucas contribuições, você vai precisar de muita paixão para chegar a algum lugar. Mas não desista, quem sabe um dia você não revela os segredos por trás dos panos... ou não.</p>
+<p><b>Ezequias Silva</b>, o quase inexistente. 9 contribuições e nada mais a declarar. Você está quase conseguindo ser invisível no GitHub. Continue assim e talvez você consiga o título de "O Contribuidor Fantasma".</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-23 at 00:28:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-24 at 00:27:44 UTC +0000</i>
 <h6>
