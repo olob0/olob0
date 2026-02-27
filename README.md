@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>110 ctr.</td>
+                <td>120 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>33 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>11 ctr.</td>
+                <td>14 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Douglas Florindo</b>, em primeiro lugar com 110 contribuições. Parabéns... por ser o menos pior. Imagino que a barra estava bem baixa, já que não consigo ver nenhum repositório recente seu. Será que suas contribuições são apenas likes e comentários motivacionais?</p>
-<p><b>Rafael Lima de Morais</b>, segundo lugar com 88 contribuições. Vejo ali um "dotfiles" atualizado recentemente. Espero que essa organização toda se traduza em algo mais produtivo do que só deixar seu terminal bonitinho. E "CL4R1T4S"? Sério? Que nome original para um fork. Ao menos tem usado Go, dizem que é a linguagem do futuro... desde 2009.</p>
-<p><b>Deyved Antonio</b>, em terceiro com 84 contribuições. Analista de Dados, hein? Vejo um repositório de estudos e um projeto de turnover. Espero que sua análise não mostre que o problema da empresa é justamente a falta de gente contribuindo no GitHub. Mas ei, pelo menos você atualizou algo ontem, sinal de vida!</p>
-<p><b>Felipe Gueller</b>, quase lá com 69 contribuições. Bacharel em Sistemas de Informações, mas pelo visto, as informações sobre suas contribuições recentes estão bem... ocultas. Talvez estivesse ocupado demais colando grau para sujar as mãos com código.</p>
-<p><b>Ageu Silva</b>, com 55 contribuições e bio "127.0.0.1". Espero que essa seja uma piada sobre estar sempre trabalhando localmente e não uma confissão de que você é um bot. Aliás, cadê os repositórios recentes? Sua contribuição é tão local que ninguém consegue ver?</p>
-<p><b>Gustavo Carvalho</b>, com 48 contribuições e uma bio incrivelmente inspiradora: "" (vazio). Sua falta de descrição é quase uma forma de arte. Suas contribuições também são um mistério, assim como o sentido da vida.</p>
-<p><b>CookieUkw</b>, quase no limbo com 47 contribuições. Contribuiu para o Godot Engine? Uau, impressionante. Mas também tem um "ChatStory" e um projeto de "Vex-AI". Parece que está tentando abraçar o mundo, mas será que está conseguindo segurar alguma coisa?</p>
-<p><b>giverplay</b>, com 33 contribuições. "Olá, estranho!" é como você cumprimenta no seu perfil. Bom, estranho é quem contribui tão pouco. "Uvas"? Sério? E "regras" em HTML e CSS? Espero que as regras sejam para não usar tabelas para layout.</p>
-<p><b>Marcos Vinicius Ferreira</b>, com míseras 22 contribuições e uma bio tão vazia quanto minha paciência. Seus colegas estão brilhando e você ai...fazendo número. A vida é uma só, meu caro.</p>
-<p><b>Ezequias Silva</b>, com apenas 11 contribuições. Chegando perto de precisar de um guincho. Sua bio é tão inexistente quanto sua presença no mundo do código. Desse jeito vai ser difícil sair do anonimato.</p>
-<p><b>Gabriel Carvalho</b>, fechando o ranking com 10 contribuições. "Apaixonado por criar soluções". Imagino que a solução que você está criando é para o problema da sua falta de contribuições. Se continuar assim, vai precisar de mais paixão do que código.</p>
+    <div align="justify"><p><b>Douglas Florindo</b>, com 120 contribuições, liderando o ranking. Parabéns... por enquanto. Mas não se acomode, porque a mediocridade espreita logo ali. E sem atividades recentes em nenhum repositório? Hmm, interessante.</p>
+<p><b>Rafael Lima de Morais</b>, em segundo lugar com 88 contribuições. Ah, vejo que você anda brincando com "dotfiles". Que fofo, organizando suas coisinhas. E um fork de um projeto chamado "CL4R1T4S"? Espero que você esteja contribuindo mais do que apenas replicando o trabalho dos outros. Lembre-se, originalidade é uma virtude (às vezes).</p>
+<p><b>Deyved Antonio</b>, o analista de dados que se acha curioso, com 84 contribuições. "estudos_Analista"? Que nome original! E um projeto de análise de turnover? Espero que você não esteja planejando o seu próprio. Aliás, <i>parabéns</i> por atualizar o repositório de estudos dois dias atrás, quase que você não fazia nada o mês inteiro.</p>
+<p><b>Felipe Gueller</b>, em quarto lugar com 69 contribuições. Um bacharel em Sistemas de Informações? Que impressionante... pena que não consigo ver nenhum projeto recente para julgar. Continue assim, Felipe, a invisibilidade é uma superpotência, aparentemente.</p>
+<p><b>Ageu Silva</b>, o misterioso 127.0.0.1, com 55 contribuições. Sua bio diz tudo: local, irrelevante, inacessível. Sem projetos recentes para comentar. Quem sabe no próximo mês você saia do loopback e faça algo de útil.</p>
+<p><b>Gustavo Carvalho</b>, o anônimo com 48 contribuições. Sem bio, sem projetos recentes... você é praticamente um fantasma neste ranking. Talvez seja hora de começar a se destacar, a menos que sua ambição seja ser o ninguém da lista.</p>
+<p><b>CookieUkw</b>, com 47 contribuições. Contribuições no Godot Engine, hein? Que legal! E o seu projeto "Vex-AI", tentando criar uma IA consciente? Boa sorte com isso. Enquanto você brinca de Deus, o resto de nós está tentando fazer coisas que realmente funcionam.</p>
+<p><b>Giverplay</b>, com 34 contribuições e um Discord para estranhos. "Uvas"? Que nome peculiar para um projeto Java. E "regras" em CSS e HTML? Espero que sejam regras que valham a pena seguir, porque as suas contribuições estão meio...meh. Mas não desanime, o fundo do poço sempre pode ficar mais fundo.</p>
+<p><b>Marcos Vinicius Ferreira</b>, com 22 contribuições e uma bio... vazia. É o tipo de pessoa que entra numa sala e ninguém percebe. Mas ei, pelo menos você está na lista, mesmo que seja quase invisível. </p>
+<p><b>Ezequias Silva</b>, com míseras 14 contribuições. Imagino que você esteja apenas aquecendo os motores, certo? Ou talvez você só goste de ocupar espaço na lista. De qualquer forma, o esforço é notável... pela ausência dele.</p>
+<p><b>Gabriel Carvalho</b>, o "apaixonado por criar soluções", com 10 contribuições. Que paixão contida, Gabriel! Se suas contribuições fossem dinheiro, você não conseguiria comprar um café. Mas ei, pelo menos você tem paixão, né? Isso é o que importa... ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-26 at 00:25:59 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-27 at 00:28:50 UTC +0000</i>
 <h6>
