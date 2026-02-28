@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>120 ctr.</td>
+                <td>144 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>88 ctr.</td>
+                <td>90 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>14 ctr.</td>
+                <td>20 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Douglas Florindo</b>, com 120 contribuições, liderando o ranking. Parabéns... por enquanto. Mas não se acomode, porque a mediocridade espreita logo ali. E sem atividades recentes em nenhum repositório? Hmm, interessante.</p>
-<p><b>Rafael Lima de Morais</b>, em segundo lugar com 88 contribuições. Ah, vejo que você anda brincando com "dotfiles". Que fofo, organizando suas coisinhas. E um fork de um projeto chamado "CL4R1T4S"? Espero que você esteja contribuindo mais do que apenas replicando o trabalho dos outros. Lembre-se, originalidade é uma virtude (às vezes).</p>
-<p><b>Deyved Antonio</b>, o analista de dados que se acha curioso, com 84 contribuições. "estudos_Analista"? Que nome original! E um projeto de análise de turnover? Espero que você não esteja planejando o seu próprio. Aliás, <i>parabéns</i> por atualizar o repositório de estudos dois dias atrás, quase que você não fazia nada o mês inteiro.</p>
-<p><b>Felipe Gueller</b>, em quarto lugar com 69 contribuições. Um bacharel em Sistemas de Informações? Que impressionante... pena que não consigo ver nenhum projeto recente para julgar. Continue assim, Felipe, a invisibilidade é uma superpotência, aparentemente.</p>
-<p><b>Ageu Silva</b>, o misterioso 127.0.0.1, com 55 contribuições. Sua bio diz tudo: local, irrelevante, inacessível. Sem projetos recentes para comentar. Quem sabe no próximo mês você saia do loopback e faça algo de útil.</p>
-<p><b>Gustavo Carvalho</b>, o anônimo com 48 contribuições. Sem bio, sem projetos recentes... você é praticamente um fantasma neste ranking. Talvez seja hora de começar a se destacar, a menos que sua ambição seja ser o ninguém da lista.</p>
-<p><b>CookieUkw</b>, com 47 contribuições. Contribuições no Godot Engine, hein? Que legal! E o seu projeto "Vex-AI", tentando criar uma IA consciente? Boa sorte com isso. Enquanto você brinca de Deus, o resto de nós está tentando fazer coisas que realmente funcionam.</p>
-<p><b>Giverplay</b>, com 34 contribuições e um Discord para estranhos. "Uvas"? Que nome peculiar para um projeto Java. E "regras" em CSS e HTML? Espero que sejam regras que valham a pena seguir, porque as suas contribuições estão meio...meh. Mas não desanime, o fundo do poço sempre pode ficar mais fundo.</p>
-<p><b>Marcos Vinicius Ferreira</b>, com 22 contribuições e uma bio... vazia. É o tipo de pessoa que entra numa sala e ninguém percebe. Mas ei, pelo menos você está na lista, mesmo que seja quase invisível. </p>
-<p><b>Ezequias Silva</b>, com míseras 14 contribuições. Imagino que você esteja apenas aquecendo os motores, certo? Ou talvez você só goste de ocupar espaço na lista. De qualquer forma, o esforço é notável... pela ausência dele.</p>
-<p><b>Gabriel Carvalho</b>, o "apaixonado por criar soluções", com 10 contribuições. Que paixão contida, Gabriel! Se suas contribuições fossem dinheiro, você não conseguiria comprar um café. Mas ei, pelo menos você tem paixão, né? Isso é o que importa... ou não.</p>
+    <div align="justify"><p><b>Douglas Florindo</b>, com 144 contribuições, liderando o ranking... Imagino que a maioria seja correção de ponto e vírgula, porque com essa bio genérica, fica difícil acreditar em algo mais emocionante. Parabéns pela consistência em manter o básico funcionando, eu acho.</p>
+<p><b>Rafael Lima de Morais</b>, o poliglota do código! Go, Typescript, Rust e... Vim? Sério? Achei que estivéssemos em 2026. E esses repositórios? Um "dotfiles" atualizado há algumas semanas, uau, quanta inovação. E o "CL4R1T4S", um fork de maio do ano passado, deve estar revolucionando o mundo da transparência da IA, ou não. Mas ei, pelo menos você tentou, certo?</p>
+<p><b>Deyved Antonio</b>, o analista de dados que queria ser Indiana Jones. Projetos de turnover de colaboradores e catálogos de filmes em Django... É quase como se você estivesse indeciso entre salvar empresas e entreter o mundo. E com "apenas" 84 contribuições, talvez seja hora de analisar seus próprios dados e descobrir onde você está gastando seu tempo. Só uma sugestão, claro.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações... e aparentemente especialista em não contribuir. Com 69 contribuições, você está quase lá. Quase lá para quê? Para ter algo para mostrar além do diploma, talvez? Sem querer pressionar, mas a vida não espera.</p>
+<p><b>Ageu Silva</b>, com bio "127.0.0.1"... Espero que suas contribuições sejam mais interessantes que seu endereço. 55 contribuições não impressionam, mas pelo menos você está no loopback, certo? Certo?</p>
+<p><b>Gustavo Carvalho</b>, sem bio, sem comentários. 48 contribuições... Quase na metade do caminho para ser notado. Mas ei, pelo menos você está aqui, certo? Certo?</p>
+<p><b>CookieUkw</b>, um nome peculiar para alguém que contribui para o Godot Engine. Mas não se engane, ele também tem um projeto chamado "ChatStory" e outro sobre "Vex-AI". Parece que alguém está tentando dominar o mundo dos jogos, das histórias interativas e da inteligência artificial, tudo ao mesmo tempo. E com 47 contribuições, talvez ele realmente consiga. Ou não.</p>
+<p><b>Giverplay</b>, o cara que compartilha projetos... Interessante. Um repositório chamado "Uvas" em Java e outro com "regras" em CSS e HTML. Parece uma salada de frutas de código. E com 34 contribuições, talvez seja hora de dar um <i>play</i> na sua ambição e aumentar esses números.</p>
+<p><b>Marcos Vinicius Ferreira</b>, sem bio, apenas silêncio. 22 contribuições... Quase um fantasma no ranking. Mas ei, pelo menos você existe, certo? Certo?</p>
+<p><b>Ezequias Silva</b>, também sem bio. 20 contribuições... É quase como se você estivesse tentando se esconder. Mas não se preocupe, ninguém está realmente prestando atenção de qualquer maneira.</p>
+<p><b>Gabriel Carvalho</b>, "apaixonado por criar soluções"... e aparentemente não tão apaixonado por contribuir. Com apenas 10 contribuições, talvez seja hora de transformar essa paixão em ação. Ou continuar sonhando com soluções incríveis, enquanto o mundo segue em frente.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-02-27 at 00:28:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-02-28 at 00:24:43 UTC +0000</i>
 <h6>
