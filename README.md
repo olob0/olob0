@@ -40,17 +40,27 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>2 ctr.</td>
+                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
+                <td>6 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
+                <td>4 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -59,11 +69,13 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Douglas Florindo</b>, parabéns pelo primeiro lugar... em número de contribuições medíocres. Espero que seus 21 "toques" tenham valido a pena. Mas, ei, pelo menos você está no topo de *alguma coisa*, certo?</p>
-<p>Ah, <b>giverplay</b>, o "estranho" que nos agracia com seus projetos... Interessante esse seu repositório "Uvas". Será que o código é tão maduro quanto a fruta? E "regras" em CSS e HTML? Que tal criar um framework inteiro para exibir um simples "proibido pisar na grama"?</p>
-<p><b>Felipe</b>, com duas contribuições, você está quase alcançando o nível de um bot de commits automáticos. Mas não se preocupe, ainda há esperança! Quem sabe no próximo mês você não consegue superar a marca de *três* contribuições? Seus repositórios de 2025 mostram que você estava "aprendendo". Espero que em 2026 já saiba algo.</p>
-<p><b>Ezequias Silva</b>, uma única contribuição? Uau, que dedicação! Aposto que você está economizando energia para projetos realmente *grandiosos*. Ou talvez estivesse ocupado demais assistindo vídeos de gatinhos no YouTube.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer" que domina Go, Typescript e Rust... mas contribui apenas *uma* vez? Será que você estava muito ocupado configurando seu Vim? Ah, e parabéns pelo fork do "CL4R1T4S". Contribuições de terceiros sempre impressionam.</p>
+    <div align="justify"><p><b>Douglas Florindo</b>, com 21 contribuições, você lidera o ranking, mas será que a bio "Ele/Dele" está contribuindo mais do que você? Cadê os <i>recent_activity_repos</i>? Tá escondendo o jogo ou só esqueceu de commitar?</p>
+<p><b>Giverplay</b>, 19 contribuições, quase lá! Vejo que você tem um repositório chamado "Uvas". Espero que suas contribuições não sejam tão azedas quanto a fruta antes da fermentação. E "regras" em CSS e HTML? Isso me parece uma daquelas pegadinhas de entrevista júnior.</p>
+<p><b>CookieUkw</b>, apenas 6 contribuições? Parece que você está mais interessado em jogos do que em contribuir. Contribuindo no Godot Engine, hein? Espero que seus jogos não precisem de um <i>"Godot"</i> para serem lançados. E esse Vex-AI... tentando criar uma IA consciente? Boa sorte com isso, talvez ela te ajude a aumentar suas contribuições no próximo mês.</p>
+<p><b>Bryan Rafael</b>, míseras 4 contribuições. Está quase empatado com quem não fez nada. Sem <i>recent_activity_repos</i>? Imagino que esteja contribuindo para a causa do "não fazer nada".</p>
+<p><b>Felipe</b>, também com 4 contribuições, parece que você está mais perdido que cego em tiroteio. "REPOSITÓRIO" como descrição do seu repositório? Originalidade mandou lembranças. E "aprendendo a fazer um dashboard"? Espero que aprenda logo, porque por enquanto, suas contribuições estão no nível "rascunho".</p>
+<p><b>Rafael Lima de Morais</b>, outro com 4 contribuições. Software Engineer que contribui menos que estagiário? E esse "dotfiles" atualizado recentemente... aposto que a maior contribuição foi um <i>alias</i> no `.bashrc`. Ah, e "CL4R1T4S"? Tentando botar ordem na casa da IA? Talvez devesse começar pela sua própria organização no GitHub.</p>
+<p><b>Ezequias Silva</b>, UMA contribuição? Sério? Você está competindo com o bot de boas-vindas? Sem ofensas ao bot, claro. Pelo menos ele aparece. Cadê seus <i>recent_activity_repos</i>? Se escondeu com medo da vergonha?</p>
 </div>
     </details>
 </div>
@@ -78,5 +90,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-02 at 00:27:35 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-03 at 00:28:56 UTC +0000</i>
 <h6>
