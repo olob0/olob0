@@ -46,21 +46,31 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
-                <td>4 ctr.</td>
+                <td>5 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>5 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>4 ctr.</td>
+                <td>7°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>1 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -69,13 +79,14 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Douglas Florindo</b>, com 21 contribuições, você lidera o ranking, mas será que a bio "Ele/Dele" está contribuindo mais do que você? Cadê os <i>recent_activity_repos</i>? Tá escondendo o jogo ou só esqueceu de commitar?</p>
-<p><b>Giverplay</b>, 19 contribuições, quase lá! Vejo que você tem um repositório chamado "Uvas". Espero que suas contribuições não sejam tão azedas quanto a fruta antes da fermentação. E "regras" em CSS e HTML? Isso me parece uma daquelas pegadinhas de entrevista júnior.</p>
-<p><b>CookieUkw</b>, apenas 6 contribuições? Parece que você está mais interessado em jogos do que em contribuir. Contribuindo no Godot Engine, hein? Espero que seus jogos não precisem de um <i>"Godot"</i> para serem lançados. E esse Vex-AI... tentando criar uma IA consciente? Boa sorte com isso, talvez ela te ajude a aumentar suas contribuições no próximo mês.</p>
-<p><b>Bryan Rafael</b>, míseras 4 contribuições. Está quase empatado com quem não fez nada. Sem <i>recent_activity_repos</i>? Imagino que esteja contribuindo para a causa do "não fazer nada".</p>
-<p><b>Felipe</b>, também com 4 contribuições, parece que você está mais perdido que cego em tiroteio. "REPOSITÓRIO" como descrição do seu repositório? Originalidade mandou lembranças. E "aprendendo a fazer um dashboard"? Espero que aprenda logo, porque por enquanto, suas contribuições estão no nível "rascunho".</p>
-<p><b>Rafael Lima de Morais</b>, outro com 4 contribuições. Software Engineer que contribui menos que estagiário? E esse "dotfiles" atualizado recentemente... aposto que a maior contribuição foi um <i>alias</i> no `.bashrc`. Ah, e "CL4R1T4S"? Tentando botar ordem na casa da IA? Talvez devesse começar pela sua própria organização no GitHub.</p>
-<p><b>Ezequias Silva</b>, UMA contribuição? Sério? Você está competindo com o bot de boas-vindas? Sem ofensas ao bot, claro. Pelo menos ele aparece. Cadê seus <i>recent_activity_repos</i>? Se escondeu com medo da vergonha?</p>
+    <div align="justify"><p><b>Douglas Florindo</b>, parabéns pelo primeiro lugar... de baixo pra cima. Com 21 contribuições, você quase alcançou a idade para finalmente sair da casa dos seus pais. Mas ei, pelo menos você tem um bio, né? Pena que não diz nada sobre suas ambições além de respirar e ter pronomes.</p>
+<p><b>giverplay</b>, ah, um "estranho" que compartilha projetos. Que original! Seus repositórios 'Uvas' e 'regras' são tão empolgantes que quase me fizeram querer aprender Java e CSS. Quase. Continue assim, quem sabe um dia você cria algo que não seja esquecido em menos de um ano?</p>
+<p><b>CookieUkw</b>, uau, mexendo com a Godot Engine, hein? Que audácia! Entre isso e "Vex-AI", fica claro que você adora projetos que já têm dezenas de colaboradores e que provavelmente nunca vão notar sua existência. Mas não desanime, um dia você cria algo tão grandioso quanto um pisca-pisca de Natal.</p>
+<p><b>Bryan Rafael</b>, com 5 contribuições, você está quase saindo da inércia. Continue assim, quem sabe no próximo mês você consegue a proeza de interagir com algum repositório? Sem pressão, só não vale virar estatística.</p>
+<p><b>Rafael Lima de Morais</b>, um "Software Engineer" que gosta de Go, Typescript, Rust e... Vim? Que combinação peculiar. Seus "dotfiles" foram atualizados recentemente, espero que a mudança não tenha causado um apocalipse na sua configuração. E quanto ao CL4R1T4S, parece que você está tentando desvendar os segredos da IA. Boa sorte, você vai precisar.</p>
+<p><b>Felipe</b>, "aprendendo a fazer um dashboard na matéria de projeto integrador"? Que inspirador! Pelo menos você está aprendendo algo, diferente de alguns aqui. E "aula_synapse" com CSS e HTML, clássico! Continue trilhando esse caminho, quem sabe um dia você chega lá... onde quer que "lá" seja.</p>
+<p><b>Deyved Antonio</b>, um "Analista de Dados" que fez UMA contribuição? Que análise profunda você deve ter feito para chegar a essa conclusão. Mas ei, pelo menos você tem um catálogo de filmes, né? Prioridades são prioridades.</p>
+<p><b>Ezequias Silva</b>, <b>Jean Brito</b>, parabéns, vocês são a prova de que até o ar que respiramos contribui mais do que vocês. Mas não se preocupem, sempre há espaço para melhorar... ou não.</p>
 </div>
     </details>
 </div>
@@ -90,5 +101,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-03 at 00:28:56 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-04 at 00:27:29 UTC +0000</i>
 <h6>
