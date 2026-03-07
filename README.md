@@ -35,48 +35,48 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>19 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>22 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>11 ctr.</td>
+                <td>13 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>7 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
                 <td>5 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>giverplay</b>, ah, o primeiro lugar com 35 contribuições. Impressionante! Quase dá para notar sua presença.  Especialmente considerando que um dos seus destaques é um repositório chamado "Uvas".  Espero que não sejam daquelas uvas passas traiçoeiras no meio do arroz.</p>
-<p><b>Douglas Florindo</b>, 21 contribuições. Uma salva de palmas morna para você. Imagino que esteja muito ocupado "sendo" você mesmo, afinal, a bio não mente. Mas ei, pelo menos você se apresentou.</p>
-<p><b>Rafael Lima de Morais</b>, 19 contribuições. Quase lá! Seus commits em dotfiles devem ser emocionantes, mas vamos ser honestos, quem realmente se importa além de você? Ah, e parabéns por forkar um projeto chamado CL4R1T4S.  Originalidade é tudo.</p>
-<p><b>Felipe Gueller</b>, 11 contribuições. Clone do Tabnews, hein?  Que audácia!  Espero que tenha, pelo menos, mudado o nome das variáveis.  E um ticket-manager-api em C#, para quê? O mundo realmente precisava disso?</p>
-<p><b>CookieUkw</b>, com 6 contribuições. Contribuiu no Godot Engine? Uau, que legal! Aposto que sua contribuição foi crucial para o projeto, tanto que ninguém notou. E Vex-AI, criando uma IA consciente?  Boa sorte com isso, você vai precisar.</p>
-<p><b>Bryan Rafael</b>, 5 contribuições. Quase dá para sentir sua presença... quase. Continue assim e talvez um dia você consiga ser notado por algo além de estar nesta lista. Quem sabe, né?</p>
-<p><b>Gustavo Carvalho</b>, 5 contribuições.  Pelo menos você contribuiu em projetos populares, como o developer-roadmap e tauri-apps.  Mas isso significa que suas contribuições são boas ou que você só está pegando carona na fama alheia?  Fica a reflexão.</p>
-<p><b>Felipe</b>, míseras 4 contribuições. "Aprendendo a fazer um dashboard". Que esforço admirável!  E "aula_synapse" com CSS e HTML.  O mundo da tecnologia te espera de braços abertos... ou não. Pelo menos criou um repositório com seu nome, bem narcisista, diga-se de passagem.</p>
-<p><b>Deyved Antonio</b>, com 3 contribuições. Analista de dados, pai e marido. Três trabalhos em um! Mas aparentemente, nenhum deles inclui contribuir ativamente. "Otimização de Custos de Ações Judiciais".  Seus colegas devem te amar.</p>
-<p><b>Ezequias Silva</b>, duas contribuições. Parabéns, você fez mais do que nada! Um verdadeiro gênio da programação. Mas falando sério, o que você fez o mês inteiro?</p>
-<p><b>João Nery</b>, UMA contribuição.  Sério?  Uma?  Espero que tenha sido algo realmente revolucionário. Ah, e um "Projeto de Calculadora em JS".  O mundo precisava disso.  Não, pera...</p>
+    <div align="justify"><p>Ah, <b>giverplay</b>, o campeão das uvas e das regras em CSS e HTML. Impressionante como você consegue equilibrar a complexidade do Java com a simplicidade do design de páginas da web. Será que as uvas são o segredo? Ou talvez seja a paixão por definir regras... Alguém precisa!</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que domina Go, Typescript, Rust e Vim. Sua bio já me deixou cansado. Seus "dotfiles" foram atualizados recentemente, que bom que você se preocupa com a aparência do seu terminal enquanto o resto de nós tenta fazer o código funcionar. E obrigado por lutar pela transparência do ChatGPT, porque era exatamente isso que o mundo precisava.</p>
+<p><b>Douglas Florindo</b>, 21 anos e... *suspiro*. Sem atividade recente. Imagino que esteja muito ocupado existindo e sendo "ele/dele". Talvez no próximo mês você nos surpreenda com algo além da sua bio.</p>
+<p><b>Felipe Gueller</b>, reforçando conceitos de programação com um clone do Tabnews. Que ousadia! E um "ticket-manager-api" para completar. Espero que seus tickets sejam mais emocionantes que suas descrições de repositórios. Afinal, alguém tem que gerenciar os tickets, certo?</p>
+<p><b>Luís Felipe Arten</b>, criando coisas "legais (ou chatas)" quase todos os dias. Um conversor de XML! Que excitante! Aposto que você é a alma da festa. Mas ei, pelo menos você está aprendendo, e isso é quase tão bom quanto realmente fazer algo útil.</p>
+<p><b>CookieUkw</b>, com contribuições no Godot Engine, hein? Tentando a sorte no mundo dos jogos? Seu projeto "ChatStory" parece interessante, mas talvez você devesse focar em criar um CookieUkw que realmente impressione. E essa IA consciente, <i>Vex-AI</i>, está mais para "vexame" do que para "consciência", sejamos sinceros.</p>
+<p><b>Deyved Antonio</b>, o analista de dados "apaixonado por Tecnologia". Seu repositório pessoal é tão inspirador quanto uma planilha do Excel. Mas ei, pelo menos você está otimizando custos de ações judiciais. Alguém tem que fazer o trabalho sujo, certo? E "estudos_Analista" é o nome perfeito para um repositório que provavelmente contém mais tutoriais do que projetos reais.</p>
+<p><b>Jean Brito</b>, sua bio está tão vazia quanto suas contribuições recentes. Mas não se preocupe, o silêncio também é uma forma de arte. Ou talvez você só esteja esperando a inspiração divina. Quem sabe?</p>
+<p><b>Bryan Rafael</b>, outro mistério sem bio e sem contribuições recentes. Será que você é um fantasma no GitHub? Ou apenas um usuário muito, muito discreto? O mundo nunca saberá.</p>
+<p><b>Gustavo Carvalho</b>, admirando os roadmaps de outros desenvolvedores e as lives de Python do Dunossauro. Enquanto isso, contribui para um editor de saves de um jogo obscuro. Um verdadeiro eclético! Talvez você devesse criar seu próprio roadmap para sair da obscuridade, quem sabe?</p>
+<p><b>Felipe</b>, com um repositório pessoal que grita "REPÓSITÓRIO" em letras maiúsculas. E um dashboard "aprendendo a fazer". Que tal aprender a fazer algo realmente impressionante? Mas ei, pelo menos você está tentando, e isso é quase tão bom quanto realmente conseguir.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-06 at 00:32:26 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-07 at 00:27:21 UTC +0000</i>
 <h6>
