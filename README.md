@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>35 ctr.</td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -45,38 +45,38 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>19 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>13 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>11 ctr.</td>
+                <td>6°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>8 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>8 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>7 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>6 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
                 <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>5 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>4 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,15 +84,15 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>giverplay</b>, o líder incontestável com seus 35 contribuições. Imagino que "Uvas" seja o próximo grande framework, ou talvez só mais um projeto em Java que ninguém vai usar. E "regras" em CSS e HTML? Que ousadia! Espero que as regras sejam tão complexas quanto um cubo mágico.</p>
-<p><b>Rafael Lima de Morais</b>, o segundo colocado, com 27 contribuições. Vejo que você tem um repositório chamado "rafazeero". Originalidade é tudo, não é mesmo? E "dotfiles"? Ah, sim, porque todos nós precisamos saber como você personaliza seu Vim. Pelo menos você tentou com Go, mas será que alguém se importa?</p>
-<p><b>Douglas Florindo</b>, em terceiro lugar com 22 contribuições. Impressionante! Quase alcançando a marca dos líderes. Pena que não consigo ver nenhum repositório recente. Talvez você esteja contribuindo em projetos tão secretos que nem o GitHub consegue rastrear. Ou será que você está apenas escondendo algo?</p>
-<p><b>Felipe Gueller</b>, com suas 13 contribuições. Um bacharel em Sistemas de Informações que, aparentemente, não tem nada para mostrar. Imagino que você esteja guardando suas melhores ideias para o próximo século. Ou será que o diploma já é o suficiente?</p>
-<p><b>Deivid Souza Santana</b>, o "desenvolvedor back-end focado em Python e JavaScript". Suas 11 contribuições devem ser incríveis, pena que não consigo ver nenhuma delas. Talvez você esteja tão focado em construir coisas "fáceis de manter" que se esqueceu de contribuir para algo que valha a pena.</p>
-<p><b>CookieUkw</b>, com míseras 6 contribuições. Mas ei, você contribuiu para o Godot Engine! Parabéns por adicionar uma linha de código a um projeto que já tem mais de 100 mil estrelas. E "Vex-AI"? Um projeto ambicioso para criar uma IA consciente. Boa sorte com isso. Você vai precisar.</p>
-<p><b>Deyved Antonio</b>, outro com 6 contribuições. Um "Analista de Dados" que contribui para repositórios com nomes como "estudos_Analista" e "Projeto_Turnover_colaboradores". Que emocionante! Aposto que suas análises de dados são tão inovadoras quanto seus nomes de repositório. Mas ei, pelo menos você está estudando, certo?</p>
-<p><b>Bryan Rafael</b>, <b>Gustavo Carvalho</b> e <b>Felipe</b>, com 5, 5 e 4 contribuições respectivamente. Imagino que vocês estejam se esforçando muito para chegar ao topo. Ou talvez estejam apenas esperando que os outros desistam. De qualquer forma, continuem assim. A mediocridade agradece.</p>
-<p><b>Ezequias Silva</b>, o lanterninha com 2 contribuições. Parabéns por se esforçar tanto para chegar ao fim da lista. Talvez você esteja apenas começando, ou talvez este seja o seu auge. De qualquer forma, não se preocupe. Sempre haverá um lugar para você aqui embaixo.</p>
+    <div align="justify"><p>Ah, <b>giverplay</b>, o primeiro da lista. 37 contribuições, hein? Imagino que a maior parte seja comentando "primeiro" em algum lugar. Vi que você tem um projeto chamado "Uvas". Espero que não seja só pra dizer que as uvas estão verdes, porque já temos especialistas demais nisso.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer". Que chique! Mas com apenas 27 contribuições, parece mais um "Software Enthusiast". Pelo menos seus "dotfiles" foram atualizados recentemente. Prioridades, né? E esse repositório "CL4R1T4S"... a transparência é tão grande que nem código tem.</p>
+<p><b>Douglas Florindo</b>, 22 contribuições e sem repositórios recentes. Será que você está contribuindo para o projeto secreto "Não Contribuir Para Nada"? Se não, sugiro que comece a aparecer, porque a invisibilidade não te levará ao pódio.</p>
+<p><b>Deivid Souza Santana</b>, o "back-end focado em Python e JavaScript". 19 contribuições? Parece que o foco está meio embaçado. Mas relaxa, construir coisas fáceis de manter é um ótimo jeito de ter menos coisas pra fazer. Gênio!</p>
+<p><b>Felipe Gueller</b>, com míseras 13 contribuições, você está quase conseguindo ser menos relevante que um comentário de HTML. Mas não desanime, ainda dá tempo de não fazer nada. E parabéns pelo Bacharelado, imagino que tenha sido mais emocionante que suas contribuições.</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados". 8 contribuições? Analisando o quê, exatamente? A poeira na sua conta do GitHub? Mas ei, pelo menos você tem um projeto de análise de turnover. Quem sabe você não analisa o motivo de tão pouca atividade por aqui?</p>
+<p><b>Gustavo Carvalho</b>, e <b>Bryan Rafael</b> e <b>Felipe</b>, o trio parada dura. 8, 5 e 4 contribuições, respectivamente. Aparentemente, vocês estão competindo para ver quem consegue fazer menos. Spoiler: todo mundo perde.</p>
+<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack". 7 contribuições? Full-stack de preguiça, talvez? Mas ei, "learning and creating cool (or boring) things (almost) every day" soa bem. Quase tão bem quanto suas contribuições... quase.</p>
+<p><b>CookieUkw</b>, com 6 contribuições, você está quase conseguindo ser um biscoito insignificante. Mas ei, pelo menos você contribuiu para o Godot Engine, que tem mais estrelas que todos nós juntos. Parabéns por pegar carona no sucesso alheio!</p>
 </div>
     </details>
 </div>
@@ -107,5 +107,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-08 at 00:28:05 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-09 at 00:28:12 UTC +0000</i>
 <h6>
