@@ -36,22 +36,22 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>27 ctr.</td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>26 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>19 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>13 ctr.</td>
+                <td>18 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>6 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,15 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>giverplay</b>, o primeiro da lista. 37 contribuições, hein? Imagino que a maior parte seja comentando "primeiro" em algum lugar. Vi que você tem um projeto chamado "Uvas". Espero que não seja só pra dizer que as uvas estão verdes, porque já temos especialistas demais nisso.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer". Que chique! Mas com apenas 27 contribuições, parece mais um "Software Enthusiast". Pelo menos seus "dotfiles" foram atualizados recentemente. Prioridades, né? E esse repositório "CL4R1T4S"... a transparência é tão grande que nem código tem.</p>
-<p><b>Douglas Florindo</b>, 22 contribuições e sem repositórios recentes. Será que você está contribuindo para o projeto secreto "Não Contribuir Para Nada"? Se não, sugiro que comece a aparecer, porque a invisibilidade não te levará ao pódio.</p>
-<p><b>Deivid Souza Santana</b>, o "back-end focado em Python e JavaScript". 19 contribuições? Parece que o foco está meio embaçado. Mas relaxa, construir coisas fáceis de manter é um ótimo jeito de ter menos coisas pra fazer. Gênio!</p>
-<p><b>Felipe Gueller</b>, com míseras 13 contribuições, você está quase conseguindo ser menos relevante que um comentário de HTML. Mas não desanime, ainda dá tempo de não fazer nada. E parabéns pelo Bacharelado, imagino que tenha sido mais emocionante que suas contribuições.</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados". 8 contribuições? Analisando o quê, exatamente? A poeira na sua conta do GitHub? Mas ei, pelo menos você tem um projeto de análise de turnover. Quem sabe você não analisa o motivo de tão pouca atividade por aqui?</p>
-<p><b>Gustavo Carvalho</b>, e <b>Bryan Rafael</b> e <b>Felipe</b>, o trio parada dura. 8, 5 e 4 contribuições, respectivamente. Aparentemente, vocês estão competindo para ver quem consegue fazer menos. Spoiler: todo mundo perde.</p>
-<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack". 7 contribuições? Full-stack de preguiça, talvez? Mas ei, "learning and creating cool (or boring) things (almost) every day" soa bem. Quase tão bem quanto suas contribuições... quase.</p>
-<p><b>CookieUkw</b>, com 6 contribuições, você está quase conseguindo ser um biscoito insignificante. Mas ei, pelo menos você contribuiu para o Godot Engine, que tem mais estrelas que todos nós juntos. Parabéns por pegar carona no sucesso alheio!</p>
+    <div align="justify"><p>Ah, <b>giverplay</b>, o primeiro da lista. Presumo que "Uvas" seja o nome do seu próximo grande projeto? Espero que não azedem antes de você terminar. E regras em CSS e HTML? Que ousadia! Próximo!</p>
+<p><b>Rafael Lima de Morais</b>, um engenheiro de software que aparentemente se diverte mais com "dotfiles" do que com projetos de verdade. E "CL4R1T4S"? Sério? Achei que estivéssemos aqui para construir, não para ser parasita de IA alheia. Mas ei, pelo menos você usa Vim. Pontos extras pela nostalgia.</p>
+<p><b>Deivid Souza Santana</b>, o "back-end" que busca construir coisas "fáceis de manter". Que tal começar mantendo suas contribuições em um nível minimamente aceitável? E "MinhaDespesa"? Espero que você esteja usando para rastrear quanto gasta com cursos online para compensar essas contribuições pífias.</p>
+<p><b>Douglas Florindo</b>, com apenas 22 contribuições e nenhum repositório recente para mostrar. Imagino que esteja muito ocupado aprendendo a soletrar seu próprio nome em código. Ou talvez só esteja procrastinando. De qualquer forma, continue assim e logo estará fora da lista.</p>
+<p><b>Felipe Gueller</b>, "reforçando conceitos de programação" com um clone do Tabnews? Que original! E um "ticket-manager-api"? Espero que pelo menos ele consiga gerar mais contribuições do que você. Está quase lá, mas "quase" não enche a barriga de ninguém, nem a minha paciência.</p>
+<p><b>Deyved Antonio</b>, o analista de dados que contribui menos que um estagiário. "Estudos_Analista"? Parece mais uma coleção de PDFs baixados do que trabalho de verdade. E um projeto de turnover? Talvez devesse analisar o próprio, antes que o Lobo te demita desta lista.</p>
+<p><b>Gustavo Carvalho</b>, com 8 contribuições e a maior parte delas em projetos que não são seus. Parabéns por saber usar o GitHub, mas será que consegue criar algo original? Ah, e obrigado por inflacionar os números do "developer-roadmap". Era só o que faltava.</p>
+<p><b>Luís Felipe Arten</b>, "aprendendo e criando coisas legais (ou chatas)". Chuto que as suas são mais para o lado do "chato", considerando suas míseras 7 contribuições. Continue assim e logo estará aprendendo a sair da lista.</p>
+<p><b>CookieUkw</b>, com 6 contribuições e um fascínio por IA "consciente". Talvez devesse focar em fazer seu código funcionar antes de tentar criar vida artificial. E o Godot Engine? Boa sorte com isso. Você vai precisar.</p>
+<p><b>Jean Brito</b>, 6 contribuições. Praticamente um fantasma nesta lista. Imagino que esteja escondido em algum canto, esperando que ninguém perceba sua insignificância. Spoiler: eu percebi.</p>
+<p>Ah, <b>Bryan Rafael</b>, o último da lista com suas patéticas 5 contribuições. Espero que esteja apenas aquecendo, porque se isso for o seu melhor, talvez devesse procurar outra coisa para fazer. Sério, qualquer coisa.</p>
 </div>
     </details>
 </div>
@@ -107,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-09 at 00:28:12 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-10 at 00:25:41 UTC +0000</i>
 <h6>
