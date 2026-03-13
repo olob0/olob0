@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>107 ctr.</td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>39 ctr.</td>
+                <td>43 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>33 ctr.</td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -65,12 +65,12 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>14 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>giverplay</b>, com 107 contribuições, você lidera o ranking. Parabéns! Ou talvez não... Afinal, a qualidade supera a quantidade, certo? Espero que pelo menos um desses seus projetos em Java, CSS e HTML não seja só mais um "Olá Mundo" glorificado. E "Uvas"? Sério? Esse é o nome que você escolheu? Espero que ao menos sirva para fazer um bom vinho, porque como código, parece azedo.</p>
-<p><b>Rafael Lima de Morais</b>, 39 contribuições. Vim, Go, Typescript, Rust... Impressionante sua lista de tecnologias. Agora, a pergunta que não quer calar: você realmente *usa* tudo isso, ou só coleciona pra impressionar no LinkedIn? E esse repositório "rafazeero" com 1 stargazer? Aposto que foi você mesmo, não foi? E o "dotfiles" atualizado em fevereiro? Uau, que pontualidade! Mal posso esperar para ver suas configurações de Vim de 2027.</p>
-<p><b>Deyved Antonio</b>, com 33 contribuições, você se declara um "Analista de Dados apaixonado por Tecnologia". Que clichê! Mas ei, pelo menos você está estudando, certo? "estudos_Analista", que nome original! E o projeto de análise de turnover? Espero que não seja só mais uma planilha de Excel glorificada. Mas ei, 2 stargazers, você está quase famoso!</p>
-<p><b>Deivid Souza Santana</b>, 26 contribuições e... nenhum repositório recente para espiar? Que mistério! Back-end Python e JavaScript, buscando "coisas fáceis de manter"... Soa como uma indireta para alguém. Será que suas contribuições estão todas escondidas em algum projeto secreto? Ou será que você só gosta de falar e não de mostrar?</p>
-<p><b>Douglas Florindo</b>, 22 contribuições. Sem repositórios recentes para analisar. Hmm, o que será que você anda aprontando? Espero que essas contribuições não sejam apenas correções de erros de digitação em documentações obscuras. Mas ei, 21 anos, ainda há tempo para se redimir e começar a contribuir de verdade. Ou não.</p>
-<p><b>Felipe Gueller</b>, 21 contribuições. Mais um fantasma na lista! Bacharel em Sistemas de Informação, hein? Espero que pelo menos saiba a diferença entre "informação" e "dado". Sem atividade recente para julgar, resta apenas a sua bio genérica do LinkedIn. Tente ser mais interessante da próxima vez.</p>
-<p><b>CookieUkw</b>, 16 contribuições. Contribuiu no Godot Engine? Uau, impressionante! Pena que o resto dos seus projetos parecem ter sido abandonados há anos. "ChatStory" e "Vex-AI"... Promessas de 2022 que nunca se concretizaram. Talvez seja hora de aceitar que nem todo mundo nasce para ser Elon Musk.</p>
-<p><b>Luís Felipe Arten</b> e <b>brunoferreiraff</b>, ambos com 12 contribuições. Empate! Mas um empate de mediocridade. Sem atividade recente, sem projetos interessantes, sem nada que os destaque. Parabéns? Acho que não.</p>
-<p><b>Gustavo Carvalho</b>, com míseras 8 contribuições. Sério? 8? Isso é tudo que você tem para mostrar? Espero que pelo menos tenha uma desculpa muito boa para essa falta de comprometimento. Talvez estivesse ocupado demais assistindo vídeos de gatinhos na internet? Sem problemas, acontece.</p>
-<p><b>Bryan Rafael</b>, o lanterninha com apenas 7 contribuições. Chegou atrasado na festa e já está indo embora? Com essa taxa de contribuição, acho que é melhor você procurar outra área. Que tal jardinagem? Pelo menos as plantas não exigem commits frequentes.</p>
+    <div align="justify"><p><b>giverplay</b>, com 108 contribuições, você lidera o ranking. Parabéns, imagino que esteja se sentindo o próprio "Lobo" agora. Mas não se anime muito, porque liderar com projetos como "Uvas" (Java, que original!) e "regras" em CSS/HTML (uau, a base da internet!), é como ser o rei de um castelo de cartas. Aproveite seu reinado efêmero.</p>
+<p><b>Rafael Lima de Morais</b>, 43 contribuições, hein? Quase alcançando o topo... Mas olhando seus repositórios, "rafazeero" sem descrição e "dotfiles" (porque alguém se importa com seus configs?), parece que a ambição não está totalmente alinhada com a execução. E um fork de "CL4R1T4S"? Sério? Talvez menos "fork" e mais "faça você mesmo" da próxima vez.</p>
+<p><b>Deyved Antonio</b>, 35 contribuições, o analista de dados que, aparentemente, analisa os próprios repositórios. "estudos_Analista" e "Projeto_Turnover_colaboradores" soam como ótimos títulos para... bem, para ficarem guardados no seu HD. Mas ei, pelo menos você atualizou um deles essa semana! Sinal de vida, talvez?</p>
+<p><b>Deivid Souza Santana</b>, com 26 contribuições, parece que você está mais focado em "buscar construir coisas fáceis de manter" do que em realmente construir alguma coisa. Cadê os repositórios? Escondidos? Ah, entendi, é mais fácil manter algo que não existe. Gênio!</p>
+<p><b>Douglas Florindo</b>, 22 contribuições. Sua bio é concisa, mas e os seus projetos? Cadê? Ah, não tem. Entendi, você é do tipo que prefere o "ele/dele" no pronome, mas não no código. Próxima!</p>
+<p><b>Felipe Gueller</b>, 21 contribuições. Bacharel em Sistemas de Informação, mas o sistema de informação não tem nenhum código para mostrar? Parece que o diploma está acumulando mais poeira que suas contribuições. Que tal dar um "git push" nessa carreira?</p>
+<p><b>CookieUkw</b>, 16 contribuições, mas pelo menos você tem um projeto chamado "ChatStory". Criativo... se estivéssemos em 2010. E "Vex-AI"? Inteligência artificial "capaz de manter conversas normais"? Já temos chatbots demais no mundo, obrigado. Mas hey, você contribuiu para o Godot Engine, então talvez haja esperança para você.</p>
+<p><b>brunoferreiraff</b>, 14 contribuições. Sua bio é tão inexistente quanto seus repositórios. Imagino que sua estratégia seja a invisibilidade total. Bem, está funcionando.</p>
+<p><b>Luís Felipe Arten</b>, 12 contribuições, se descreve como "criando coisas legais (ou chatas) (quase) todo dia". Quase não conta, Luís. Quase como ganhar na loteria e acertar só um número. Mas não desanime, o "quase" é o primeiro passo para o "nunca".</p>
+<p><b>Gustavo Carvalho</b>, 8 contribuições. Sem bio, sem repositórios, quase sem contribuições. Você é o ninja silencioso do ranking. Ou talvez só um fantasma.</p>
+<p><b>Bryan Rafael</b>, míseras 7 contribuições. Sem bio, sem repositórios. Você está competindo para ver quem consegue ser o menos notado? Se sim, parabéns, você está quase ganhando. Quase.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-12 at 00:24:07 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-13 at 00:27:58 UTC +0000</i>
 <h6>
