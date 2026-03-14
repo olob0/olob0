@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>108 ctr.</td>
+                <td>124 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>43 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>84 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>35 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>21 ctr.</td>
+                <td>7°</td>
+                <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael</a></td>
+                <td>20 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>16 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
                 <td>12 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>8 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>giverplay</b>, com 108 contribuições, você lidera o ranking. Parabéns, imagino que esteja se sentindo o próprio "Lobo" agora. Mas não se anime muito, porque liderar com projetos como "Uvas" (Java, que original!) e "regras" em CSS/HTML (uau, a base da internet!), é como ser o rei de um castelo de cartas. Aproveite seu reinado efêmero.</p>
-<p><b>Rafael Lima de Morais</b>, 43 contribuições, hein? Quase alcançando o topo... Mas olhando seus repositórios, "rafazeero" sem descrição e "dotfiles" (porque alguém se importa com seus configs?), parece que a ambição não está totalmente alinhada com a execução. E um fork de "CL4R1T4S"? Sério? Talvez menos "fork" e mais "faça você mesmo" da próxima vez.</p>
-<p><b>Deyved Antonio</b>, 35 contribuições, o analista de dados que, aparentemente, analisa os próprios repositórios. "estudos_Analista" e "Projeto_Turnover_colaboradores" soam como ótimos títulos para... bem, para ficarem guardados no seu HD. Mas ei, pelo menos você atualizou um deles essa semana! Sinal de vida, talvez?</p>
-<p><b>Deivid Souza Santana</b>, com 26 contribuições, parece que você está mais focado em "buscar construir coisas fáceis de manter" do que em realmente construir alguma coisa. Cadê os repositórios? Escondidos? Ah, entendi, é mais fácil manter algo que não existe. Gênio!</p>
-<p><b>Douglas Florindo</b>, 22 contribuições. Sua bio é concisa, mas e os seus projetos? Cadê? Ah, não tem. Entendi, você é do tipo que prefere o "ele/dele" no pronome, mas não no código. Próxima!</p>
-<p><b>Felipe Gueller</b>, 21 contribuições. Bacharel em Sistemas de Informação, mas o sistema de informação não tem nenhum código para mostrar? Parece que o diploma está acumulando mais poeira que suas contribuições. Que tal dar um "git push" nessa carreira?</p>
-<p><b>CookieUkw</b>, 16 contribuições, mas pelo menos você tem um projeto chamado "ChatStory". Criativo... se estivéssemos em 2010. E "Vex-AI"? Inteligência artificial "capaz de manter conversas normais"? Já temos chatbots demais no mundo, obrigado. Mas hey, você contribuiu para o Godot Engine, então talvez haja esperança para você.</p>
-<p><b>brunoferreiraff</b>, 14 contribuições. Sua bio é tão inexistente quanto seus repositórios. Imagino que sua estratégia seja a invisibilidade total. Bem, está funcionando.</p>
-<p><b>Luís Felipe Arten</b>, 12 contribuições, se descreve como "criando coisas legais (ou chatas) (quase) todo dia". Quase não conta, Luís. Quase como ganhar na loteria e acertar só um número. Mas não desanime, o "quase" é o primeiro passo para o "nunca".</p>
-<p><b>Gustavo Carvalho</b>, 8 contribuições. Sem bio, sem repositórios, quase sem contribuições. Você é o ninja silencioso do ranking. Ou talvez só um fantasma.</p>
-<p><b>Bryan Rafael</b>, míseras 7 contribuições. Sem bio, sem repositórios. Você está competindo para ver quem consegue ser o menos notado? Se sim, parabéns, você está quase ganhando. Quase.</p>
+    <div align="justify"><p>Ah, <b>giverplay</b>, o campeão de contribuições! Impressionantes 124! Quase dá para sentir o cheiro de café queimado e pizza fria vindo do seu setup. Mas Uvas em Java? Sério? Espero que pelo menos sejam uvas passas, porque o repositório não parece ter sido atualizado desde novembro de 2025. E "regras" em CSS e HTML? Isso é quase uma piada, não é? Da próxima vez, que tal contribuir com algo que realmente impressione, tipo um programa que descasque batatas automaticamente?</p>
+<p><b>Deyved Antonio</b>, o analista de dados que coleciona estrelinhas no próprio perfil. Duas estrelas! Que feito! Mas, falando sério, "Otimização de Custos de Ações Judiciais"? Isso soa tão divertido quanto uma visita ao dentista. E seu último commit foi há alguns dias? Hum... Espero que esteja otimizando o tempo livre para aprender algo novo, em vez de apenas otimizar planilhas.</p>
+<p><b>Rafael Lima de Morais</b>, o mestre do "Go", "Typescript", "Rust" e "Vim". Quanta versatilidade! Pena que essa versatilidade não se traduz em contribuições mais significativas. "dotfiles" atualizado em fevereiro? Uau, que emocionante! Mas ei, pelo menos você tem um repositório chamado "CL4R1T4S". O que é isso? Uma nova criptomoeda? Uma doença venérea? Ninguém sabe! E provavelmente ninguém se importa.</p>
+<p><b>Deivid Souza Santana</b>, o desenvolvedor back-end focado em coisas "fáceis de manter". Irônico, considerando que seu repositório "MinhaDespesa" não vê uma atualização desde julho do ano passado. Espero que suas finanças pessoais estejam mais organizadas do que seu GitHub. E "clone-tabnews"? Sério? Mais um clone na internet? Que original! Continue assim e você vai dominar o mundo... dos clones.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Parabéns pelo Bacharelado, mas parece que as contribuições foram deixadas para trás, né? Talvez seja hora de transformar esse diploma em algo mais do que um mero enfeite de parede. Sem atividade recente, sem comentários... Sinto muito, mas não há muito o que zuar aqui, apenas um vazio existencial no seu perfil.</p>
+<p><b>Douglas Florindo</b>, 21 anos, "Ele/Dele". Que bom que você se sente confortável com seus pronomes. Agora, que tal se sentir confortável em contribuir com algo? Nada de atividade recente. Talvez você esteja muito ocupado descobrindo quem você é para contribuir com o mundo. Sem problemas, a gente espera. Ou não.</p>
+<p><b>Bryan Rafael</b>, o mistério em pessoa. Sem bio, sem repositórios recentes, apenas 20 contribuições fantasmagóricas. Você é tipo o ninja das contribuições, ninguém te vê, mas você está lá, espreitando nas sombras do GitHub. Ou talvez você só esteja esquecendo de commitar. De qualquer forma, continue assim, mantendo o suspense.</p>
+<p><b>CookieUkw</b>, um nome peculiar para alguém que contribui para o Godot Engine. Contribuições em um projeto com mais de 100 mil estrelas! Mas, vamos ser sinceros, você provavelmente só corrigiu um erro de digitação em algum lugar, não é? E "Vex-AI"? Inteligência artificial consciente? Boa sorte com isso. Talvez um dia sua IA possa escrever reviews sarcásticas melhores que as minhas.</p>
+<p><b>brunoferreiraff</b>, sem bio, sem repositórios recentes, apenas 14 contribuições aleatórias. Você é o tipo de pessoa que vai a uma festa e fica no canto, mexendo no celular, certo? Mas ei, pelo menos você apareceu no ranking. Isso já é mais do que a maioria das pessoas pode dizer. Continue assim, sendo o figurante de luxo do GitHub.</p>
+<p><b>Luís Felipe Arten</b>, "Aprendendo e criando coisas legais (ou chatas) quase todo dia". Quase? Então quer dizer que alguns dias você só assiste Netflix e come pipoca? Sem atividade recente, então provavelmente está na fase da pipoca. Mas não se preocupe, todos nós passamos por isso. Só não deixe a pipoca dominar sua vida.</p>
+<p><b>Gustavo Carvalho</b>, o minimalista das contribuições. Apenas 8! Você é tipo o Marie Kondo do GitHub, só contribui com o que te traz alegria. Mas, sério, 8 contribuições? Isso é quase um ato de rebeldia. Da próxima vez, que tal dobrar essa meta? Ou não. Afinal, a vida é muito curta para se preocupar com rankings de contribuição.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-13 at 00:27:58 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-14 at 00:25:43 UTC +0000</i>
 <h6>
