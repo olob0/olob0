@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>124 ctr.</td>
+                <td>128 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>92 ctr.</td>
+                <td>99 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -70,8 +70,8 @@
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>14 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>giverplay</b>, parabéns pelo primeiro lugar! Com 124 contribuições, você quase conseguiu fazer mais do que o número de uvas no seu repositório "Uvas". Quase. E obrigado por contribuir no repositório "regras", agora sabemos que você segue as regras (pelo menos as de CSS e HTML).</p>
-<p><b>Deyved Antonio</b>, Analista de Dados, hein? 92 contribuições. Impressionante como você consegue analisar dados e ainda ter tempo para atualizar seu perfil no GitHub. E parabéns pelo projeto de análise de turnover, espero que os resultados mostrem que você não está pensando em nos abandonar.</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer "Go" , "Typescript", "Rust", "Vim" e 45 contribuições. Tantas tecnologias e tão pouco impacto. Mas ei, pelo menos seus <i>dotfiles</i> estão atualizados, porque o resto...</p>
-<p><b>Deivid Souza Santana</b>, 38 contribuições e focado em "construir coisas fáceis de manter". Que irônico, já que sua posição no ranking é tudo menos fácil de manter. Mas não se preocupe, o importante é participar, certo? Certo?</p>
-<p><b>Felipe Gueller</b>, 23 contribuições. Quase metade do Deivid. Já pode pedir música no Fantástico? Sem atividade recente. Está de férias?</p>
-<p><b>Douglas Florindo</b>, 22 contribuições. Pelo menos você tem idade para dirigir, diferente de algumas das suas contribuições. Sem atividade recente. Faz alguma coisa!</p>
-<p><b>Bryan Rafael</b>, 20 contribuições e uma bio... vazia. Pelo menos o espaço no seu perfil reflete o impacto das suas contribuições. Sem atividade recente. Isso não vai te levar a lugar nenhum.</p>
-<p><b>CookieUkw</b>, 17 contribuições. Contribuiu para o Godot Engine, que legal! Agora quem sabe, você contribui mais no próximo mês, ao invés de ficar brincando de criar histórias interativas com simulação de chat. </p>
-<p><b>Luís Felipe Arten</b>, 12 contribuições. "Aprendendo e criando coisas legais (ou chatas) quase todos os dias". Parece que a maioria das suas criações são chatas mesmo. Cadê as contribuições?</p>
-<p><b>Gustavo Carvalho</b>, 8 contribuições. Chegou quase lá, continue assim e logo, logo você chega na frente do Ezequias.</p>
-<p><b>Ezequias Silva</b>, com míseras 6 contribuições, você está quase conseguindo a proeza de não fazer nada. Continue assim e logo, logo, você alcança o nirvana da irrelevância digital.</p>
+    <div align="justify"><p>Ah, <b>giverplay</b>, o primeiro lugar! 128 contribuições, impressionante... se estivéssemos em 2024. Sério, a última atualização no "Uvas" foi em novembro de 2025? Espero que as uvas não tenham azedado. E "regras" em CSS e HTML? Que tal contribuir com algo que não precise de um manual de instruções para ser usado?</p>
+<p><b>Deyved Antonio</b>, quase lá! 99 contribuições, a um passo do centésimo. Mas vamos falar sobre esse repositório de "estudos_Analista" atualizado em 8 de março. Estudando tanto que esqueceu de viver? E o projeto de turnover de colaboradores? Espero que sua contribuição não seja a causa do turnover, <i>hein</i>?</p>
+<p><b>Rafael Lima de Morais</b>, com seus gloriosos 45 commits. Vejo Go, Typescript, Rust... e Vim. Que combinação exótica! Mas sério, "dotfiles" atualizado em fevereiro? Espero que esses "dotfiles" pelo menos te ajudem a encontrar o caminho para mais contribuições. E essa bifurcação do CL4R1T4S de maio de 2025? Espero que você esteja contribuindo e não apenas olhando para a claridade alheia.</p>
+<p><b>Deivid Souza Santana</b>, um desenvolvedor back-end focado em Python e JavaScript que... não contribuiu com nada recentemente? Entendi. Prioridades, certo? Construir coisas fáceis de manter, começando por manter suas contribuições em dia.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações... aparentemente dormente no GitHub. Cadê os sistemas de informação? Sumiram na tela azul da falta de contribuições?</p>
+<p><b>Douglas Florindo</b>, 21 anos e... sem contribuições recentes. A juventude é uma dádiva, mas a inatividade no GitHub é um pecado. Acorda pra vida, Douglas, antes que o tempo voe!</p>
+<p><b>Bryan Rafael</b>, o mistério em pessoa. Sem bio, sem contribuições recentes... você é o ninja das sombras do GitHub? Pelo menos deixe um rastro de commit para sabermos que você existe.</p>
+<p><b>CookieUkw</b>, 17 contribuições e um fascínio por IA. Vex-AI soa ambicioso, mas a última atualização foi em dezembro de 2025. Será que a IA já dominou o mundo e você esqueceu de nos avisar? E o ChatStory? Espero que não seja tão interativo quanto sua atividade no GitHub.</p>
+<p><b>brunoferreiraff</b>, sem bio, poucas contribuições. Está economizando palavras para um futuro épico commit? Espero que sim, porque o silêncio no GitHub é ensurdecedor.</p>
+<p><b>Gustavo Carvalho</b>, 8 contribuições. Quase podemos contar nos dedos de uma mão. Que tal usar a outra mão para... contribuir? Só uma sugestão amigável, claro.</p>
+<p><b>Ezequias Silva</b>, com 6 contribuições, fecha o ranking. Seis é um número... pequeno. Mas ei, sempre dá tempo de aumentar essa contagem. Que tal começar agora?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-15 at 00:33:01 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-16 at 00:32:49 UTC +0000</i>
 <h6>
