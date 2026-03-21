@@ -36,22 +36,22 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>223 ctr.</td>
+                <td>230 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>149 ctr.</td>
+                <td>151 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>109 ctr.</td>
+                <td>112 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>57 ctr.</td>
+                <td>61 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -60,23 +60,23 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>23 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>22 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael Bueno Ribeiro</a></td>
                 <td>21 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
                 <td>17 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>16 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, parabéns pelo primeiro lugar. 288 contribuições? Imagino que você esteja construindo o próximo unicórnio da Aden, ou talvez apenas corrigindo bugs que ninguém mais consegue entender. Continue assim, quem sabe um dia você ganha um aumento... ou pelo menos um tapinha nas costas.</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Ufa, quanta coisa! Com essa bio, imaginei que seus projetos seriam revolucionários, mas "estudos_Analista" e "Projeto_Turnover_colaboradores"? Sério? Pelo menos você tem dois <i>stargazers</i>. Não desista, um dia você chega lá... talvez.</p>
-<p><b>giverplay</b>, "Olá, estranho!" Já começou bem. Seus projetos "Uvas" em Java e "regras" em CSS e HTML... Inspirador. Mas ei, pelo menos você tem um Discord. Quem sabe você encontra alguém para te ajudar a criar algo que vá além de regras em CSS. Boa sorte!</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer que usa Vim, que original! Go, Typescript, Rust... parece que você está colecionando tecnologias. Seu repositório "dotfiles" foi atualizado ontem, 19 de março de 2026. Uau, impressionante! Aposto que seu terminal é a inveja de todos os seus colegas.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. E o que você tem feito com esse diploma? Sua lista de contribuições está gritando por atenção. Que tal começar a usar esse conhecimento para algo além de se apresentar como bacharel?</p>
-<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." Que nobre ambição! Mas com apenas 38 contribuições, parece que a manutenção está sendo mais fácil do que a construção. Continue tentando, um dia você chega lá.</p>
-<p><b>Douglas Florindo</b>, 21 anos. Ok. Ele/Dele. Certo. PtBr/Eng. Legal. E as contribuições? Ah, sim, 22. Imagino que você esteja muito ocupado se descobrindo para contribuir de verdade. Sem problemas, a gente espera. Ou não.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem projetos, apenas 21 contribuições. Você é o ninja silencioso, o mestre das sombras... ou só alguém que esqueceu de preencher o perfil. De qualquer forma, precisa melhorar essa pontuação. Que tal começar agora?</p>
-<p><b>CookieUkw</b>, contribuiu no Godot Engine? Que chique! Mas também tem um "ChatStory" e um projeto de "Vex-AI" que pretende criar uma IA consciente. Um pouco ambicioso, não acha? Mas ei, pelo menos você está tentando. Continue sonhando, quem sabe um dia você cria a Skynet.</p>
-<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack | Learning and creating cool (or boring) things (almost) every day". <i>Almost</i> é a palavra chave aqui. Com apenas 16 contribuições, parece que você está mais no "learning" do que no "creating". Mas não desanime, um dia você chega lá... ou não.</p>
-<p><b>Felipe</b>, sem bio, sem projetos, apenas 11 contribuições. Você é o mistério em pessoa. O que você faz? Ninguém sabe. Por que você está aqui? Boa pergunta. Mas ei, pelo menos você está na lista. Parabéns?</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, em primeiro lugar no ranking, hein? Parabéns por aparentemente respirar código mais do que ar. Mas será que essa quantidade toda significa qualidade, ou você só está apertando botões freneticamente até algo acontecer? Pense nisso.</p>
+<p><b>Deyved Antonio</b>, "apaixonado por Tecnologia", diz a bio. Mas o repositório "estudos_Analista" atualizado pela última vez em 8 de Março ainda está te ensinando a ser analista? Talvez seja hora de começar a *fazer* análise em vez de só estudar sobre. E "Projeto_Turnover_colaboradores" parado desde 10 de Março? A empresa já faliu e você nem percebeu?</p>
+<p><b>giverplay</b>, "Olá, estranho!". Parece que você está mais interessado em criar regras (no repositório "regras") do que em quebrá-las. E "Uvas", com Java? Sério? Em pleno 2026, ainda mexendo com isso? Espero que pelo menos estejam virando vinho.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que currículo invejável! Pena que o repositório "dotfiles" foi atualizado recentemente, 19 de Março, sinal de que você ainda está personalizando seu ambiente em vez de produzir algo útil. E o "CL4R1T4S"? Um fork? Seriedade, cadê?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. E as informações que você tem produzido, onde estão? Algum projeto para mostrar que você não passou anos apenas olhando para a tela do computador?</p>
+<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." Que tal começar construindo *alguma coisa*, em vez de só *buscar* construir? A ambição é louvável, mas a execução é fundamental.</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação?". Com um curso *seu*, claro. Enquanto isso, "tabnews.com.br" atualizado em 19 de Março é o que te mantém relevante? Espero que pelo menos esteja aprendendo algo com os outros.</p>
+<p><b>Douglas Florindo</b>, 21 anos. Essa é a sua bio? Sério? Esperava algo mais criativo de alguém que supostamente programa. A não ser que sua contribuição seja manter o mistério, nesse caso, parabéns!</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem comentários. Talvez você devesse se dedicar a criar uma bio antes de tentar criar código.</p>
+<p><b>CookieUkw</b>, "Godot Engine" com mais de 100k estrelas e você lá, contribuindo. Que tal usar essa experiência toda para criar algo *seu*? Ou vai continuar vivendo à sombra dos outros?</p>
+<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things (almost) every day". A julgar pela sua posição no ranking, as coisas "cool" ou "boring" que você cria devem ser tão raras quanto um eclipse lunar. </p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-20 at 00:29:06 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-21 at 00:27:08 UTC +0000</i>
 <h6>
