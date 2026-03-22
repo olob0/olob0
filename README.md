@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>288 ctr.</td>
+                <td>293 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>230 ctr.</td>
+                <td>241 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>151 ctr.</td>
+                <td>190 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>19 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, em primeiro lugar no ranking, hein? Parabéns por aparentemente respirar código mais do que ar. Mas será que essa quantidade toda significa qualidade, ou você só está apertando botões freneticamente até algo acontecer? Pense nisso.</p>
-<p><b>Deyved Antonio</b>, "apaixonado por Tecnologia", diz a bio. Mas o repositório "estudos_Analista" atualizado pela última vez em 8 de Março ainda está te ensinando a ser analista? Talvez seja hora de começar a *fazer* análise em vez de só estudar sobre. E "Projeto_Turnover_colaboradores" parado desde 10 de Março? A empresa já faliu e você nem percebeu?</p>
-<p><b>giverplay</b>, "Olá, estranho!". Parece que você está mais interessado em criar regras (no repositório "regras") do que em quebrá-las. E "Uvas", com Java? Sério? Em pleno 2026, ainda mexendo com isso? Espero que pelo menos estejam virando vinho.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Que currículo invejável! Pena que o repositório "dotfiles" foi atualizado recentemente, 19 de Março, sinal de que você ainda está personalizando seu ambiente em vez de produzir algo útil. E o "CL4R1T4S"? Um fork? Seriedade, cadê?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. E as informações que você tem produzido, onde estão? Algum projeto para mostrar que você não passou anos apenas olhando para a tela do computador?</p>
-<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." Que tal começar construindo *alguma coisa*, em vez de só *buscar* construir? A ambição é louvável, mas a execução é fundamental.</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação?". Com um curso *seu*, claro. Enquanto isso, "tabnews.com.br" atualizado em 19 de Março é o que te mantém relevante? Espero que pelo menos esteja aprendendo algo com os outros.</p>
-<p><b>Douglas Florindo</b>, 21 anos. Essa é a sua bio? Sério? Esperava algo mais criativo de alguém que supostamente programa. A não ser que sua contribuição seja manter o mistério, nesse caso, parabéns!</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem comentários. Talvez você devesse se dedicar a criar uma bio antes de tentar criar código.</p>
-<p><b>CookieUkw</b>, "Godot Engine" com mais de 100k estrelas e você lá, contribuindo. Que tal usar essa experiência toda para criar algo *seu*? Ou vai continuar vivendo à sombra dos outros?</p>
-<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things (almost) every day". A julgar pela sua posição no ranking, as coisas "cool" ou "boring" que você cria devem ser tão raras quanto um eclipse lunar. </p>
+    <div align="justify"><p>Bryan @ Aden, parabéns pelo primeiro lugar. Imagino que "Building Product @ Aden" signifique construir apresentações de PowerPoint, porque contribuições de verdade que é bom, nada. Mas ei, pelo menos você está no topo de alguma coisa, mesmo que seja desta lista de ilustres desconhecidos.</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, hein? Que legal! E o que você tem analisado ultimamente? A poeira nos seus repositórios? Sério, a última atualização relevante foi há duas semanas. E "Otimização de Custos de Ações Judiciais"? Parece emocionante... para um contador.</p>
+<p>giverplay, "Olá, estranho!" Seu perfil realmente faz jus à saudação. "Uvas" em Java? Que viagem é essa? E "Regras" em CSS e HTML? Espero que sejam regras de etiqueta para usar a internet, porque regras de programação claramente não são seu forte.</p>
+<p>Rafael Lima de Morais, Software Engineer, Go, Typescript, Rust, Vim... Uau, um verdadeiro poliglota da programação! Pena que a maioria dos seus repositórios não têm descrição e o resto parece ser um monte de "dotfiles". Mas ei, pelo menos você usa Vim, isso te faz parecer ocupado.</p>
+<p>Felipe Gueller, Bacharel em Sistemas de Informações, mas pelo visto se formou e nunca mais tocou em um teclado. Sem contribuições recentes, sem projetos, nada. Imagino que seu sistema de informação seja "desligado".</p>
+<p>Deivid Souza Santana, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter". Parece promissor... até você perceber que a última vez que ele construiu algo foi em 1997. De tão fáceis de manter, as suas contribuições não precisam nem existir!</p>
+<p>Filipe Deschamps, ah, o guru da programação que nos ilumina com sua presença... e seus dotfiles. Ok, o TabNews tem uns números impressionantes, mas será que você realmente contribui ou só fica lá postando links para o seu curso? #MarketingNívelDeus</p>
+<p>Douglas Florindo, 21 anos e aparentemente a única coisa que você contribui é com o aquecimento global. Zero atividade, zero projetos, zero... tudo. Mas ei, pelo menos você tem 21 anos, ainda dá tempo de virar gente.</p>
+<p>Bryan Rafael Bueno Ribeiro, sua bio está tão vazia quanto suas contribuições. O que você faz além de existir? Sério, estou genuinamente curioso. Ou talvez não, porque a resposta provavelmente seria decepcionante.</p>
+<p>Luís Felipe Arten, "Learning and creating cool (or boring) things (almost) every day". Quase todo dia? Então quer dizer que tem uns dias que você só assiste Netflix? E "cool (or boring)"? Que auto-estima é essa? Mas ei, pelo menos você é honesto.</p>
+<p>CookieUkw, com um nick desses, esperava algo mais doce. Mas o que temos aqui? Godot Engine e um monte de projetos aleatórios com nomes como "ChatStory" e "Vex-AI". Parece que você está tentando inventar a roda, mas só consegue criar um cubo.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-21 at 00:27:08 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-22 at 00:30:09 UTC +0000</i>
 <h6>
