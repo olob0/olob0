@@ -36,17 +36,17 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>241 ctr.</td>
+                <td>251 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>190 ctr.</td>
+                <td>194 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>112 ctr.</td>
+                <td>121 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -60,18 +60,18 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>23 ctr.</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>22 ctr.</td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/GeleiaComPepino">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>23 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Bryan @ Aden, parabéns pelo primeiro lugar. Imagino que "Building Product @ Aden" signifique construir apresentações de PowerPoint, porque contribuições de verdade que é bom, nada. Mas ei, pelo menos você está no topo de alguma coisa, mesmo que seja desta lista de ilustres desconhecidos.</p>
-<p><b>Deyved Antonio</b>, Analista de Dados, hein? Que legal! E o que você tem analisado ultimamente? A poeira nos seus repositórios? Sério, a última atualização relevante foi há duas semanas. E "Otimização de Custos de Ações Judiciais"? Parece emocionante... para um contador.</p>
-<p>giverplay, "Olá, estranho!" Seu perfil realmente faz jus à saudação. "Uvas" em Java? Que viagem é essa? E "Regras" em CSS e HTML? Espero que sejam regras de etiqueta para usar a internet, porque regras de programação claramente não são seu forte.</p>
-<p>Rafael Lima de Morais, Software Engineer, Go, Typescript, Rust, Vim... Uau, um verdadeiro poliglota da programação! Pena que a maioria dos seus repositórios não têm descrição e o resto parece ser um monte de "dotfiles". Mas ei, pelo menos você usa Vim, isso te faz parecer ocupado.</p>
-<p>Felipe Gueller, Bacharel em Sistemas de Informações, mas pelo visto se formou e nunca mais tocou em um teclado. Sem contribuições recentes, sem projetos, nada. Imagino que seu sistema de informação seja "desligado".</p>
-<p>Deivid Souza Santana, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter". Parece promissor... até você perceber que a última vez que ele construiu algo foi em 1997. De tão fáceis de manter, as suas contribuições não precisam nem existir!</p>
-<p>Filipe Deschamps, ah, o guru da programação que nos ilumina com sua presença... e seus dotfiles. Ok, o TabNews tem uns números impressionantes, mas será que você realmente contribui ou só fica lá postando links para o seu curso? #MarketingNívelDeus</p>
-<p>Douglas Florindo, 21 anos e aparentemente a única coisa que você contribui é com o aquecimento global. Zero atividade, zero projetos, zero... tudo. Mas ei, pelo menos você tem 21 anos, ainda dá tempo de virar gente.</p>
-<p>Bryan Rafael Bueno Ribeiro, sua bio está tão vazia quanto suas contribuições. O que você faz além de existir? Sério, estou genuinamente curioso. Ou talvez não, porque a resposta provavelmente seria decepcionante.</p>
-<p>Luís Felipe Arten, "Learning and creating cool (or boring) things (almost) every day". Quase todo dia? Então quer dizer que tem uns dias que você só assiste Netflix? E "cool (or boring)"? Que auto-estima é essa? Mas ei, pelo menos você é honesto.</p>
-<p>CookieUkw, com um nick desses, esperava algo mais doce. Mas o que temos aqui? Godot Engine e um monte de projetos aleatórios com nomes como "ChatStory" e "Vex-AI". Parece que você está tentando inventar a roda, mas só consegue criar um cubo.</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, aparentemente construir produtos na Aden te deixa ocupado demais para contribuir aqui. Ou será que suas contribuições são tão secretas que nem o GitHub consegue rastrear? Que tipo de produto você está construindo? Mísseis supersônicos? Talvez um aplicativo de receitas para astronautas?</p>
+<p><b>Deyved Antonio</b>, Analista de Dados, pai, marido e... <i>stalker</i> de *stargazers*? Dois em cada repositório, hein? Seus projetos de análise de turnover e otimização de custos parecem interessantes, mas a última atualização foi em março de 2026. Será que já encontrou a solução para o <i>turnover</i> da sua própria motivação?</p>
+<p><b>giverplay</b>, "Olá, estranho!" Imagino que seus projetos sejam tão misteriosos quanto seu perfil. Uvas em Java? Regras em CSS e HTML? Parece que você está diversificando suas habilidades... ou apenas colecionando tecnologias aleatórias. E esse nome, "giverplay"... você dá play em quê exatamente?</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... uau, que currículo! Mas e as contribuições? Ah, certo, você estava muito ocupado personalizando seus <i>dotfiles</i>. Afinal, um engenheiro de software precisa de um ambiente de trabalho impecável para... não fazer nada? E esse projeto CL4R1T4S... será que ele te ajuda a enxergar a clareza da sua própria falta de contribuições?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, mas aparentemente não em sistemas de contribuições. Entendo, a vida acadêmica é difícil. Mas será que você consegue pelo menos abrir um <i>issue</i>? Ou isso também é pedir demais?</p>
+<p><b>Deivid Souza Santana</b>, Desenvolvedor back-end focado em Python e JavaScript... e aparentemente em não contribuir. Talvez você esteja construindo coisas tão fáceis de manter que nem precisam de manutenção. Gênio!</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, seu bio está em branco, assim como suas contribuições. Está escondendo algo de nós? Ou será que você é o ninja das contribuições invisíveis?</p>
+<p><b>Douglas Florindo</b>, 21 anos, ele/dele... e só 23 contribuições? Imagino que a maior parte do seu tempo seja gasto decidindo qual pronome usar. Que tal usar um pouco desse tempo para contribuir?</p>
+<p><b>Filipe Deschamps</b>, Ah, o guru dos cursos online! Seus repositórios até que impressionam, mas será que você está tão ocupado ensinando os outros que se esqueceu de praticar? Ou será que suas contribuições são apenas para promover seus cursos? Hmm...</p>
+<p><b>Luís Felipe Arten</b>, "Aprendendo e criando coisas legais (ou chatas) quase todos os dias"... quase? Quase não conta, Luís. Que tal transformar esse "quase" em "sempre" e nos mostrar algo além de 19 contribuições?</p>
+<p><b>CookieUkw</b>, Godot Engine, ChatStory, Vex-AI... parece que você está tentando dominar o mundo dos jogos e da IA. Mas com apenas 17 contribuições, acho que o mundo pode dormir tranquilo por enquanto. E essa IA, Vex-AI, será que ela já aprendeu a contribuir mais do que você?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-22 at 00:30:09 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-23 at 00:31:39 UTC +0000</i>
 <h6>
