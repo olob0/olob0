@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>296 ctr.</td>
+                <td>307 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>195 ctr.</td>
+                <td>199 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,32 +51,32 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>64 ctr.</td>
+                <td>85 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>67 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>38 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>32 ctr.</td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>23 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
                 <td>23 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/cookieukw">CookieUkw</a></td>
-                <td>17 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Bryan @ Aden</b>, o primeiro da lista, construindo produtos... Imagino que sejam mais complexos que um castelo de cartas, porque suas contribuições somam 296, vamos ver se você consegue manter o ritmo, ou vai precisar de um guindaste pra te levantar.</p>
-<p><b>Deyved Antonio</b>, o analista de dados que ama tecnologia, pai e marido. Com 274 contribuições, pelo menos você tem dados suficientes para analisar o próprio desempenho. E com repositórios sobre turnover, talvez seja hora de analisar o seu próprio, antes que a empresa faça isso por você.</p>
-<p><b>Giverplay</b>, o estranho que compartilha projetos. 195 contribuições, um número... peculiar. Mas, ei, pelo menos você tem um Discord, caso precise de ajuda para entender o que está fazendo. Afinal, "Uvas" em Java? Espero que não estejam passadas.</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que ama Go, Typescript, Rust e Vim. Com 130 contribuições, você parece o cara que sabe de tudo um pouco, mas não domina nada completamente. E esses "dotfiles"... Espero que não sejam tão bagunçados quanto a minha mesa.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações. 64 contribuições? Hmm, parece que alguém está mais para "bacharel em enrolação". Mas ei, ainda dá tempo de virar mestre... em alguma coisa.</p>
-<p><b>Deivid Souza Santana</b>, o desenvolvedor back-end focado em Python e JavaScript. 38 contribuições? É, construir coisas fáceis de manter deve ser mais fácil do que realmente contribuir. Mas continue tentando, quem sabe um dia você chega lá.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, o misterioso com 32 contribuições e bio vazia. Sério, nem um "oi, mundo"? Com essa descrição, você parece mais um fantasma no GitHub do que um contribuidor. Acorda pra vida, camarada!</p>
-<p><b>Douglas Florindo</b>, o jovem de 21 anos com 23 contribuições. Ah, a juventude... Tanta energia para gastar em... sei lá, qualquer coisa que não seja contribuir no GitHub. Mas não se preocupe, a vida te ensina a valorizar o tempo (e as contribuições).</p>
-<p><b>Filipe Deschamps</b>, o guru da programação com 23 contribuições. Espera, você não é aquele cara que ensina os outros a programar? Hmm, parece que alguém está ocupado demais ensinando para realmente fazer. Mas ei, pelo menos você tem uns "dotfiles" legais.</p>
-<p><b>CookieUkw</b>, o jogador com 17 contribuições. Ah, Godot Engine... Pelo menos você está contribuindo em algo que as pessoas realmente usam. Mas cuidado para não se perder demais nos jogos e esquecer de contribuir de verdade.</p>
-<p><b>Felipe</b>, o anônimo com 13 contribuições. Sério, nem um sobrenome? Com essa quantidade de contribuições, você parece mais um figurante no filme do GitHub. Mas não se preocupe, sempre há espaço para melhorias.</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, liderando com 307 contribuições, hein? Imagino que "Building Product @ Aden" signifique construir planilhas no Excel. Sem ofensas, claro. Afinal, alguém tem que fazer o trabalho "braçal".</p>
+<p><b>Deyved Antonio</b>, com 274 contribuições, o analista de dados que ama tecnologia, pai e marido... e que guarda materiais de cursos em repositórios com nomes criativos como "estudos_Analista". Pelo menos atualizou o "Projeto_Turnover_colaboradores" recentemente, espero que não esteja planejando nada.</p>
+<p><b>giverplay</b>, "Olá, estranho!". Com 199 contribuições e um repositório chamado "Uvas" em Java. Imagino que o código seja tão maduro quanto as uvas que você espera colher desse projeto. E "regras" em CSS e HTML? Sério? Isso é para não esquecer como usar um `<h1>`?</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim" com 130 contribuições. Tantas linguagens e ainda não conseguiu escrever uma bio mais interessante. Pelo menos seus dotfiles estão em dia. Mas vamos ser sinceros, quem realmente se importa com seus dotfiles além de você?</p>
+<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações do Instituto Federal do Espírito Santo com 85 contribuições. Espero que pelo menos uma dessas contribuições tenha sido para o currículo. Sem atividade recente, será que já desistiu?</p>
+<p><b>Gustavo Carvalho</b>, 67 contribuições e uma bio tão vazia quanto meu pote de sorvete depois de um dia difícil. Imagino que a falta de informação seja uma tática para me manter curioso. Parabéns, funcionou... um pouco.</p>
+<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter". Com 38 contribuições, espero que essa facilidade de manutenção não se estenda à sua carreira. Cadê os projetos, Deivid?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições e nada na bio. Talvez esteja economizando palavras para o código. Ou talvez só esteja esperando que alguém preencha para você. Quem sabe?</p>
+<p><b>Douglas Florindo</b>, com 23 contribuições e uma bio que se resume a idade, pronomes e idiomas. As prioridades estão em dia. Imagino que a maior contribuição seja manter o perfil atualizado. Parabéns?</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o vendedor de cursos que também contribui com 23. Pelo menos o "doom-fire-algorithm" ainda recebe uns likes. Mas, sejamos honestos, quem precisa de fogo do Doom quando se tem boletos para pagar?</p>
+<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack | Learning and creating cool (or boring) things (almost) every day" e míseras 19 contribuições. Espero que esteja aprendendo mais do que criando, porque com essa taxa de contribuição, o "cool" e o "almost" estão se tornando sinônimos.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-24 at 00:26:14 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-25 at 00:29:36 UTC +0000</i>
 <h6>
