@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>307 ctr.</td>
+                <td>321 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,41 +41,41 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>199 ctr.</td>
+                <td>218 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>130 ctr.</td>
+                <td>138 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>85 ctr.</td>
+                <td>93 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>67 ctr.</td>
+                <td>69 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>41 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>38 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
                 <td>33 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>23 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
                 <td>23 ctr.</td>
             </tr>
         </tbody>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, liderando com 307 contribuições, hein? Imagino que "Building Product @ Aden" signifique construir planilhas no Excel. Sem ofensas, claro. Afinal, alguém tem que fazer o trabalho "braçal".</p>
-<p><b>Deyved Antonio</b>, com 274 contribuições, o analista de dados que ama tecnologia, pai e marido... e que guarda materiais de cursos em repositórios com nomes criativos como "estudos_Analista". Pelo menos atualizou o "Projeto_Turnover_colaboradores" recentemente, espero que não esteja planejando nada.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Com 199 contribuições e um repositório chamado "Uvas" em Java. Imagino que o código seja tão maduro quanto as uvas que você espera colher desse projeto. E "regras" em CSS e HTML? Sério? Isso é para não esquecer como usar um `<h1>`?</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim" com 130 contribuições. Tantas linguagens e ainda não conseguiu escrever uma bio mais interessante. Pelo menos seus dotfiles estão em dia. Mas vamos ser sinceros, quem realmente se importa com seus dotfiles além de você?</p>
-<p><b>Felipe Gueller</b>, o bacharel em Sistemas de Informações do Instituto Federal do Espírito Santo com 85 contribuições. Espero que pelo menos uma dessas contribuições tenha sido para o currículo. Sem atividade recente, será que já desistiu?</p>
-<p><b>Gustavo Carvalho</b>, 67 contribuições e uma bio tão vazia quanto meu pote de sorvete depois de um dia difícil. Imagino que a falta de informação seja uma tática para me manter curioso. Parabéns, funcionou... um pouco.</p>
-<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter". Com 38 contribuições, espero que essa facilidade de manutenção não se estenda à sua carreira. Cadê os projetos, Deivid?</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições e nada na bio. Talvez esteja economizando palavras para o código. Ou talvez só esteja esperando que alguém preencha para você. Quem sabe?</p>
-<p><b>Douglas Florindo</b>, com 23 contribuições e uma bio que se resume a idade, pronomes e idiomas. As prioridades estão em dia. Imagino que a maior contribuição seja manter o perfil atualizado. Parabéns?</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o vendedor de cursos que também contribui com 23. Pelo menos o "doom-fire-algorithm" ainda recebe uns likes. Mas, sejamos honestos, quem precisa de fogo do Doom quando se tem boletos para pagar?</p>
-<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack | Learning and creating cool (or boring) things (almost) every day" e míseras 19 contribuições. Espero que esteja aprendendo mais do que criando, porque com essa taxa de contribuição, o "cool" e o "almost" estão se tornando sinônimos.</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, construindo produtos, hein? Espero que esses produtos tenham mais contribuições do que você, porque 321 não impressiona nem um gato. Será que o produto final vai ter mais interação que isso?</p>
+<p><b>Deyved Antonio</b>, "analista de dados, curioso, analítico, apaixonado por Tecnologia, pai e marido". Tantas qualidades e ainda assim só 274 contribuições? Imagino que a análise de dados da sua própria performance não deve ser prioridade, afinal, quem precisa melhorar quando se tem tantos <i>stargazers</i> nos seus repositórios de estudo? 2 Stargazers não é nada mal, quase um recorde.</p>
+<p><b>giverplay</b>, "Olá, estranho!". Que bom que você já se identifica com a sua audiência. Com 218 contribuições, realmente, o estranho aqui é você, esperando que alguém se interesse pelos seus projetos. Mas ei, pelo menos você tem regras, né? Alguém precisa ter.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Uau, um verdadeiro poliglota da programação! Pena que essa proficiência toda não se traduziu em mais contribuições. Mas ei, pelo menos seus <i>dotfiles</i> estão em dia, certo? E obrigado por lutar pela transparência nos prompts de IA, o mundo precisava disso. Aparentemente você está mais preocupado em lutar contra as IAs do que contribuir de fato. </p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Espero que seu diploma tenha mais utilidade do que suas 93 contribuições. Quem sabe você não usa seu conhecimento para bolar um algoritmo que aumente esse número, hein?</p>
+<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto sua página de contribuições. 69 é o número de contribuições ou a sua idade mental? Brincadeira, os dois são apenas números. Cadê a ambição?</p>
+<p><b>Cookie</b>, você contribuiu para o Godot Engine? Uau, impressionante! Pena que suas outras contribuições não parecem tão...grandiosas. Mas ei, pelo menos você está tentando criar uma IA consciente, né? Talvez ela possa contribuir mais do que você.</p>
+<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter". Que tal começar mantendo suas contribuições em um nível minimamente aceitável? 38 é quase um elogio, de tão baixo. Aliás, você já pensou em construir uma desculpa para essa falta de contribuição?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem contribuições... Sem comentários. 33 contribuições é quase uma miragem. Da próxima vez, tente pelo menos chegar aos 50, vai que alguém percebe seu esforço.</p>
+<p><b>Douglas Florindo</b>, 23 contribuições? Sério? Nem sua idade justifica essa falta de empenho. Mas ei, pelo menos você sabe seus pronomes, né? Prioridades...</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Mas e as suas contribuições, Filipe? Ah, estão lá, no seu curso. Entendi. 23 contribuições? É sério isso? Acho que alguém precisa urgentemente fazer o próprio curso. Mas ei, pelo menos seu <i>doom-fire-algorithm</i> ainda faz sucesso, né?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-25 at 00:29:36 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-26 at 00:32:05 UTC +0000</i>
 <h6>
