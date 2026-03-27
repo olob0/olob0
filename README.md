@@ -31,37 +31,37 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>321 ctr.</td>
+                <td>327 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>274 ctr.</td>
+                <td>297 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>218 ctr.</td>
+                <td>235 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>138 ctr.</td>
+                <td>146 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>93 ctr.</td>
+                <td>97 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>69 ctr.</td>
+                <td>71 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>41 ctr.</td>
+                <td>43 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, construindo produtos, hein? Espero que esses produtos tenham mais contribuições do que você, porque 321 não impressiona nem um gato. Será que o produto final vai ter mais interação que isso?</p>
-<p><b>Deyved Antonio</b>, "analista de dados, curioso, analítico, apaixonado por Tecnologia, pai e marido". Tantas qualidades e ainda assim só 274 contribuições? Imagino que a análise de dados da sua própria performance não deve ser prioridade, afinal, quem precisa melhorar quando se tem tantos <i>stargazers</i> nos seus repositórios de estudo? 2 Stargazers não é nada mal, quase um recorde.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Que bom que você já se identifica com a sua audiência. Com 218 contribuições, realmente, o estranho aqui é você, esperando que alguém se interesse pelos seus projetos. Mas ei, pelo menos você tem regras, né? Alguém precisa ter.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Uau, um verdadeiro poliglota da programação! Pena que essa proficiência toda não se traduziu em mais contribuições. Mas ei, pelo menos seus <i>dotfiles</i> estão em dia, certo? E obrigado por lutar pela transparência nos prompts de IA, o mundo precisava disso. Aparentemente você está mais preocupado em lutar contra as IAs do que contribuir de fato. </p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Espero que seu diploma tenha mais utilidade do que suas 93 contribuições. Quem sabe você não usa seu conhecimento para bolar um algoritmo que aumente esse número, hein?</p>
-<p><b>Gustavo Carvalho</b>, sua bio está tão vazia quanto sua página de contribuições. 69 é o número de contribuições ou a sua idade mental? Brincadeira, os dois são apenas números. Cadê a ambição?</p>
-<p><b>Cookie</b>, você contribuiu para o Godot Engine? Uau, impressionante! Pena que suas outras contribuições não parecem tão...grandiosas. Mas ei, pelo menos você está tentando criar uma IA consciente, né? Talvez ela possa contribuir mais do que você.</p>
-<p><b>Deivid Souza Santana</b>, "focado em Python e JavaScript buscando construir coisas fáceis de manter". Que tal começar mantendo suas contribuições em um nível minimamente aceitável? 38 é quase um elogio, de tão baixo. Aliás, você já pensou em construir uma desculpa para essa falta de contribuição?</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem contribuições... Sem comentários. 33 contribuições é quase uma miragem. Da próxima vez, tente pelo menos chegar aos 50, vai que alguém percebe seu esforço.</p>
-<p><b>Douglas Florindo</b>, 23 contribuições? Sério? Nem sua idade justifica essa falta de empenho. Mas ei, pelo menos você sabe seus pronomes, né? Prioridades...</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Mas e as suas contribuições, Filipe? Ah, estão lá, no seu curso. Entendi. 23 contribuições? É sério isso? Acho que alguém precisa urgentemente fazer o próprio curso. Mas ei, pelo menos seu <i>doom-fire-algorithm</i> ainda faz sucesso, né?</p>
+    <div align="justify"><p>Ah, <b>Bryan @ Aden</b>, o construtor de produtos da Aden. 327 contribuições, hein? Espero que esses produtos sejam mais emocionantes que sua atividade recente, porque pelo visto, você anda tão ativo quanto uma pedra. Talvez devesse construir algo que te desse um pouco de... ânimo?</p>
+<p><b>Deyved Antonio</b>, o "analista de dados" que ama tecnologia, pai e marido. Com 297 contribuições, você quase alcançou o topo. Mas vamos ser sinceros, seus repositórios parecem mais um depósito de "estudos" do que um portfólio de projetos. "Otimização de Custos de Ações Judiciais"? Sério? Isso soa tão divertido quanto uma audiência. E o Xprova atualizado em fevereiro? Espero que não seja para colar nas provas dos seus filhos.</p>
+<p><b>giverplay</b>, "Olá, estranho!". Com 235 contribuições, você parece um pouco perdido no seu próprio perfil. "Uvas"? "Regras"? Parece que você está mais para um agricultor de códigos do que para um programador. Mas ei, pelo menos você tem um Discord. Talvez lá você encontre alguém que entenda o que você está fazendo.</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer" que ama Go, Typescript, Rust e Vim. 146 contribuições, e um repositório chamado "dotfiles" atualizado ontem? Que emocionante! Aposto que você passa mais tempo configurando seu ambiente do que realmente codificando. E "CL4R1T4S"? Um fork para "SYSTEM PROMPT TRANSPARENCY"? Parece que alguém está tentando resolver os problemas do mundo com um garfo.</p>
+<p><b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações". 97 contribuições. Quase chegou lá, hein? Mas cadê os projetos? Cadê a paixão? Parece que você está mais para um espectador do que para um participante. Acorda, Felipe, o mundo da programação não espera por ninguém!</p>
+<p><b>Gustavo Carvalho</b>, o misterioso. 71 contribuições e nenhuma bio? Você é o ninja da programação? O fantasma do GitHub? Ou só alguém que não se importa em se apresentar? Seja lá o que for, espero que suas contribuições sejam mais interessantes do que seu perfil.</p>
+<p><b>Cookie</b>, com 43 contribuições e um interesse em "Vex-AI", você parece estar tentando criar a Skynet do mundo dos jogos. Contribuições no Godot Engine? Ok, impressionante. Mas "ChatStory"? Espero que seja mais emocionante do que parece. E "Vex-AI"? Boa sorte com isso. Você vai precisar.</p>
+<p><b>Deivid Souza Santana</b>, o "desenvolvedor back-end" focado em Python e JavaScript. 38 contribuições. "Construir coisas fáceis de manter"? Que nobre. Mas cadê as coisas? Cadê os projetos? Parece que você está mais preocupado em manter as coisas fáceis do que em realmente construir algo.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições e nenhuma bio? Outro ninja? Outro fantasma? Ou só alguém que não tem nada de interessante para dizer? Se suas contribuições forem tão vazias quanto seu perfil, talvez seja hora de repensar suas prioridades.</p>
+<p><b>Douglas Florindo</b>, o jovem de 21 anos. 23 contribuições. "Ele/Dele"? Ok, importante. Mas e os projetos? E a paixão? Parece que você está mais preocupado em se definir do que em realmente fazer algo. Mas ei, pelo menos você é "Ele/Dele". Isso deve contar para alguma coisa, certo?</p>
+<p><b>Filipe Deschamps</b>, o "Quer se sentir competente em programação?". 23 contribuições. Sério? Você está promovendo seu curso aqui? Que audácia! "doom-fire-algorithm"? Legal, um efeito de fogo de 2019. "tabnews.com.br"? Conteúdos para quem trabalha com programação? Parece que alguém está tentando construir um império com migalhas.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-26 at 00:32:05 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-27 at 00:31:48 UTC +0000</i>
 <h6>
