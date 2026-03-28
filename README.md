@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>327 ctr.</td>
+                <td>330 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>297 ctr.</td>
+                <td>310 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>146 ctr.</td>
+                <td>152 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>97 ctr.</td>
+                <td>99 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>Bryan @ Aden</b>, o construtor de produtos da Aden. 327 contribuições, hein? Espero que esses produtos sejam mais emocionantes que sua atividade recente, porque pelo visto, você anda tão ativo quanto uma pedra. Talvez devesse construir algo que te desse um pouco de... ânimo?</p>
-<p><b>Deyved Antonio</b>, o "analista de dados" que ama tecnologia, pai e marido. Com 297 contribuições, você quase alcançou o topo. Mas vamos ser sinceros, seus repositórios parecem mais um depósito de "estudos" do que um portfólio de projetos. "Otimização de Custos de Ações Judiciais"? Sério? Isso soa tão divertido quanto uma audiência. E o Xprova atualizado em fevereiro? Espero que não seja para colar nas provas dos seus filhos.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Com 235 contribuições, você parece um pouco perdido no seu próprio perfil. "Uvas"? "Regras"? Parece que você está mais para um agricultor de códigos do que para um programador. Mas ei, pelo menos você tem um Discord. Talvez lá você encontre alguém que entenda o que você está fazendo.</p>
-<p><b>Rafael Lima de Morais</b>, o "Software Engineer" que ama Go, Typescript, Rust e Vim. 146 contribuições, e um repositório chamado "dotfiles" atualizado ontem? Que emocionante! Aposto que você passa mais tempo configurando seu ambiente do que realmente codificando. E "CL4R1T4S"? Um fork para "SYSTEM PROMPT TRANSPARENCY"? Parece que alguém está tentando resolver os problemas do mundo com um garfo.</p>
-<p><b>Felipe Gueller</b>, o "Bacharel em Sistemas de Informações". 97 contribuições. Quase chegou lá, hein? Mas cadê os projetos? Cadê a paixão? Parece que você está mais para um espectador do que para um participante. Acorda, Felipe, o mundo da programação não espera por ninguém!</p>
-<p><b>Gustavo Carvalho</b>, o misterioso. 71 contribuições e nenhuma bio? Você é o ninja da programação? O fantasma do GitHub? Ou só alguém que não se importa em se apresentar? Seja lá o que for, espero que suas contribuições sejam mais interessantes do que seu perfil.</p>
-<p><b>Cookie</b>, com 43 contribuições e um interesse em "Vex-AI", você parece estar tentando criar a Skynet do mundo dos jogos. Contribuições no Godot Engine? Ok, impressionante. Mas "ChatStory"? Espero que seja mais emocionante do que parece. E "Vex-AI"? Boa sorte com isso. Você vai precisar.</p>
-<p><b>Deivid Souza Santana</b>, o "desenvolvedor back-end" focado em Python e JavaScript. 38 contribuições. "Construir coisas fáceis de manter"? Que nobre. Mas cadê as coisas? Cadê os projetos? Parece que você está mais preocupado em manter as coisas fáceis do que em realmente construir algo.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições e nenhuma bio? Outro ninja? Outro fantasma? Ou só alguém que não tem nada de interessante para dizer? Se suas contribuições forem tão vazias quanto seu perfil, talvez seja hora de repensar suas prioridades.</p>
-<p><b>Douglas Florindo</b>, o jovem de 21 anos. 23 contribuições. "Ele/Dele"? Ok, importante. Mas e os projetos? E a paixão? Parece que você está mais preocupado em se definir do que em realmente fazer algo. Mas ei, pelo menos você é "Ele/Dele". Isso deve contar para alguma coisa, certo?</p>
-<p><b>Filipe Deschamps</b>, o "Quer se sentir competente em programação?". 23 contribuições. Sério? Você está promovendo seu curso aqui? Que audácia! "doom-fire-algorithm"? Legal, um efeito de fogo de 2019. "tabnews.com.br"? Conteúdos para quem trabalha com programação? Parece que alguém está tentando construir um império com migalhas.</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, liderando com 330 contribuições. Imagino que a Aden esteja adorando cada linha de código... ou será que estão apenas contando os seus commits para dizer que você está "trabalhando"? E os <i>recent_activity_repos</i>? Ah, certo, nenhum. Produtividade a mil!</p>
+<p><b>Deyved Antonio</b>, com 310 contribuições e a bio mais extensa que já vi. Analista de Dados, curioso, analítico... e modesto! Vejo que seu repositório "estudos_Analista" foi atualizado recentemente. Espero que seus estudos estejam te levando a lugares que "Otimização de Custos de Ações Judiciais" não conseguiu.</p>
+<p><b>giverplay</b>, "Olá, estranho!" É o que você diz, mas suas 235 contribuições não me convencem de que você realmente gosta de gente nova. Uvas em Java? Interessante... Espero que não sejam daquelas que dão dor de cabeça.</p>
+<p><b>Rafael Lima de Morais</b>, engenheiro de software que ama Vim. Que novidade! 152 contribuições e um repositório de <i>dotfiles</i> atualizado há dois dias. Imagino que sua configuração do Vim seja tão complexa que só você entende. E o CL4R1T4S? Sério? Transparência para todos? Quanta ingenuidade!</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações, mas aparentemente não em contribuições. 99? Quase lá! Mas "quase" não conta. Sem <i>recent_activity_repos</i>, o que me leva a crer que seu sistema de informação favorito é o do bar da esquina.</p>
+<p><b>Gustavo Carvalho</b>, 71 contribuições e nenhuma bio. O mistério te torna... misterioso. Será que você é um ninja do código? Ou apenas alguém que esqueceu de preencher o perfil? Nunca saberemos.</p>
+<p><b>Cookie</b>, 43 contribuições. Pelo menos você está contribuindo para o <i>godotengine/godot</i>, quem sabe um dia desses você nos surpreende com um jogo completo, até lá, divirta-se criando "simulações de chat para histórias interativas".</p>
+<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." 38 contribuições? Talvez você devesse começar facilitando a manutenção do seu número de contribuições. Sem <i>recent_activity_repos</i>, suponho que a busca está difícil.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições e um perfil vazio. Um verdadeiro minimalista. Contribuições discretas para uma existência discreta. Pelo menos você está na lista, o que já é mais do que muitos podem dizer.</p>
+<p><b>Douglas Florindo</b>, 23 contribuições. "Ele/Dele". Obrigado pela informação, mas o que realmente importa é: o que você está contribuindo? Ah, nada recentemente. Que pena.</p>
+<p><b>Filipe Deschamps</b>, também com 23 contribuições. "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o velho truque do auto-promoção! Pelo menos seus <i>dotfiles</i> são populares. Mas convenhamos, 23 contribuições para quem vende curso de programação? Isso é quase uma propaganda enganosa.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-27 at 00:31:48 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-28 at 00:29:47 UTC +0000</i>
 <h6>
