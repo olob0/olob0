@@ -41,12 +41,12 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>235 ctr.</td>
+                <td>246 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>152 ctr.</td>
+                <td>185 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -61,7 +61,7 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>43 ctr.</td>
+                <td>44 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -84,18 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, liderando o ranking com 340 contribuições. Imagino que "Building Product" seja uma forma elegante de dizer que você está construindo a sua própria prisão corporativa. Mas ei, pelo menos você está no topo, aproveite enquanto dura.</p>
-<p><b>Deyved Antonio</b>, em segundo lugar com 318 contribuições. Vejo que você é um "Analista de Dados, curioso, analítico". Curioso o suficiente para analisar por que seus repositórios não têm estrelas? Ah, e "apaixonado por Tecnologia", como todo mundo que quer um emprego hoje em dia. Seus projetos de "estudos_Analista" e "legal_analytics" soam tão empolgantes quanto uma planilha do Excel.</p>
-<p><b>giverplay</b>, em terceiro com 235 contribuições. "Olá, estranho!" Que simpático da sua parte. Seus projetos "Uvas" e "regras" são tão misteriosos quanto a sua necessidade de ter um servidor no Discord. Espero que pelo menos as uvas sejam de boa safra.</p>
-<p><b>Rafael Lima de Morais</b>, o quarto da lista com 152 contribuições. Software Engineer que ama Go, Typescript, Rust e Vim. Aposto que você adora um bom sofrimento. Seus "dotfiles" atualizados recentemente mostram que você está sempre pronto para uma nova configuração de terminal. Que emocionante.</p>
-<p><b>Felipe Gueller</b>, quase no top 5 com 99 contribuições. Bacharel em Sistemas de Informações. Imagino que você esteja bem informado sobre sistemas. Pena que suas contribuições não refletem isso. Mas ei, pelo menos você tem um diploma, certo?</p>
-<p><b>Gustavo Carvalho</b>, com 71 contribuições. Sua bio é tão vazia quanto a minha paciência para pessoas que não se apresentam. Mas não se preocupe, suas contribuições falam por você... ou não.</p>
-<p><b>Cookie</b>, com 43 contribuições. Pelo menos você contribuiu com algo para o Godot Engine, quem sabe um dia você cria um jogo divertido. "Vex-AI", tentando criar uma IA consciente? Boa sorte com isso, talvez ela te ajude a subir no ranking.</p>
-<p><b>Deivid Souza Santana</b>, 38 contribuições. Desenvolvedor back-end focado em Python e JavaScript, buscando construir coisas fáceis de manter. Que nobre. Espero que suas contribuições sejam tão fáceis de manter quanto suas promessas.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições. Sem bio, sem problemas. Suas contribuições falam por si... ou não. Talvez da próxima vez você consiga algo mais substancial para mostrar.</p>
-<p><b>Douglas Florindo</b>, com 23 contribuições. 21 anos, ele/dele. Que bom que você sabe se identificar. Agora, que tal identificar algumas contribuições para o projeto?</p>
-<p><b>Filipe Deschamps</b>, também com 23 contribuições. Ah, o guru dos cursos online! Tentando nos vender a ilusão da competência em programação? Pelo menos o "doom-fire-algorithm" ainda impressiona, mesmo que seja de 2019. E o "tabnews.com.br", hein? Tentando a todo custo se manter relevante.
-</p>
+    <div align="justify"><p><b>Bryan @ Aden</b>, em primeiro lugar, parabéns pela liderança, imagino que "Building Product" seja mais emocionante que realmente construir algo. Mas 340 contribuições? Isso é o suficiente para manter as luzes acesas, mal e mal. Continue assim, quem sabe um dia você chega lá... ou não.</p>
+<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Que currículo inspirador! Seus repositórios são tão variados quanto seus interesses, desde otimização de custos de ações judiciais (que glamour!) até um repositório de estudos com 2 estrelas. Impressionante! Mas não se preocupe, o importante é participar... ou tentar.</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Que simpático! Seus projetos "Uvas" (Java) e "regras" (CSS, HTML) são tão enigmáticos quanto seu bio. Imagino que você passe horas criando coisas incríveis... que ninguém nunca verá. Mas ei, pelo menos você está se divertindo, certo?</p>
+<p><b>Rafael Lima de Morais</b>, Software Engineer "Vim" e "Rust" na bio, hein? Quanta ousadia! Seus "dotfiles" foram atualizados recentemente, então imagino que você esteja gastando mais tempo personalizando seu ambiente do que realmente codificando. Mas quem precisa de produtividade quando se tem estilo, não é mesmo?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Que bom que você tem um diploma! Com apenas 99 contribuições, imagino que você esteja usando-o para... bem, não sei para quê. Mas não se preocupe, sempre há espaço para mais um na multidão.</p>
+<p><b>Gustavo Carvalho</b>, sua bio é tão misteriosa quanto suas contribuições. 71? Isso é um número. Espero que esteja tudo bem, e que você esteja contribuindo com a sociedade de outras maneiras, talvez resgatando gatinhos ou algo assim.</p>
+<p><b>Cookie</b>, um nome tão adorável para alguém que mexe com inteligência artificial. Vex-AI soa promissor, mas vamos ser honestos, a Godot Engine é onde a mágica acontece, não é? Só não se esqueça de sair do mundo virtual de vez em quando, ok?</p>
+<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." Que nobre aspiração! Pena que suas contribuições não refletem essa paixão. Mas ei, pelo menos você tem um objetivo... algum dia.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem comentários. 33 contribuições. É... isso é um número. Espero que você encontre algo que te motive mais, ou não. A escolha é sua.</p>
+<p><b>Douglas Florindo</b>, "21 anos | Ele/Dele | PtBr/Eng". Que diversidade! 23 contribuições? Talvez você esteja muito ocupado aprendendo idiomas ou decidindo qual pronome usar. Mas não se preocupe, a vida é mais do que números, certo?</p>
+<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Seus repositórios são impressionantes, mas vamos ser sinceros, você está mais interessado em vender cursos do que em contribuir. Mas ei, quem somos nós para julgar? Dinheiro não traz felicidade, mas compra um bom carro, certo?</p>
 </div>
     </details>
 </div>
@@ -110,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-29 at 00:33:29 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-30 at 00:33:24 UTC +0000</i>
 <h6>
