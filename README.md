@@ -30,18 +30,18 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>340 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>347 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>318 ctr.</td>
+                <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
+                <td>342 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>246 ctr.</td>
+                <td>252 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>99 ctr.</td>
+                <td>111 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>71 ctr.</td>
+                <td>72 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>38 ctr.</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>33 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Bryan @ Aden</b>, em primeiro lugar, parabéns pela liderança, imagino que "Building Product" seja mais emocionante que realmente construir algo. Mas 340 contribuições? Isso é o suficiente para manter as luzes acesas, mal e mal. Continue assim, quem sabe um dia você chega lá... ou não.</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Que currículo inspirador! Seus repositórios são tão variados quanto seus interesses, desde otimização de custos de ações judiciais (que glamour!) até um repositório de estudos com 2 estrelas. Impressionante! Mas não se preocupe, o importante é participar... ou tentar.</p>
-<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Que simpático! Seus projetos "Uvas" (Java) e "regras" (CSS, HTML) são tão enigmáticos quanto seu bio. Imagino que você passe horas criando coisas incríveis... que ninguém nunca verá. Mas ei, pelo menos você está se divertindo, certo?</p>
-<p><b>Rafael Lima de Morais</b>, Software Engineer "Vim" e "Rust" na bio, hein? Quanta ousadia! Seus "dotfiles" foram atualizados recentemente, então imagino que você esteja gastando mais tempo personalizando seu ambiente do que realmente codificando. Mas quem precisa de produtividade quando se tem estilo, não é mesmo?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Que bom que você tem um diploma! Com apenas 99 contribuições, imagino que você esteja usando-o para... bem, não sei para quê. Mas não se preocupe, sempre há espaço para mais um na multidão.</p>
-<p><b>Gustavo Carvalho</b>, sua bio é tão misteriosa quanto suas contribuições. 71? Isso é um número. Espero que esteja tudo bem, e que você esteja contribuindo com a sociedade de outras maneiras, talvez resgatando gatinhos ou algo assim.</p>
-<p><b>Cookie</b>, um nome tão adorável para alguém que mexe com inteligência artificial. Vex-AI soa promissor, mas vamos ser honestos, a Godot Engine é onde a mágica acontece, não é? Só não se esqueça de sair do mundo virtual de vez em quando, ok?</p>
-<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript buscando construir coisas fáceis de manter." Que nobre aspiração! Pena que suas contribuições não refletem essa paixão. Mas ei, pelo menos você tem um objetivo... algum dia.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, sem bio, sem comentários. 33 contribuições. É... isso é um número. Espero que você encontre algo que te motive mais, ou não. A escolha é sua.</p>
-<p><b>Douglas Florindo</b>, "21 anos | Ele/Dele | PtBr/Eng". Que diversidade! 23 contribuições? Talvez você esteja muito ocupado aprendendo idiomas ou decidindo qual pronome usar. Mas não se preocupe, a vida é mais do que números, certo?</p>
-<p><b>Filipe Deschamps</b>, "Quer se sentir competente em programação? Confere isso: https://curso.dev". Ah, o mestre do marketing! Seus repositórios são impressionantes, mas vamos ser sinceros, você está mais interessado em vender cursos do que em contribuir. Mas ei, quem somos nós para julgar? Dinheiro não traz felicidade, mas compra um bom carro, certo?</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Ah, que fofo, até parece que está no Tinder. Com 347 contribuições, pelo menos não está só dando like. Mas, sério, "Otimização de Custos de Ações Judiciais"? Espero que isso seja mais emocionante do que parece. E 2 Stargazers no seu próprio perfil, parabéns, você se ama mesmo!</p>
+<p><b>Bryan @ Aden</b>, Construindo produtos @ Aden? Que misterioso! 342 contribuições, quase alcançando o primeiro lugar. Pena que a lista de atividades recentes está mais vazia que promessa de político. Bora mostrar o que você anda "construindo", ou só está assistindo a construção?</p>
+<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao perfil de alguém que claramente não sabe o que colocar na bio. 252 contribuições e um repositório chamado "Uvas"? Espero que não seja sobre a qualidade da sua programação. E "regras" em CSS e HTML, a combinação perfeita para um futuro caótico.</p>
+<p><b>Rafael Lima de Morais</b>, Engenheiro de Software que usa Vim, que original! 185 contribuições e um repositório "dotfiles" atualizado há poucos dias. Imagino que passar horas configurando o ambiente de desenvolvimento seja mais produtivo que realmente programar, certo? E esse negócio de "CL4R1T4S", espero que não seja mais uma tentativa de criar a Skynet.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e daí? 111 contribuições e nada de atividades recentes. Aposto que está usando todo o seu conhecimento para otimizar a fila do pão. </p>
+<p><b>Gustavo Carvalho</b>, Bio em branco, contribuições minguando em 72. Sua presença é tão notável quanto um grão de areia no Saara. Comece a contribuir, ou será esquecido mais rápido que a senha do seu Wi-Fi.</p>
+<p><b>Cookie</b>, 44 contribuições, mas pelo menos está mexendo no Godot Engine. Quem sabe um dia você não cria o próximo grande jogo, ou pelo menos um Tamagotchi mais interessante que o original. Ah, e essa Vex-AI, espero que não se torne consciente demais e domine o mundo, já temos problemas suficientes.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 40 contribuições e uma bio tão vazia quanto sua lista de atividades recentes. Se você fosse um Pokémon, seria um Ditto que se esqueceu de se transformar em algo útil.</p>
+<p><b>Deivid Souza Santana</b>, Desenvolvedor back-end "focado em Python e JavaScript", que clichê! 38 contribuições e a promessa de construir coisas "fáceis de manter". Boa sorte com isso, a vida real não é um tutorial no YouTube.</p>
+<p><b>Douglas Florindo</b>, 23 contribuições. "Ele/Dele", que bom que deixou claro, porque com essa performance, a gente ia ter dificuldade de adivinhar seu gênero no GitHub. Bora contribuir mais, ou vai virar estatística.</p>
+<p><b>Filipe Deschamps</b>, Ah, o guru dos cursos online! 23 contribuições e um monte de repositórios com "stargazers". Mas e aí, está mais preocupado em vender curso ou em programar de verdade? Pelo menos o "doom-fire-algorithm" ainda diverte. Mas, sejamos honestos, quem precisa de fogo do Doom quando a gente tem a internet?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-03-30 at 00:33:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-03-31 at 00:32:42 UTC +0000</i>
 <h6>
