@@ -36,47 +36,47 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>24 ctr.</td>
+                <td>35 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>22 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
+                <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
+                <td>15 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>14 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>3 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/Fenix777-alt">Fenix777-alt</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,16 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>giverplay</b>, 49 contribuições? Impressionante. Quase consigo sentir sua dedicação... ou seria desespero por atenção? Uvas em Java e regras em CSS/HTML, que combinação exótica. Imagino que seu código seja tão saboroso quanto as uvas e tão bem organizado quanto um manual de regras de um jogo de tabuleiro infantil.</p>
-<p><b>Deyved Antonio</b>, 24 contribuições, hein? Analista de Dados, pai, marido... e aparentemente, mestre em procrastinação. Seus estudos para analista de dados parecem mais uma maratona de vídeos no YouTube do que trabalho real. E essa otimização de custos de ações judiciais? Espero que não esteja usando dados de processos para apostar em quem vai ganhar. Mas ei, pelo menos você tem 2 <i>stargazers</i> no seu próprio perfil, isso conta, certo?</p>
-<p><b>Felipe Gueller</b>, 14 contribuições. Clone do Tabnews? Que original! Reforçando conceitos de programação, diz você? Parece mais que está reforçando a minha crença de que o mundo está cheio de cópias mal feitas. E o <i>ticket-manager-api</i>? Aposto que a API é tão eficiente quanto um atendente de telemarketing tentando resolver um problema de informática. Mas não se preocupe, Felipe, no mundo da programação, plágio é apenas "inspiração".</p>
-<p><b>Luídi Pires</b>, 14 contribuições também, mas aparentemente sem repositórios recentes para nos entreter. Front-End, Back-End, Full Stack... tudo isso e nada para mostrar? Talvez você seja como aqueles restaurantes que anunciam ter "a melhor comida da cidade", mas quando você entra, só tem poeira e teias de aranha. Espero que suas habilidades não sejam tão virtuais quanto seus repositórios.</p>
-<p><b>Gabriel Carvalho</b>, 12 contribuições. Apaixonado por entender como as coisas funcionam por baixo dos panos? Que poético. Pena que não há evidências disso por aqui. Mas não se preocupe, Gabriel, o importante é ter paixão, mesmo que ela não se traduza em nada palpável. Afinal, o amor é cego, e talvez o seu código também seja.</p>
-<p><b>Rafael Lima de Morais</b>, 12 contribuições. Go, Typescript, Rust, Vim... parece um cardápio de hipster tecnológico. E esses <i>dotfiles</i>? Espero que pelo menos eles estejam organizados, porque a sua contribuição para o mundo do software parece tão dispersa quanto confetes num furacão. Mas ei, pelo menos você tem um repositório chamado "CL4R1T4S", que soa como um remédio para alguma doença exótica. Talvez cure a sua falta de foco.</p>
-<p><b>Bryan @ Aden</b>, 10 contribuições. Construindo produtos @ Aden, que misterioso. Imagino que seus produtos sejam tão inovadores quanto um despertador que te lembra de acordar. Mas não se preocupe, Bryan, o importante é estar construindo algo, mesmo que seja apenas a sua própria ilusão de importância.</p>
-<p><b>LestterX</b>, míseras 6 contribuições. Sem bio, sem repositórios recentes... você é o fantasma desta lista. Mas não se preocupe, LestterX, o anonimato tem suas vantagens. Pelo menos ninguém vai saber que você está aqui apenas para inflar o ego do Lobo.</p>
-<p><b>Cookie</b>, 5 contribuições. Ah, o Cookie, que contribui para o motor Godot. Isso explica tudo. Enquanto você brinca de criar jogos, o resto de nós está tentando fazer o mundo funcionar. Mas ei, pelo menos você tem um projeto chamado "Vex-AI" que promete criar uma IA consciente. Talvez ela possa fazer o seu trabalho por você.</p>
-<p><b>Gustavo Carvalho</b> e <b>brunoferreiraff</b>, ambos com 3 contribuições. Vocês dois estão tão no fim da lista que quase consigo ouvir o eco do desprezo. Mas não se preocupem, sempre haverá espaço para mais dois zeros à esquerda. Quem sabe no próximo mês vocês não conseguem alcançar a incrível marca de... 4 contribuições?</p>
+    <div align="justify"><p><b>giverplay</b>, 49 contribuições? Que inveja... da sua capacidade de encontrar tempo pra isso. Imagino que "Uvas" seja um projeto revolucionário em Java, do nível de um Hello World, só que com uvas. E as regras em CSS e HTML? A internet inteira te agradece por tamanha organização.</p>
+<p><b>Deyved Antonio</b>, 35 contribuições. Analista de dados, pai, marido... e contribuinte? Sério? Achei que você estaria muito ocupado tentando explicar pro seu filho porque ele não pode comer doce antes do jantar. Mas, ei, pelo menos você tem um repositório sobre otimização de custos de ações judiciais. Porque, né, nunca se sabe quando você vai precisar processar alguém por roubar a receita da sua torta de maçã.</p>
+<p><b>LestterX</b>, 22 contribuições e bio vazia. Entendi, você é o ninja silencioso da turma. Contribui no anonimato, sem alarde, como um fantasma no código. Ou talvez você só tenha esquecido de preencher a bio. De qualquer forma, parabéns pela discrição. Ou pela falta de atenção.</p>
+<p><b>Bryan @ Aden</b>, 15 contribuições. Construindo produtos, hein? Espero que um desses produtos seja uma máquina do tempo, pra você voltar e contribuir mais. Porque, né, 15 contribuições não impressionam nem a sua avó. Mas ei, pelo menos você está construindo algo. Imagino que seja uma casinha de passarinho, ou algo igualmente emocionante.</p>
+<p><b>Felipe Gueller</b>, 14 contribuições. Bacharel em Sistemas de Informação. Imagino que você saiba onde fica o botão de "commit" no GitHub. Já é um começo. Mas sério, 14 contribuições? Você passou mais tempo escrevendo sua bio do que contribuindo. Mas não se preocupe, ninguém está realmente prestando atenção.</p>
+<p><b>Gabriel Carvalho</b>, 12 contribuições. Apaixonado por criar soluções para problemas. Que fofo. Só espero que essas soluções não envolvam gambiarras e "<i>if</i>" aninhados. 12 contribuições, é quase como se você estivesse tentando, mas desistindo no meio do caminho. Mas ei, o importante é participar, certo?</p>
+<p><b>Rafael Lima de Morais</b>, 12 contribuições. Go, Typescript, Rust, Vim... parece o cardápio de um restaurante hipster. Mas, falando sério, "dotfiles" atualizados em 26 de março? Uau, que pontualidade! Imagino que você tenha passado horas configurando seu Vim para ter a experiência de digitação perfeita. Mas, ei, pelo menos você tem prioridades. E aparentemente, elas envolvem deixar seu editor de texto exatamente como você gosta.</p>
+<p><b>Cookie</b>, 11 contribuições. Contribuiu para o Godot Engine? Uau, que legal, agora me explica o que é isso. E um projeto de IA chamado Vex-AI? Espero que ele não se torne senciente e decida dominar o mundo. Mas, ei, pelo menos você está tentando criar algo ambicioso. Mesmo que esse algo seja apenas mais um chatbot genérico.</p>
+<p><b>Gustavo Carvalho</b>, 3 contribuições. Três? É sério isso? Imagino que você tenha passado mais tempo lendo essa review do que contribuindo. Mas não se preocupe, ninguém vai te julgar... muito. Afinal, todos nós temos nossos dias ruins. Ou, no seu caso, meses ruins.</p>
+<p><b>Fenix777-alt</b>, 2 contribuições. "Alt" de "alternativo"? Tipo, você tem uma conta principal com mais contribuições? Ou você só criou essa conta pra stalkear o Lobo? De qualquer forma, duas contribuições é quase como não ter nenhuma. Mas ei, pelo menos você tentou. Ou não.</p>
+<p><b>Ageu Silva</b>, 1 contribuição. 127.0.0.1 na bio? Entendi, você é o cara que prefere ficar em casa, no conforto do seu localhost. Uma contribuição? Sério? É como se você tivesse entrado na festa, comido um salgadinho e ido embora. Mas ei, pelo menos você apareceu. Ou melhor, pelo menos seu computador apareceu.</p>
 </div>
     </details>
 </div>
@@ -108,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-03 at 00:32:02 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-04 at 00:30:26 UTC +0000</i>
 <h6>
