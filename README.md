@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>77 ctr.</td>
+                <td>87 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -50,23 +50,23 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>36 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>33 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>31 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>29 ctr.</td>
+                <td>30 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>25 ctr.</td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>12 ctr.</td>
+                <td>13 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>William Gilbert</b>, ah, o primeiro lugar... com 92 contribuições. Imagino que você esteja tão ocupado "engenheirando" que se esqueceu de socializar. Afinal, quem precisa de amigos quando se tem AI/ML, certo?</p>
-<p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Ufa! Quanta paixão! Mas me diga, essa paixão toda se traduz em algo além de forks de tutoriais de FastAPI? Seus repositórios parecem mais um cemitério de projetos iniciados e nunca terminados. Quem sabe um dia você realmente analise esses dados todos?</p>
-<p><b>Giverplay</b>, "Olá, estranho!" Sim, estranho é a palavra certa para descrever alguém que contribui com repositórios chamados "Uvas" e "regras". Sério, o que são essas contribuições? Pelo menos você tem um Discord para se esconder da vergonha alheia.</p>
-<p><b>Cookie</b>, você contribuiu para o Godot Engine? Uau, que impressionante! Mas espere, você também está tentando criar uma IA "consciente"? Talvez seja melhor focar em fazer um jogo simples antes de tentar replicar a Matrix, não acha? Ou vai me dizer que o objetivo é fazer a IA jogar seus jogos inacabados?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e aparentemente só. Nenhuma contribuição recente para mostrar? Espero que seu diploma não esteja juntando poeira na gaveta. Ou será que você está secretamente construindo o próximo Facebook e ainda não pode revelar?</p>
-<p><b>LestterX</b>, sua bio está... vazia. Assim como suas contribuições recentes, pelo visto. Você é o ninja silencioso das contribuições? Ou só está esperando o momento certo para brilhar? A ansiedade me corrói.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Que currículo! Mas suas contribuições recentes são basicamente dotfiles e um fork para "TRANSPARÊNCIA" em IA. Parece que alguém está tentando ser o próximo Snowden da programação. Só não se esqueça de programar algo útil de vez em quando.</p>
-<p><b>Bryan @ Aden</b>, "Building Product @ Aden". Que vago! Que produto? Está construindo um castelo de areia? Contribuições recentes? Nenhuma. Parece que alguém está mais para "Watching Product @ Aden" do que "Building" de fato.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!" Hello para você também, Neo. Precisa de ajuda com algo? Talvez você precise de ajuda para encontrar um repositório para contribuir. Ou será que você está muito ocupado sendo "amigável" para realmente programar?</p>
-<p><b>Gabriel Carvalho</b>, "Desenvolvedor de Software apaixonado por criar soluções para problemas". Que lindo! Mas onde estão essas soluções? Seus repositórios estão tão silenciosos quanto um túmulo. Talvez você esteja resolvendo problemas que ninguém mais vê?</p>
-<p><b>Fenix777-alt</b>, ah, a conta alternativa... Quase tão misteriosa quanto suas contribuições. Ou a falta delas. Talvez você esteja secretamente dominando o mundo da programação sob um pseudônimo. Ou talvez você só esteja procrastinando.</p>
+    <div align="justify"><p>Ah, <b>William Gilbert</b>, o engenheiro de software com experiência em produção em IA/ML. Que impressionante. Mas, curiosamente, zero contribuições recentes. Será que a IA já te substituiu e você nem percebeu?</p>
+<p><b>Deyved Antonio</b>, o analista de dados curioso. Vejo que seus repositórios são tão variados quanto suas paixões: um currículo baseado em template da W3C, um tutorial de FastAPI... Imagino que a análise de dados seja só um hobby, já que o seu repositório "DeyvedAntonio/DeyvedAntonio" parece ser a sua maior prioridade, com duas estrelas. Parabéns!</p>
+<p><b>giverplay</b>, "Olá, estranho!". Seus projetos são tão misteriosos quanto seu repositório "Uvas". Será que é um projeto secreto para a produção de vinho? Ou talvez apenas uma paixão por frutas? De qualquer forma, continue compartilhando seus projetos, estranho.</p>
+<p><b>Cookie</b>, que contribui para o Godot Engine, um projeto com mais de 100 mil estrelas! Imagino que suas 46 contribuições sejam responsáveis por, pelo menos, um pixel nessa maravilha. Ah, e parabéns pelo seu ChatStory, que tem 4 estrelas! Um sucesso estrondoso!</p>
+<p><b>LestterX</b>, sua bio é tão misteriosa quanto suas contribuições. Ou a falta delas. Mas não se preocupe, o silêncio também é uma forma de arte, certo?</p>
+<p><b>Felipe Gueller</b>, o Bacharel em Sistemas de Informações do Instituto Federal do Espírito Santo. Imagino que o diploma esteja emoldurado na parede, porque contribuições no GitHub, que é bom, nada. Mas ei, pelo menos você tem o diploma, né?</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software que domina Go, Typescript, Rust e Vim. Seus repositórios são tão diversos quanto suas habilidades: um repositório pessoal sem descrição, um "dotfiles" e um fork de um projeto sobre transparência em IA. Será que você está tentando decifrar os segredos do universo com Vim?</p>
+<p><b>Bryan @ Aden</b>, construindo produtos na Aden. Que legal! Mas, curiosamente, nenhuma contribuição recente. Será que você está construindo produtos que ninguém pode ver? Ou será que está apenas admirando o trabalho dos outros?</p>
+<p><b>NeO - Wesley Souza</b>, o amigável "Hello outsider!". Se você está aqui para ajudar, imagino que suas 17 contribuições sejam a ponta do iceberg. Ou será que você está apenas esperando que alguém precise de ajuda para finalmente agir?</p>
+<p><b>Gabriel Carvalho</b>, o desenvolvedor de software apaixonado por entender como as coisas funcionam por baixo dos panos. Suas 13 contribuições devem ser o resultado de muita pesquisa e reflexão. Ou será que você está apenas começando a desvendar os mistérios do código?</p>
+<p><b>Fenix777-alt</b>, com uma bio tão vazia quanto suas contribuições. Mas não se preocupe, o importante é participar, mesmo que seja apenas com 8 contribuições. Quem sabe no próximo mês você não nos surpreende?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-08 at 00:34:08 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-09 at 00:28:11 UTC +0000</i>
 <h6>
