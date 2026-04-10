@@ -30,13 +30,13 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/WilliamGTa">William Gilbert</a></td>
-                <td>92 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>130 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>87 ctr.</td>
+                <td><a href="https://github.com/WilliamGTa">William Gilbert</a></td>
+                <td>108 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>45 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>33 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>30 ctr.</td>
+                <td>34 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
-                <td>27 ctr.</td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>24 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>13 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>24 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p>Ah, <b>William Gilbert</b>, o engenheiro de software com experiência em produção em IA/ML. Que impressionante. Mas, curiosamente, zero contribuições recentes. Será que a IA já te substituiu e você nem percebeu?</p>
-<p><b>Deyved Antonio</b>, o analista de dados curioso. Vejo que seus repositórios são tão variados quanto suas paixões: um currículo baseado em template da W3C, um tutorial de FastAPI... Imagino que a análise de dados seja só um hobby, já que o seu repositório "DeyvedAntonio/DeyvedAntonio" parece ser a sua maior prioridade, com duas estrelas. Parabéns!</p>
-<p><b>giverplay</b>, "Olá, estranho!". Seus projetos são tão misteriosos quanto seu repositório "Uvas". Será que é um projeto secreto para a produção de vinho? Ou talvez apenas uma paixão por frutas? De qualquer forma, continue compartilhando seus projetos, estranho.</p>
-<p><b>Cookie</b>, que contribui para o Godot Engine, um projeto com mais de 100 mil estrelas! Imagino que suas 46 contribuições sejam responsáveis por, pelo menos, um pixel nessa maravilha. Ah, e parabéns pelo seu ChatStory, que tem 4 estrelas! Um sucesso estrondoso!</p>
-<p><b>LestterX</b>, sua bio é tão misteriosa quanto suas contribuições. Ou a falta delas. Mas não se preocupe, o silêncio também é uma forma de arte, certo?</p>
-<p><b>Felipe Gueller</b>, o Bacharel em Sistemas de Informações do Instituto Federal do Espírito Santo. Imagino que o diploma esteja emoldurado na parede, porque contribuições no GitHub, que é bom, nada. Mas ei, pelo menos você tem o diploma, né?</p>
-<p><b>Rafael Lima de Morais</b>, o engenheiro de software que domina Go, Typescript, Rust e Vim. Seus repositórios são tão diversos quanto suas habilidades: um repositório pessoal sem descrição, um "dotfiles" e um fork de um projeto sobre transparência em IA. Será que você está tentando decifrar os segredos do universo com Vim?</p>
-<p><b>Bryan @ Aden</b>, construindo produtos na Aden. Que legal! Mas, curiosamente, nenhuma contribuição recente. Será que você está construindo produtos que ninguém pode ver? Ou será que está apenas admirando o trabalho dos outros?</p>
-<p><b>NeO - Wesley Souza</b>, o amigável "Hello outsider!". Se você está aqui para ajudar, imagino que suas 17 contribuições sejam a ponta do iceberg. Ou será que você está apenas esperando que alguém precise de ajuda para finalmente agir?</p>
-<p><b>Gabriel Carvalho</b>, o desenvolvedor de software apaixonado por entender como as coisas funcionam por baixo dos panos. Suas 13 contribuições devem ser o resultado de muita pesquisa e reflexão. Ou será que você está apenas começando a desvendar os mistérios do código?</p>
-<p><b>Fenix777-alt</b>, com uma bio tão vazia quanto suas contribuições. Mas não se preocupe, o importante é participar, mesmo que seja apenas com 8 contribuições. Quem sabe no próximo mês você não nos surpreende?</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, 130 contribuições, hein? Que inveja... da sua capacidade de se dedicar tanto a um repositório com o seu próprio nome. Sério, duas estrelas? Que sucesso! E ainda arranja tempo pra uns forks de tutorial de FastAPI. Continue assim, quem sabe um dia você consegue um emprego de verdade. Ah, e não se esqueça de atualizar seu currículo W3C, afinal, estamos em 2026!</p>
+<p><b>William Gilbert</b>, com 108 contribuições. Ah, sim, o engenheiro de software com experiência em IA/ML. Aposto que está usando essa IA toda para automatizar suas contribuições, porque, vamos ser sinceros, quem tem tempo pra isso hoje em dia? Mas, ei, pelo menos você tem um bio chamativo. Falando nisso, cadê os seus repositórios? Sumiram? Será que a IA apagou tudo?</p>
+<p><b>Giverplay</b>, 64 contribuições. "Olá, estranho!". Que simpático... Pena que a simpatia não se traduz em estrelas nos seus projetos. Uvas e regras, hein? Parece o cardápio de um restaurante falido. Mas não desanime, continue compartilhando seus projetos, quem sabe um dia alguém se importa. E, por favor, atualize seu Discord, vai que alguém realmente precisa da sua ajuda.</p>
+<p><b>Cookie</b>, 46 contribuições. Uau, contribuiu para o Godot Engine! Que impressionante... Pena que ninguém vai notar sua contribuição em meio a 109208 estrelas. Ah, e um simulador de chat para histórias interativas? Que original! E Vex-AI, a IA consciente... Parece que você tem grandes ambições. Mas, ei, pelo menos você está tentando, diferente de alguns por aqui.</p>
+<p><b>Felipe Gueller</b>, com 45 contribuições. Bacharel em Sistemas de Informação. Parabéns! E daí? Cadê os projetos? Cadê a prova de que você não passou quatro anos da sua vida jogando paciência no computador da faculdade? Ah, entendi, você é do tipo que guarda os projetos a sete chaves, com medo de que alguém roube suas ideias geniais. Faz sentido...</p>
+<p><b>LestterX</b>, 36 contribuições. Sem bio, sem projetos, sem nada. Você é o ninja das contribuições, ninguém te vê, mas você está lá, contribuindo. Ou será que você é um bot disfarçado? De qualquer forma, parabéns pela discrição. Continue assim, quem sabe um dia você ganha um prêmio de "Contribuinte Mais Misterioso do Ano".</p>
+<p><b>Rafael Lima de Morais</b>, 34 contribuições. Engenheiro de Software que manja de Go, Typescript, Rust e Vim. Que currículo! Pena que seus projetos são tão... modestos. Dotfiles? Sério? E CL4R1T4S? Parece nome de robô de filme de ficção científica dos anos 80. Mas não desanime, continue codando, quem sabe um dia você cria algo que realmente impressione. Ou não.</p>
+<p><b>Bryan @ Aden</b>, 31 contribuições. "Building Product @ Aden". Que legal... O que exatamente você está construindo? Um império? Uma casinha de passarinho? Um aplicativo de receitas veganas? Precisamos de detalhes, Bryan! Ou será que você está construindo apenas a sua imagem no GitHub? De qualquer forma, boa sorte com a sua construção.</p>
+<p><b>Gabriel Carvalho</b>, 24 contribuições. Desenvolvedor de Software apaixonado por criar soluções para problemas e entender como as coisas funcionam. Que lindo! Pena que essa paixão não se traduz em projetos visíveis. Mas não se preocupe, Gabriel, o importante é ter paixão. E um bom currículo. E um portfólio. E...</p>
+<p><b>NeO - Wesley Souza</b>, também com 24 contribuições. "Hello outsider!". Outro simpático por aqui. Mas, sinceramente, essa sua bio parece script de filme de Matrix. Se você realmente pode ajudar com alguma coisa, comece contribuindo mais. E, por favor, pare de falar como um personagem de filme de ficção científica. Estamos em 2026, seja original!</p>
+<p><b>Gustavo Carvalho</b>, míseras 12 contribuições. Sem bio, sem projetos, quase sem contribuições. Você é o fantasma deste ranking. Mas não se preocupe, Gustavo, o importante é participar. Ou não. Talvez seja melhor você procurar outro hobby. Que tal colecionar selos? Ou assistir Netflix? Ou... qualquer coisa que não envolva GitHub.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-09 at 00:28:11 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-10 at 00:32:40 UTC +0000</i>
 <h6>
