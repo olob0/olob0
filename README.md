@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>191 ctr.</td>
+                <td>201 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -65,18 +65,18 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>33 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>25 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>20 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/Fenix777-alt">Fenix777-alt</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>12 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Ah, a clássica bio que todo mundo ignora depois de 5 segundos. 191 contribuições, impressionante! Mas me diga, quantas dessas foram para o seu próprio repositório com 2 estrelas? E o tutorial de FastAPI de 2025? Já conseguiu criar sua primeira API ou ainda está nos "estudos"?</p>
-<p><b>William Gilbert</b>, Engenheiro de Software com experiência em produção em IA/ML, hein? E onde estão os seus repositórios recentes? Ah, é... não tem nenhum. Imagino que toda essa experiência em produção esteja te mantendo *muito* ocupado para contribuir com algo além do seu salário. Parabéns.</p>
-<p><b>giverplay</b>, "Olá, estranho!" Bem-vindo ao meu perfil... onde seus projetos incluem um repositório chamado "Uvas" e outro com as "regras" da NekoSoftX. Imagino que o Discord esteja mais movimentado que seus projetos no GitHub, não é mesmo? Afinal, quem precisa de código quando se tem emojis?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações... e aparentemente só. Cadê os projetos? As contribuições? Ah, espera, você já se formou. Entendi. Agora a prioridade é outra: reclamar do mercado de trabalho no LinkedIn. Boa sorte.</p>
-<p><b>Cookie</b>, sem bio, mas com 46 contribuições. Pelo menos você está fazendo algo, diferente de alguns por aqui. Contribuiu com o Godot Engine, que legal. Mas e o seu ChatStory com 4 estrelas? Já está pronto para revolucionar as histórias interativas ou ainda está simulando conversas?</p>
-<p><b>Bryan @ Aden</b>, "Building Product @ Aden". Que produto? O silêncio? Porque é o que mais se destaca no seu perfil. 36 contribuições, mas nenhum repositório recente. Aposto que está construindo um produto tão inovador que não pode nem mostrar o código. Entendo completamente.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Uau, um verdadeiro poliglota! Mas e as contribuições? Ah, um "daily-go" que não é atualizado desde Junho de 2025 e um fork de um projeto sobre transparência de IA. Pelo menos está tentando, né? Quase.</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!" Que simpático. Mas e as contribuições? Ah, é... quase esqueci. 25. Pelo menos você está aqui, diferente de alguns que já sumiram depois de ver o ranking. Mas "Neo", precisa de ajuda com alguma coisa?</p>
-<p><b>Gustavo Carvalho</b>, sem bio, sem projetos, 20 contribuições. Você é o exemplo perfeito de "tanto faz como tanto fez". Mas ei, pelo menos você está no ranking, o que já é mais do que alguns podem dizer. Parabéns? Acho que sim.</p>
-<p><b>Fenix777-alt</b>, sem bio, 8 contribuições. Aparentemente, nem você se importa o suficiente para preencher a bio. Mas não se preocupe, ninguém mais se importa também. Foco no "alt", quem sabe na próxima você sai do anonimato.</p>
-<p><b>Al Yasir</b>, BSc em Ciência da Computação, entusiasta de cybersec & infosec... e desenvolvedor de "whoami" e "cat". Sério? Em 2026? Mas calma, também tem um "Hexinary". Que alívio. Pelo menos alguém está reinventando a roda. Com C.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, com 201 contribuições, você lidera o ranking. Parabéns, você alcançou o mínimo para não ser completamente ignorado. Mas não se anime muito, afinal, seu repositório "estudos_Analista" foi atualizado há poucos dias. Será que finalmente vai sair do papel ou é só mais um "olha, estou estudando!" que nunca vira projeto de verdade?</p>
+<p><b>William Gilbert</b>, "Engenheiro de Software com experiência em produção em IA/ML". Que currículo! Pena que sua atividade recente de contribuições é tão inexistente quanto a originalidade nos nomes de variáveis de alguns projetos por aí. 108 contribuições? Ok, talvez você estivesse muito ocupado ensinando as máquinas a pensar, e se esqueceu de contribuir. </p>
+<p><b>giverplay</b>, "Olá, estranho!". Sim, você é um estranho. 64 contribuições é o que você tem para mostrar? Espero que pelo menos o "Uvas" não seja tão azedo quanto sua participação por aqui. E o que são essas "Regras" no NekoSoftX? Será que precisa de regras para começar a contribuir?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? 55 contribuições. Parece que o diploma está acumulando poeira digital. Espero que você esteja usando seu conhecimento para algo mais produtivo do que apenas existir no ranking.</p>
+<p><b>Cookie</b>, com 46 contribuições, você até que tentou. Contribuiu no Godot Engine? Uau, que ousadia! Pena que seu "ChatStory" não parece ter saído muito das histórias. E o Vex-AI? Espero que essa IA não seja tão confusa quanto suas contribuições.</p>
+<p><b>Bryan @ Aden</b>, "Building Product @ Aden". Com 36 contribuições, você está construindo algo ou apenas assistindo a construção? Espero que o produto que você está "building" seja mais interessante do que sua participação aqui.</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Que inveja! Mas só 36 contribuições? Parece que você está mais ocupado aprendendo linguagens do que realmente usando-as. E o "CL4R1T4S"? Será que ele realmente traz clareza ou só mais complexidade?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições. Sem bio, sem projetos recentes... Sem comentários. Próximo!</p>
+<p><b>NeO - Wesley Souza</b>, "Olá outsider!". Sim, você é um outsider neste ranking. Apenas 25 contribuições? Talvez você esteja ocupado demais sendo amigável para realmente contribuir.</p>
+<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things". Com apenas 12 contribuições, imagino que esteja criando mais coisas "boring" do que "cool". E esse conversor de XML? Sério? Em pleno 2026?</p>
+<p><b>Fenix777-alt</b>, 8 contribuições. Nem um "Olá mundo" no seu perfil. Acho que até um bot contribui mais.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-11 at 00:31:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-12 at 00:35:50 UTC +0000</i>
 <h6>
