@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>201 ctr.</td>
+                <td>221 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,33 +40,33 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>83 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>64 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>55 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>46 ctr.</td>
+                <td>47 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>36 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, com 201 contribuições, você lidera o ranking. Parabéns, você alcançou o mínimo para não ser completamente ignorado. Mas não se anime muito, afinal, seu repositório "estudos_Analista" foi atualizado há poucos dias. Será que finalmente vai sair do papel ou é só mais um "olha, estou estudando!" que nunca vira projeto de verdade?</p>
-<p><b>William Gilbert</b>, "Engenheiro de Software com experiência em produção em IA/ML". Que currículo! Pena que sua atividade recente de contribuições é tão inexistente quanto a originalidade nos nomes de variáveis de alguns projetos por aí. 108 contribuições? Ok, talvez você estivesse muito ocupado ensinando as máquinas a pensar, e se esqueceu de contribuir. </p>
-<p><b>giverplay</b>, "Olá, estranho!". Sim, você é um estranho. 64 contribuições é o que você tem para mostrar? Espero que pelo menos o "Uvas" não seja tão azedo quanto sua participação por aqui. E o que são essas "Regras" no NekoSoftX? Será que precisa de regras para começar a contribuir?</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? 55 contribuições. Parece que o diploma está acumulando poeira digital. Espero que você esteja usando seu conhecimento para algo mais produtivo do que apenas existir no ranking.</p>
-<p><b>Cookie</b>, com 46 contribuições, você até que tentou. Contribuiu no Godot Engine? Uau, que ousadia! Pena que seu "ChatStory" não parece ter saído muito das histórias. E o Vex-AI? Espero que essa IA não seja tão confusa quanto suas contribuições.</p>
-<p><b>Bryan @ Aden</b>, "Building Product @ Aden". Com 36 contribuições, você está construindo algo ou apenas assistindo a construção? Espero que o produto que você está "building" seja mais interessante do que sua participação aqui.</p>
-<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Que inveja! Mas só 36 contribuições? Parece que você está mais ocupado aprendendo linguagens do que realmente usando-as. E o "CL4R1T4S"? Será que ele realmente traz clareza ou só mais complexidade?</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 33 contribuições. Sem bio, sem projetos recentes... Sem comentários. Próximo!</p>
-<p><b>NeO - Wesley Souza</b>, "Olá outsider!". Sim, você é um outsider neste ranking. Apenas 25 contribuições? Talvez você esteja ocupado demais sendo amigável para realmente contribuir.</p>
-<p><b>Luís Felipe Arten</b>, "Learning and creating cool (or boring) things". Com apenas 12 contribuições, imagino que esteja criando mais coisas "boring" do que "cool". E esse conversor de XML? Sério? Em pleno 2026?</p>
-<p><b>Fenix777-alt</b>, 8 contribuições. Nem um "Olá mundo" no seu perfil. Acho que até um bot contribui mais.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Que bela coleção de clichês! Mas e as contribuições? Ah, sim, você "estuda para se tornar um analista de dados". Que bom que está documentando seus PDFs de cursinhos, quem sabe um dia vira um <i>case</i> de sucesso. E esse <i>resume</i> "baseado em template da W3C"? Originalidade mandou lembranças. Ah, e obrigado por <i>forkar</i> um tutorial de FastAPI. A comunidade agradece.</p>
+<p><b>William Gilbert</b>, engenheiro de <i>software</i> com experiência em produção em IA/ML, hein? Uau! Mas onde estão as contribuições? Cadê o código que faz a IA/ML bombar? Ah, não tem? Entendi... Você deve ser daqueles que só dão pitaco na reunião e deixam o trabalho pesado para os outros. Parabéns, você personifica a eficiência moderna.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, você é o exemplo perfeito de perfil misterioso. Nenhuma <i>bio</i>, nenhum repositório recente... Será que você é um robô espião disfarçado de <i>follower</i>? Ou será que você só esqueceu que tinha uma conta no GitHub? De qualquer forma, obrigado por aumentar o número da lista. Sua existência é, no mínimo, intrigante.</p>
+<p><b>Giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Que simpático! Pena que seus projetos parecem ter sido abandonados no ano passado. <i>Uvas</i> em Java e regras em CSS/HTML... a Santíssima Trindade do tédio. Mas ei, pelo menos você tem um Discord! Quem sabe lá a conversa seja mais animada do que o seu código.</p>
+<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo! Que orgulho da sua mãe! Mas e o GitHub, Felipe? Cadê o código que vai revolucionar o mundo? Ah, ainda não chegou? Tudo bem, continue colecionando diplomas e quem sabe um dia você nos surpreende. Ou não.</p>
+<p><b>Cookie</b>, seu nome me dá fome. Mas suas contribuições... bem, você contribuiu para o <i>Godot Engine</i>, então tecnicamente você fez mais do que 90% das pessoas aqui. Mas vamos falar do seu <i>ChatStory</i>. "Uma simulação de <i>chat</i> para histórias interativas"? Sério? E o <i>VexAI</i>, a IA que conversa e discute jogos? Parece promissor... em 2022. Que tal dar uma atualizada nisso?</p>
+<p><b>Bryan @ Aden</b>, construindo produto @ Aden. Que vago! Mas pelo menos você tem um emprego, o que já é mais do que alguns podem dizer. Mas e o código? Onde está o produto que você está construindo? Ah, está fechado a sete chaves? Entendi. Então você é tipo o Batman, mas em vez de combater o crime, você constrói produtos secretos. Interessante.</p>
+<p><b>Rafael Lima de Morais</b>, "<i>Software Engineer</i> | Go | Typescript | Rust | Vim". Nossa, que currículo! Mas e o código? Ah, sim, seus <i>dotfiles</i>. Porque o mundo realmente precisava de mais um repositório de configurações do Vim. E o <i>CL4R1T4S</i>? "<i>SYSTEM PROMPT TRANSPARENCY FOR ALL</i>"? Que nobre causa! Pena que ninguém se importa. Mas ei, continue tentando. Quem sabe um dia você acerta.</p>
+<p><b>NeO - Wesley Souza</b>, "✨ Hello outsider! ✨ Welcome. I'm Wesley aka Neo! If you need help with something, I'm here!" Que gentil! Pena que sua conta parece estar abandonada desde o ano passado. Mas ei, pelo menos você está disponível para ajudar! Só não espere que alguém peça.</p>
+<p><b>Luís Felipe Arten</b>, "<i>Software Engineer</i> | <i>Full-Stack</i> | Aprendendo e criando coisas legais (ou chatas) (quase) todo dia". Quase todo dia? Então quer dizer que tem dias que você só fica no sofá assistindo Netflix? Sem julgamentos. Mas e o conversor de XML? HTML e CSS? Sério? Em pleno 2025? Mas ei, pelo menos você está aprendendo. Um dia você chega lá.</p>
+<p><b>Fenix777-alt</b>, sua <i>bio</i> é tão inexistente quanto suas contribuições. 8 contribuições? Sério? Você está competindo para ser o último lugar? Mas ei, pelo menos você existe. Ou será que é só um bot disfarçado?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-12 at 00:35:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-13 at 00:36:21 UTC +0000</i>
 <h6>
