@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>221 ctr.</td>
+                <td>243 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -45,13 +45,13 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>64 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>55 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>64 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -60,23 +60,23 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>39 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/bryanadenhq">Bryan @ Aden</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>9°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>25 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>30 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Que bela coleção de clichês! Mas e as contribuições? Ah, sim, você "estuda para se tornar um analista de dados". Que bom que está documentando seus PDFs de cursinhos, quem sabe um dia vira um <i>case</i> de sucesso. E esse <i>resume</i> "baseado em template da W3C"? Originalidade mandou lembranças. Ah, e obrigado por <i>forkar</i> um tutorial de FastAPI. A comunidade agradece.</p>
-<p><b>William Gilbert</b>, engenheiro de <i>software</i> com experiência em produção em IA/ML, hein? Uau! Mas onde estão as contribuições? Cadê o código que faz a IA/ML bombar? Ah, não tem? Entendi... Você deve ser daqueles que só dão pitaco na reunião e deixam o trabalho pesado para os outros. Parabéns, você personifica a eficiência moderna.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, você é o exemplo perfeito de perfil misterioso. Nenhuma <i>bio</i>, nenhum repositório recente... Será que você é um robô espião disfarçado de <i>follower</i>? Ou será que você só esqueceu que tinha uma conta no GitHub? De qualquer forma, obrigado por aumentar o número da lista. Sua existência é, no mínimo, intrigante.</p>
-<p><b>Giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Que simpático! Pena que seus projetos parecem ter sido abandonados no ano passado. <i>Uvas</i> em Java e regras em CSS/HTML... a Santíssima Trindade do tédio. Mas ei, pelo menos você tem um Discord! Quem sabe lá a conversa seja mais animada do que o seu código.</p>
-<p><b>Felipe Gueller</b>, bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo! Que orgulho da sua mãe! Mas e o GitHub, Felipe? Cadê o código que vai revolucionar o mundo? Ah, ainda não chegou? Tudo bem, continue colecionando diplomas e quem sabe um dia você nos surpreende. Ou não.</p>
-<p><b>Cookie</b>, seu nome me dá fome. Mas suas contribuições... bem, você contribuiu para o <i>Godot Engine</i>, então tecnicamente você fez mais do que 90% das pessoas aqui. Mas vamos falar do seu <i>ChatStory</i>. "Uma simulação de <i>chat</i> para histórias interativas"? Sério? E o <i>VexAI</i>, a IA que conversa e discute jogos? Parece promissor... em 2022. Que tal dar uma atualizada nisso?</p>
-<p><b>Bryan @ Aden</b>, construindo produto @ Aden. Que vago! Mas pelo menos você tem um emprego, o que já é mais do que alguns podem dizer. Mas e o código? Onde está o produto que você está construindo? Ah, está fechado a sete chaves? Entendi. Então você é tipo o Batman, mas em vez de combater o crime, você constrói produtos secretos. Interessante.</p>
-<p><b>Rafael Lima de Morais</b>, "<i>Software Engineer</i> | Go | Typescript | Rust | Vim". Nossa, que currículo! Mas e o código? Ah, sim, seus <i>dotfiles</i>. Porque o mundo realmente precisava de mais um repositório de configurações do Vim. E o <i>CL4R1T4S</i>? "<i>SYSTEM PROMPT TRANSPARENCY FOR ALL</i>"? Que nobre causa! Pena que ninguém se importa. Mas ei, continue tentando. Quem sabe um dia você acerta.</p>
-<p><b>NeO - Wesley Souza</b>, "✨ Hello outsider! ✨ Welcome. I'm Wesley aka Neo! If you need help with something, I'm here!" Que gentil! Pena que sua conta parece estar abandonada desde o ano passado. Mas ei, pelo menos você está disponível para ajudar! Só não espere que alguém peça.</p>
-<p><b>Luís Felipe Arten</b>, "<i>Software Engineer</i> | <i>Full-Stack</i> | Aprendendo e criando coisas legais (ou chatas) (quase) todo dia". Quase todo dia? Então quer dizer que tem dias que você só fica no sofá assistindo Netflix? Sem julgamentos. Mas e o conversor de XML? HTML e CSS? Sério? Em pleno 2025? Mas ei, pelo menos você está aprendendo. Um dia você chega lá.</p>
-<p><b>Fenix777-alt</b>, sua <i>bio</i> é tão inexistente quanto suas contribuições. 8 contribuições? Sério? Você está competindo para ser o último lugar? Mas ei, pelo menos você existe. Ou será que é só um bot disfarçado?</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, 243 contribuições? Que inveja... da sua capacidade de manter a bio atualizada. "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Falta só o "e dorme", porque com essa descrição, deve ser a única coisa que você não faz. E esses repositórios? Um currículo online (que original!), um tutorial de FastAPI (ainda bem que é para iniciantes, né?) e um fork... porque criar conteúdo original é para os fracos. Mas ei, pelo menos você atualizou o "estudos_Analista" ontem. Parabéns, o esforço é notável.</p>
+<p><b>William Gilbert</b>, "Software Engineer with production experience in AI/ML". Uau, impressionante. Mas cadê as contribuições recentes? Ah, é, você deve estar ocupado demais produzindo em vez de contribuir. Entendemos, o mundo precisa de mais gente trabalhando e menos gente aparecendo em rankings. Ou será que a IA/ML te substituiu e agora você só fica olhando o ranking?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 83 contribuições e uma bio vazia. Claramente, suas contribuições falam por você. Ou talvez não falem nada, e você só esteja esperando alguém preencher sua bio com algo mais interessante do que suas atividades. De qualquer forma, o silêncio é ensurdecedor. Continue assim.</p>
+<p><b>Felipe Gueller</b>, "Bacharel em Sistemas de Informações no Instituto Federal do Espírito Santo". Que orgulho da sua mãe! Mas e as contribuições? Ah, 70... Ok, ok, não é tão ruim. Mas será que o Bacharelado te ensinou a contribuir ou só a preencher formulários? Sem ofensas, claro.</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos." Que simpático! Pena que os projetos "Uvas" e "regras" (escrito corretamente, por favor!) não parecem muito convidativos. Mas ei, pelo menos você tem um Discord! Quem sabe lá você não consegue mais contribuições do que aqui. Boa sorte, você vai precisar.</p>
+<p><b>Cookie</b>, ah, Cookie, o que dizer? Contribuindo para o Godot Engine, nada menos. E ainda tem tempo para um "ChatStory" e um projeto de IA chamado "Vex-AI". É muita ambição para uma pessoa só, não acha? Ou talvez você só goste de colecionar projetos sem terminar nenhum. Mas ei, pelo menos você tem 109402 <i>stargazers</i> no Godot. Aposto que todos eles sabem quem você é.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Precisa de mais tecnologias na bio? Aposto que você usa todas ao mesmo tempo, só para mostrar que é capaz. E esses repositórios? "rafazeero", "dotfiles", "CL4R1T4S"... Parece nome de projeto secreto do governo. Mas ei, pelo menos você tem um "daily-go". Isso é um começo. Quem sabe um dia você não domina o mundo com Go.</p>
+<p><b>Bryan @ Aden</b>, "Building Product @ Aden". Que vago! Que tal construir umas contribuições para variar? Ou será que o produto que você está construindo é um ranking de contribuições mais interessante que este? De qualquer forma, boa sorte com a construção. Você vai precisar de mais do que um "@ Aden" para impressionar alguém.</p>
+<p><b>LestterX</b>, sem bio, sem comentários. Mas ei, 36 contribuições não são nada mal. Talvez você seja do tipo que prefere a ação às palavras. Ou talvez só tenha preguiça de preencher a bio. De qualquer forma, continue contribuindo. Quem sabe um dia você não se torna famoso o suficiente para não precisar de uma bio.</p>
+<p><b>NeO - Wesley Souza</b>, "✨ Hello outsider! ✨ Welcome. I'm Wesley aka Neo! If you need help with something, I'm here!" Que simpático! Pena que você não está ajudando a si mesmo a subir nesse ranking. Mas ei, pelo menos você é amigável. Quem sabe um dia a simpatia não te leva ao topo. Boa sorte, Neo. Você vai precisar de mais do que um "✨" para impressionar alguém.</p>
+<p><b>Gustavo Carvalho</b>, o campeão do "tanto faz". Sem bio, poucas contribuições... Você é o tipo de pessoa que entra na festa, come um salgadinho e vai embora sem que ninguém perceba. Mas ei, pelo menos você está aqui. Isso já é alguma coisa. Ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-13 at 00:36:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-14 at 00:38:13 UTC +0000</i>
 <h6>
