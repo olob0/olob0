@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>249 ctr.</td>
+                <td>304 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>70 ctr.</td>
+                <td>82 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>49 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>47 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>43 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>37 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>36 ctr.</td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>33 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>38 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>28 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>33 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, 249 contribuições, hein? Quase lá para impressionar sua mãe. Mas, sério, um repositório chamado "estudos_Analista" com atualizações até ontem? Espero que esteja estudando como usar o GitHub, porque seus projetos parecem mais um amontoado de "forks" do que trabalho original. E dois <i>stargazers</i> no seu repositório pessoal? Que popularidade!</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, com 84 contribuições, está quase na metade do líder. Mas, ei, pelo menos você tem um nome completo que parece ter saído de um livro de fantasia. Só falta a fantasia se tornar realidade no seu perfil do GitHub, porque, até agora, só vemos o "Ribeiro" e nada de "Bueno".</p>
-<p><b>Felipe Gueller</b>, 70 contribuições. Formado em Sistemas de Informações, mas pelo visto, o sistema ainda não te informou como contribuir mais. Ou será que você está esperando o Instituto Federal te dar um diploma de "Mestre da Procrastinação"?</p>
-<p><b>giverplay</b>, com 65 contribuições, você nos oferece "Uvas" em Java. Que metáfora profunda... ou seria só um projeto aleatório que você esqueceu no fundo da gaveta? E regras em CSS e HTML? Espero que as regras do seu código sejam melhores que as regras do português, porque "estranho" já está te julgando.</p>
-<p><b>Cookie</b>, 47 contribuições. Ah, você está contribuindo para o Godot Engine? Que legal! Mas, ei, cuidado para não se perder na imensidão desse projeto e acabar virando só mais um <i>cookie</i> sem importância. E essa IA consciente que você está tentando criar? Boa sorte com isso. Talvez ela te ajude a aumentar suas contribuições.</p>
-<p><b>Rafael Lima de Morais</b>, 43 contribuições. Software Engineer, Go, Typescript, Rust, Vim... Uau, quanta tecnologia! Mas e as contribuições? Ah, você está muito ocupado configurando seus "dotfiles". Que tal usar toda essa expertise para contribuir com algo que não seja só para você mesmo?</p>
-<p><b>Gustavo Carvalho</b>, 37 contribuições. Sua presença aqui é quase tão misteriosa quanto a do Monstro do Lago Ness. Sem bio, sem projetos recentes... Será que você é um fantasma contribuindo para o GitHub?</p>
-<p><b>LestterX</b>, com 36 contribuições e nenhuma bio, você é o ninja silencioso do ranking. Ninguém sabe quem você é, o que você faz, ou por que está aqui. Mas ei, pelo menos você está contribuindo, certo? Ou será que é só para não ficar em último?</p>
-<p><b>NeO - Wesley Souza</b>, 33 contribuições. "Hello outsider!" Que recepção calorosa! Mas, com tão poucas contribuições, parece que você está mais para "Neo" no início do filme, antes de se tornar "O Escolhido". Acorda, Wesley, a Matrix das contribuições te espera!</p>
-<p><b>Gabriel Carvalho</b>, 28 contribuições. Apaixonado por entender como as coisas funcionam "por baixo dos panos"? Que tal começar entendendo como aumentar suas contribuições no GitHub? Talvez assim você consiga criar soluções para problemas reais, em vez de só ficar admirando a engrenagem.</p>
-<p><b>Luís Felipe Arten</b>, com apenas 12 contribuições, você está quase conseguindo a proeza de ser menos produtivo que uma tartaruga manca. E um conversor de XML? Sério? Em 2026? Espero que pelo menos ele converta seu desempenho em algo mais admirável.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, com seus 304 pontos, liderando o ranking... Imagino que a maioria dessas contribuições sejam commits para o próprio perfil, né? Afinal, o último update do seu "estudos_Analista" foi há dois dias, parabéns pela consistência! E que belo currículo W3C template, demonstra originalidade e... bom, é um currículo.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, com 84 contribuições, quase lá! Mas sem atividade recente? Estaria você se escondendo nas sombras, tramando sua ascensão silenciosa? Ou será que a preguiça te pegou?</p>
+<p><b>Felipe Gueller</b>, 82 contribuições, quase alcançando o ilustre Bryan. Mas cadê os projetos? Só o diploma do Instituto Federal te define? Mostre-nos o código, Felipe, ou cale-se para sempre!</p>
+<p><b>giverplay</b>, com 65 contribuições, vemos que você está ocupado criando "Uvas". Espero que não sejam daquelas uvas passas que ninguém gosta. E "regras" em CSS e HTML? Que tal um pouco de JavaScript para dar vida a essas regras, hein?</p>
+<p><b>Gustavo Carvalho</b>, com 49 contribuições, quase na metade do líder. Está economizando energia para o sprint final? Ou já se deu por vencido? A escolha é sua, mas o ranking não espera por ninguém.</p>
+<p><b>Cookie</b>, com 47 contribuições, vemos que você andou bisbilhotando o Godot Engine. Contribuições de verdade que é bom, nada? Ah, e tentando criar uma IA consciente em Java e JavaScript? Boa sorte com isso, talvez em 2077 você consiga.</p>
+<p><b>Rafael Lima de Morais</b>, o "Software Engineer | Go | Typescript | Rust | Vim" com 43 contribuições. Tão ocupado com as tecnologias da moda que se esqueceu de contribuir? Ah, e parabéns por forkar um projeto chamado "CL4R1T4S", que original.</p>
+<p><b>LestterX</b>, 40 contribuições, mantendo-se relevante por puro... mistério? Sem bio, sem projetos recentes. Você é o fantasma do ranking, LestterX. Assustador.</p>
+<p><b>Gabriel Carvalho</b>, 38 contribuições. Apaixonado por entender como as coisas funcionam, mas pelo visto não o suficiente para contribuir ativamente. Que tal colocar a mão na massa em vez de só observar?</p>
+<p><b>NeO - Wesley Souza</b>, com 33 contribuições, pronto para ajudar os "outsiders". Que tal começar ajudando a si mesmo a subir nesse ranking? Talvez assim você saia da Matrix.</p>
+<p><b>Luís Felipe Arten</b>, com míseras 12 contribuições, criando coisas "legais (ou chatas)" quase todo dia. Seu conversor de XML em HTML/CSS é a prova disso. Continue assim e logo estará no topo... do ranking dos menos ativos.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-14 at 13:35:06 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-15 at 00:38:56 UTC +0000</i>
 <h6>
