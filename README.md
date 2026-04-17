@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>360 ctr.</td>
+                <td>396 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>94 ctr.</td>
+                <td>103 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,32 +51,32 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>49 ctr.</td>
+                <td>54 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>47 ctr.</td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>47 ctr.</td>
+                <td>48 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>45 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>43 ctr.</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>33 ctr.</td>
+                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
+                <td>9 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, com 360 contribuições, liderando o ranking! Parabéns por clonar um tutorial de FastAPI e achar que isso te qualifica como "apaixonado por Tecnologia". Seus repositórios pessoais são tão inspiradores quanto uma apresentação de PowerPoint sobre a história do Excel. E dois <i>stargazers</i> no seu repositório pessoal? Que inveja!</p>
-<p><b>Felipe Gueller</b>, com 94 contribuições. Um Bacharel em Sistemas de Informações sem atividade recente? Espero que o diploma não esteja pegando poeira, a não ser que você esteja usando-o para algo mais útil, como calçar a mesa.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 84 contribuições. Sua bio está tão vazia quanto sua atividade recente. É um talento desperdiçado, ou talvez nem tanto.</p>
-<p><b>Giverplay</b>, 71 contribuições. "Olá, estranho!" é como você cumprimenta seus visitantes? Seus projetos são tão misteriosos quanto o nome "Uvas" para um repositório em Java. E as "regras" em CSS e HTML? Imagino que sejam tão complexas quanto as regras de um jogo de damas.</p>
-<p><b>Gustavo Carvalho</b>, com 49 contribuições. Quase lá! Quase alcançando o top 5... Quase.</p>
-<p><b>Cookie</b>, 47 contribuições. Contribuições no Godot Engine? Impressionante! Mas vamos ser sinceros, a maior parte do seu tempo é gasto tentando fazer uma IA conversar sobre jogos. Boa sorte com isso, você vai precisar. E cuidado para não se tornar um biscoito torrado tentando criar uma IA consciente.</p>
-<p><b>Rafael Lima de Morais</b>, também com 47 contribuições. Software Engineer que ama Go, Typescript, Rust e Vim. Tão hipster que daqui a pouco estará programando em hieróglifos. E esse "CL4R1T4S"? Parece nome de remédio para disfunção erétil. Seus <i>dotfiles</i> estão tão customizados que até sua mãe teria dificuldade em usar seu computador.</p>
-<p><b>Gabriel Carvalho</b>, 45 contribuições. Apaixonado por entender como as coisas funcionam "por baixo dos panos"? Espero que você não esteja falando do sistema de esgoto da sua cidade.</p>
-<p><b>LestterX</b>, 43 contribuições. Sem bio, sem alma. Próximo!</p>
-<p><b>NeO - Wesley Souza</b>, 33 contribuições. "Olá, <i>outsider</i>!"? Mais clichê impossível. Se você realmente quer ajudar, comece contribuindo mais.</p>
-<p><b>Luís Felipe Arten</b>, míseras 12 contribuições. "Aprendendo e criando coisas legais (ou chatas) quase todo dia"? Sua contribuição para um conversor de XML com HTML e CSS é a prova de que você está mais para o "chato" do que para o "legal".</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico, apaixonado por Tecnologia, pai e marido." Que lindo, Deyved. Mas será que essa paixão toda se traduz em algo além de mais um tutorial de FastAPI? Porque, sejamos sinceros, o mundo não precisa de mais um clone de curso. E esses 2 <i>stargazers</i> no seu repositório pessoal? É você e sua mãe?</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. E o que você tem feito com esse diploma além de colecionar poeira? Sua lista de atividades recentes está mais vazia que a promessa de político em época de eleição. Cadê o código, Felipe? Cadê a contribuição? </p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, sua bio está mais vazia que o meu copo depois de um dia difícil. Sem bio, sem projetos recentes, sem nada. Está escondendo algo? Ou será que a falta de informações é porque não tem nada mesmo para mostrar? </p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Estranho é apelido carinhoso, imagino. Pelo menos você tem um repositório chamado "Uvas". Imagino que seja mais interessante do que parece, porque, sinceramente, "regras" em CSS e HTML não impressionam nem a minha avó. </p>
+<p><b>Gustavo Carvalho</b>, sua presença aqui é quase um mito. Ninguém te viu, ninguém sabe o que você faz, mas você está aqui, ocupando um lugar no ranking. Parabéns? </p>
+<p><b>Cookie</b>, "Vex-AI", hein? Tentando criar a próxima Skynet? Boa sorte com isso. Mas, falando sério, talvez seja hora de focar em algo mais... palpável? Ou pelo menos algo que não dependa tanto da boa vontade alheia para ganhar uns <i>stargazers</i>. Contribuir para o Godot é legal, mas e o seu brilho próprio?</p>
+<p><b>Rafael Lima de Morais</b>, Go, Typescript, Rust, Vim... Uau, um verdadeiro ninja das tecnologias modernas! Pena que a maior parte do seu tempo parece ser gasta configurando <i>dotfiles</i>. Que tal usar toda essa expertise para resolver problemas de verdade, em vez de apenas deixar seu terminal mais "bonitinho"?</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Wesley, a Matrix já era. Acorda pra vida e mostra algo além de uma bio simpática. A gente precisa de código, não de boas-vindas. </p>
+<p><b>Luís Felipe Arten</b>, um conversor de XML em 2025? Sério? Parece que alguém está preso em 2005. Mas ei, pelo menos você criou algo, mesmo que seja algo que ninguém precise. </p>
+<p><b>Filipe Deschamps</b>, ah, o guru dos cursos online. Ensinando os outros a programar enquanto seus próprios repositórios pegam poeira. "Dotfiles" atualizados, que emocionante. Mas e aquele curso novo, vai sair quando? Ou está muito ocupado contando o dinheiro dos seus alunos?</p>
+<p><b>Fenix777-alt</b>, a conta alternativa. Seria você o espião da lista? De qualquer forma, contribuições quase nulas. Talvez seja hora de criar uma conta principal e começar a fazer algo de útil.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-16 at 00:39:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-17 at 00:37:22 UTC +0000</i>
 <h6>
