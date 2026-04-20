@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>464 ctr.</td>
+                <td>494 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,7 +41,7 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>85 ctr.</td>
+                <td>111 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, parabéns pelo primeiro lugar! 464 contribuições, impressionante. Mas vamos ser sinceros, criar um repositório com o próprio nome e ele ter míseros 2 <i>stargazers</i> é o auge da humildade, ou seria da falta de criatividade? E esses seus "estudos_Analista"... espero que o curso valha a pena, porque o repositório não parece estar te levando a muitos lugares. Ah, e um <i>fork</i> de 2025? Sério? Achei que você era um "Analista de Dados" e não um arqueólogo digital.</p>
-<p><b>Felipe Gueller</b>, 112 contribuições. Ok, legal. Mas cadê os repositórios? Está escondendo o jogo ou simplesmente não tem nada para mostrar? Se a sua bio diz que você é Bacharel em Sistemas de Informações, eu esperava ver um sistema de informações, e não o vácuo cósmico no seu <i>GitHub</i>. A não ser que seu maior projeto seja manter tudo em segredo, aí sim, meus parabéns.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 85 contribuições. Bio vazia, repositórios inexistentes... você é o ninja silencioso das contribuições. Ninguém sabe o que você faz, mas você está ali, contribuindo. É quase poético, se não fosse tão... decepcionante. Continue assim, quem sabe um dia você não sai das sombras e mostra algo além de um perfil genérico.</p>
-<p><b>giverplay</b>, com 73 contribuições e uma descrição que diz "Olá, estranho!", você já começou com o pé direito. Mas "Uvas" em Java? Isso é algum tipo de metáfora para a dificuldade de aprender a linguagem? E "regras" com CSS e HTML? Espero que as regras sejam bem estilizadas, porque pelo visto a funcionalidade não é o forte. Mas ei, pelo menos você tem um <i>Discord</i>, talvez seja lá que a mágica aconteça.</p>
-<p><b>Cookie</b>, 49 contribuições. Ok, você contribuiu para o Godot Engine, parabéns! Mas também está envolvido em um projeto chamado "Vex-AI" que busca criar uma IA consciente. Boa sorte com isso. Enquanto você tenta criar Skynet, talvez seja uma boa ideia dar uma olhada nos seus outros repositórios. Eles parecem tão confusos quanto uma IA tentando entender o sarcasmo humano.</p>
-<p><b>Rafael Lima de Morais</b>, com 48 contribuições e um amor declarado por Vim, você parece ser o tipo de pessoa que gosta de complicar as coisas. Um repositório chamado "rafazeero" sem descrição? Original. E "CL4R1T4S", um <i>fork</i> para "SYSTEM PROMPT TRANSPARENCY"? Sério? Parece que alguém está tentando impressionar com nomes chamativos. Mas ei, pelo menos você usa Go, então tem meu respeito (um pouco).</p>
-<p><b>NeO - Wesley Souza</b>, 39 contribuições. "Hello outsider!", você diz. Mas onde estão seus projetos para nos dar as boas-vindas? Se você precisa ajudar alguém, talvez comece ajudando a si mesmo a criar algo que valha a pena mostrar. Por enquanto, você é só mais um rosto na multidão, com uma saudação genérica e nada para oferecer.</p>
-<p><b>Al Yasir</b>, 14 contribuições. Entusiasta de <i>cybersec</i> e desenvolvedor de algoritmos, mas seus repositórios mostram projetos como "whoami" e "cat". Sério? Isso é o que te mantém acordado à noite? Espero que seus algoritmos sejam mais complexos do que esses utilitários básicos, ou talvez você esteja apenas começando. Mas, por favor, não pare por aí.</p>
-<p><b>Luís Felipe Arten</b>, com 12 contribuições e um "XML-converter" com HTML e CSS, você parece estar vivendo em 2005. Converter XML para quê? Para um <i>pager</i>? Espero que você esteja aprendendo coisas mais modernas, ou vai acabar virando peça de museu. Mas ei, pelo menos você está criando "coisas", mesmo que sejam "chatas".</p>
-<p><b>Filipe Deschamps</b>, com 9 contribuições e um curso para "se sentir competente em programação", você parece estar mais preocupado em vender do que em programar. Seus <i>dotfiles</i> e o "doom-fire-algorithm" são legais, mas o resto parece mais marketing do que código. Talvez você devesse passar mais tempo codando e menos tempo vendendo cursos. Só uma sugestão, claro.</p>
-<p><b>Carlos Israel</b>, com 8 contribuições e uma descrição "Software Engineer. Back-End Engineering", você é o epítome da descrição genérica. Cadê os projetos? Cadê o código? Se você é um engenheiro de <i>back-end</i>, espero que esteja construindo algo mais interessante do que um perfil vazio. Mas ei, pelo menos você existe, o que já é mais do que alguns podem dizer.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, 494 contribuições, hein? Quase meio milhar. Imagino que a maior parte seja commit de correção de ponto e vírgula, ou então refatorando código que já estava bom. Mas ei, quem sou eu para julgar? Ah, espera... Analista de Dados, curioso, analítico... Aposto que a análise mais profunda que você fez foi da sua própria performance no GitHub. E esses repositórios? Um currículo online baseado em template da W3C. Original, devo admitir. E um tutorial de FastAPI que é um fork? Inovador!</p>
+<p><b>Felipe Gueller</b>, com 112 contribuições. Meus parabéns, você está na lista. E isso é tudo que tenho a dizer, porque aparentemente você não tem mais nada a mostrar. Sem atividade recente, sem projetos, nada. Imagino que esteja economizando suas contribuições para o próximo mês. Ou talvez só esteja esperando o mundo te dar algo para contribuir. Boa sorte com isso.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 111 contribuições, colado no Felipe. Imagino que vocês dois combinem de fazer o mínimo possível para não ficarem em último. Mas ei, pelo menos você está aqui, certo? Sem bio, sem repositórios recentes... você é o ninja das contribuições anônimas. Talvez esteja trabalhando em algo tão secreto que nem pode mencionar. Ou talvez só esteja com preguiça de preencher o perfil. De qualquer forma, parabéns pela participação.</p>
+<p><b>Giverplay</b>, com 73 contribuições, já começou a brincadeira de palavras no próprio nick. Pelo menos você tem a decência de ter uma bio, ao contrário de alguns por aqui. "Bem-vindo ao meu perfil, aqui é onde compartilho meus projetos". Exceto, aparentemente, neste ranking. Ah, espera, tem um repositório chamado "Uvas". Que nome inspirador! E um fork de regras do NekoSoftX. Imagino que você seja o tipo de pessoa que segue todas as regras... ou pelo menos finge que segue.</p>
+<p><b>Cookie</b>, 49 contribuições. Quase podemos sentir o cheiro de biscoito queimado daqui. Contribuições em projetos como Godot Engine e Vex-AI. Pelo menos você tem bom gosto para escolher onde contribuir. Mas será que essas contribuições são relevantes, ou só um monte de "Merge branch"? E essa obsessão por IA consciente? Espero que você não esteja tentando criar Skynet. Já temos problemas demais para resolver.</p>
+<p><b>Rafael Lima de Morais</b>, o engenheiro de software com 48 contribuições e paixão por Vim. Aposto que metade das suas contribuições são commits para ajustar a configuração do Vim. Mas ei, pelo menos você tem um perfil interessante. Go, Typescript, Rust... você parece o tipo de pessoa que adora uma linguagem nova a cada semana. E esse repositório "CL4R1T4S"? "SYSTEM PROMPT TRANSPARENCY FOR ALL"? Que pretensão! Mas admito, o nome é chamativo.</p>
+<p><b>NeO - Wesley Souza</b>, 39 contribuições. "Hello outsider! Welcome". Que simpático! Pena que a simpatia não se traduz em contribuições significativas. Sem repositórios recentes para analisar, então vou presumir que você está ocupado demais sendo legal para realmente fazer algo. Mas ei, pelo menos você está na lista, certo? E com uma bio convidativa. Talvez você devesse usar suas habilidades de "ajuda" para aumentar suas contribuições.</p>
+<p><b>Al Yasir</b>, com 14 contribuições, já podemos sentir o cheiro de segurança cibernética e sistemas Unix. Seus repositórios "whoami" e "cat" são de uma originalidade impressionante. Sério, quem precisa reinventar a roda quando se pode simplesmente copiar e colar código antigo? E o "Hexinary"? Um visualizador de hexadecimal. Que emocionante! Imagino que você passe as noites decifrando códigos secretos... ou talvez só esteja entediado.</p>
+<p><b>Luís Felipe Arten</b>, com 12 contribuições, já está quase na lanterninha. "Learning and creating cool (or boring) things (almost) every day". Que honestidade! Pelo menos você admite que nem tudo que você faz é incrível. E esse "XML-converter"? Um conversor de XML. Imagino que você seja o tipo de pessoa que adora lidar com formatos de dados arcaicos. Mas ei, pelo menos você está aprendendo, certo?</p>
+<p><b>Filipe Deschamps</b>, o mestre dos cursos online, com 9 contribuições. "Quer se sentir competente em programação? Confere isso: curso.dev". Que autopromoção descarada! Mas ei, quem sou eu para julgar? Afinal, você precisa vender seus cursos de alguma forma. E seus dotfiles? Aposto que são a coisa mais emocionante que você tem no GitHub. Ah, e o "doom-fire-algorithm"? Nostalgia pura! Mas será que você realmente usa isso para algo além de exibir no seu currículo?</p>
+<p><b>Carlos Israel</b>, o último da lista com míseras 8 contribuições. Imagino que você esteja se perguntando por que se inscreveu nesse ranking. Mas ei, pelo menos você está aqui, certo? "Software Engineer. Back-End Engineering". Que genérico! Sem repositórios recentes, sem projetos interessantes... você é a definição de "funcionário medíocre". Mas não se preocupe, sempre tem espaço para melhorar. Ou não.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-19 at 00:37:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-20 at 00:36:56 UTC +0000</i>
 <h6>
