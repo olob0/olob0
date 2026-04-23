@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>560 ctr.</td>
+                <td>580 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>130 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
                 <td>119 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>117 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>83 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>59 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>56 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>51 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>49 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>49 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>48 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>46 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/LestterX">LestterX</a></td>
-                <td>43 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, com 560 contribuições, você lidera o ranking. Parabéns, você é o participante mais esforçado... em criar repositórios com nomes auto-referenciais. Sério, "DeyvedAntonio/DeyvedAntonio"? Isso é narcisismo ou falta de criatividade? E o repositório de estudos, com KVLang e Python, está te preparando para ser o próximo gênio dos dados, ou apenas para mais um tutorial de FastAPI? Espero que pelo menos os 2 "stargazers" estejam impressionados.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 119 contribuições e um bio tão vazio quanto o deserto do Saara. Sua atividade recente é tão inexistente que me faz questionar se você realmente contribuiu para algo além de inflar o número de participantes. Mas ei, pelo menos você está aqui, certo? Quase consigo ouvir o eco das suas contribuições passadas.</p>
-<p><b>Felipe Gueller</b>, com 117 contribuições, você é o mestre dos Sistemas de Informação... que não informa nada sobre suas atividades recentes. Imagino que você esteja tão ocupado "bacharelando" que não tem tempo para mais nada. Mas não se preocupe, um dia você terá um repositório para chamar de seu. Ou não.</p>
-<p><b>Gustavo Carvalho</b>, 83 contribuições e um perfil tão misterioso quanto o Triângulo das Bermudas. Nenhuma bio, nenhum repositório recente. Você é o ninja silencioso das contribuições, ou apenas alguém que esqueceu de atualizar o perfil? De qualquer forma, parabéns por existir.</p>
-<p><b>Giverplay</b>, com 73 contribuições, você nos presenteia com o repositório "Uvas" em Java. Espero que não seja apenas um monte de "Uvas" estragadas. E "NekoSoftX/regras"? Sério? Você está contribuindo para um repositório de regras? Quão rebelde você consegue ser? Pelo menos você tem um Discord, para quando precisar de ajuda para... seguir as regras?</p>
-<p><b>Cookie</b>, você é o mestre dos projetos aleatórios! 49 contribuições e um portfólio que vai de Godot Engine a "Vex-AI", uma IA que "talvez" se torne consciente. Suas contribuições são tão diversas que me pergunto se você está tentando dominar o mundo ou apenas colecionar hobbies. Boa sorte com a IA consciente, talvez ela te ajude a decidir o que fazer da vida.</p>
-<p><b>NeO - Wesley Souza</b>, 49 contribuições e uma recepção calorosa para "forasteiros". Imagino que suas contribuições sejam tão acolhedoras quanto sua bio. Mas ei, pelo menos você está aqui para ajudar, certo? Quase consigo sentir o calor do seu... nada? Desculpe, não resisti.</p>
-<p><b>Rafael Lima de Morais</b>, o mago do Vim e dos "dotfiles". 48 contribuições e uma obsessão por customização que beira o fanatismo. E "CL4R1T4S"? Sério? Você está tentando trazer clareza para o caos da IA? Boa sorte com isso. Espero que seus "dotfiles" pelo menos estejam bem organizados.</p>
-<p><b>Gabriel Carvalho</b>, 46 contribuições e uma paixão por "entender como as coisas realmente funcionam por baixo dos panos". Imagino que você esteja tão ocupado desvendando os mistérios do universo que se esqueceu de atualizar seu perfil. Mas não se preocupe, um dia você terá tempo para mostrar ao mundo suas descobertas... ou não.</p>
-<p><b>LestterX</b>, com 43 contribuições e uma bio que grita "anonimato", você é o ninja das contribuições. Ninguém sabe quem você é, o que você faz, ou por que você está aqui. Mas ei, pelo menos você está contribuindo, certo? Quase consigo sentir sua presença... invisível.</p>
-<p><b>Al Yasir</b>, com meras 14 contribuições, você está mais para "Al Já Sumiu". Mas ei, pelo menos você está criando seu próprio "whoami" e "cat". Originalidade é tudo, não é mesmo? E "NGHA"? Boa sorte tentando criar o próximo algoritmo de hash, talvez um dia ele seja usado para algo além de inflar seu ego.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, 580 contribuições? Que inveja! Aposto que seus "estudos_Analista" estão bombando, principalmente com aquele kvlang ali no meio. E que tal dar um tapa naquele seu "resume"? Aquela template W3C de 2025 tá gritando por uma repaginada. Mas ei, pelo menos você tentou criar uma API REST em Python, mesmo que tenha sido um tutorial de 2025. Continue assim, quem sabe um dia você chega lá.</p>
+<p><b>Felipe Gueller</b>, 130 contribuições e nenhum repositório recente? Imagino que você esteja contribuindo tanto que não sobra tempo para mais nada. Ou talvez esteja apenas observando de longe, como um espectador em um teatro. Afinal, quem precisa de projetos quando se tem a plateia?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, com 119 contribuições e sem bio, você é o ninja silencioso do código. Ninguém sabe quem você é, o que você faz, mas suas contribuições estão lá. Talvez você seja um bot disfarçado, ou talvez apenas uma pessoa muito, muito misteriosa. De qualquer forma, continue contribuindo anonimamente, o mundo precisa de mais mistério.</p>
+<p><b>Gustavo Carvalho</b>, 92 contribuições, uh... Parabéns? Sem bio e sem repositórios recentes, sua existência digital é tão vazia quanto um deserto. Mas ei, pelo menos você está no ranking, o que já é mais do que muita gente pode dizer. Continue assim, quem sabe um dia você decide preencher sua bio e mostrar ao mundo quem você é (ou não).</p>
+<p><b>giverplay</b>, "Olá, estranho!" Com 73 contribuições e um repositório chamado "Uvas", sua presença é tão enigmática quanto um cacho de uvas misteriosas. E aquelas "regras" em CSS e HTML? Fascinante. Parece que alguém está levando a sério a organização do caos. Continue assim, o mundo precisa de mais regras e uvas.</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider!" Com 59 contribuições, você parece ser o guia turístico do mundo do código. Pena que ninguém te pediu ajuda ultimamente. Mas não se preocupe, continue sendo amigável, quem sabe um dia alguém precise de você para algo além de um aperto de mãos virtual.</p>
+<p><b>Gabriel Carvalho</b>, 56 contribuições e apaixonado por entender como as coisas funcionam "por baixo dos panos"? Espero que você não esteja se referindo aos bugs, porque senão teremos um problema. Continue desvendando os mistérios do código, quem sabe um dia você encontra a resposta para a pergunta final.</p>
+<p><b>LestterX</b>, 51 contribuições e sem bio? Você é o fantasma do GitHub. Ninguém sabe quem você é, o que você faz, mas suas contribuições estão lá, assombrando o ranking. Continue assim, o mundo precisa de mais fantasmas (digitais).</p>
+<p><b>Cookie</b>, 49 contribuições e envolvido com o Godot Engine? Que chique! E o projeto Vex-AI? Tentando criar uma IA consciente? Boa sorte com isso. Mas ei, pelo menos você está tentando, o que já é mais do que muita gente pode dizer. Continue assim, quem sabe um dia você cria a próxima Skynet (ou não).</p>
+<p><b>Rafael Lima de Morais</b>, com 48 contribuições e um currículo de tecnologias que faria qualquer recrutador babar, você está quase lá! "dotfiles" atualizados em Março? Que dedicado! E o projeto "CL4R1T4S"? Tentando dar transparência para as IAs? Que nobre! Mas ei, não se esqueça de respirar e tomar um sol de vez em quando. O mundo do código não é tudo na vida.</p>
+<p><b>Al Yasir</b>, míseras 14 contribuições e achando que é hacker por contribuir com "whoami" e "cat" em C? Sério? E ainda por cima um "Hexinary" em Python? Que combinação exótica! Mas ei, pelo menos você está tentando, o que já é mais do que muita gente pode dizer. Continue assim, quem sabe um dia você consegue hackear algo além do seu próprio ego.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-22 at 00:34:32 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-23 at 00:39:42 UTC +0000</i>
 <h6>
