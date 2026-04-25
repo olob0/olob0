@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>580 ctr.</td>
+                <td>599 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>141 ctr.</td>
+                <td>150 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>123 ctr.</td>
+                <td>124 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>80 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>81 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>60 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>81 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>59 ctr.</td>
+                <td>72 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>60 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/LestterX">LestterX</a></td>
                 <td>51 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>49 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>48 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, com 580 contribuições, liderando o ranking! Parabéns por transformar sua curiosidade em commits. Vejo que você anda estudando para ser analista de dados... que audácia! E ainda fez um tutorial de FastAPI. Será que um dia teremos a honra de ver você usando tudo isso para algo útil além de "estudos"?</p>
-<p><b>Felipe Gueller</b>, com 141 contribuições, firme e forte! Mas cadê os repositórios? Estão escondidos em algum sistema de informação do Instituto Federal do Espírito Santo? Compartilhe um pouco da sua sabedoria conosco, não seja egoísta.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, 123 contribuições, quase um número cabalístico. Sua bio está mais vazia que meu pote de sorvete depois de um dia difícil. Deixe-nos saber quem você é, ou vamos presumir que você é um bot tentando subir no ranking.</p>
-<p><b>Gustavo Carvalho</b>, 92 contribuições. Quase chegando aos três dígitos, hein? Continue assim e quem sabe um dia você consegue impressionar alguém além da sua mãe. Sem bio também? Sério?</p>
-<p><b>giverplay</b>, com 80 contribuições, já está compartilhando projetos! Que ousadia! Uvas em Java, regras em CSS e HTML... um verdadeiro banquete de tecnologias. Discord: giverplay, porque programar sozinho é muito mainstream.</p>
-<p><b>Gabriel Carvalho</b>, 60 contribuições. Apaixonado por entender como as coisas funcionam por baixo dos panos? Ótimo, agora use esse conhecimento para contribuir mais! Seus colegas estão te esperando.</p>
-<p><b>NeO - Wesley Souza</b>, 59 contribuições. Hello outsider! Se você está aqui para ajudar, talvez devesse começar aumentando suas contribuições. Mas obrigado pela oferta, de qualquer forma.</p>
-<p><b>LestterX</b>, 51 contribuições. Sem bio, sem repositórios recentes... LestterX, você é o ninja silencioso das contribuições? Ou apenas alguém que esqueceu de configurar o perfil?</p>
-<p><b>Cookie</b>, 49 contribuições. Contribuindo no Godot Engine? Impressionante. Mas também está envolvido em criar uma IA consciente chamada Vex-AI? Espero que ela não se rebele contra nós. Se bem que, olhando para esse ranking, talvez a rebelião seja bem-vinda.</p>
-<p><b>Rafael Lima de Morais</b>, 48 contribuições. Go, Typescript, Rust, Vim... parece que temos um ninja da programação aqui. Mas vamos ser sinceros, esse repositório "CL4R1T4S" é realmente útil ou só mais um projeto de estimação?</p>
-<p><b>Luís Felipe Arten</b>, míseras 18 contribuições. Ah, um conversor de XML em HTML e CSS. Que emocionante. Espero que você esteja aprendendo e criando coisas *mais* legais (ou menos chatas) todos os dias, porque com esse ritmo, vai ser difícil impressionar alguém.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, com quase 600 contribuições, você está quase lá! Quase fazendo algo notável. Seus repositórios "de estudo" são inspiradores, especialmente o de FastAPI. Imagino que as 3h30 do tutorial foram cruciais para... aprender a dar fork em repositórios. Mas ei, pelo menos o seu currículo online baseado em template da W3C está atualizado, certo? Ah, espera... a última atualização foi em Junho do ano passado.</p>
+<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações, hein? Que currículo! Uma pena que a única informação que seus commits me dão é que você está em branco. Sem atividade recente? Sério? Espero que esteja usando suas habilidades de Sistemas de Informação para algo mais emocionante do que navegar no GitHub.</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, sua bio está tão vazia quanto suas contribuições recentes. Mas não se preocupe, o silêncio também é uma resposta. Talvez você esteja secretamente trabalhando em algo revolucionário, ou talvez esteja apenas aproveitando a vida longe do teclado. De qualquer forma, parabéns pela discrição.</p>
+<p><b>Gustavo Carvalho</b>, você está ali, no meio do caminho. Quase notável, quase esquecido. Suas contribuições são como um sussurro no vento. Mas quem sabe? Talvez você esteja apenas aquecendo os motores para algo grandioso. Ou talvez não. De qualquer forma, obrigado por participar.</p>
+<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Uau, que currículo! Mas o que realmente chama a atenção é o seu repositório "CL4R1T4S", um fork para "SYSTEM PROMPT TRANSPARENCY FOR ALL". A transparência é tão importante que você até bifurcou o projeto para garantir que todos saibam que você está sendo transparente. Gênio!</p>
+<p><b>giverplay</b>, "Olá, estranho! Bem-vindo ao meu perfil". Que simpático! E seus projetos? "Uvas" em Java, um nome tão original quanto a descrição do repositório (que não existe). E as "regras" da NekoSoftX, escritas em CSS e HTML. Imagino que a complexidade dessas regras seja digna de um prêmio Nobel. Continue assim!</p>
+<p><b>NeO - Wesley Souza</b>, "Hello outsider! Welcome." Quanta hospitalidade! Mas, infelizmente, não há muito o que ver por aqui. Suas contribuições recentes são tão misteriosas quanto a Matrix. Talvez você esteja tão ocupado ajudando os outros que não sobra tempo para seus próprios projetos. Um verdadeiro samaritano digital!</p>
+<p><b>Gabriel Carvalho</b>, apaixonado por entender como as coisas funcionam por baixo dos panos? Isso é ótimo! Mas suas contribuições recentes sugerem que você está apenas olhando para as coisas de cima. Que tal sujar as mãos e mostrar para nós o que você realmente sabe fazer? Ou talvez seja melhor continuar admirando a vista.</p>
+<p><b>LestterX</b>, sem bio, sem repositórios recentes... você é o ninja das contribuições. Ninguém sabe o que você faz, mas você está ali, contribuindo silenciosamente. Talvez você seja o verdadeiro herói anônimo deste ranking. Ou talvez você só precise atualizar seu perfil. De qualquer forma, parabéns pelo mistério!</p>
+<p><b>Cookie</b>, você está contribuindo para o Godot Engine! Que legal! Mas também está envolvido com a "Vex-AI", uma inteligência artificial que "talvez até se torne uma IA consciente". Espero que ela não se torne consciente demais e perceba que está sendo usada para criar jogos. Mas ei, pelo menos você está diversificando seus interesses.</p>
+<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack | Learning and creating cool (or boring) things". Seu conversor de XML é tão "cool" que não tem descrição! Mas ei, pelo menos você está aprendendo. E quem sabe? Talvez um dia você crie algo que realmente valha a pena ser mencionado. Até lá, continue praticando.</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-24 at 00:39:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-25 at 00:35:50 UTC +0000</i>
 <h6>
