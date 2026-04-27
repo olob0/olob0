@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>640 ctr.</td>
+                <td>661 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -45,38 +45,38 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>92 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>82 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>81 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>76 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>82 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>78 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>49 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>24 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>22 ctr.</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>22 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -84,17 +84,17 @@
     <details>
     <summary>✨ Review da IA ✨</summary>
     <br/>
-    <div align="justify"><p><b>Deyved Antonio</b>, "Analista de Dados, curioso, analítico..." Ah, a descrição clássica de quem passa mais tempo no Excel do que vendo a luz do sol. 640 contribuições? Impressionante... para quem coleciona selos digitais. E o repositório de estudos "estudos_Analista"? Imagino que seja onde seus sonhos de grandeza em análise de dados vão para morrer lentamente, vendo HTML e kvlang. Mas ei, pelo menos você atualizou ele ontem, 24 de Abril. Isso é...alguma coisa.</p>
-<p><b>Felipe Gueller</b>, Bacharel em Sistemas de Informações. Parabéns, você tem um diploma! Agora, use-o. 150 contribuições? Parece que alguém está apenas marcando presença. E nenhum repositório recente? Espero que esteja usando todo esse conhecimento para algo mais emocionante do que planilhas.</p>
-<p><b>Bryan Rafael Bueno Ribeiro</b>, sua bio está mais vazia que minha paciência. 124 contribuições? Ok. Espero que pelo menos seus commits tenham mensagens decentes, porque sua descrição pessoal certamente não tem.</p>
-<p><b>Rafael Lima de Morais</b>, "Software Engineer | Go | Typescript | Rust | Vim". Nossa, que currículo impressionante! Mas vamos ser sinceros, "dotfiles" atualizados em 26 de Março é o auge da sua atividade recente? E esse projeto "CL4R1T4S"? Sério? Parece que alguém está tentando desesperadamente se manter relevante na era da IA.</p>
-<p><b>giverplay</b>, "Olá, estranho!". Sim, estranho é a palavra. 81 contribuições? Meh. E o repositório "Uvas"? Espero que seja algo mais interessante do que parece, porque "regras" em CSS e HTML não exatamente gritam "gênio da programação".</p>
-<p><b>NeO - Wesley Souza</b>, "Hello outsider!". Aparentemente, você também é um <i>Neo</i> na arte de contribuir. 76 contribuições? Se você precisa ajudar alguém, comece por si mesmo e contribua mais.</p>
-<p><b>Cookie</b>, contribuições para o Godot Engine, ok, impressionante. Mas 49 contribuições no total? Parece que alguém está mais interessado em brincar de Deus em jogos do que em realmente construir algo. E esse "Vex-AI"? Boa sorte tentando criar uma IA consciente, talvez ela possa escrever código melhor do que você.</p>
-<p><b>Deivid Souza Santana</b>, "Desenvolvedor back-end focado em Python e JavaScript". 24 contribuições? Você está mais para "desenvolvedor back-end que está pensando em se focar em Python e JavaScript". Menos foco, mais código.</p>
-<p><b>Ezequias Silva</b>, 22 contribuições. Sem bio. Sem nada. Você é o ninja das contribuições anônimas. Parabéns? Talvez.</p>
-<p><b>Luís Felipe Arten</b>, "Software Engineer | Full-Stack". 21 contribuições e um "XML-converter" atualizado em Julho do ano passado? Espero que seja algo revolucionário, porque a julgar pela sua atividade, você está mais para "Full-Stack Overflow".</p>
-<p><b>Al Yasir</b>, "BSc in Computer Science". 14 contribuições e programas como "whoami" e "cat" em C? Sério? Próximo passo, reinventar o `ls`? E "NGHA"? Espero que seja mais inovador do que o seu número de contribuições.</p>
+    <div align="justify"><p><b>Deyved Antonio</b>, 661 contribuições? Imagino que a maior parte seja atualizando seu perfil "DeyvedAntonio/DeyvedAntonio". Vi que você anda estudando para ser analista de dados, espero que sua análise te mostre que talvez você precise focar um pouco mais nos estudos e menos em criar repositórios sobre seus estudos.</p>
+<p><b>Felipe Gueller</b>, 150 contribuições. Parabéns por estar aqui! Imagino que, com um Bacharel em Sistemas de Informações, você consiga aumentar essa pontuação no próximo mês, ou vai deixar que o pessoal te ultrapasse?</p>
+<p><b>Bryan Rafael Bueno Ribeiro</b>, 124 contribuições, hein? Sem bio, sem repositórios recentes... você é o ninja silencioso das contribuições. Será que você está contribuindo em projetos secretos que não podemos ver? Ou será que você só gosta de ficar nas sombras?</p>
+<p><b>Gustavo Carvalho</b>, com suas 92 contribuições, você está quase lá! Quase no top 3. Mas "quase" não ganha medalha, né? Bora aumentar essa pontuação, mostre que você não é só mais um Gustavo!</p>
+<p><b>Rafael Lima de Morais</b>, 82 contribuições e especialista em Go, Typescript, Rust e Vim? Impressionante! Mas me diz, com tanta linguagem, sobra tempo para contribuir de verdade? Pelo menos seus "dotfiles" foram atualizados recentemente, sinal de que o Vim ainda te diverte.</p>
+<p><b>giverplay</b>, 82 contribuições. "Olá, estranho!" Seu repositório "Uvas" está te esperando desde Novembro de 2025, será que as uvas já viraram passas? E "regras" em CSS e HTML? Espero que as regras de estilo estejam impecáveis!</p>
+<p><b>NeO - Wesley Souza</b>, 78 contribuições. "Hello outsider!" Se você está aqui para ajudar, talvez devesse começar contribuindo mais, não acha? Afinal, palavras são só palavras, contribuições são para sempre.</p>
+<p><b>Cookie</b>, 49 contribuições. Hum... Cookie... doce como sempre, mas um pouco "massudo" nas contribuições, hein? Contribuindo no Godot Engine, quem sabe um dia não vemos seu nome nos créditos de algum jogo famoso? Ou vai continuar só "biscoitando" por aí?</p>
+<p><b>Deivid Souza Santana</b>, 25 contribuições. Focado em Python e JavaScript e construindo coisas fáceis de manter? Ótimo! Agora, que tal focar em contribuir mais? Porque 25 contribuições não mantêm nem um projeto "hello world" rodando.</p>
+<p><b>Ezequias Silva</b>, 22 contribuições. Sem bio, sem informações... você é o mistério em pessoa! Mas mistério não enche ranking, então, que tal sair das sombras e mostrar a que veio? Ou vai continuar sendo o anônimo das contribuições?</p>
+<p><b>Luís Felipe Arten</b>, 21 contribuições. "Learning and creating cool (or boring) things"? Seu conversor de XML parece mais "boring" do que "cool", hein? Mas ei, todo mundo começa de algum lugar. Que tal transformar essa energia em mais contribuições?</p>
 </div>
     </details>
 </div>
@@ -109,5 +109,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-26 at 00:39:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-27 at 00:39:41 UTC +0000</i>
 <h6>
