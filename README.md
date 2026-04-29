@@ -45,43 +45,42 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>177 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
                 <td>136 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
                 <td>124 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>100 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>89 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>85 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>79 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>60 ctr.</td>
             </tr>
         </tbody>
     </table>
     </details>
-    <details>
 </div>
 
 <div align="center">
@@ -94,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-29 at 17:52:17 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-04-29 at 17:55:41 UTC +0000</i>
 <h6>
