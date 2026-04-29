@@ -4,7 +4,6 @@ import os
 from dotenv import load_dotenv
 
 from src.services import (
-    AI,
     CustomReadmeService,
     GeminiService,
     Generator,
@@ -33,7 +32,6 @@ def main():
     gemini_service = GeminiService(gemini_token)
 
     github = Github(github_service)
-    ai = AI(gemini_service)
 
     logging.info("Getting blacklisted users...")
     blacklist = get_blacklisted_users()
@@ -47,7 +45,7 @@ def main():
 
     top3_service = Top3ContributorsService(followers=followers)
     custom_readme_service = CustomReadmeService(
-        "assets/readme_template.md", github.get_viewer(), followers, ai
+        "assets/readme_template.md", github.get_viewer(), followers
     )
 
     generator = Generator(top3_service)

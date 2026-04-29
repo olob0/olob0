@@ -48,7 +48,7 @@ Modelo de resposta aceitável:
 
 class AIService(ABC):
     """
-    Interface for AI services.
+    DEPRECATED. Interface for AI services.
 
     Methods
     --------

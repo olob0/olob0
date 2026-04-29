@@ -11,7 +11,6 @@ from jinja2 import Environment
 
 from src.modules.user import User
 from src.modules.viewer import Viewer
-from src.services.ai_service import AI
 from src.utils import (
     encode_image_from_url_to_data_image,
     format_number,
@@ -271,8 +270,6 @@ class CustomReadmeService(GeneratorService):
         The viewer object.
     followers : list[User]
         The followers of the viewer.
-    ai : AI
-        The AI service.
 
     Methods
     -------
@@ -287,7 +284,6 @@ class CustomReadmeService(GeneratorService):
         readme_path: Path | str,
         viewer: Viewer,
         followers: list[User],
-        ai: AI,
     ) -> None:
         self.readme_path = readme_path
         self.env = Environment(
@@ -297,7 +293,6 @@ class CustomReadmeService(GeneratorService):
         self.rendered_readme: str = ""
         self.viewer = viewer
         self.followers = followers
-        self.ai = ai
 
     def create(self) -> None:
         """
@@ -373,7 +368,6 @@ class CustomReadmeService(GeneratorService):
         )
 
         logging.info("Generating AI review...")
-        ai_response = self.ai.generate_review(json_prompt, self.viewer)
 
         logging.info("Rendering custom readme...")
         self.rendered_readme = template.render(
@@ -385,7 +379,6 @@ class CustomReadmeService(GeneratorService):
                 [user.get_total_contributions() for user in self.followers]
             ),
             followers=followers_contributions,
-            ai_review=ai_response,
         )
 
     def save(self, output: Path | str) -> None:

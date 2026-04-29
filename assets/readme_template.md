@@ -43,10 +43,6 @@
     </table>
     </details>
     <details>
-    <summary>✨ Review da IA ✨</summary>
-    <br/>
-    <div align="justify">{{ ai_review }}</div>
-    </details>
     {% endif %}
 </div>
 {% endif %}
