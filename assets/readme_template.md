@@ -42,7 +42,6 @@
         </tbody>
     </table>
     </details>
-    <details>
     {% endif %}
 </div>
 {% endif %}
