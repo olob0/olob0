@@ -16,71 +16,6 @@
     <h4>👤 Seguidores 👤</h4>
     <p><i>Gostaria de participar? Só me seguir!</i></p>
     <img width="600" src=".github/assets/cards/top3.svg" alt="Top 3 followers contributors (monthly)" />
-    <details>
-    <summary>🏅 Classificações 🏅</summary>
-    <br/>
-    <table>
-        <thead>
-            <tr align="center">
-                <th>Posição</th>
-                <th>Seguidor</th>
-                <th>Contribuições</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr align="center">
-                <td>1°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>690 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>616 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>184 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>137 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
-                <td>124 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>107 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>89 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>85 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>79 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>60 ctr.</td>
-            </tr>
-        </tbody>
-    </table>
-    </details>
 </div>
 
 <div align="center">
@@ -93,5 +28,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-04-30 at 00:43:00 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-01 at 00:45:53 UTC +0000</i>
 <h6>
