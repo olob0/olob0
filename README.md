@@ -16,6 +16,41 @@
     <h4>👤 Seguidores 👤</h4>
     <p><i>Gostaria de participar? Só me seguir!</i></p>
     <img width="600" src=".github/assets/cards/top3.svg" alt="Top 3 followers contributors (monthly)" />
+    <details>
+    <summary>🏅 Classificações 🏅</summary>
+    <br/>
+    <table>
+        <thead>
+            <tr align="center">
+                <th>Posição</th>
+                <th>Seguidor</th>
+                <th>Contribuições</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr align="center">
+                <td>1°</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>9 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>3°</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>1 ctr.</td>
+            </tr>
+        </tbody>
+    </table>
+    </details>
 </div>
 
 <div align="center">
@@ -28,5 +63,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-01 at 00:45:53 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-02 at 00:41:38 UTC +0000</i>
 <h6>
