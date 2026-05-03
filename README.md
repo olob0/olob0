@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>9 ctr.</td>
+                <td>25 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,10 +41,25 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>2 ctr.</td>
+                <td>5 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/Ageursilva">Ageu Silva</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/LestterX">LestterX</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>1 ctr.</td>
             </tr>
@@ -63,5 +78,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-02 at 00:41:38 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-03 at 00:43:47 UTC +0000</i>
 <h6>
