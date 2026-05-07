@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>33 ctr.</td>
+                <td>46 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -45,23 +45,23 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>15 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>5°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>12 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>12 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>8 ctr.</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>7 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-06 at 00:39:34 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-07 at 00:42:50 UTC +0000</i>
 <h6>
