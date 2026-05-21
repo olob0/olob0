@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>362 ctr.</td>
+                <td>399 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>262 ctr.</td>
+                <td>286 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>178 ctr.</td>
+                <td>179 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>54 ctr.</td>
+                <td>55 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>50 ctr.</td>
+                <td>52 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -65,13 +65,13 @@
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>37 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>36 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-20 at 00:50:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-21 at 00:50:41 UTC +0000</i>
 <h6>
