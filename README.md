@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>399 ctr.</td>
+                <td>412 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>286 ctr.</td>
+                <td>294 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -56,27 +56,27 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>52 ctr.</td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>49 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>40 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>37 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>36 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>29 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>18 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-21 at 00:50:41 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-22 at 00:48:22 UTC +0000</i>
 <h6>
