@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>412 ctr.</td>
+                <td>413 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>294 ctr.</td>
+                <td>320 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>179 ctr.</td>
+                <td>180 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>55 ctr.</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
+                <td>89 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>53 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>57 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>40 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>29 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>18 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>31 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-22 at 00:48:22 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-23 at 00:47:13 UTC +0000</i>
 <h6>
