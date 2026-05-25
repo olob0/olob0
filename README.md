@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>413 ctr.</td>
+                <td>434 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>32 ctr.</td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-24 at 00:48:57 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-25 at 00:49:52 UTC +0000</i>
 <h6>
