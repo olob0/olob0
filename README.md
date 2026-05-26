@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>434 ctr.</td>
+                <td>436 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>327 ctr.</td>
+                <td>340 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>94 ctr.</td>
+                <td>106 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -60,23 +60,23 @@
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>41 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>39 ctr.</td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>33 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>29 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>34 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-25 at 00:49:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-26 at 00:48:13 UTC +0000</i>
 <h6>
