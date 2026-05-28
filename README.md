@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>464 ctr.</td>
+                <td>471 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>340 ctr.</td>
+                <td>342 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>181 ctr.</td>
+                <td>183 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -55,28 +55,28 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>71 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>58 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>46 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>44 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>53 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>41 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>50 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td>44 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-27 at 00:49:53 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-28 at 00:45:46 UTC +0000</i>
 <h6>
