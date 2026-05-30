@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>473 ctr.</td>
+                <td>483 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>351 ctr.</td>
+                <td>354 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -56,17 +56,17 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>74 ctr.</td>
+                <td>91 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>59 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>50 ctr.</td>
+                <td>56 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-05-29 at 00:52:24 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-05-30 at 00:48:25 UTC +0000</i>
 <h6>
