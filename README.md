@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>30 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>10 ctr.</td>
+                <td>19 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -45,32 +45,32 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>5 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>1 ctr.</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>2 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -88,5 +88,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-06-02 at 00:54:57 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-06-03 at 01:00:34 UTC +0000</i>
 <h6>
