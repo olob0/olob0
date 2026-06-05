@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>42 ctr.</td>
+                <td>45 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -45,38 +45,38 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>7 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>9 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
                 <td>6 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/genericocube">CUBE</a></td>
                 <td>5 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>4 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
                 <td>3 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/Felipe-Takayuki">Felipe</a></td>
-                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-06-04 at 01:00:18 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-06-05 at 00:52:51 UTC +0000</i>
 <h6>
