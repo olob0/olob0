@@ -30,13 +30,13 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>67 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>70 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>60 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>67 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>10 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>7 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>7 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
                 <td>5 ctr.</td>
             </tr>
             <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/caiocavalcantedev">Caio Cavalcante</a></td>
+                <td>2 ctr.</td>
+            </tr>
+            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>2 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-06-07 at 00:54:22 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-06-08 at 00:55:06 UTC +0000</i>
 <h6>
