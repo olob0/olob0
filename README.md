@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>84 ctr.</td>
+                <td>92 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,37 +46,37 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>29 ctr.</td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>20 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>39 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>26 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>20 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>16 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>14 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
                 <td>14 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>14 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>8 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/neopromic">NeO - Wesley Souza</a></td>
-                <td>5 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-06-09 at 00:48:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-06-10 at 00:54:40 UTC +0000</i>
 <h6>
