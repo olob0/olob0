@@ -30,53 +30,53 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>497 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>2°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>300 ctr.</td>
             </tr>
             <tr align="center">
-                <td>2°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
                 <td>299 ctr.</td>
             </tr>
             <tr align="center">
-                <td>3°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>182 ctr.</td>
             </tr>
             <tr align="center">
-                <td>4°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>152 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>97 ctr.</td>
+                <td>101 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
                 <td>90 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
                 <td>89 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
                 <td>80 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>10°</td>
                 <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
                 <td>72 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
-                <td>45 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-06-28 at 00:51:52 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-06-29 at 00:53:17 UTC +0000</i>
 <h6>
