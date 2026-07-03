@@ -30,52 +30,52 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>10 ctr.</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>16 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>10 ctr.</td>
+                <td>12 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>5 ctr.</td>
+                <td>11 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>5 ctr.</td>
+                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
+                <td>10 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>6 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
                 <td>4 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
                 <td>3 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>9°</td>
                 <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
                 <td>2 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>1 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>1 ctr.</td>
             </tr>
         </tbody>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-02 at 00:50:11 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-03 at 02:51:08 UTC +0000</i>
 <h6>
