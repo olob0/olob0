@@ -30,13 +30,13 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>42 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>49 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>34 ctr.</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>42 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,7 +51,7 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>25 ctr.</td>
+                <td>26 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>6 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>7 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-05 at 02:57:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-06 at 03:24:48 UTC +0000</i>
 <h6>
