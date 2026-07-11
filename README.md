@@ -30,53 +30,53 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>115 ctr.</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>133 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>110 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>132 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>106 ctr.</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>129 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>96 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>109 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>66 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>101 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>56 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>68 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>55 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/grefano">grefano</a></td>
-                <td>19 ctr.</td>
+                <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
+                <td>59 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>33 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DouglasFlorindo">Douglas Florindo</a></td>
-                <td>12 ctr.</td>
+                <td><a href="https://github.com/grefano">grefano</a></td>
+                <td>25 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-10 at 02:54:31 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-11 at 02:31:58 UTC +0000</i>
 <h6>
