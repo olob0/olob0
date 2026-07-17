@@ -30,53 +30,18 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>293 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>209 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>189 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>183 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>172 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>123 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
                 <td>89 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>79 ctr.</td>
+                <td>2°</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>17 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>59 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/grefano">grefano</a></td>
-                <td>52 ctr.</td>
+                <td>3°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>3 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +58,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-16 at 02:28:42 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-17 at 02:31:37 UTC +0000</i>
 <h6>
