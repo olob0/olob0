@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>89 ctr.</td>
+                <td>94 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>17 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>27 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>3 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>17 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -58,5 +58,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-17 at 02:31:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-18 at 02:22:24 UTC +0000</i>
 <h6>
