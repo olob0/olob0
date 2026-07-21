@@ -30,16 +30,21 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>153 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>357 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>30 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>158 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>31 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>4°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>17 ctr.</td>
             </tr>
@@ -58,5 +63,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-20 at 03:32:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-21 at 02:32:47 UTC +0000</i>
 <h6>
