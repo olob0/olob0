@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>482 ctr.</td>
+                <td>483 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -41,27 +41,27 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>249 ctr.</td>
+                <td>251 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>224 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>235 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>221 ctr.</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>231 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>170 ctr.</td>
+                <td>176 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>84 ctr.</td>
+                <td>95 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>32 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>51 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-07-22 at 02:31:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-07-23 at 02:36:10 UTC +0000</i>
 <h6>
