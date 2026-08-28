@@ -35,48 +35,48 @@
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>303 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>269 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>255 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
                 <td>215 ctr.</td>
             </tr>
             <tr align="center">
-                <td>5°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>179 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
                 <td>134 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>131 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>106 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
                 <td>102 ctr.</td>
             </tr>
             <tr align="center">
-                <td>10°</td>
+                <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>96 ctr.</td>
+                <td>98 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
+                <td>69 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>10°</td>
+                <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
+                <td>62 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-08-27 at 07:24:12 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-08-28 at 09:38:58 UTC +0000</i>
 <h6>
