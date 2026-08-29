@@ -36,7 +36,7 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>269 ctr.</td>
+                <td>289 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,12 +46,12 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>179 ctr.</td>
+                <td>186 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>134 ctr.</td>
+                <td>138 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -66,17 +66,17 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>98 ctr.</td>
+                <td>101 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/artenlf">Luís Felipe Arten</a></td>
-                <td>69 ctr.</td>
+                <td>79 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/gustavosett">Gustavo Carvalho</a></td>
-                <td>62 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-08-28 at 09:38:58 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-08-29 at 05:43:18 UTC +0000</i>
 <h6>
