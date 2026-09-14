@@ -36,17 +36,17 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>333 ctr.</td>
+                <td>341 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>148 ctr.</td>
+                <td>156 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>71 ctr.</td>
+                <td>74 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-09-13 at 03:16:43 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-09-14 at 03:29:05 UTC +0000</i>
 <h6>
