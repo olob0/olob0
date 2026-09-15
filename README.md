@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>385 ctr.</td>
+                <td>386 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>341 ctr.</td>
+                <td>359 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,22 +51,22 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>53 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>38 ctr.</td>
+                <td>60 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>30 ctr.</td>
+                <td>31 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>28 ctr.</td>
+                <td>29 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>21 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>25 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-09-14 at 03:29:05 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-09-15 at 03:30:11 UTC +0000</i>
 <h6>
