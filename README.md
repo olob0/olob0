@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1953 ctr.</td>
+                <td>2583 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -40,8 +40,8 @@
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>477 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>626 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,17 +51,17 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>133 ctr.</td>
+                <td>140 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>87 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>106 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>83 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>88 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>39 ctr.</td>
+                <td>43 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-09-28 at 03:46:13 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-09-29 at 04:21:04 UTC +0000</i>
 <h6>
