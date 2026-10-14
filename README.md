@@ -30,18 +30,18 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2065 ctr.</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>1467 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1462 ctr.</td>
+                <td><a href="https://github.com/Nicky7x">Nicky</a></td>
+                <td>233 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/Nicky7x">Nicky</a></td>
-                <td>232 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>222 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,33 +50,33 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>142 ctr.</td>
+                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
+                <td>154 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>119 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>146 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>85 ctr.</td>
+                <td>93 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>71 ctr.</td>
+                <td>75 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>64 ctr.</td>
+                <td>73 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/ailtonloures">Ailton Loures</a></td>
-                <td>36 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>48 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-13 at 05:34:16 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-14 at 03:37:21 UTC +0000</i>
 <h6>
