@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1467 ctr.</td>
+                <td>1477 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/Nicky7x">Nicky</a></td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
                 <td>233 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>222 ctr.</td>
+                <td><a href="https://github.com/Nicky7x">Nicky</a></td>
+                <td>233 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,27 +51,27 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>154 ctr.</td>
+                <td>167 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>146 ctr.</td>
+                <td>153 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>93 ctr.</td>
+                <td>100 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>75 ctr.</td>
+                <td>80 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>73 ctr.</td>
+                <td>75 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-14 at 03:37:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-15 at 03:17:56 UTC +0000</i>
 <h6>
