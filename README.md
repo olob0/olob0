@@ -31,22 +31,22 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2707 ctr.</td>
+                <td>2842 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1525 ctr.</td>
+                <td>1526 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>297 ctr.</td>
+                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
+                <td>368 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/EvertonMJunior">Everton Marcelino Jr.</a></td>
-                <td>272 ctr.</td>
+                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
+                <td>297 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -55,23 +55,23 @@
             </tr>
             <tr align="center">
                 <td>6°</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>198 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>195 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>183 ctr.</td>
-            </tr>
-            <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>173 ctr.</td>
+                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
+                <td>193 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>137 ctr.</td>
+                <td>139 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-19 at 03:20:39 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-20 at 03:29:32 UTC +0000</i>
 <h6>
