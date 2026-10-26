@@ -31,7 +31,7 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>2795 ctr.</td>
+                <td>2796 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
@@ -45,27 +45,27 @@
             </tr>
             <tr align="center">
                 <td>4°</td>
-                <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>241 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
                 <td><a href="https://github.com/Nicky7x">Nicky</a></td>
                 <td>240 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>216 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
+                <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
                 <td>202 ctr.</td>
             </tr>
             <tr align="center">
-                <td>8°</td>
+                <td>7°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>93 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
                 <td>93 ctr.</td>
             </tr>
             <tr align="center">
@@ -75,8 +75,8 @@
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>85 ctr.</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>61 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-25 at 03:17:39 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-26 at 03:19:04 UTC +0000</i>
 <h6>
