@@ -36,12 +36,12 @@
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>335 ctr.</td>
+                <td>358 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>262 ctr.</td>
+                <td>282 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>217 ctr.</td>
+                <td>224 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>203 ctr.</td>
+                <td>210 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>96 ctr.</td>
+                <td>100 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>58 ctr.</td>
+                <td>62 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-27 at 03:47:40 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-28 at 04:05:15 UTC +0000</i>
 <h6>
