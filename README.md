@@ -31,27 +31,27 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>2872 ctr.</td>
+                <td>2909 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
-                <td>1253 ctr.</td>
+                <td>1275 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>374 ctr.</td>
+                <td>379 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>282 ctr.</td>
+                <td>287 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>252 ctr.</td>
+                <td>259 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -61,22 +61,22 @@
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>231 ctr.</td>
+                <td>236 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>134 ctr.</td>
+                <td><a href="https://github.com/cookieukw">Cookie</a></td>
+                <td>219 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>102 ctr.</td>
+                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
+                <td>139 ctr.</td>
             </tr>
             <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/DeividSouSan">Deivid Souza Santana</a></td>
-                <td>100 ctr.</td>
+                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
+                <td>131 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-10-30 at 04:28:21 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-10-31 at 04:09:15 UTC +0000</i>
 <h6>
