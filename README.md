@@ -30,53 +30,53 @@
         <tbody>
             <tr align="center">
                 <td>1°</td>
-                <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>486 ctr.</td>
+                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
+                <td>482 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>481 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>116 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>95 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
                 <td><a href="https://github.com/jeanfbrito">Jean Brito</a></td>
                 <td>74 ctr.</td>
             </tr>
             <tr align="center">
-                <td>6°</td>
+                <td>3°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
                 <td>62 ctr.</td>
             </tr>
             <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>43 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
+                <td>4°</td>
                 <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>40 ctr.</td>
+                <td>41 ctr.</td>
             </tr>
             <tr align="center">
-                <td>9°</td>
+                <td>5°</td>
                 <td><a href="https://github.com/genericocube">CUBE</a></td>
                 <td>38 ctr.</td>
             </tr>
             <tr align="center">
+                <td>6°</td>
+                <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
+                <td>25 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>7°</td>
+                <td><a href="https://github.com/brunoferreiraff">brunoferreiraff</a></td>
+                <td>4 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>8°</td>
+                <td><a href="https://github.com/bryanrafaelbueno">Bryan Rafael Bueno Ribeiro</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
+                <td>9°</td>
+                <td><a href="https://github.com/silver-the-dev">SilverDeveloper</a></td>
+                <td>1 ctr.</td>
+            </tr>
+            <tr align="center">
                 <td>10°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>27 ctr.</td>
+                <td><a href="https://github.com/grefano">grefano</a></td>
+                <td>1 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-07 at 04:44:36 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-08 at 04:33:15 UTC +0000</i>
 <h6>
