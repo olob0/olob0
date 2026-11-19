@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1673 ctr.</td>
+                <td>1709 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>254 ctr.</td>
+                <td>288 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -51,12 +51,12 @@
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>156 ctr.</td>
+                <td>163 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>110 ctr.</td>
+                <td>117 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -76,7 +76,7 @@
             <tr align="center">
                 <td>10°</td>
                 <td><a href="https://github.com/LuidiPiresHub">Luídi Pires</a></td>
-                <td>56 ctr.</td>
+                <td>66 ctr.</td>
             </tr>
         </tbody>
     </table>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-18 at 05:58:14 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-19 at 05:58:44 UTC +0000</i>
 <h6>
