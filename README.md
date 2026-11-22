@@ -12,76 +12,6 @@
 
 <hr />
 
-<div align="center">
-    <h4>👤 Seguidores 👤</h4>
-    <p><i>Gostaria de participar? Só me seguir!</i></p>
-    <img width="600" src=".github/assets/cards/top3.svg" alt="Top 3 followers contributors (monthly)" />
-    <details>
-    <summary>🏅 Classificações 🏅</summary>
-    <br/>
-    <table>
-        <thead>
-            <tr align="center">
-                <th>Posição</th>
-                <th>Seguidor</th>
-                <th>Contribuições</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr align="center">
-                <td>1°</td>
-                <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1810 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>2°</td>
-                <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>358 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>3°</td>
-                <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>222 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>4°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>170 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>5°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>164 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>6°</td>
-                <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>141 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>7°</td>
-                <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>123 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>8°</td>
-                <td><a href="https://github.com/daviirodrig">Davi Rodrigues</a></td>
-                <td>102 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>9°</td>
-                <td><a href="https://github.com/JulianaElen">JulianaElen</a></td>
-                <td>88 ctr.</td>
-            </tr>
-            <tr align="center">
-                <td>10°</td>
-                <td><a href="https://github.com/gabrielcarvalhosouza">Gabriel Carvalho</a></td>
-                <td>80 ctr.</td>
-            </tr>
-        </tbody>
-    </table>
-    </details>
-</div>
 
 <div align="center">
   <h4>🐍 Snakommits 🐍</h4>
@@ -93,5 +23,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-21 at 05:42:37 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-22 at 05:11:05 UTC +0000</i>
 <h6>
