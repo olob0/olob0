@@ -31,12 +31,12 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2668 ctr.</td>
+                <td>2732 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1849 ctr.</td>
+                <td>1857 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
@@ -46,7 +46,7 @@
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>240 ctr.</td>
+                <td>249 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
@@ -56,17 +56,17 @@
             <tr align="center">
                 <td>6°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>164 ctr.</td>
+                <td>169 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
                 <td><a href="https://github.com/cookieukw">Cookie</a></td>
-                <td>141 ctr.</td>
+                <td>142 ctr.</td>
             </tr>
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>126 ctr.</td>
+                <td>128 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-24 at 08:29:50 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-25 at 07:03:49 UTC +0000</i>
 <h6>
