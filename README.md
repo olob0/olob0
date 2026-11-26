@@ -31,17 +31,17 @@
             <tr align="center">
                 <td>1°</td>
                 <td><a href="https://github.com/filipedeschamps">Filipe Deschamps</a></td>
-                <td>2732 ctr.</td>
+                <td>2769 ctr.</td>
             </tr>
             <tr align="center">
                 <td>2°</td>
                 <td><a href="https://github.com/ezequias2d">Ezequias Silva</a></td>
-                <td>1857 ctr.</td>
+                <td>1952 ctr.</td>
             </tr>
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>553 ctr.</td>
+                <td>562 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
@@ -50,13 +50,13 @@
             </tr>
             <tr align="center">
                 <td>5°</td>
-                <td><a href="https://github.com/giverplay">giverplay</a></td>
-                <td>170 ctr.</td>
+                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
+                <td>177 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
-                <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>169 ctr.</td>
+                <td><a href="https://github.com/giverplay">giverplay</a></td>
+                <td>170 ctr.</td>
             </tr>
             <tr align="center">
                 <td>7°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>128 ctr.</td>
+                <td>129 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-25 at 07:03:49 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-26 at 06:56:20 UTC +0000</i>
 <h6>
