@@ -41,17 +41,17 @@
             <tr align="center">
                 <td>3°</td>
                 <td><a href="https://github.com/DeyvedAntonio">Deyved Antonio</a></td>
-                <td>562 ctr.</td>
+                <td>575 ctr.</td>
             </tr>
             <tr align="center">
                 <td>4°</td>
                 <td><a href="https://github.com/RafaZeero">Rafael Lima de Morais</a></td>
-                <td>249 ctr.</td>
+                <td>262 ctr.</td>
             </tr>
             <tr align="center">
                 <td>5°</td>
                 <td><a href="https://github.com/joaotadiello">João Tadiello - Muamba</a></td>
-                <td>177 ctr.</td>
+                <td>197 ctr.</td>
             </tr>
             <tr align="center">
                 <td>6°</td>
@@ -66,7 +66,7 @@
             <tr align="center">
                 <td>8°</td>
                 <td><a href="https://github.com/felipegueller">Felipe Gueller</a></td>
-                <td>129 ctr.</td>
+                <td>140 ctr.</td>
             </tr>
             <tr align="center">
                 <td>9°</td>
@@ -93,5 +93,5 @@
 </div>
 
 <h6 align="right">
-  Esse perfil é atualizado diariamente!<br/> <i>2026-11-26 at 06:56:20 UTC +0000</i>
+  Esse perfil é atualizado diariamente!<br/> <i>2026-11-27 at 06:49:32 UTC +0000</i>
 <h6>
